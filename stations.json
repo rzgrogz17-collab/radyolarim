@@ -1,5 +1,14 @@
 [
     {
+        "stationuuid": "test-trt",
+        "name": "TRT FM",
+        "url": "https://yayin.trt.net.tr/radyo/fm/playlist.m3u8",
+        "url_resolved": "https://yayin.trt.net.tr/radyo/fm/playlist.m3u8",
+        "favicon": "https://upload.wikimedia.org/wikipedia/tr/2/23/TRT_FM_logo.png",
+        "country": "Turkey",
+        "tags": "kamu,türkçe"
+    },
+    {
         "stationuuid": "test-id-001",
         "name": "Power FM",
         "url": "https://powerfm.listen.powerapp.com.tr/powerfm/mpeg/icecast.audio",
@@ -27,3 +36,4 @@
         "tags": "pop,yabancı,hit"
     }
 ]
+

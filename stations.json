@@ -1,39 +1,29 @@
 [
     {
-        "stationuuid": "test-trt",
-        "name": "TRT FM",
-        "url": "https://yayin.trt.net.tr/radyo/fm/playlist.m3u8",
-        "url_resolved": "https://yayin.trt.net.tr/radyo/fm/playlist.m3u8",
-        "favicon": "https://upload.wikimedia.org/wikipedia/tr/2/23/TRT_FM_logo.png",
-        "country": "Turkey",
-        "tags": "kamu,türkçe"
-    },
-    {
-        "stationuuid": "test-id-001",
+        "stationuuid": "test-power",
         "name": "Power FM",
         "url": "https://powerfm.listen.powerapp.com.tr/powerfm/mpeg/icecast.audio",
         "url_resolved": "https://powerfm.listen.powerapp.com.tr/powerfm/mpeg/icecast.audio",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Power_FM_logo.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyolarim/main/logos/power_fm_logo.png",
         "country": "Turkey",
-        "tags": "pop,hit,türkçe"
+        "tags": "pop,hit"
     },
     {
-        "stationuuid": "test-id-002",
+        "stationuuid": "test-kral",
         "name": "Kral FM",
-        "url": "https://kralwma.radyotvonline.com/kralfm.mp3",
-        "url_resolved": "https://kralwma.radyotvonline.com/kralfm.mp3",
-        "favicon": "https://ia601402.us.archive.org/3/items/kral-fm-logo/kral-fm-logo.png",
+        "url": "http://kralwma.radyotvonline.com/kralfm.mp3",
+        "url_resolved": "http://kralwma.radyotvonline.com/kralfm.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyolarim/main/logos/kral_fm_logo.png",
         "country": "Turkey",
-        "tags": "arabesk,damar"
+        "tags": "arabesk"
     },
     {
-        "stationuuid": "test-id-003",
-        "name": "Virgin Radio Türkiye",
-        "url": "https://karnaval.mncdn.com/virginradio",
-        "url_resolved": "https://karnaval.mncdn.com/virginradio",
-        "favicon": "https://upload.wikimedia.org/wikipedia/tr/6/67/Virgin_Radio_T%C3%BCrkiye_logo.png",
+        "stationuuid": "test-joy",
+        "name": "Joy FM",
+        "url": "https://karnaval.mncdn.com/joyfm",
+        "url_resolved": "https://karnaval.mncdn.com/joyfm",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyolarim/main/logos/joy_fm_logo.png",
         "country": "Turkey",
-        "tags": "pop,yabancı,hit"
+        "tags": "slow,love"
     }
 ]
-

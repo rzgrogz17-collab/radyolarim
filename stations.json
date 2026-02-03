@@ -1,13 +1,13 @@
 [
   {
-        "stationuuid": "6b650c01-3967-4156-af32-0337ed6a9b19",
-        "name": "Electroradio.fm",
-        "url": "https://stream.electroradio.fm/128k",
-        "url_resolved": "https://stream.electroradio.fm/listen.aac",
-        "favicon": "https://github.com/rzgrogz17-collab/radyo-logolari/blob/main/electroradio.fm.png",
-        "country": "Switzerland",
-        "tags": "electronic, dance, house, trance, club"
-    },
+    "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
+    "name": "Electroradio.fm",
+    "url": "http://stream.electroradio.fm/128k",
+    "url_resolved": "http://stream.electroradio.fm/listen.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/electroradio.fm.png",
+    "country": "Switzerland",
+    "tags": "electronic, dance, house, trance, club"
+  },
     {
         "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
         "name": "Doğu Radyo",

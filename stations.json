@@ -1,4 +1,13 @@
 [
+  {
+        "stationuuid": "6b650c01-3967-4156-af32-0337ed6a9b19,
+        "name": "Electroradio.fm",
+        "url": "https://stream.electroradio.fm/128k",
+        "url_resolved": "https://stream.electroradio.fm/listen.aac",
+        "favicon": "https://github.com/rzgrogz17-collab/radyo-logolari/blob/main/electroradio.fm.png",
+        "country": "Switzerland",
+        "tags": "electronic, dance, house, trance, club"
+    },
     {
         "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
         "name": "Doğu Radyo",
@@ -4867,15 +4876,6 @@
         "favicon": "https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg",
         "country": "Germany",
         "tags": "2000er,70er,80er,90er,altmark,elb-havel-winkel,mdr sachsen-anhalt,oldies,pop,regionalstudio,stendal"
-    },
-    {
-        "stationuuid": "6b650c01-3967-4156-af32-0337ed6a9b19",
-        "name": "Electro Radio",
-        "url": "https://stream.electroradio.fm/192k",
-        "url_resolved": "https://stream.electroradio.fm/192k",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
     },
     {
         "stationuuid": "6627d05f-c792-4071-b63f-dbff44ee6ba6",
@@ -49708,7 +49708,7 @@
     },
     {
         "stationuuid": "f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c",
-        "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
+        "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
         "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
         "url_resolved": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
         "favicon": "",
@@ -50005,7 +50005,7 @@
     },
     {
         "stationuuid": "dfaa1037-4c8b-445c-a230-fb96b812db99",
-        "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+        "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
         "url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
         "url_resolved": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
         "favicon": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/otohama3.jpg",

@@ -9,13 +9,13 @@
     "tags": "electronic, dance, house, trance, club"
   },
     {
-        "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
-        "name": "Doğu Radyo",
-        "url": "http://198.7.59.28:8146/",
-        "url_resolved": "http://198.7.59.28:8146/",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "classical"
+        "stationuuid": "9db61957-813c-42b7-8490-b18485295c52",
+        "name": "AvtoRadio (Авторадио)",
+        "url": "http://ic7.101.ru:8000/v3_1",
+        "url_resolved": "http://ic7.101.ru:8000/v3_1",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
+        "country": "Russia",
+        "tags": "pop, rock, 80s, 90s, russian, retro, dance"
     },
     {
         "stationuuid": "6e57a874-b7d9-46f3-9c6d-a2f246049509",

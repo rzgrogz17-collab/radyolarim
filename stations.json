@@ -14000,13 +14000,14 @@
         "isFavorite": false
     },
    {
-        "stationuuid": "9db61957-813c-42b7-8490-b18485295c52",
+        "uuid": "9db61957-813c-42b7-8490-b18485295c52",
         "name": "AvtoRadio (Авторадио)",
-        "url": "http://ic7.101.ru:8000/v3_1",
-        "url_resolved": "http://ic7.101.ru:8000/v3_1",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/avtoradio.png",
+        "streamUrl": "http://ic7.101.ru:8000/v3_1",
+        "iconUrl": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/avtoradio.png",
+        "tags": "pop, rock, 80s, 90s, russian, retro, dance",
         "country": "Russia",
-        "tags": "pop, rock, 80s, 90s, russian, retro, dance"
+        "clickCount": 100,
+        "isFavorite": false
     },
     {
         "uuid": "42f4dd69-d87e-4b68-8e18-8de875584f1d",
@@ -29008,15 +29009,6 @@
         "clickCount": 1003,
         "isFavorite": false
     },
-     {
-        "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
-        "name": "Electroradio.fm",
-        "url": "http://stream.electroradio.fm/128k",
-        "url_resolved": "http://stream.electroradio.fm/listen.aac",
-        "favicon": "",
-        "country": "Switzerland",
-        "tags": "electronic, dance, house, trance, club"
-    },
     {
         "uuid": "f6c1e1ed-9ce1-40d6-8b9c-f8122bb4efcf",
         "name": "Radio Swiss Jazz",
@@ -31018,3 +31010,4 @@
         "isFavorite": false
     }
 ]
+

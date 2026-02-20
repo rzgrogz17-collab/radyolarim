@@ -2754,2632 +2754,490 @@
         "tags": ""
     },
     {
-        "stationuuid": "11bdc82e-25cc-11e8-91bf-52543be04c81",
-        "name": "89.0 RTL - Trending Now",
-        "url": "https://fhhalle.streamabc.net/fhhal_890rtltre_3wru-mp3-128-3489339?sABC=5nn63465%231%23s0115pq7r125o1o27s344rnqnqrnrors%23enqvbcynlreUC&listenerid=a953ab66ebd3a12b38f20e85fb7a7306&awparams=companionAds:true&amsparams=playerid:radioplayerHP;skey:1520841829",
-        "url_resolved": "https://fhhalle.streamabc.net/fhhal_890rtltre_3wru-mp3-128-3489339?sABC=5nn63465%231%23s0115pq7r125o1o27s344rnqnqrnrors%23enqvbcynlreUC&listenerid=a953ab66ebd3a12b38f20e85fb7a7306&awparams=companionAds:true&amsparams=playerid:radioplayerHP;skey:1520841829",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1001-4123-8abc-100000000001",
+        "name": "1 Live",
+        "url": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/1live.gif",
         "country": "Germany",
-        "tags": "charts,now,top hits"
+        "tags": "pop,hits,youth,wdr"
     },
     {
-        "stationuuid": "9607ac72-0601-11e8-ae97-52543be04c81",
-        "name": "Hit Radio FFH - Lounge",
-        "url": "http://mp3.ffh.de/ffhchannels/hqlounge.mp3",
-        "url_resolved": "http://mp3.ffh.de/ffhchannels/hqlounge.mp3",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1002-4123-8abc-100000000002",
+        "name": "Antenne Bayern",
+        "url": "http://mp3channels.webradio.antenne.de/antenne",
+        "url_resolved": "http://mp3channels.webradio.antenne.de/antenne",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,hits,bayern"
     },
     {
-        "stationuuid": "ce82556f-ce34-4852-829f-c397114f1700",
-        "name": "Radio Ohrwurm",
-        "url": "http://138.201.234.215:10892/stream",
-        "url_resolved": "http://138.201.234.215:10892/stream",
-        "favicon": "https://www.radioohrwurm.de/images/style/titan_edit_v2_16/header.png",
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000000003",
+        "name": "Antenne Bayern Chill Out",
+        "url": "http://mp3channels.webradio.antenne.de/chillout",
+        "url_resolved": "http://mp3channels.webradio.antenne.de/chillout",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Chill%20Out.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "lounge,chillout,ambient"
     },
     {
-        "stationuuid": "96451fae-0601-11e8-ae97-52543be04c81",
-        "name": "FluxFM - neoFM",
-        "url": "http://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467?sABC=696861n6%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768448422",
-        "url_resolved": "http://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467?sABC=696861n6%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768448422",
-        "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+        "stationuuid": "c1a2b3c4-1004-4123-8abc-100000000004",
+        "name": "Antenne Bayern Lovesongs",
+        "url": "http://mp3channels.webradio.antenne.de/lovesongs",
+        "url_resolved": "http://mp3channels.webradio.antenne.de/lovesongs",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern%20Lovesongs.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "lovesongs,pop,romantic"
     },
     {
-        "stationuuid": "45e7851f-c2ea-44e0-b758-a0adf583f1ac",
-        "name": "89.0 RTL Most Wanted",
-        "url": "https://stream.89.0rtl.de/mostwanted/mp3-256",
-        "url_resolved": "https://stream.89.0rtl.de/mostwanted/mp3-256",
-        "favicon": "https://static.89.0rtl.de/img/8196/918584/534000/o/480/480/mowa.jpg",
+        "stationuuid": "c1a2b3c4-1005-4123-8abc-100000000005",
+        "name": "Antenne Bayern Top 40",
+        "url": "http://mp3channels.webradio.antenne.de/top-40",
+        "url_resolved": "http://mp3channels.webradio.antenne.de/top-40",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern%20Top%2040.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,hits,top40"
     },
     {
-        "stationuuid": "bdc7d2d9-ccfd-4c53-87f4-2aad85f9cee5",
-        "name": "MBGW Live-Stream",
-        "url": "http://webradio.mbgw.de:8000/stream",
-        "url_resolved": "http://webradio.mbgw.de:8000/stream",
-        "favicon": "https://cdn.website-editor.net/b97499afc705441aa1e3297dd9366eb4/site_favicon_16_1669025234509.ico",
+        "stationuuid": "c1a2b3c4-1006-4123-8abc-100000000006",
+        "name": "Bayern 1",
+        "url": "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3",
+        "url_resolved": "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Bayern%201.gif",
         "country": "Germany",
-        "tags": "christian"
+        "tags": "pop,oldies,bayern"
     },
     {
-        "stationuuid": "b9e0b4ea-def1-4819-a633-6938c06cb8e5",
-        "name": "Radio UNiCC",
-        "url": "http://stream.radio-unicc.de:8000/unicc_hq.mp3",
-        "url_resolved": "http://stream.radio-unicc.de:8000/unicc_hq.mp3",
-        "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
+        "stationuuid": "c1a2b3c4-1007-4123-8abc-100000000007",
+        "name": "Bayern 2 Nord",
+        "url": "https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3",
+        "url_resolved": "https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bayern2.gif",
         "country": "Germany",
-        "tags": "alternative,college radio,indie,mixed,pop,rock"
+        "tags": "kultur,info,bayern"
     },
     {
-        "stationuuid": "e000bc6c-8226-478e-814d-a1f61947fca0",
-        "name": "OLaura",
-        "url": "https://server35975.streamplus.de/stream",
-        "url_resolved": "https://server35975.streamplus.de/stream",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1008-4123-8abc-100000000008",
+        "name": "Bayern 3",
+        "url": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+        "url_resolved": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bayern3.gif",
         "country": "Germany",
-        "tags": "misc"
+        "tags": "pop,hits,bayern"
     },
     {
-        "stationuuid": "9645a2b5-0601-11e8-ae97-52543be04c81",
-        "name": "FluxFM - BoomFM Classics",
-        "url": "http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-128-9062018?sABC=696832pq%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768436429",
-        "url_resolved": "http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-128-9062018?sABC=696832pq%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768436429",
-        "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+        "stationuuid": "c1a2b3c4-1009-4123-8abc-100000000009",
+        "name": "BR24",
+        "url": "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/128/stream.mp3",
+        "url_resolved": "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/br24.gif",
         "country": "Germany",
-        "tags": "classic hip hop,hiphop"
+        "tags": "news,info,bayern"
     },
     {
-        "stationuuid": "97bf1deb-1447-47cc-94d5-7b984e6f4746",
-        "name": "Radio Sailung",
-        "url": "http://live.itech.host:9174/live",
-        "url_resolved": "http://live.itech.host:9174/live",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1010-4123-8abc-100000000010",
+        "name": "BR Heimat",
+        "url": "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3",
+        "url_resolved": "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/brheimat.gif",
         "country": "Germany",
-        "tags": "hits,pop"
+        "tags": "volksmusik,heimat,bayern"
     },
     {
-        "stationuuid": "3bccb052-2f5d-4ef8-ac36-525e8d9f9357",
-        "name": "Livestream Bibellesung Spanisch",
-        "url": "http://segenswelle.de:8000/bibellesung-es",
-        "url_resolved": "http://segenswelle.de:8000/bibellesung-es",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1011-4123-8abc-100000000011",
+        "name": "BR Klassik",
+        "url": "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3",
+        "url_resolved": "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/brklassik.gif",
         "country": "Germany",
-        "tags": "bible,christian,religion"
+        "tags": "klassik,classical,bayern"
     },
     {
-        "stationuuid": "fdb9d3f9-fbdd-45d4-9f4c-2cac87b88f72",
-        "name": "MDR THÜRINGEN Mittel- und Westthüringen",
-        "url": "https://radio-hls.mdr.de/hls/live/2112898/mdr-284300-0-hls/index.m3u8",
-        "url_resolved": "https://radio-hls.mdr.de/hls/live/2112898/mdr-284300-0-hls/index.m3u8",
-        "favicon": "https://www.mdr.de/administratives/av/bild220-resimage_v-variantSmall1x1_w-512.png",
+        "stationuuid": "c1a2b3c4-1012-4123-8abc-100000000012",
+        "name": "BR Schlager",
+        "url": "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/128/stream.mp3",
+        "url_resolved": "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/brschlager.gif",
         "country": "Germany",
-        "tags": "apolda,arnstadt,bad salzungen,eisenach,erfurt,gotha,hits,mdr thüringen,mittelthüringen,oldies,pop,thueringen,wartburgkreis,weimar,westthüringen"
+        "tags": "schlager,bayern"
     },
     {
-        "stationuuid": "b11834ce-ff0d-11e8-a1be-52543be04c81",
-        "name": "laut.fm Radio-Weihnacht",
-        "url": "https://radio-weihnacht.stream.laut.fm/radio-weihnacht?t302=2018-12-13_20-18-51&uuid=eb287bfb-fed0-4200-8702-c70ca537756b",
-        "url_resolved": "https://radio-weihnacht.stream.laut.fm/radio-weihnacht?t302=2018-12-13_20-18-51&uuid=eb287bfb-fed0-4200-8702-c70ca537756b",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1013-4123-8abc-100000000013",
+        "name": "Bremen Eins",
+        "url": "https://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
+        "url_resolved": "https://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bremeneins.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,oldies,bremen"
     },
     {
-        "stationuuid": "820a39a9-0806-4183-b915-1111a28cb9ed",
-        "name": "World Radio",
-        "url": "http://mediaserv38.live-streams.nl:8027/live",
-        "url_resolved": "http://mediaserv38.live-streams.nl:8027/live",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1014-4123-8abc-100000000014",
+        "name": "Die Maus",
+        "url": "https://wdr-diemaus-live.icecast.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-diemaus-live.icecast.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/diemaus.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "kinder,kids,children"
     },
     {
-        "stationuuid": "98ba28e8-beaa-47d5-8829-8a115e3e7f48",
-        "name": "Segenswelle Deutsch",
-        "url": "http://segenswelle.de:8000/deutsch",
-        "url_resolved": "http://segenswelle.de:8000/deutsch",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1015-4123-8abc-100000000015",
+        "name": "Bremen Zwei",
+        "url": "https://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+        "url_resolved": "https://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bremenzwei.gif",
         "country": "Germany",
-        "tags": "christian"
+        "tags": "kultur,info,bremen"
     },
     {
-        "stationuuid": "9fed3ce4-117f-4884-a91d-ecbe6aa5295b",
-        "name": "80s80s In The Mix Low Quality",
-        "url": "http://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=6968718p%230%23r30o443r1929r059s085628511796n57%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1768452492",
-        "url_resolved": "http://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=6968718p%230%23r30o443r1929r059s085628511796n57%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1768452492",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1016-4123-8abc-100000000016",
+        "name": "Ella Radio",
+        "url": "https://listen.radioking.com/radio/40061/stream/80096",
+        "url_resolved": "https://listen.radioking.com/radio/40061/stream/80096",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ellaradio.gif",
         "country": "Germany",
-        "tags": "80s"
+        "tags": "jazz,soul,blues"
     },
     {
-        "stationuuid": "8dfb3046-1e69-49c4-a53e-4ae69174d8c4",
-        "name": "RadioBOB Summer Rock Hits (64 kbps AAC)",
-        "url": "https://streams.radiobob.de/summerrock/aac-64/mediaplayer",
-        "url_resolved": "https://streams.radiobob.de/summerrock/aac-64/mediaplayer",
-        "favicon": "https://images.radiobob.de/files/2023-04/bob_stream-tile_summer-rock-hits.jpg",
+        "stationuuid": "c1a2b3c4-1017-4123-8abc-100000000017",
+        "name": "Bremen Vier",
+        "url": "https://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3",
+        "url_resolved": "https://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bremenvier.gif",
         "country": "Germany",
-        "tags": "rock"
+        "tags": "pop,hits,bremen"
     },
     {
-        "stationuuid": "ede84df6-808d-4735-bbb6-3d225c330952",
-        "name": "I Love Radio - Chillout Beats",
-        "url": "https://ilm.stream35.radiohost.de/ilm-ichillout_beats_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDUxNDA3JmQ9ZmUyMzQ0YmFjMjg5MTE2YTM3OGY",
-        "url_resolved": "https://ilm.stream35.radiohost.de/ilm-ichillout_beats_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDUxNDA3JmQ9ZmUyMzQ0YmFjMjg5MTE2YTM3OGY",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1018-4123-8abc-100000000018",
+        "name": "FFN Radio",
+        "url": "http://player.ffn.de/ffn.mp3",
+        "url_resolved": "http://player.ffn.de/ffn.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ffn.gif",
         "country": "Germany",
-        "tags": "afrobeats,chill,chillout,electronic,lounge,mashup,remixes"
+        "tags": "pop,hits,comedy"
     },
     {
-        "stationuuid": "f6823299-e9ed-4c19-b83f-f7c4df2feb20",
-        "name": "Radio City - Eighty Five Ulm",
-        "url": "http://176.9.148.80:8590/stream",
-        "url_resolved": "http://176.9.148.80:8590/stream",
-        "favicon": "https://radiocity-eightyfive.com/.cm4all/sysdb/favicon/icon-120x120_a2b020e.png",
+        "stationuuid": "c1a2b3c4-1019-4123-8abc-100000000019",
+        "name": "Harmony FM",
+        "url": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3",
+        "url_resolved": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/harmonyfm.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "80s,90s,pop"
     },
     {
-        "stationuuid": "5efabc5c-79fa-4837-9abb-b2959ed582b9",
-        "name": "radio aktiv Hameln",
-        "url": "https://live.radio-aktiv.de/r-aktiv.mp3",
-        "url_resolved": "https://live.radio-aktiv.de/r-aktiv.mp3",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1020-4123-8abc-100000000020",
+        "name": "HR 1",
+        "url": "https://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3",
+        "url_resolved": "https://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/hr1.gif",
         "country": "Germany",
-        "tags": "pop,talk"
+        "tags": "pop,rock,hessen"
     },
     {
-        "stationuuid": "6ffe412d-37a6-45d3-9ba1-f2f5bdbe928d",
-        "name": "Radio Fips [mp3]",
-        "url": "https://streams.radiofips.de/fipsmp3?ver=545778",
-        "url_resolved": "https://streams.radiofips.de/fipsmp3?ver=545778",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1021-4123-8abc-100000000021",
+        "name": "HR 2 kultur",
+        "url": "https://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3",
+        "url_resolved": "https://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/hr2kultur.gif",
         "country": "Germany",
-        "tags": "community radio"
+        "tags": "kultur,classical,hessen"
     },
     {
-        "stationuuid": "5061f15e-f36c-11e8-a471-52543be04c81",
-        "name": "- 1 A - Schlager Kult von 1A Radio",
-        "url": "https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3",
-        "url_resolved": "https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3",
-        "favicon": "https://www.1aradio.com/logos/1a-schlager-kult_600x600.jpg",
+        "stationuuid": "c1a2b3c4-1022-4123-8abc-100000000022",
+        "name": "HR 3",
+        "url": "https://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3",
+        "url_resolved": "https://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/hr3.gif",
         "country": "Germany",
-        "tags": "oldies,schlager,world music"
+        "tags": "pop,hits,hessen"
     },
     {
-        "stationuuid": "d20ec933-50c3-492b-973f-64eb8a43fe04",
-        "name": "MDR THÜRINGEN Ostthüringen",
-        "url": "https://radio-hls.mdr.de/hls/live/2112899/mdr-284300-1-hls/index.m3u8",
-        "url_resolved": "https://radio-hls.mdr.de/hls/live/2112899/mdr-284300-1-hls/index.m3u8",
-        "favicon": "https://www.mdr.de/administratives/av/bild220-resimage_v-variantSmall1x1_w-512.png",
+        "stationuuid": "c1a2b3c4-1023-4123-8abc-100000000023",
+        "name": "HR Info",
+        "url": "https://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3",
+        "url_resolved": "https://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/hrinfo.gif",
         "country": "Germany",
-        "tags": "altenburg,gera,greiz,hits,jena,mdr thüringen,oldies,ostthüringen,pop,thueringen"
+        "tags": "news,info,hessen"
     },
     {
-        "stationuuid": "e71a384e-9fc3-4d85-bb79-b96ff64ad3e1",
-        "name": "[laut.fm] purepure",
-        "url": "http://purepure.stream.laut.fm/purepure?pl=pls&t302=2026-01-15_05-34-44&uuid=03067d25-b2a4-44e4-a753-3e2df2dd3ff1",
-        "url_resolved": "http://purepure.stream.laut.fm/purepure?pl=pls&t302=2026-01-15_05-34-44&uuid=03067d25-b2a4-44e4-a753-3e2df2dd3ff1",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1024-4123-8abc-100000000024",
+        "name": "HR4",
+        "url": "https://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3",
+        "url_resolved": "https://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/hr4.gif",
         "country": "Germany",
-        "tags": "anime,jpop,jrock"
+        "tags": "schlager,hessen"
     },
     {
-        "stationuuid": "04867d18-7afd-475a-995b-5d03036ed32f",
-        "name": "Radio Ruesselsheim",
-        "url": "https://streaming.radio-r.net/radio-r?%201701308957323",
-        "url_resolved": "https://streaming.radio-r.net/radio-r?%201701308957323",
-        "favicon": "https://www.radio-r.de/templates/mybeez/favicon.ico",
+        "stationuuid": "c1a2b3c4-1025-4123-8abc-100000000025",
+        "name": "Info Radio",
+        "url": "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3",
+        "url_resolved": "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/inforadio.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "news,info"
     },
     {
-        "stationuuid": "61f34565-706c-48b1-99a6-5af4c104ff5c",
-        "name": "CampusFM",
-        "url": "http://stream.campusfm.de/",
-        "url_resolved": "http://stream.campusfm.de/",
-        "favicon": "https://campusfm.info/favicon.ico",
+        "stationuuid": "c1a2b3c4-1026-4123-8abc-100000000026",
+        "name": "Jazz Radio",
+        "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+        "url_resolved": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/jazzradio.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "jazz"
     },
     {
-        "stationuuid": "0885f175-aab1-4a8f-b4aa-4486c9cb86a6",
-        "name": "harz-börde-welle",
-        "url": "http://server26678.streamplus.de/;stream.mp3",
-        "url_resolved": "http://server26678.streamplus.de/;stream.mp3",
-        "favicon": "https://www.radio-hbw.de/bilder/logo/logo_57x57.png",
+        "stationuuid": "c1a2b3c4-1027-4123-8abc-100000000027",
+        "name": "Jazz World",
+        "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-world.mp3",
+        "url_resolved": "http://jazzradio.ice.infomaniak.ch/jazzradio-world.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/jazzworld.gif",
         "country": "Germany",
-        "tags": "bürgerradio,community radio,non-commercial,radio hbw"
+        "tags": "jazz,world"
     },
     {
-        "stationuuid": "a7b8e4da-29dc-442d-ab9d-f8836b5a1a8b",
-        "name": "RAFIN",
-        "url": "http://rafin.stream.laut.fm/rafin?pl=pls&t302=2026-01-15_07-35-56&uuid=5bdd9bd3-99bf-4f42-a6e5-323ab30cb593",
-        "url_resolved": "http://rafin.stream.laut.fm/rafin?pl=pls&t302=2026-01-15_07-35-56&uuid=5bdd9bd3-99bf-4f42-a6e5-323ab30cb593",
-        "favicon": "https://laut.fm/assets/touch-icons/apple-touch-icon.png?9e172e15",
+        "stationuuid": "c1a2b3c4-1028-4123-8abc-100000000028",
+        "name": "Jump",
+        "url": "https://mdr-284320-1.cast.mdr.de/mdr/284320/1/mp3/high/stream.mp3",
+        "url_resolved": "https://mdr-284320-1.cast.mdr.de/mdr/284320/1/mp3/high/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/jump.gif",
         "country": "Germany",
-        "tags": "classical"
+        "tags": "pop,hits,mdr"
     },
     {
-        "stationuuid": "964fbe6f-0601-11e8-ae97-52543be04c81",
-        "name": "FluxFM - Hot R’n’B",
-        "url": "http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/",
-        "url_resolved": "http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/",
-        "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+        "stationuuid": "c1a2b3c4-1029-4123-8abc-100000000029",
+        "name": "Kiss FM",
+        "url": "https://stream.kissfm.de/kissfm/mp3-128/internetradio/",
+        "url_resolved": "https://stream.kissfm.de/kissfm/mp3-128/internetradio/",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/kissfm.gif",
         "country": "Germany",
-        "tags": "rnb"
+        "tags": "rnb,hiphop,pop,berlin"
     },
     {
-        "stationuuid": "e38ffbc9-4f13-11e8-a4d1-52543be04c81",
-        "name": "Zeiten Radio",
-        "url": "http://zeiten.stream.laut.fm/zeiten?t302=2026-01-15_01-21-06&uuid=fca517f6-020a-41cb-b726-5b3e024c98d9",
-        "url_resolved": "http://zeiten.stream.laut.fm/zeiten?t302=2026-01-15_01-21-06&uuid=fca517f6-020a-41cb-b726-5b3e024c98d9",
-        "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "stationuuid": "c1a2b3c4-1031-4123-8abc-100000000031",
+        "name": "Klassik Radio",
+        "url": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-8877033",
+        "url_resolved": "https://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/klassikradio.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "klassik,classical"
     },
     {
-        "stationuuid": "988bce34-8c9f-4d7f-bf6b-a809ad0501de",
-        "name": "R.SA 1.000 Neunziger",
-        "url": "http://rsa.streamabc.net/regc-rsa1000neunziger-mp3-192-5678094?sABC=69683q6r%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768439150",
-        "url_resolved": "http://rsa.streamabc.net/regc-rsa1000neunziger-mp3-192-5678094?sABC=69683q6r%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768439150",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1032-4123-8abc-100000000032",
+        "name": "MDR Aktuell",
+        "url": "https://mdr-284350-1.cast.mdr.de/mdr/284350/1/mp3/high/stream.mp3",
+        "url_resolved": "https://mdr-284350-1.cast.mdr.de/mdr/284350/1/mp3/high/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/mdraktuell.gif",
         "country": "Germany",
-        "tags": "000,1,90er,90s,best of the nineties,ninetie,onethousend,r.sa,thousend hits"
+        "tags": "news,info,mdr"
     },
     {
-        "stationuuid": "68103c10-87ef-4c24-8337-bf8d8fe5fa63",
-        "name": "Nerds and Geeks: THE STATION (96kbps)",
-        "url": "http://nerdsandgeeks.de:2808/stream/1/;",
-        "url_resolved": "http://nerdsandgeeks.de:2808/stream/1/;",
-        "favicon": "https://the.nag.zone/wp-content/uploads/2018/01/nag_the_station1.png",
+        "stationuuid": "c1a2b3c4-1033-4123-8abc-100000000033",
+        "name": "MDR Kultur",
+        "url": "https://mdr-284310-1.cast.mdr.de/mdr/284310/1/mp3/high/stream.mp3",
+        "url_resolved": "https://mdr-284310-1.cast.mdr.de/mdr/284310/1/mp3/high/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/mdrkultur.gif",
         "country": "Germany",
-        "tags": "chiptunes,retro games,video game music"
+        "tags": "kultur,mdr"
     },
     {
-        "stationuuid": "9610ba51-0601-11e8-ae97-52543be04c81",
-        "name": "Ilove2dance",
-        "url": "http://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDYxMzgzJmQ9MWI2NDE1OTY0NGNlNTcxM2I5ZDU",
-        "url_resolved": "http://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDYxMzgzJmQ9MWI2NDE1OTY0NGNlNTcxM2I5ZDU",
-        "favicon": "http://www.iloveradio.de/favicon.ico",
+        "stationuuid": "c1a2b3c4-1034-4123-8abc-100000000034",
+        "name": "MDR Schlagerwelt",
+        "url": "https://mdr-284370-1.cast.mdr.de/mdr/284370/1/mp3/high/stream.mp3",
+        "url_resolved": "https://mdr-284370-1.cast.mdr.de/mdr/284370/1/mp3/high/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/MDR_Schlagerwelt.png",
         "country": "Germany",
-        "tags": ""
+        "tags": "schlager,mdr"
     },
     {
-        "stationuuid": "8eb4e648-ce56-49dd-9989-1d3953fe4b72",
-        "name": "Pop Lounge Cafe",
-        "url": "http://poploungecafe.stream.laut.fm/poploungecafe?pl=pls&t302=2026-01-15_05-47-03&uuid=d6f497b6-bfa9-4e64-8466-f4560ff363c1",
-        "url_resolved": "http://poploungecafe.stream.laut.fm/poploungecafe?pl=pls&t302=2026-01-15_05-47-03&uuid=d6f497b6-bfa9-4e64-8466-f4560ff363c1",
-        "favicon": "https://poploungecafe.com/favicon.ico",
+        "stationuuid": "c1a2b3c4-1035-4123-8abc-100000000035",
+        "name": "NDR1",
+        "url": "https://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3",
+        "url_resolved": "https://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ndr1.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,schlager,ndr"
     },
     {
-        "stationuuid": "9f8ff286-c224-458e-99e3-4a16956dfdeb",
-        "name": "egoFM H&K [LQ]",
-        "url": "https://cast.egofm.de/egofmhk.aac?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "url_resolved": "https://cast.egofm.de/egofmhk.aac?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "favicon": "https://streams.egofm.de/img/alexa/egoFM%20Hoffmann-Kollmann-256x256.png",
+        "stationuuid": "c1a2b3c4-1036-4123-8abc-100000000036",
+        "name": "MDR Sputnik",
+        "url": "https://mdr-284330-1.cast.mdr.de/mdr/284330/1/mp3/high/stream.mp3",
+        "url_resolved": "https://mdr-284330-1.cast.mdr.de/mdr/284330/1/mp3/high/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/sputnik.gif",
         "country": "Germany",
-        "tags": "egofm"
+        "tags": "pop,youth,mdr"
     },
     {
-        "stationuuid": "3637dcc2-3250-483e-a310-7083c2f7a85f",
-        "name": "Laut Fm Surf",
-        "url": "http://surf.stream.laut.fm/surf",
-        "url_resolved": "http://surf.stream.laut.fm/surf",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1037-4123-8abc-100000000037",
+        "name": "NDR 1 Radio MV",
+        "url": "https://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3",
+        "url_resolved": "https://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/NDR%201%20Radio%20MV.png",
         "country": "Germany",
-        "tags": "60s,surf,surf music,surfrock"
+        "tags": "pop,ndr,mv"
     },
     {
-        "stationuuid": "39a3181f-263d-4ee5-8808-107e4b52b3f9",
-        "name": "Laut FM - Zwo",
-        "url": "https://zwo.stream.laut.fm/zwo?OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO1",
-        "url_resolved": "https://zwo.stream.laut.fm/zwo?OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO1",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1038-4123-8abc-100000000038",
+        "name": "NDR 2",
+        "url": "https://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+        "url_resolved": "https://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ndr2.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,hits,ndr"
     },
     {
-        "stationuuid": "b94889f3-c0b4-40b3-be82-477fb25901c0",
-        "name": "Yah FM",
-        "url": "http://yahfm.stream.laut.fm/yahfm?pl=m3u&t302=2026-01-15_03-38-24&uuid=1c8c5496-a118-4b78-9cab-c72290e8d589",
-        "url_resolved": "http://yahfm.stream.laut.fm/yahfm?pl=m3u&t302=2026-01-15_03-38-24&uuid=1c8c5496-a118-4b78-9cab-c72290e8d589",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1039-4123-8abc-100000000039",
+        "name": "NDR Info",
+        "url": "https://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3",
+        "url_resolved": "https://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ndrinfo.gif",
         "country": "Germany",
-        "tags": "christian,christlich,lobpreis,messianic"
+        "tags": "news,info,ndr"
     },
     {
-        "stationuuid": "447e8667-583f-42a5-98a4-f0aa2fea246c",
-        "name": "Sphere Radio",
-        "url": "https://stream.sphere-radio.net/listen",
-        "url_resolved": "https://stream.sphere-radio.net/listen",
-        "favicon": "https://sphere-radio.net/favicon.ico",
+        "stationuuid": "c1a2b3c4-1040-4123-8abc-100000000040",
+        "name": "NJOY",
+        "url": "https://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3",
+        "url_resolved": "https://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/njoy.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,hits,youth,ndr"
     },
     {
-        "stationuuid": "98eecece-f77b-43fe-8592-e6ef22cc65d6",
-        "name": "Laut.fm Popklub",
-        "url": "http://popklub.stream.laut.fm/popklub?pl=m3u&t302=2026-01-15_04-13-29&uuid=43636ae6-66b9-42a7-9782-23fb1e024555",
-        "url_resolved": "http://popklub.stream.laut.fm/popklub?pl=m3u&t302=2026-01-15_04-13-29&uuid=43636ae6-66b9-42a7-9782-23fb1e024555",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1041-4123-8abc-100000000041",
+        "name": "NRJ Bremen",
+        "url": "https://nrj.de/bremen",
+        "url_resolved": "https://nrj.de/bremen",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/nrj.gif",
         "country": "Germany",
-        "tags": "indie,indiepop,indierock"
+        "tags": "pop,hits,bremen"
     },
     {
-        "stationuuid": "38868528-5159-11e8-a4d1-52543be04c81",
-        "name": "Brony Radio Germany (DayDJ)",
-        "url": "http://radio.bronyradiogermany.com:8006/daydj",
-        "url_resolved": "http://radio.bronyradiogermany.com:8006/daydj",
-        "favicon": "https://www.bronyradiogermany.com/favicon.ico",
+        "stationuuid": "c1a2b3c4-1042-4123-8abc-100000000042",
+        "name": "Radio Berlin",
+        "url": "https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/128/stream.mp3",
+        "url_resolved": "https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/radioberlin.gif",
         "country": "Germany",
-        "tags": "brony,fan music,mlp,my little pony: friendship is magic"
+        "tags": "pop,berlin"
     },
     {
-        "stationuuid": "a20e7f55-661e-4f4c-b87f-a087c64633f8",
-        "name": "54house.fm Clubstream",
-        "url": "http://62.138.2.128:8003/stream",
-        "url_resolved": "http://62.138.2.128:8003/stream",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1043-4123-8abc-100000000043",
+        "name": "Radio Eins",
+        "url": "https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3",
+        "url_resolved": "https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/radioeins.gif",
         "country": "Germany",
-        "tags": "disco,house"
+        "tags": "pop,rock,rbb"
     },
     {
-        "stationuuid": "0fb97584-068f-4ff8-bb78-03e3f971e4c2",
-        "name": "egoFM Sachsen [LQ]",
-        "url": "https://cast.egofm.de/egofm.aac?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "url_resolved": "https://cast.egofm.de/egofm.aac?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "favicon": "https://streams.egofm.de/img/alexa/egoFM%20Simulcast-256x256.png",
+        "stationuuid": "c1a2b3c4-1044-4123-8abc-100000000044",
+        "name": "Radio Hamburg",
+        "url": "https://stream.radiohamburg.de/rhh/mp3-192",
+        "url_resolved": "https://stream.radiohamburg.de/rhh/mp3-192",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/radiohamburg.gif",
         "country": "Germany",
-        "tags": "egofm"
+        "tags": "pop,hits,hamburg"
     },
     {
-        "stationuuid": "6e727b90-5158-11e8-a4d1-52543be04c81",
-        "name": "Brony Radio Germany (Mane Stream)",
-        "url": "http://radio.bronyradiogermany.com:8000/stream",
-        "url_resolved": "http://radio.bronyradiogermany.com:8000/stream",
-        "favicon": "https://www.bronyradiogermany.com/wp-content/themes/brg/favicon.ico",
+        "stationuuid": "c1a2b3c4-1045-4123-8abc-100000000045",
+        "name": "SWR 1",
+        "url": "https://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3",
+        "url_resolved": "https://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/swr1.gif",
         "country": "Germany",
-        "tags": "brony,fan music,mlp,my little pony: friendship is magic"
+        "tags": "pop,rock,swr"
     },
     {
-        "stationuuid": "c05ccb0b-1835-4510-b032-d3a6024ba90e",
-        "name": "Ruby Radio",
-        "url": "https://cast.egofm.de/ruby.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "url_resolved": "https://cast.egofm.de/ruby.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "favicon": "https://www.ruby-hotels.com/favicon/apple-touch-icon.png",
+        "stationuuid": "c1a2b3c4-1046-4123-8abc-100000000046",
+        "name": "SWR Kultur",
+        "url": "https://swr-swrkultur-live.cast.addradio.de/swr/swrkultur/live/mp3/128/stream.mp3",
+        "url_resolved": "https://swr-swrkultur-live.cast.addradio.de/swr/swrkultur/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/swrkultur.gif",
         "country": "Germany",
-        "tags": "alternative"
+        "tags": "kultur,classical,swr"
     },
     {
-        "stationuuid": "3d238b11-3695-450a-8429-99ff36476194",
-        "name": "MDR THÜRINGEN Südthüringen",
-        "url": "https://radio-hls.mdr.de/hls/live/2112902/mdr-284300-3-hls/index.m3u8",
-        "url_resolved": "https://radio-hls.mdr.de/hls/live/2112902/mdr-284300-3-hls/index.m3u8",
-        "favicon": "https://www.mdr.de/administratives/av/bild220-resimage_v-variantSmall1x1_w-512.png",
+        "stationuuid": "c1a2b3c4-1047-4123-8abc-100000000047",
+        "name": "SWR 3",
+        "url": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
+        "url_resolved": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr3.gif",
         "country": "Germany",
-        "tags": "hits,ilmenau,mdr thüringen,meiningen,oldies,pop,schmalkalden,sonneberg,suhl,südthüringen,thueringen"
+        "tags": "pop,hits,swr"
     },
     {
-        "stationuuid": "3616b04f-b19b-4f78-aa05-e06dcd6fb677",
-        "name": "In My Dreams Radio",
-        "url": "https://azuracast-germany.myautodj.com/listen/in_my_dreams_radio/radio.mp3",
-        "url_resolved": "https://azuracast-germany.myautodj.com/listen/in_my_dreams_radio/radio.mp3",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1048-4123-8abc-100000000048",
+        "name": "SWR 4",
+        "url": "https://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3",
+        "url_resolved": "https://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr4.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "schlager,swr"
     },
     {
-        "stationuuid": "61a9c004-820c-4306-8dc2-d3999127eec3",
-        "name": "Radio ISW plus",
-        "url": "http://radioisw.icecaststream.de/stream/radioiswplus",
-        "url_resolved": "http://radioisw.icecaststream.de/stream/radioiswplus",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1049-4123-8abc-100000000049",
+        "name": "SWR Dasding",
+        "url": "https://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3",
+        "url_resolved": "https://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/SWR%20Dasding.jpg",
         "country": "Germany",
-        "tags": "international"
+        "tags": "pop,youth,swr"
     },
     {
-        "stationuuid": "8f14d4a0-ec9e-4c14-86fa-40d5833dafd7",
-        "name": "RRA",
-        "url": "http://remote.remoy.org:59913/rasta2",
-        "url_resolved": "http://remote.remoy.org:59913/rasta2",
-        "favicon": "https://readthedocs-static-prod.s3.amazonaws.com/images/favicon.f231b6609d0b.png",
+        "stationuuid": "c1a2b3c4-1050-4123-8abc-100000000050",
+        "name": "WDR 1 Live Diggi",
+        "url": "https://wdr-1livediggi-live.icecast.wdr.de/wdr/1livediggi/live/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-1livediggi-live.icecast.wdr.de/wdr/1livediggi/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/WDR%201%20Live%20Diggi.jpg",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,hits,youth,wdr"
     },
     {
-        "stationuuid": "060b8844-2837-48f1-b4db-1d7de0ccc6bf",
-        "name": "RadioHBR",
-        "url": "https://stream1.radiohbr.de:80/stream.mp3",
-        "url_resolved": "https://stream1.radiohbr.de:80/stream.mp3",
-        "favicon": "https://heukelbach.org/favicon.ico",
+        "stationuuid": "c1a2b3c4-1051-4123-8abc-100000000051",
+        "name": "WDR 2",
+        "url": "https://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr2.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "pop,rock,wdr"
     },
     {
-        "stationuuid": "9aac2832-8001-4d88-aeab-cd1bf2adaa3a",
-        "name": "Radio Brocken Region Halle",
-        "url": "https://stream.radiobrocken.de/live-hal-lei/mp3-256",
-        "url_resolved": "https://stream.radiobrocken.de/live-hal-lei/mp3-256",
-        "favicon": "https://static.radiobrocken.de/img/4609/504864/869000/o/480/480/halle.jpg",
+        "stationuuid": "c1a2b3c4-1052-4123-8abc-100000000052",
+        "name": "WDR 3",
+        "url": "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr3.gif",
         "country": "Germany",
-        "tags": ""
+        "tags": "kultur,classical,wdr"
     },
     {
-        "stationuuid": "9949dad8-4c3c-11e8-a4d1-52543be04c81",
-        "name": "Narrenwut",
-        "url": "http://mittelalter-net.stream.laut.fm/mittelalter-net?pl=m3u&t302=2026-01-15_08-11-57&uuid=fc48be08-8be2-477f-b57b-5f18dfc2d136",
-        "url_resolved": "http://mittelalter-net.stream.laut.fm/mittelalter-net?pl=m3u&t302=2026-01-15_08-11-57&uuid=fc48be08-8be2-477f-b57b-5f18dfc2d136",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1053-4123-8abc-100000000053",
+        "name": "WDR 4",
+        "url": "https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr4.gif",
         "country": "Germany",
-        "tags": "culture,fantasy,folk music,medieval,mittelalter,news"
+        "tags": "oldies,hits,wdr"
     },
     {
-        "stationuuid": "4c74c8b7-862a-441a-8e9b-9554e417f2b5",
-        "name": "Radio PSR Live Chemnitz",
-        "url": "https://regiocast.streamabc.net/regc-psrlivesnchm-mp3-192-4389082?sABC=65997qp8%230%238so4n4p4s0o2s8517ps15q31o48spn6q%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1704558024",
-        "url_resolved": "https://regiocast.streamabc.net/regc-psrlivesnchm-mp3-192-4389082?sABC=65997qp8%230%238so4n4p4s0o2s8517ps15q31o48spn6q%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1704558024",
-        "favicon": "",
+        "stationuuid": "c1a2b3c4-1054-4123-8abc-100000000054",
+        "name": "WDR 5",
+        "url": "https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+        "url_resolved": "https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr5.gif",
         "country": "Germany",
-        "tags": "pop"
+        "tags": "info,kultur,wdr"
     },
     {
-        "stationuuid": "62ac4171-08de-4542-ae5d-20fd81f8d086",
-        "name": "Dancefox Radio",
-        "url": "https://s35.derstream.net/dancefox-radio.mp3",
-        "url_resolved": "https://s35.derstream.net/dancefox-radio.mp3",
-        "favicon": "https://dancefox-radio.de/dancefox-radio.png",
+        "stationuuid": "c1a2b3c4-1055-4123-8abc-100000000055",
+        "name": "YOU FM",
+        "url": "https://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3",
+        "url_resolved": "https://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/youfm.gif",
         "country": "Germany",
-        "tags": "international"
-    },
-    {
-        "stationuuid": "6fdff7f0-4f14-11e8-a4d1-52543be04c81",
-        "name": "Frühlingsradio",
-        "url": "http://fruehling.stream.laut.fm/fruehling?t302=2026-01-15_04-35-02&uuid=473e4cd2-b440-4cde-8f04-e50f7a67a571",
-        "url_resolved": "http://fruehling.stream.laut.fm/fruehling?t302=2026-01-15_04-35-02&uuid=473e4cd2-b440-4cde-8f04-e50f7a67a571",
-        "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
-        "country": "Germany",
-        "tags": "80s,90s,charts,dance,gothic,party,pop,rock,schlager"
-    },
-    {
-        "stationuuid": "4abbffaf-aa1a-40d5-90c2-cd09d0dfaf41",
-        "name": "radio aporee",
-        "url": "http://radio.aporee.org:8000/aporee",
-        "url_resolved": "http://radio.aporee.org:8000/aporee",
-        "favicon": "https://radio.aporee.org/favicon.ico",
-        "country": "Germany",
-        "tags": "experimental,sound art"
-    },
-    {
-        "stationuuid": "960e63e5-0601-11e8-ae97-52543be04c81",
-        "name": "I love the battle",
-        "url": "http://ilm.stream35.radiohost.de/ilm_ilovehiphop_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDUwODY5JmQ9YzQ0Zjc3YmFkNDkzMDVjZmE3Y2Y",
-        "url_resolved": "http://ilm.stream35.radiohost.de/ilm_ilovehiphop_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDUwODY5JmQ9YzQ0Zjc3YmFkNDkzMDVjZmE3Y2Y",
-        "favicon": "http://www.iloveradio.de/favicon.ico",
-        "country": "Germany",
-        "tags": "hiphop,urban"
-    },
-    {
-        "stationuuid": "9611ab19-0601-11e8-ae97-52543be04c81",
-        "name": "ILoveMashup",
-        "url": "http://ilm.stream12.radiohost.de/ilm_ilovemashup_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQzMTQ3JmQ9M2EyMzA5Y2ExNGRmMWZmODEwNDk",
-        "url_resolved": "http://ilm.stream12.radiohost.de/ilm_ilovemashup_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQzMTQ3JmQ9M2EyMzA5Y2ExNGRmMWZmODEwNDk",
-        "favicon": "http://www.iloveradio.de/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "ca676956-a871-4a96-b5dc-4d7c744bd1b8",
-        "name": "MDR SACHSEN-ANHALT Stendal",
-        "url": "https://radio-hls.mdr.de/hls/live/2112895/mdr-284290-3-hls/index.m3u8",
-        "url_resolved": "https://radio-hls.mdr.de/hls/live/2112895/mdr-284290-3-hls/index.m3u8",
-        "favicon": "https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg",
-        "country": "Germany",
-        "tags": "2000er,70er,80er,90er,altmark,elb-havel-winkel,mdr sachsen-anhalt,oldies,pop,regionalstudio,stendal"
-    },
-    {
-        "stationuuid": "7961d113-3a7b-4179-8ff3-ffb9344e6d77",
-        "name": "Radio Auerhahn",
-        "url": "https://radio-auerhahn.stream.laut.fm/radio-auerhahn?pl=m3u&t302=2026-01-15_01-56-58&uuid=25a10be8-9067-4363-abc7-2979a10eb47d",
-        "url_resolved": "https://radio-auerhahn.stream.laut.fm/radio-auerhahn?pl=m3u&t302=2026-01-15_01-56-58&uuid=25a10be8-9067-4363-abc7-2979a10eb47d",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "69194e35-0e67-11e8-ae97-52543be04c81",
-        "name": "R.SA Weihnachtsradio",
-        "url": "http://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/",
-        "url_resolved": "http://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christmas music"
-    },
-    {
-        "stationuuid": "964e9c62-0601-11e8-ae97-52543be04c81",
-        "name": "R.SH 90er",
-        "url": "http://streams.rsh.de/90er/mp3-192/homepage/",
-        "url_resolved": "http://streams.rsh.de/90er/mp3-192/homepage/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "90s"
-    },
-    {
-        "stationuuid": "d9bfcfe4-dd33-44fe-a8f9-23fb97b49e65",
-        "name": "HARMONY FEELINGS",
-        "url": "http://mp3.harmonyfm.de/hrmchannels/hqfeelings.mp3",
-        "url_resolved": "http://mp3.harmonyfm.de/hrmchannels/hqfeelings.mp3",
-        "favicon": "https://static.harmonyfm.de/fileadmin/templates/harmonyfm.de/images/logo_80er_radio.svg",
-        "country": "Germany",
-        "tags": "80s"
-    },
-    {
-        "stationuuid": "96160571-0601-11e8-ae97-52543be04c81",
-        "name": "Powerradio4u",
-        "url": "http://stream.powerradio4u.de:8000/p4u.mp3",
-        "url_resolved": "http://stream.powerradio4u.de:8000/p4u.mp3",
-        "favicon": "http://www.powerradio4u.de/media/themes/stockholm.png",
-        "country": "Germany",
-        "tags": "chillout,creative commons"
-    },
-    {
-        "stationuuid": "03a337c6-a373-4466-89eb-401dc212fbfc",
-        "name": "MDR SACHSEN-ANHALT Halle",
-        "url": "https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8",
-        "url_resolved": "https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8",
-        "favicon": "https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg",
-        "country": "Germany",
-        "tags": "2000er,70er,80er,90er,burgenlandkreis,halle,mansfeld-südharz,mdr sachsen-anhalt,naumburg,oldies,pop,regionalstudio,saalekreis,salzlandkreis"
-    },
-    {
-        "stationuuid": "33c4c928-1158-42db-a85c-5985e5ee635e",
-        "name": "RadioMonster.FM - Evergreens",
-        "url": "http://ic.radiomonster.fm/evergreens.ultra",
-        "url_resolved": "http://ic.radiomonster.fm/evergreens.ultra",
-        "favicon": "https://www.radiomonster.fm/wp-content/uploads/2020/12/radiomonster_evergreens_2000px-100x100.png",
-        "country": "Germany",
-        "tags": "evergreens,rock"
-    },
-    {
-        "stationuuid": "6eb0431e-a1dc-4152-b3f9-3917e955a638",
-        "name": "RadioMV Deutsch",
-        "url": "https://stream.radiomv.com/german/stream.mp3",
-        "url_resolved": "https://stream.radiomv.com/german/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christian"
-    },
-    {
-        "stationuuid": "6192e55c-d084-11e8-a54a-52543be04c81",
-        "name": "AllgäuHIT",
-        "url": "http://allgaeu.stream06.radiohost.de/allgaeuhit_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQwNTg1JmQ9MWU2Mjc4MDZjMDc4OWJkNzU4Yzg",
-        "url_resolved": "http://allgaeu.stream06.radiohost.de/allgaeuhit_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQwNTg1JmQ9MWU2Mjc4MDZjMDc4OWJkNzU4Yzg",
-        "favicon": "https://allgaeuhit.de/wp-content/uploads/2024/05/cropped-logo-180x180.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "b21037d3-97e4-452c-bf9b-5bdfafd1c61c",
-        "name": "Radio 80s80s Maxi",
-        "url": "https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de/",
-        "url_resolved": "https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "pop"
-    },
-    {
-        "stationuuid": "5fc4222e-5816-11e8-b0ce-52543be04c81",
-        "name": "1A Fitness Hits",
-        "url": "http://stream.1a-webradio.de/saw-fitness/aac-48/radiosure-1a/stream.mp3",
-        "url_resolved": "http://stream.1a-webradio.de/saw-fitness/aac-48/radiosure-1a/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "dance,sport,workout"
-    },
-    {
-        "stationuuid": "c844afdd-bde7-4b12-9e62-a6b3db9cf2ed",
-        "name": "Radio HSF",
-        "url": "https://stream.radio-hsf.de/hsf.mp3",
-        "url_resolved": "https://stream.radio-hsf.de/hsf.mp3",
-        "favicon": "https://radio-hsf.de/favicon.ico",
-        "country": "Germany",
-        "tags": "campus radio"
-    },
-    {
-        "stationuuid": "875acb57-a9b5-414b-8eb7-b8d4848cdc3f",
-        "name": "münchen.tv",
-        "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
-        "url_resolved": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
-        "favicon": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",
-        "country": "Germany",
-        "tags": "münchen,tv"
-    },
-    {
-        "stationuuid": "c09c7fe5-b1b4-4fda-be49-d33062bcee53",
-        "name": "Freie Radios Berlin Brandenburg - fr-bb.org",
-        "url": "http://ice.rosebud-media.de:8000/88vier",
-        "url_resolved": "http://ice.rosebud-media.de:8000/88vier",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "c08df351-a250-40f4-a181-6039b39bb54d",
-        "name": "Radio PM Events Schlager,Oldies,Volkstümliches",
-        "url": "http://94.130.140.213:21085/stream",
-        "url_resolved": "http://94.130.140.213:21085/stream",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "b33e7faa-1699-43e8-998e-2aea520cfd8f",
-        "name": "Słubfurt FM",
-        "url": "http://116.203.69.202/slubfurt_64.mp3",
-        "url_resolved": "http://116.203.69.202/slubfurt_64.mp3",
-        "favicon": "https://media.mastodon.de/accounts/avatars/111/773/078/668/664/240/original/39054a716ed6e7e9.jpg",
-        "country": "Germany",
-        "tags": "gospel"
-    },
-    {
-        "stationuuid": "bcce3bf4-36ea-47e7-ba37-24fb8b3003e4",
-        "name": "Radio NRW",
-        "url": "http://osl.radio.nrw/",
-        "url_resolved": "http://osl.radio.nrw/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "latin pop"
-    },
-    {
-        "stationuuid": "0d5973d8-61d5-409a-a97c-72a79cf95d50",
-        "name": "Get Ready To Rock",
-        "url": "http://streamer.radio.co/s24ae1285c/listen",
-        "url_resolved": "http://streamer.radio.co/s24ae1285c/listen",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "pop,rock"
-    },
-    {
-        "stationuuid": "c23a05df-99cf-48be-9c38-f729c4c60c64",
-        "name": "Wueste Welle Live (ogg)",
-        "url": "https://livestream.wueste-welle.de/ogg",
-        "url_resolved": "https://livestream.wueste-welle.de/ogg",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "1113ea1a-190e-4fce-b5de-595686b5b556",
-        "name": "Radio Brocken Region Halle Fallback Taucha",
-        "url": "http://fhhalle.streamabc.net/fhhal-rbhallefallbacktaucha-mp3-256-5066118",
-        "url_resolved": "http://fhhalle.streamabc.net/fhhal-rbhallefallbacktaucha-mp3-256-5066118",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "ee6fc323-5a7c-11e9-a622-52543be04c81",
-        "name": "Radio Biggetal",
-        "url": "http://biggetal.stream.laut.fm/biggetal?pl=pls&t302=2026-01-14_23-44-31&uuid=ad5e7650-c60a-4f79-a786-50a702f55430",
-        "url_resolved": "http://biggetal.stream.laut.fm/biggetal?pl=pls&t302=2026-01-14_23-44-31&uuid=ad5e7650-c60a-4f79-a786-50a702f55430",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "3884315a-8b1f-46fa-8215-b73e46ebddd7",
-        "name": "R.SA 70er Oldies",
-        "url": "http://streams.rsa-sachsen.de/70er/mp3-192",
-        "url_resolved": "http://streams.rsa-sachsen.de/70er/mp3-192",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "70er,70iger,70s,evergreens,kulthits,oldies,r.sa"
-    },
-    {
-        "stationuuid": "907834fa-09e0-11ea-a87e-52543be04c81",
-        "name": "ANTENNE INGOLSTADT",
-        "url": "https://antenne-ingolstadt.stream.laut.fm/antenne-ingolstadt?pl=asx&t302=2026-01-15_07-29-38&uuid=5fb6bb5d-9a64-4909-b375-5d0d341fc746",
-        "url_resolved": "https://antenne-ingolstadt.stream.laut.fm/antenne-ingolstadt?pl=asx&t302=2026-01-15_07-29-38&uuid=5fb6bb5d-9a64-4909-b375-5d0d341fc746",
-        "favicon": "https://static.wixstatic.com/media/96fed9_6d68453a6add48878743ef9ab4fc7e3e%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/96fed9_6d68453a6add48878743ef9ab4fc7e3e%7Emv2.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "0f2e437a-fd43-48d0-ac26-4c84f83ef05b",
-        "name": "Gute Laune Welle",
-        "url": "https://gute-laune-welle.stream.laut.fm/gute-laune-welle?;stream.mp3",
-        "url_resolved": "https://gute-laune-welle.stream.laut.fm/gute-laune-welle?;stream.mp3",
-        "favicon": "https://gutelaunewelle.de/favicon.ico",
-        "country": "Germany",
-        "tags": "80's,90's,now,pop"
-    },
-    {
-        "stationuuid": "6cde8b23-65a5-417c-8b24-78cce2bdd278",
-        "name": "Hrvatski Radio Frankfurt",
-        "url": "https://a9.asurahosting.com:7110/radio.mp3",
-        "url_resolved": "https://a9.asurahosting.com:7110/radio.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "adult contemporary,croatian programming,folk,pop"
-    },
-    {
-        "stationuuid": "54c576c3-0820-4b23-b8dc-58fdbc9b2066",
-        "name": "R. BOB College Rock",
-        "url": "https://regiocast.streamabc.net/regc-radiobobcollege5039428-mp3-192-4005786?sABC=69688135%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671663361&cb=839014643&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768456501",
-        "url_resolved": "https://regiocast.streamabc.net/regc-radiobobcollege5039428-mp3-192-4005786?sABC=69688135%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671663361&cb=839014643&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768456501",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rock"
-    },
-    {
-        "stationuuid": "ffce41a2-b9a8-11e9-acb2-52543be04c81",
-        "name": "RadioBOB Harte Saite (64 kbps AAC)",
-        "url": "http://streams.radiobob.de/bob-hartesaite/aac-64/mediaplayer",
-        "url_resolved": "http://streams.radiobob.de/bob-hartesaite/aac-64/mediaplayer",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rock"
-    },
-    {
-        "stationuuid": "7d2e1610-ea30-44d5-bb2b-37006782dc08",
-        "name": "Smooth",
-        "url": "https://klassikr.streamabc.net/klr-smooth-mp3-192-1096057",
-        "url_resolved": "https://klassikr.streamabc.net/klr-smooth-mp3-192-1096057",
-        "favicon": "https://klassikradio.de/img/ms-mediumtile.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a2242d41-e6a7-4a75-a221-d7f799f06982",
-        "name": "bigFM Deutschrap rasiert brandneu",
-        "url": "https://audiotainment-sw.streamabc.net/atsw-hiphopcharts-aac-128-5072262?sABC=696887n0%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.ovtsz.qr&aw_0_1st.playerid=stream.bigfm.de&amsparams=playerid:stream.bigfm.de;skey:1768458144",
-        "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-hiphopcharts-aac-128-5072262?sABC=696887n0%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.ovtsz.qr&aw_0_1st.playerid=stream.bigfm.de&amsparams=playerid:stream.bigfm.de;skey:1768458144",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "deutschrap"
-    },
-    {
-        "stationuuid": "75066e7a-3da6-4899-83f6-cdbdde9f4e5e",
-        "name": "IloveHardstyle",
-        "url": "https://ilm.stream35.radiohost.de/ilm_ilovehardstyle_mp3-192",
-        "url_resolved": "https://ilm.stream35.radiohost.de/ilm_ilovehardstyle_mp3-192",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "318413cd-0fc6-11ea-a87e-52543be04c81",
-        "name": "Mundart-Radio",
-        "url": "http://mundartradio.stream.laut.fm/mundartradio?t302=2026-01-15_03-51-55&uuid=915f8d2a-9f26-4bdc-a512-ad8ef883509b",
-        "url_resolved": "http://mundartradio.stream.laut.fm/mundartradio?t302=2026-01-15_03-51-55&uuid=915f8d2a-9f26-4bdc-a512-ad8ef883509b",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "die schwäbisch mögen,mundartradio - der mitmachsender von schwaben für alle"
-    },
-    {
-        "stationuuid": "37e54711-3d68-4ce4-a616-334650a0a56a",
-        "name": "egoFM Fame",
-        "url": "https://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "url_resolved": "https://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "classic rock"
-    },
-    {
-        "stationuuid": "c8ee0221-8cd5-11e8-aa66-52543be04c81",
-        "name": "Ichtys Radio",
-        "url": "http://server33109.streamplus.de/;?type=http&nocache=100024",
-        "url_resolved": "http://server33109.streamplus.de/;?type=http&nocache=100024",
-        "favicon": "http://ichtys-radio.de///templates/protostar/favicon.ico",
-        "country": "Germany",
-        "tags": "bluegrass,christian,country"
-    },
-    {
-        "stationuuid": "0d9d73ef-e751-43e2-b018-fc9b4d6b1bf1",
-        "name": "Radio Brocken Region Magdeburg/Harz",
-        "url": "https://stream.radiobrocken.de/live-md-harz/mp3-256",
-        "url_resolved": "https://stream.radiobrocken.de/live-md-harz/mp3-256",
-        "favicon": "https://static.radiobrocken.de/img/2144/504866/857000/o/480/480/magdeburg.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "88b02ebf-c9c9-465c-b8e1-53f88540dc65",
-        "name": "R. BOB Rock Hits",
-        "url": "https://regiocast.streamabc.net/regc-radiobobrockhits4737502-mp3-192-8003058?sABC=696829rr%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671407549&cb=993598045&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768434158",
-        "url_resolved": "https://regiocast.streamabc.net/regc-radiobobrockhits4737502-mp3-192-8003058?sABC=696829rr%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671407549&cb=993598045&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768434158",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rock"
-    },
-    {
-        "stationuuid": "f88f9c9d-9984-4295-8f9a-ff9d5f8893b7",
-        "name": "RDD DanceClub",
-        "url": "https://stream.laut.fm/rdd-danceclub",
-        "url_resolved": "https://stream.laut.fm/rdd-danceclub",
-        "favicon": "https://powerplantradio.org/rdddanceclub/m/images/logo.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "65964de9-8350-484c-9ccd-68d3ed78123d",
-        "name": "BAVARIAS 80 TH",
-        "url": "http://stream.laut.fm/bavarias-80th",
-        "url_resolved": "http://stream.laut.fm/bavarias-80th",
-        "favicon": "https://u.jimcdn.com/cms/o/sc3e951979606f551/img/favicon.png?t=1598193718",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "96058719-0601-11e8-ae97-52543be04c81",
-        "name": "Radio Bavaria International",
-        "url": "http://streamplus18.leonex.de:18576/",
-        "url_resolved": "http://streamplus18.leonex.de:18576/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "80s,90s,pop,rock"
-    },
-    {
-        "stationuuid": "bfaa5981-4b9d-4fce-a66f-e495d4efa04f",
-        "name": "HARMONY +90ER",
-        "url": "http://mp3.harmonyfm.de/hrmplus/hq90er.mp3",
-        "url_resolved": "http://mp3.harmonyfm.de/hrmplus/hq90er.mp3",
-        "favicon": "https://www.harmonyfm.de/android-icon.png",
-        "country": "Germany",
-        "tags": "90's,90er,pop"
-    },
-    {
-        "stationuuid": "e4314c14-24dc-4f1e-863f-7075c7f4a036",
-        "name": "Dancefloor FM",
-        "url": "https://dancefloor-fm.stream.laut.fm/dancefloor-fm?t302=2025-03-03_21-41-17&uuid=ebadfaf0-8781-4c90-bb05-6652467979a2",
-        "url_resolved": "https://dancefloor-fm.stream.laut.fm/dancefloor-fm?t302=2025-03-03_21-41-17&uuid=ebadfaf0-8781-4c90-bb05-6652467979a2",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "960f1aa0-0601-11e8-ae97-52543be04c81",
-        "name": "radio SAW - Neuheiten",
-        "url": "http://stream.saw-musikwelt.de/saw-neuheiten/mp3-128/radio-browser/stream.mp3",
-        "url_resolved": "http://stream.saw-musikwelt.de/saw-neuheiten/mp3-128/radio-browser/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "new music"
-    },
-    {
-        "stationuuid": "469e5985-e837-472e-8521-1ca06f9d6156",
-        "name": "Musikzirkus",
-        "url": "http://stream.laut.fm/musikzirkus",
-        "url_resolved": "http://stream.laut.fm/musikzirkus",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "732a36fd-3877-11e9-9b4e-52543be04c81",
-        "name": "Energy (NRJ) Nürnberg",
-        "url": "https://edge85.streamonkey.net/energy-nuernberg?aggregator=shorty",
-        "url_resolved": "https://edge85.streamonkey.net/energy-nuernberg?aggregator=shorty",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "top 40"
-    },
-    {
-        "stationuuid": "45d58573-2fde-44ec-9f05-4aca3bbbd798",
-        "name": "radioaktiv Campusradio (Mannheim)",
-        "url": "http://stream.radioaktiv.org:8233/VeryHiFi",
-        "url_resolved": "http://stream.radioaktiv.org:8233/VeryHiFi",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "campus radio,college radio"
-    },
-    {
-        "stationuuid": "cda3394a-2c6c-4baf-8268-c3a14fc97c21",
-        "name": "Star FM - Festival Radio",
-        "url": "https://stream.starfm.de/festival/mp3-192/iradio",
-        "url_resolved": "https://stream.starfm.de/festival/mp3-192/iradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "96f40ac9-f891-46a0-a39c-e312ad4dae2d",
-        "name": "Munich's Hardest Hits",
-        "url": "http://munichhh.streamabc.net/munichhh-mhhlive-mp3-320-5827809?sABC=6968874o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768458059",
-        "url_resolved": "http://munichhh.streamabc.net/munichhh-mhhlive-mp3-320-5827809?sABC=6968874o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768458059",
-        "favicon": "https://www.munichshardesthits.com/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a47c1037-d9d8-4904-adfd-0ebb69e9b80a",
-        "name": "RADIO BOB! Wacken Radio",
-        "url": "http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer",
-        "url_resolved": "http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "festival,hard rock,heavy metal,metal,official,open air,radio bob,radiobob,rock,wacken,woa"
-    },
-    {
-        "stationuuid": "b9cbac10-b77f-11e9-acb2-52543be04c81",
-        "name": "Radio Bob! chillout-unplugged",
-        "url": "http://streams.radiobob.de/bob-chillout/aac-64/",
-        "url_resolved": "http://streams.radiobob.de/bob-chillout/aac-64/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "chillout,pop/rock,unplugged"
-    },
-    {
-        "stationuuid": "e7b4ba0d-b8de-4b88-9d9c-3c9b575263ad",
-        "name": "Akustik Weihnachten",
-        "url": "http://streams.weihnachtsmusik.fm/akustik/mp3-192",
-        "url_resolved": "http://streams.weihnachtsmusik.fm/akustik/mp3-192",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "pop,rock"
-    },
-    {
-        "stationuuid": "960f3fe0-0601-11e8-ae97-52543be04c81",
-        "name": "Laut.FM Germangrap",
-        "url": "http://stream.laut.fm/germangrap",
-        "url_resolved": "http://stream.laut.fm/germangrap",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rap"
-    },
-    {
-        "stationuuid": "567b8d58-5780-4db0-8a83-222ed5c9be40",
-        "name": "radioalsforum",
-        "url": "http://stream.laut.fm/als-radio",
-        "url_resolved": "http://stream.laut.fm/als-radio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "pop"
-    },
-    {
-        "stationuuid": "2788bb7a-4dc4-4923-986b-6d2c32f01546",
-        "name": "Arberwaldradio",
-        "url": "http://stream.arberwoidradio.com/stream",
-        "url_resolved": "http://stream.arberwoidradio.com/stream",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "folk"
-    },
-    {
-        "stationuuid": "96f8c115-2fcc-4861-b81e-8d09d44eef97",
-        "name": "Crazy4live",
-        "url": "https://crazy4live.stream.laut.fm/crazy4live?t302=2026-01-15_04-28-40&uuid=8a91d74c-5e3e-4ece-a78b-db70aa05f513",
-        "url_resolved": "https://crazy4live.stream.laut.fm/crazy4live?t302=2026-01-15_04-28-40&uuid=8a91d74c-5e3e-4ece-a78b-db70aa05f513",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "c52a2666-522e-425f-b4c9-9597e078da37",
-        "name": "ALEX Offener Kanal Berlin",
-        "url": "http://alex-radio.rosebud-media.de:8000/alex-radio",
-        "url_resolved": "http://alex-radio.rosebud-media.de:8000/alex-radio",
-        "favicon": "https://assets.nexx.cloud/media/78/43/26/ZORU592WIVQCNL7.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "61b572b0-b512-4374-b6c5-ed26655a0706",
-        "name": "Laut.fm Post-Rock",
-        "url": "https://post-rock.stream.laut.fm/post-rock?pl=m3u&t302=2026-01-14_23-35-11&uuid=93c98b91-e6ff-4ab5-9657-597cdbf44605",
-        "url_resolved": "https://post-rock.stream.laut.fm/post-rock?pl=m3u&t302=2026-01-14_23-35-11&uuid=93c98b91-e6ff-4ab5-9657-597cdbf44605",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "instrumental rock,post-rock"
-    },
-    {
-        "stationuuid": "39a3b5d6-568a-47fe-b156-74235369d17b",
-        "name": "Radio HaZZard of Darkness",
-        "url": "http://85.93.89.57:7777/http://85.93.89.57:7777",
-        "url_resolved": "http://85.93.89.57:7777/http://85.93.89.57:7777",
-        "favicon": "https://www.radio.de/300/hazzardofdarkness.png?version=aa0f1f24c09d6f63c1610a1f59444ba3",
-        "country": "Germany",
-        "tags": "alternative,darkwave,ebm,electro,gothic,industrial,metal,ndh,rock"
-    },
-    {
-        "stationuuid": "101b8086-a767-453d-a614-59b5be6be14c",
-        "name": "90s90s In The Mix | aac 64k",
-        "url": "http://streams.90s90s.de/inthemix/aac-64/streams.90s90s.de/",
-        "url_resolved": "http://streams.90s90s.de/inthemix/aac-64/streams.90s90s.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "9620ba74-0601-11e8-ae97-52543be04c81",
-        "name": "101FM - Oldies",
-        "url": "http://0-24oldiespoprock.stream.laut.fm/0-24_oldies_pop_rock?t302=2018-02-08_09-30-33&uuid=3ac88db9-1764-4e5a-a776-f42c2a4ffe7a",
-        "url_resolved": "http://0-24oldiespoprock.stream.laut.fm/0-24_oldies_pop_rock?t302=2018-02-08_09-30-33&uuid=3ac88db9-1764-4e5a-a776-f42c2a4ffe7a",
-        "favicon": "https://101fm.de/wp-content/uploads/2020/02/cropped-512er-180x180.png",
-        "country": "Germany",
-        "tags": "oldies,pop,rock"
-    },
-    {
-        "stationuuid": "9ce73d9d-1c62-49d8-ae08-b01c730aa813",
-        "name": "TechnikRADIO",
-        "url": "https://server31053.streamplus.de/;stream.mp3",
-        "url_resolved": "https://server31053.streamplus.de/;stream.mp3",
-        "favicon": "https://technikradio.de/wp-content/uploads/2017/01/apple-touch-icon-120x120.png",
-        "country": "Germany",
-        "tags": "pop rock,technikradio"
-    },
-    {
-        "stationuuid": "9605f6c7-0601-11e8-ae97-52543be04c81",
-        "name": "Radio StHörfunk",
-        "url": "http://stream.sthoerfunk.de:7000/sthoerfunk.ogg",
-        "url_resolved": "http://stream.sthoerfunk.de:7000/sthoerfunk.ogg",
-        "favicon": "http://www.sthoerfunk.de/perch/addons/feathers/startblock/img/apple-touch-icon-120x120.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "f50fd817-8fab-4144-a880-c2afd1ce39cf",
-        "name": "RADIO BOB! BOBs Death Metal",
-        "url": "http://streams.radiobob.de/deathmetal/mp3-128/streams.radiobob.de/",
-        "url_resolved": "http://streams.radiobob.de/deathmetal/mp3-128/streams.radiobob.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "death metal,metal"
-    },
-    {
-        "stationuuid": "2b452c23-830c-40bc-a67b-b55cd9a3814b",
-        "name": "Ballermann Radio Top100",
-        "url": "http://top100.bmr-radio.com:8000/",
-        "url_resolved": "http://top100.bmr-radio.com:8000/",
-        "favicon": "http://www.ballermann-radio.com/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "fccf0ec6-e916-4a1e-9e44-b86ed348c592",
-        "name": "Radio Regenbogen Schlager",
-        "url": "https://stream.regenbogen.de/schlager/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.regenbogen.de/schlager/mp3-128/radiobrowser",
-        "favicon": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/schlager.jpg",
-        "country": "Germany",
-        "tags": "kultschlager,popschlager,schlager"
-    },
-    {
-        "stationuuid": "a4c58a3d-64d3-4250-a9eb-63ce24a9dbdb",
-        "name": "RADIO BOB! - BOBs Mittelalter-Rock",
-        "url": "https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/",
-        "url_resolved": "https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "mittelalter-rock,radio bob!"
-    },
-    {
-        "stationuuid": "f9a47591-4508-11ea-a860-52543be04c81",
-        "name": "Musicaplus Radio",
-        "url": "http://stream.laut.fm/musicaplus",
-        "url_resolved": "http://stream.laut.fm/musicaplus",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "latin"
-    },
-    {
-        "stationuuid": "fd5daaf9-f094-11e8-a471-52543be04c81",
-        "name": "Laut Fm Pulp Fm",
-        "url": "http://stream.laut.fm/pulp-fm",
-        "url_resolved": "http://stream.laut.fm/pulp-fm",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "97e55a11-6339-4d48-b777-4ef1d8bc0aba",
-        "name": "Hitradio RTL Schlager",
-        "url": "https://edge72.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3",
-        "url_resolved": "https://edge72.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3",
-        "favicon": "https://web.radio.hitradio-rtl.de/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "7a767417-5335-4ff8-afde-da514a09981c",
-        "name": "Techno Classics",
-        "url": "https://stream.laut.fm/techno_classics",
-        "url_resolved": "https://stream.laut.fm/techno_classics",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "techno classics"
-    },
-    {
-        "stationuuid": "f5631d6a-5812-11e8-b0ce-52543be04c81",
-        "name": "1A Deutsche Hits",
-        "url": "http://stream.1a-webradio.de/saw-deutsch/aac-48/radiosure-1a/stream.mp3",
-        "url_resolved": "http://stream.1a-webradio.de/saw-deutsch/aac-48/radiosure-1a/stream.mp3",
-        "favicon": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-deutsch.png",
-        "country": "Germany",
-        "tags": "deutsche,hits"
-    },
-    {
-        "stationuuid": "9b9b2da3-0b38-402d-ab5f-8486da660c6c",
-        "name": "REGENBOGEN 2 – DEUTSCHROCK",
-        "url": "https://stream.regenbogen2.de/deutschrock/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.regenbogen2.de/deutschrock/mp3-128/radiobrowser",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "deutsch rock,deutschrock,rock"
-    },
-    {
-        "stationuuid": "0e7d5d00-f495-49af-bc5a-5ea78f8a1425",
-        "name": "Studentenfunk (Universität Regensburg)",
-        "url": "https://studentenfunk.out.airtime.pro/studentenfunk_a#",
-        "url_resolved": "https://studentenfunk.out.airtime.pro/studentenfunk_a#",
-        "favicon": "https://studentenfunk-regensburg.de/wp-content/themes/studentenfunk/images/apple-touch-icon.png",
-        "country": "Germany",
-        "tags": "campus radio,student radio"
-    },
-    {
-        "stationuuid": "68246cdc-d231-46ec-8d2d-4b7d0ca1a6f9",
-        "name": "Radio HCJB Bibel",
-        "url": "http://segenswelle.de:8000/hcjb-bibel-radio",
-        "url_resolved": "http://segenswelle.de:8000/hcjb-bibel-radio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christian"
-    },
-    {
-        "stationuuid": "9605faf6-0601-11e8-ae97-52543be04c81",
-        "name": "Radio Horeb 128k",
-        "url": "http://rs16.stream24.org/horeb.mp3",
-        "url_resolved": "http://rs16.stream24.org/horeb.mp3",
-        "favicon": "http://www.horeb.org/favicon.ico",
-        "country": "Germany",
-        "tags": "catholic"
-    },
-    {
-        "stationuuid": "a49e942f-929b-11e8-a767-52543be04c81",
-        "name": "Onda Latina",
-        "url": "http://stream.laut.fm/ondalatina",
-        "url_resolved": "http://stream.laut.fm/ondalatina",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "bossa nova,cuban music,latin,latin pop,merengue,salsa,tango,vallenato"
-    },
-    {
-        "stationuuid": "8deaaab0-bf9e-11e9-8502-52543be04c81",
-        "name": "- 0 N - Volksmusik on Radio",
-        "url": "https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3",
-        "url_resolved": "https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3",
-        "favicon": "https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg",
-        "country": "Germany",
-        "tags": "schlager,volksmusik"
-    },
-    {
-        "stationuuid": "f5895a36-beb3-4500-9489-5e04ebc7c86a",
-        "name": "Fun80sFM",
-        "url": "https://fun80sfm.stream.laut.fm/fun80sfm",
-        "url_resolved": "https://fun80sfm.stream.laut.fm/fun80sfm",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "decades"
-    },
-    {
-        "stationuuid": "46281580-b044-4d23-a411-a20a0cac1116",
-        "name": "I♥DANCE - Jahrescharts - ILoveMusic",
-        "url": "https://ilm.stream18.radiohost.de/ilm_dance-2023-jahrescharts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDM1NTQwJmQ9NjE5NTc1MDA0NWQ3MjNhMGQ3OTU",
-        "url_resolved": "https://ilm.stream18.radiohost.de/ilm_dance-2023-jahrescharts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDM1NTQwJmQ9NjE5NTc1MDA0NWQ3MjNhMGQ3OTU",
-        "favicon": "https://ilovemusic.de/typo3conf/ext/ep_channel/Resources/Public/img/favicon.php",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "c63989db-c1e2-4cb1-947f-d83d3d9cd6f5",
-        "name": "NoRa Weihnachten",
-        "url": "http://streams.norawebstreams.de/nora-event01/mp3-192/streams.norawebstreams.de/",
-        "url_resolved": "http://streams.norawebstreams.de/nora-event01/mp3-192/streams.norawebstreams.de/",
-        "favicon": "https://upload.norawebstreams.de/production/static/1732579576344/icons/icon_64.a8000000000.png",
-        "country": "Germany",
-        "tags": "christmas"
-    },
-    {
-        "stationuuid": "ff9f333c-877b-4a1e-8bc7-cc8ab941f1ad",
-        "name": "Gebetshaus Radio",
-        "url": "http://5.9.16.111:8450/stream",
-        "url_resolved": "http://5.9.16.111:8450/stream",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christian"
-    },
-    {
-        "stationuuid": "ad6392da-3a96-11e9-9b4e-52543be04c81",
-        "name": "- 0 N - Dance on Radio",
-        "url": "https://0n-dance.radionetz.de/0n-dance.aac",
-        "url_resolved": "https://0n-dance.radionetz.de/0n-dance.aac",
-        "favicon": "https://www.0nradio.com/logos/0n-dance_600x600.jpg",
-        "country": "Germany",
-        "tags": "dance,house,techno"
-    },
-    {
-        "stationuuid": "208f0e42-5818-11e8-b0ce-52543be04c81",
-        "name": "1A Good Life",
-        "url": "http://stream.1a-webradio.de/saw-goodlife/aac-48/radiosure-1a/stream.mp3",
-        "url_resolved": "http://stream.1a-webradio.de/saw-goodlife/aac-48/radiosure-1a/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "chillout,easy listening"
-    },
-    {
-        "stationuuid": "f464414e-01d7-4e71-b657-12a90ffc1adc",
-        "name": "radio x - Frankfurt",
-        "url": "https://stream.radiox.de:8443/live",
-        "url_resolved": "https://stream.radiox.de:8443/live",
-        "favicon": "https://www.radiox.de/templates/radiox-2018/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "e45b2752-7df2-41e4-b45c-c6e75b02de4a",
-        "name": "Lightyeartraxx2",
-        "url": "https://stream.laut.fm/lightyeartraxx",
-        "url_resolved": "https://stream.laut.fm/lightyeartraxx",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a28139fb-4b89-4134-b422-8b061722fc8c",
-        "name": "Mother Earth Klassik",
-        "url": "https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik",
-        "url_resolved": "https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik",
-        "favicon": "https://motherearthradio.de/images/mergoldcube512.png",
-        "country": "Germany",
-        "tags": "classical"
-    },
-    {
-        "stationuuid": "961dea50-0601-11e8-ae97-52543be04c81",
-        "name": "Born79",
-        "url": "http://stream.laut.fm/born79",
-        "url_resolved": "http://stream.laut.fm/born79",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "2f7c09e4-06e0-4ce0-90f6-f44e8fbcc8f0",
-        "name": "FFH iTunes Top 40. AAC 128 kbps",
-        "url": "https://mp3.ffh.de/ffhchannels/hqtop40.aac",
-        "url_resolved": "https://mp3.ffh.de/ffhchannels/hqtop40.aac",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "900ea13d-ee64-48f0-b442-08b20430c599",
-        "name": "LandesWelle Deutsch",
-        "url": "https://edge83.streamonkey.net/landeswelle-deutsch?aggregator=rewrite/mp3-192",
-        "url_resolved": "https://edge83.streamonkey.net/landeswelle-deutsch?aggregator=rewrite/mp3-192",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "charts"
-    },
-    {
-        "stationuuid": "5ef365c3-54f8-4d63-b71c-6eeddb5bb8eb",
-        "name": "Jeckradio",
-        "url": "https://stream.laut.fm/jeckradio",
-        "url_resolved": "https://stream.laut.fm/jeckradio",
-        "favicon": "https://jeckradio.de/wp-content/uploads/2023/01/LogoFB.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "363891aa-bfb3-49aa-98f9-9600d10bc8ee",
-        "name": "Furryradio",
-        "url": "http://stream.laut.fm/furryradio",
-        "url_resolved": "http://stream.laut.fm/furryradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "82e35492-3f83-41d7-8c81-d97929d4e9a9",
-        "name": "RPR1. Sport Radio",
-        "url": "https://stream.rpr1.de/fitness/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.rpr1.de/fitness/mp3-128/radiobrowser",
-        "favicon": "https://image.atsw.de/atsw/production/2024-03/sportradio_aggregatoren_600x600pxl.jpg",
-        "country": "Germany",
-        "tags": "dance,pop,sport,sporttalk"
-    },
-    {
-        "stationuuid": "73f64034-fc07-446c-983d-1a23a139b1f9",
-        "name": "RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]",
-        "url": "https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/",
-        "url_resolved": "https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "aor,art rock,folk,heavy metal,modern,pop,pop rock,punk rock,rock,singer-songwriter"
-    },
-    {
-        "stationuuid": "aa616fa9-2367-4377-b7b6-89f0d89c97b3",
-        "name": "LOUNGETUNES",
-        "url": "https://stream.laut.fm/loungetunes",
-        "url_resolved": "https://stream.laut.fm/loungetunes",
-        "favicon": "https://laut.fm/assets/touch-icons/favicon-16x16.png?21f4f2f5",
-        "country": "Germany",
-        "tags": "chill,chill beats,lounge"
-    },
-    {
-        "stationuuid": "befda847-f373-11e8-a471-52543be04c81",
-        "name": "- 1 A - 90er von 1A Radio",
-        "url": "https://1a-90er.radionetz.de/1a-90er.aac",
-        "url_resolved": "https://1a-90er.radionetz.de/1a-90er.aac",
-        "favicon": "https://www.1aradio.com/logos/1a-90er_600x600.jpg",
-        "country": "Germany",
-        "tags": "90er,90s,dance,oldies,pop,rock"
-    },
-    {
-        "stationuuid": "fdcc91c5-2a51-471d-a055-7084c124f713",
-        "name": "Christliches Radio München",
-        "url": "https://crm924.stream.laut.fm/crm924",
-        "url_resolved": "https://crm924.stream.laut.fm/crm924",
-        "favicon": "https://christlichesradio.de/storage/thumbs/192x192/r:1729866404/791lo3107c01q.png",
-        "country": "Germany",
-        "tags": "religion"
-    },
-    {
-        "stationuuid": "4c030a74-17aa-4f29-bed2-5fb79299d6af",
-        "name": "CORAX – Lokales Radio auf 95,9",
-        "url": "https://streaming.fueralle.org/corax_256.mp3",
-        "url_resolved": "https://streaming.fueralle.org/corax_256.mp3",
-        "favicon": "http://intern.radiocorax.de:8000/corax.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a67ab6d2-d217-41f0-bb3b-d56d47f6af1d",
-        "name": "RPR1. Köln",
-        "url": "https://stream.rpr1.de/koeln/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.rpr1.de/koeln/mp3-128/radiobrowser",
-        "favicon": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/REGIO_K%C3%96LN_agg_1600x1600.jpg",
-        "country": "Germany",
-        "tags": "80er,90er,news,pop,top40,traffic,weather"
-    },
-    {
-        "stationuuid": "c165ac65-040b-4b89-b376-183181f5395f",
-        "name": "Radio PSR Dresden | AAC 64 kbps",
-        "url": "https://streams.radiopsr.de/psr-live-sn-ddn/aac-64",
-        "url_resolved": "https://streams.radiopsr.de/psr-live-sn-ddn/aac-64",
-        "favicon": "https://upload.radiopsr.de/production/static/1710514040829/icons/icon_64.cawac0w0200.png",
-        "country": "Germany",
-        "tags": "aac,dance,disco,pop,rock"
-    },
-    {
-        "stationuuid": "646f0ae5-17fd-4dca-926c-385668f4c82e",
-        "name": "Retro Fürstenwalde",
-        "url": "http://stream.laut.fm/retro",
-        "url_resolved": "http://stream.laut.fm/retro",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "b651df37-dbc2-4ebb-88e5-b6ed635dcf14",
-        "name": "Radio 31 Charts",
-        "url": "http://charts.stream.laut.fm/charts",
-        "url_resolved": "http://charts.stream.laut.fm/charts",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "gospel"
-    },
-    {
-        "stationuuid": "ffc0129a-0592-4b97-80ec-bc5e8cc921d2",
-        "name": "The WOLF - Nordhessen",
-        "url": "https://streams.radio21.de/thewolf-nordhessen/mp3-256/streams.radio21.de/",
-        "url_resolved": "https://streams.radio21.de/thewolf-nordhessen/mp3-256/streams.radio21.de/",
-        "favicon": "https://www.the-wolf.de/typo3conf/ext/ch_radio21/Resources/Public/Assets/The_Wolf_Logo_3c.svg",
-        "country": "Germany",
-        "tags": "classic country,country,country music,country pop"
-    },
-    {
-        "stationuuid": "9a4ab799-0363-11e9-a1be-52543be04c81",
-        "name": "Radio2day",
-        "url": "https://radio2day.ip-streaming.net/radio2day",
-        "url_resolved": "https://radio2day.ip-streaming.net/radio2day",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "00s,80s,90s"
-    },
-    {
-        "stationuuid": "a55c5fc0-1eab-4850-addd-b7dfa6dcf6ff",
-        "name": "Radio PSR 90er | AAC 64 kbps",
-        "url": "https://streams.radiopsr.de/psr-90er/aac-64/streams.radiopsr.de",
-        "url_resolved": "https://streams.radiopsr.de/psr-90er/aac-64/streams.radiopsr.de",
-        "favicon": "https://agginfo.quantumcast.cloud/m/rc/branding/afb9fa6f-a300-465e-b11a-b47396da7246/600x600_psr-90er_colored.jpg",
-        "country": "Germany",
-        "tags": "90er,90s"
-    },
-    {
-        "stationuuid": "3e72dce2-0a50-11ea-a87e-52543be04c81",
-        "name": "- 0 N - Top 40 on Radio",
-        "url": "https://0n-top40.radionetz.de/0n-top40.aac",
-        "url_resolved": "https://0n-top40.radionetz.de/0n-top40.aac",
-        "favicon": "https://www.0nradio.com/logos/0n-top-40_600x600.jpg",
-        "country": "Germany",
-        "tags": "dance,hits,house,pop,rock,top40"
-    },
-    {
-        "stationuuid": "99a6e42a-b561-4fe5-96f3-cbddd08d4789",
-        "name": "Britpop",
-        "url": "http://stream.laut.fm/britpop",
-        "url_resolved": "http://stream.laut.fm/britpop",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "e8e9db52-4018-4d94-a5cc-5bacdb402fbe",
-        "name": "MUSIC FM",
-        "url": "https://music-fm.stream.laut.fm/music-fm-",
-        "url_resolved": "https://music-fm.stream.laut.fm/music-fm-",
-        "favicon": "https://music-fm.de/wp-content/uploads/2024/10/cropped-mfm_web_icon-180x180.png",
-        "country": "Germany",
-        "tags": "charts,dance,pop,top charts"
-    },
-    {
-        "stationuuid": "2fd00b8f-3f84-4175-918a-622b114a2fac",
-        "name": "FFH SOUNDTRACK",
-        "url": "https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac",
-        "url_resolved": "https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "classical"
-    },
-    {
-        "stationuuid": "d444d17e-c372-445d-b1f3-8cd9532b00c0",
-        "name": "Vinyl Maxi FM",
-        "url": "https://vinyl-maxi-fm.stream.laut.fm/vinyl-maxi-fm?t302=2026-01-15_00-13-00&uuid=1d247b88-8cbe-462c-be39-bc2af72ca582",
-        "url_resolved": "https://vinyl-maxi-fm.stream.laut.fm/vinyl-maxi-fm?t302=2026-01-15_00-13-00&uuid=1d247b88-8cbe-462c-be39-bc2af72ca582",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "decades"
-    },
-    {
-        "stationuuid": "58e4c874-de1d-450c-a51f-eee527b2966c",
-        "name": "R. BOB Classic Rock",
-        "url": "https://regiocast.streamabc.net/regc-radiobobclassicrock1594088-mp3-192-3516780?sABC=69688q23%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671323919&cb=917839242&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768459555",
-        "url_resolved": "https://regiocast.streamabc.net/regc-radiobobclassicrock1594088-mp3-192-3516780?sABC=69688q23%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671323919&cb=917839242&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768459555",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rock"
-    },
-    {
-        "stationuuid": "104f5e92-fedf-4321-890d-7f53e5673497",
-        "name": "Radio Unerhoert Marburg 90.1MHz",
-        "url": "http://stream.radio-rum.de:8000/rum.mp3",
-        "url_resolved": "http://stream.radio-rum.de:8000/rum.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "36fa8636-3326-4f3e-87db-c6159d786c22",
-        "name": "Radio Marimeckfit",
-        "url": "http://cafe80s.eu:8000/bewegungsraum.mp3",
-        "url_resolved": "http://cafe80s.eu:8000/bewegungsraum.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "80s,90s,classic hits,oldies,pop"
-    },
-    {
-        "stationuuid": "79fef462-ba12-418e-ae79-374247c5be63",
-        "name": "Antenne Bayern - 80er Kulthits",
-        "url": "http://stream.antenne.de/80er-kulthits/stream/aacp",
-        "url_resolved": "http://stream.antenne.de/80er-kulthits/stream/aacp",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "c3776781-8b87-414c-9f03-a751fc447fc6",
-        "name": "GAY FM - Pure Dance!",
-        "url": "http://icepool.silvacast.com/GAYFM.mp3",
-        "url_resolved": "http://icepool.silvacast.com/GAYFM.mp3",
-        "favicon": "https://www.gayfm.de/images/logos/logo.png.pagespeed.ce.FF9SeVwK7Y.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "3e058108-f741-491b-b4d8-bd4fe2e91d55",
-        "name": "Saloniker Web Radio",
-        "url": "http://stream.laut.fm/saloniker-web-radio",
-        "url_resolved": "http://stream.laut.fm/saloniker-web-radio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "classical,instrumental,salonmusik"
-    },
-    {
-        "stationuuid": "fc0675a1-7eac-4937-8f50-6b6b9606db8b",
-        "name": "LKW Freunde",
-        "url": "http://lkwfreunde.stream.laut.fm/lkwfreunde?pl=m3u&t302=2026-01-15_08-38-27&uuid=5f0d29e7-edcd-4bc9-99d6-4ed32fd6707c",
-        "url_resolved": "http://lkwfreunde.stream.laut.fm/lkwfreunde?pl=m3u&t302=2026-01-15_08-38-27&uuid=5f0d29e7-edcd-4bc9-99d6-4ed32fd6707c",
-        "favicon": "https://lkwfreunde.de/wp-content/uploads/2023/12/cropped-favicon-180x180.png",
-        "country": "Germany",
-        "tags": "blues rock,classic rock,oldies,pop music"
-    },
-    {
-        "stationuuid": "e9214d2c-a9ea-4e10-b13d-3080b99f964a",
-        "name": "Radio Z Nürnberg",
-        "url": "http://snd.radio-z.net:8000/Radio-Z",
-        "url_resolved": "http://snd.radio-z.net:8000/Radio-Z",
-        "favicon": "https://www.radio-z.net/storage/thumbs/192x192/r:1720104118/k96jmah7f5j5g.png",
-        "country": "Germany",
-        "tags": "community"
-    },
-    {
-        "stationuuid": "1d6292fd-a4a4-4f6d-910e-f30096cd473a",
-        "name": "Hit Radio N1 - Weihnachtsradio",
-        "url": "https://frontend.streamonkey.net/fhn-hitradion1weihnachten/stream/mp3",
-        "url_resolved": "https://frontend.streamonkey.net/fhn-hitradion1weihnachten/stream/mp3",
-        "favicon": "https://assets.radioplayer.org/276/276337/600/600/kyeiy914.png",
-        "country": "Germany",
-        "tags": "christmas,nürnberg"
-    },
-    {
-        "stationuuid": "4d5be9f8-fdbe-49c4-a14c-838105b5690e",
-        "name": "RPR1. Radio Schinkenstrasse",
-        "url": "https://stream.rpr1.de/apresski/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.rpr1.de/apresski/mp3-128/radiobrowser",
-        "favicon": "https://image.atsw.de/atsw/production/2023-08/radio_schinkenstrasse_600x600.jpg",
-        "country": "Germany",
-        "tags": "ballermann,mallorca,megapark,party,partyschlager,popschlager,schlager,schlagerparty"
-    },
-    {
-        "stationuuid": "f314a784-421d-11e9-aa55-52543be04c81",
-        "name": "laut.fm Cinemaitaliano",
-        "url": "http://stream.laut.fm/cinemaitaliano",
-        "url_resolved": "http://stream.laut.fm/cinemaitaliano",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "42ae154a-26af-4efa-aaf4-b33c50886cd6",
-        "name": "I Love Bass by HBz",
-        "url": "https://ilm.stream18.radiohost.de/ilm_ilovebass_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDMzODExJmQ9NDczNTQ3YzgwNjYxMmMyMDhmZWU",
-        "url_resolved": "https://ilm.stream18.radiohost.de/ilm_ilovebass_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDMzODExJmQ9NDczNTQ3YzgwNjYxMmMyMDhmZWU",
-        "favicon": "https://www.ilovemusic.de/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "24d6dbc5-61c7-41c2-9012-983d34411073",
-        "name": "Shl",
-        "url": "http://shl.stream.laut.fm/shl?pl=m3u&t302=2026-01-15_04-14-15&uuid=c2c2c4ed-d070-4750-bb6c-d4a44918e7d6",
-        "url_resolved": "http://shl.stream.laut.fm/shl?pl=m3u&t302=2026-01-15_04-14-15&uuid=c2c2c4ed-d070-4750-bb6c-d4a44918e7d6",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "catholic,christian,jesus"
-    },
-    {
-        "stationuuid": "f97ddafe-f86f-44d0-9888-9ee07137fb00",
-        "name": "club.radio",
-        "url": "https://icecast.multhielemedia.de/radio/8010/clubradio.mp3",
-        "url_resolved": "https://icecast.multhielemedia.de/radio/8010/clubradio.mp3",
-        "favicon": "https://club.radio/favicon.png",
-        "country": "Germany",
-        "tags": "funk,jazz,rock,soul"
-    },
-    {
-        "stationuuid": "e521d2a1-4bea-4497-9385-23a8248fa593",
-        "name": "laut.fm progressive",
-        "url": "https://laut.fm/prog-rock-station",
-        "url_resolved": "https://laut.fm/prog-rock-station",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "59612311-092a-48ed-a48b-a9a2b070b054",
-        "name": "Radio Beatbox",
-        "url": "http://92.204.50.53:40310/",
-        "url_resolved": "http://92.204.50.53:40310/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "misc"
-    },
-    {
-        "stationuuid": "f62a5fa9-a116-40b5-b414-5579d96b2f62",
-        "name": "Lumbung radio",
-        "url": "http://lumbungradio.stationofcommons.org:8000/128.mp3",
-        "url_resolved": "http://lumbungradio.stationofcommons.org:8000/128.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "alternative,arts,community radio,dj mixes,electronic music,improvisation,international,internet radio,underground"
-    },
-    {
-        "stationuuid": "48fec1e3-a4f1-4bb0-a987-9c4784dde8e4",
-        "name": "HARMONY SCHLAGER RADIO",
-        "url": "http://mp3.harmonyfm.de/hrmchannels/hqschlager.mp3",
-        "url_resolved": "http://mp3.harmonyfm.de/hrmchannels/hqschlager.mp3",
-        "favicon": "https://static.harmonyfm.de/fileadmin/templates/harmonyfm.de/images/logo_80er_radio.svg",
-        "country": "Germany",
-        "tags": "80s"
-    },
-    {
-        "stationuuid": "0beb512a-32b4-4e01-9985-3697ae073152",
-        "name": "91.7 ODERWELLE",
-        "url": "http://oderwelle.radionetz.de/oderwelle.mp3",
-        "url_resolved": "http://oderwelle.radionetz.de/oderwelle.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "650f3d9d-4f0a-4a5f-88ed-32e3f6e47edc",
-        "name": "FAF Records 979",
-        "url": "https://stream.laut.fm/faf-records-979",
-        "url_resolved": "https://stream.laut.fm/faf-records-979",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "afro house,deep house,drum and bass,dubstep,house,tech house,trap"
-    },
-    {
-        "stationuuid": "e55f8155-c7ae-4889-b682-9e434974de21",
-        "name": "egoRNB [LQ]",
-        "url": "https://cast.egofm.de/egofmrnb.aac?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "url_resolved": "https://cast.egofm.de/egofmrnb.aac?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "egofm,r&b,rhythm and blues,rnb"
-    },
-    {
-        "stationuuid": "81494039-2d0f-4556-b37d-e91c1dfd2775",
-        "name": "Antenne Bayern - Relax",
-        "url": "http://stream.antenne.de/relax/stream/aacp",
-        "url_resolved": "http://stream.antenne.de/relax/stream/aacp",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "31ce4779-1046-4a03-ad9b-22b2d30110da",
-        "name": "radio santec",
-        "url": "https://audio.bild-und-ton.stream:16162/radiosantec-de",
-        "url_resolved": "https://audio.bild-und-ton.stream:16162/radiosantec-de",
-        "favicon": "null",
-        "country": "Germany",
-        "tags": "religous"
-    },
-    {
-        "stationuuid": "a34225ef-78e0-4412-be3c-f45e1cae5e55",
-        "name": "Radio Ballermann",
-        "url": "http://stream.bmr-radio.de/",
-        "url_resolved": "http://stream.bmr-radio.de/",
-        "favicon": "http://www.ballermann-radio.de/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "4efb7004-cfbc-407f-8a69-ecdebab67ccb",
-        "name": "furry radio by laut.fm",
-        "url": "https://stream.laut.fm/furryradio",
-        "url_resolved": "https://stream.laut.fm/furryradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "blues,charts,classic rock,electro,electroswing,ost,pop,rock,trance"
-    },
-    {
-        "stationuuid": "829d3858-dcca-4551-8e09-fe020a150b7a",
-        "name": "RADIO PSR Sommerhits",
-        "url": "https://streams.radiopsr.de/sommerhits/mp3-192/www.radio-browser.info/play.m3u8",
-        "url_resolved": "https://streams.radiopsr.de/sommerhits/mp3-192/www.radio-browser.info/play.m3u8",
-        "favicon": "https://upload.radiopsr.de/production/static/1693298881101/icons/icon_64.cawac0w0200.png",
-        "country": "Germany",
-        "tags": "2000er,2010er,90er,pop rock"
-    },
-    {
-        "stationuuid": "c7ecdc0a-4b82-4762-9f28-450652c16185",
-        "name": "Radio BOB Country Rock",
-        "url": "http://streams.radiobob.de/country/mp3-192/mediaplayer/",
-        "url_resolved": "http://streams.radiobob.de/country/mp3-192/mediaplayer/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "country"
-    },
-    {
-        "stationuuid": "9fa7b7ea-387b-4e91-845a-74f5da981d62",
-        "name": "Radio 31 Alternative",
-        "url": "http://alternative-radio.stream.laut.fm/alternative-radio",
-        "url_resolved": "http://alternative-radio.stream.laut.fm/alternative-radio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "pop,rock"
-    },
-    {
-        "stationuuid": "961f85c0-0601-11e8-ae97-52543be04c81",
-        "name": "Radio todamax",
-        "url": "http://stream.laut.fm/todamax",
-        "url_resolved": "http://stream.laut.fm/todamax",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "covers,electronic,guitar,heavy metal,metal,ndw,pop,punk,techno,thrash metal"
-    },
-    {
-        "stationuuid": "66f2f665-7d4e-4494-85b2-07598467b4a6",
-        "name": "89.0 RTL Top Hits 2024",
-        "url": "https://stream.89.0rtl.de/trend/mp3-256",
-        "url_resolved": "https://stream.89.0rtl.de/trend/mp3-256",
-        "favicon": "https://static.89.0rtl.de/img/4087/1028449/739000/o/480/480/89.0_rtl_tophits_2024.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "78f25389-c045-4d73-8432-1d90a7a8fd4f",
-        "name": "ICE RADIO WALDKRAIBURG 1 Mix Spezial",
-        "url": "https://irw.tunefm.de:8070/stream",
-        "url_resolved": "https://irw.tunefm.de:8070/stream",
-        "favicon": "https://www.irwradio.de/apple-icon-120x120.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a7575973-3e35-4159-8893-e7fb853ee5fa",
-        "name": "SCHLAGER",
-        "url": "http://stream.laut.fm/schlager",
-        "url_resolved": "http://stream.laut.fm/schlager",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "70er,kult,oldies,schlager"
-    },
-    {
-        "stationuuid": "64fad6f3-59ba-45eb-ba68-2bb99a269b31",
-        "name": "bigFM Trashpop",
-        "url": "https://stream.bigfm.de/trashpop/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.bigfm.de/trashpop/mp3-128/radiobrowser",
-        "favicon": "https://image.atsw.de/atsw/production/2022-12/Trashpop_1600x1600Px.jpg",
-        "country": "Germany",
-        "tags": "comedy,pop,trashpop"
-    },
-    {
-        "stationuuid": "1e447859-6271-11e8-b15b-52543be04c81",
-        "name": "Radio 30 Plus",
-        "url": "http://radio30plus.stream.laut.fm/radio30plus?pl=m3u&t302=2026-01-14_23-51-34&uuid=cb12cccf-0b3e-4706-9036-3fa28e94a862",
-        "url_resolved": "http://radio30plus.stream.laut.fm/radio30plus?pl=m3u&t302=2026-01-14_23-51-34&uuid=cb12cccf-0b3e-4706-9036-3fa28e94a862",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "oldies,schlager"
-    },
-    {
-        "stationuuid": "b8a2eb94-f71e-419d-886f-29bbe2273b0c",
-        "name": "Radio Regenbogen - Konfetti-Party",
-        "url": "https://stream.regenbogen.de/konfettiparty/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.regenbogen.de/konfettiparty/mp3-128/radiobrowser",
-        "favicon": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/konfetti.jpg",
-        "country": "Germany",
-        "tags": "fasching,fastnacht,karneval"
-    },
-    {
-        "stationuuid": "8c53460e-3da3-48a4-9e35-a570633b80b1",
-        "name": "- 0 N - Soft Pop on Radio",
-        "url": "https://0n-softpop.radionetz.de/0n-softpop.aac",
-        "url_resolved": "https://0n-softpop.radionetz.de/0n-softpop.aac",
-        "favicon": "https://www.0nradio.com/logos/0n-soft-pop_600x600.jpg",
-        "country": "Germany",
-        "tags": "balladen,lovesongs,pop,soft pop,soft rock"
-    },
-    {
-        "stationuuid": "60700e60-d3c6-4659-ae3b-723b99fc3cdb",
-        "name": "EXOGAMING",
-        "url": "https://stream.laut.fm/exogaming",
-        "url_resolved": "https://stream.laut.fm/exogaming",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "6facccd3-50ab-4a69-98bb-0165bdee228d",
-        "name": "Kristina Beck-Short",
-        "url": "http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
-        "url_resolved": "http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "9611dd37-0601-11e8-ae97-52543be04c81",
-        "name": "FluxFM - Berlin Beach House Radio",
-        "url": "http://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993?sABC=69688p70%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768459376",
-        "url_resolved": "http://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993?sABC=69688p70%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768459376",
-        "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "1d2e6c6f-212b-4b71-a3c1-38ebf022a310",
-        "name": "Klassik Radio - Christmas",
-        "url": "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642?sABC=67588s30%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=s625qppp-7p99-475q-nq51-or7sn3889q24&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web;skey:1733857072",
-        "url_resolved": "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642?sABC=67588s30%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=s625qppp-7p99-475q-nq51-or7sn3889q24&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web;skey:1733857072",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christmas music,classical"
-    },
-    {
-        "stationuuid": "78d0ae97-50c0-40fc-8d6c-e6c1f899df21",
-        "name": "Radio Ellinadiko",
-        "url": "https://radio.streamings.gr/proxy/radioellinadiko?mp=/stream",
-        "url_resolved": "https://radio.streamings.gr/proxy/radioellinadiko?mp=/stream",
-        "favicon": "https://resources.live24.gr/resources/images/stations/340585aa-b32c-41ea-aa1f-4e74b4877556.jpg",
-        "country": "Germany",
-        "tags": "greek music,talk radio"
-    },
-    {
-        "stationuuid": "b840ff39-010a-41f4-b44e-bdb75b8a984c",
-        "name": "Antenne Halle",
-        "url": "http://116.203.69.202/corax_256.mp3",
-        "url_resolved": "http://116.203.69.202/corax_256.mp3",
-        "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/Screenshot_20231016_103046_WhatsApp.jpg",
-        "country": "Germany",
-        "tags": "radio"
-    },
-    {
-        "stationuuid": "67d35454-dcc0-489a-9c68-637adb32e65c",
-        "name": "Radio Leipzig Freitag Nacht",
-        "url": "https://edge71.radio.radioleipzig.de/radioleipzig-freitagnacht/stream/aacp?aggregator=smk-m3u-aac",
-        "url_resolved": "https://edge71.radio.radioleipzig.de/radioleipzig-freitagnacht/stream/aacp?aggregator=smk-m3u-aac",
-        "favicon": "https://www.radioleipzig.de/favicon.ico",
-        "country": "Germany",
-        "tags": "pop"
-    },
-    {
-        "stationuuid": "25fbcc41-f404-11e9-a96c-52543be04c81",
-        "name": "89 HIT FM - EAZY FM",
-        "url": "http://stream.hitfm.de:9050/eazyfm",
-        "url_resolved": "http://stream.hitfm.de:9050/eazyfm",
-        "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/sc0fc92ce0c32e802/backgroundarea/i2a1b09bffe92a641/version/1491489327/image.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "f9695835-3b23-4d4c-bb93-ac3b76844010",
-        "name": "Radio Mittelweser",
-        "url": "https://stream.radiomw.de/radiomw",
-        "url_resolved": "https://stream.radiomw.de/radiomw",
-        "favicon": "https://radiomw.tv/wp-content/uploads/2019/02/C5D652BB-2F16-4FAA-8B53-B3AD105AFA8F.gif",
-        "country": "Germany",
-        "tags": "pop"
-    },
-    {
-        "stationuuid": "6ae09f32-e2c5-48bd-9f67-8911b80cb059",
-        "name": "Sprollywood",
-        "url": "https://stream.laut.fm/sprollywood",
-        "url_resolved": "https://stream.laut.fm/sprollywood",
-        "favicon": "https://assets.laut.fm/b94f782f42ccda4118a8c06c8c0ad652",
-        "country": "Germany",
-        "tags": "s.matze"
-    },
-    {
-        "stationuuid": "3bd96fce-a451-4dbd-bcfb-bd6c4631e186",
-        "name": "Radio BOB! Live",
-        "url": "http://streams.radiobob.de/bob-live/aac-64/mediaplayer",
-        "url_resolved": "http://streams.radiobob.de/bob-live/aac-64/mediaplayer",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rock"
-    },
-    {
-        "stationuuid": "d6003e64-e83b-42c1-ad0d-556a0a018abf",
-        "name": "Radio Brocken 90er",
-        "url": "https://stream.radiobrocken.de/90er/mp3-256",
-        "url_resolved": "https://stream.radiobrocken.de/90er/mp3-256",
-        "favicon": "https://static.radiobrocken.de/img/5434/298204/673000/o/480/480/90er_1600.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "76b20fe9-5823-11e8-b0ce-52543be04c81",
-        "name": "1A Urban Music",
-        "url": "http://stream.1a-webradio.de/saw-urban/aac-48/radiosure-1a/stream.mp3",
-        "url_resolved": "http://stream.1a-webradio.de/saw-urban/aac-48/radiosure-1a/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "black,hiphop,rap,soul"
-    },
-    {
-        "stationuuid": "384fcc90-f3f4-49c8-bdb6-96478a8f9977",
-        "name": "The WOLF - Südhessen (aac+)",
-        "url": "https://streams.radio21.de/thewolf-suedhessen/aac-64/streams.radio21.de/",
-        "url_resolved": "https://streams.radio21.de/thewolf-suedhessen/aac-64/streams.radio21.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "classic country,country,country music,country pop"
-    },
-    {
-        "stationuuid": "c35c82b9-3385-467f-a0b4-15836eb8a902",
-        "name": "egoFM Sachsen",
-        "url": "https://cast.egofm.de/egofm.mp3",
-        "url_resolved": "https://cast.egofm.de/egofm.mp3",
-        "favicon": "https://web.archive.org/web/20220121062448if_/https://www.radio-zett.de/dateien_upload/avatar/avatar_4_22_emil_jiw.jpg",
-        "country": "Germany",
-        "tags": "techno"
-    },
-    {
-        "stationuuid": "960f5e46-0601-11e8-ae97-52543be04c81",
-        "name": "Laut.FM Club 93",
-        "url": "http://stream.laut.fm/club93",
-        "url_resolved": "http://stream.laut.fm/club93",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "90s,eurodance,pop"
-    },
-    {
-        "stationuuid": "323775e1-d7db-4c20-b5bf-ead18a4825c5",
-        "name": "2000er Hits (by MineMusic)",
-        "url": "https://laut.fm/minemusic-2000er",
-        "url_resolved": "https://laut.fm/minemusic-2000er",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "2000er,deutsch,germany,größte pop-hits der 2000er,hiphop,hits,minemusic,pop,radio,rock,webradio"
-    },
-    {
-        "stationuuid": "6abfd927-839e-44fc-96a0-1ecae888991f",
-        "name": "Radio Brocken Osthits",
-        "url": "https://stream.radiobrocken.de/osthits/mp3-256",
-        "url_resolved": "https://stream.radiobrocken.de/osthits/mp3-256",
-        "favicon": "https://static.radiobrocken.de/img/1350/346675/130000/o/480/480/osthits_1600.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "aa942b5d-f58a-4ca8-a2e1-fc8d0181e583",
-        "name": "Rockpalast Revival Radio Saar",
-        "url": "https://rockpalast-revival-radio.stream.laut.fm/rockpalast-revival-radio?t302=2025-03-10_17-35-46&uuid=c2fb9df2-862c-4a7d-bc4e-03b06d147dff",
-        "url_resolved": "https://rockpalast-revival-radio.stream.laut.fm/rockpalast-revival-radio?t302=2025-03-10_17-35-46&uuid=c2fb9df2-862c-4a7d-bc4e-03b06d147dff",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a75cdf65-8111-4af5-a5ed-76dd7ea2b85a",
-        "name": "RadioMV Deutsch Neues Testament",
-        "url": "https://stream.radiomv.com/german-nt/stream.mp3",
-        "url_resolved": "https://stream.radiomv.com/german-nt/stream.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christian"
-    },
-    {
-        "stationuuid": "32df6e52-48bc-11e9-80ab-52543be04c81",
-        "name": "Laut.FM Der Barde",
-        "url": "http://stream.laut.fm/der-barde",
-        "url_resolved": "http://stream.laut.fm/der-barde",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "mittelalter"
-    },
-    {
-        "stationuuid": "b0e40754-c54a-4dff-9c0a-4d8222006054",
-        "name": "- 1 A - Pop von 1A Radio",
-        "url": "https://1a-pop.radionetz.de/1a-pop.aac",
-        "url_resolved": "https://1a-pop.radionetz.de/1a-pop.aac",
-        "favicon": "https://www.1aradio.com/logos/1a-pop_600x600.jpg",
-        "country": "Germany",
-        "tags": "black,dance,hiphop,hits,pop,rock,top40"
-    },
-    {
-        "stationuuid": "ed9ec0a9-18cc-4acd-82fd-57b0cd051c49",
-        "name": "RADIO BOB! BOBs Rockabilly",
-        "url": "http://streams.radiobob.de/bob-rockabilly/mp3-192/mediaplayer",
-        "url_resolved": "http://streams.radiobob.de/bob-rockabilly/mp3-192/mediaplayer",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "9ad6903e-ee40-45a2-9527-f0b16c16652b",
-        "name": "radio SAW - Schlagerparty",
-        "url": "https://stream.saw-musikwelt.de/saw-schlagerparty/aac-48",
-        "url_resolved": "https://stream.saw-musikwelt.de/saw-schlagerparty/aac-48",
-        "favicon": "https://www.radiosaw.de/android-icon-192x192.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "17df08e3-09c4-11e8-ae97-52543be04c81",
-        "name": "laut.fm DDR-Radio",
-        "url": "http://stream.laut.fm/ddr-radio",
-        "url_resolved": "http://stream.laut.fm/ddr-radio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "ddr"
-    },
-    {
-        "stationuuid": "96054278-0601-11e8-ae97-52543be04c81",
-        "name": "R.SA",
-        "url": "http://rsa.streamabc.net/regc-rsalive-aacplus-64-7288763?sABC=696861p8%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768448456",
-        "url_resolved": "http://rsa.streamabc.net/regc-rsalive-aacplus-64-7288763?sABC=696861p8%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768448456",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "797ee8ca-d610-41d8-bf88-3c879da9ddfe",
-        "name": "ct das radio",
-        "url": "http://live.ctdasradio.de:8008/web-playlist",
-        "url_resolved": "http://live.ctdasradio.de:8008/web-playlist",
-        "favicon": "https://www.ctdasradio.de/favicon.ico",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "132c6691-a7a7-409e-aef2-f9bf7a183599",
-        "name": "Radio BOB! Christmas Rock",
-        "url": "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
-        "url_resolved": "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christmas"
-    },
-    {
-        "stationuuid": "79bd58af-40f2-11ea-a9fa-52543be04c81",
-        "name": "Hall of Music",
-        "url": "http://stream.laut.fm/hallofmusic",
-        "url_resolved": "http://stream.laut.fm/hallofmusic",
-        "favicon": "https://www.hall-of-music.org/wordpress/wp-content/uploads/2020/01/Logo.png",
-        "country": "Germany",
-        "tags": "radio bremen,webradio"
-    },
-    {
-        "stationuuid": "33929776-830e-405b-ab99-ed3680867913",
-        "name": "Radio Jade",
-        "url": "http://stream.radio-jade.de/live.mp3",
-        "url_resolved": "http://stream.radio-jade.de/live.mp3",
-        "favicon": "http://www.radio-jade.de/wp-content/uploads/2015/12/favicon.png",
-        "country": "Germany",
-        "tags": "community radio,niedersachsen,regional radio"
-    },
-    {
-        "stationuuid": "828eee43-5e6f-42b7-be76-65edb29375fe",
-        "name": "Munichs Hardest Hits",
-        "url": "http://munichhh.streamabc.net/munichhh-mhhlive-mp3-320-5827809",
-        "url_resolved": "http://munichhh.streamabc.net/munichhh-mhhlive-mp3-320-5827809",
-        "favicon": "https://www.munichshardesthits.com/images/logo/MHH-Logo_rund-gelb.svg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "33cae610-1fb5-42dc-8794-6c6a7949d20e",
-        "name": "http://global.citrus3.com:8370/stream",
-        "url": "http://global.citrus3.com:8370/stream",
-        "url_resolved": "http://global.citrus3.com:8370/stream",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "785a9638-c124-4e88-b2fd-90cd09164409",
-        "name": "radio WSW Zittau",
-        "url": "http://mirror.secondradio.de:7070/dab-sr?ref=emil.marche@rundfunkkombinat.de",
-        "url_resolved": "http://mirror.secondradio.de:7070/dab-sr?ref=emil.marche@rundfunkkombinat.de",
-        "favicon": "https://olaura.de/favicon.ico",
-        "country": "Germany",
-        "tags": "bautzen,coloradio,dresden,freies radio,lausitz,lokalradio,mdr sachsen,nicht-kommerziell,olaura,radio blau,radio t,radio zett,rundfunk-kombinat sachsen,sachsen,weißwasser,werbefrei,zittau"
-    },
-    {
-        "stationuuid": "0097d700-9a5f-4627-b143-0f6fb2321df9",
-        "name": "Alles Bunt Gemischt",
-        "url": "http://stream.laut.fm/alles-bunt-gemischt",
-        "url_resolved": "http://stream.laut.fm/alles-bunt-gemischt",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "euro disco,hi-nrg,italo disco"
-    },
-    {
-        "stationuuid": "02ebfdad-36b5-4e5f-a945-310337ed48d7",
-        "name": "REGENBOGEN 2 – 90ER ROCK",
-        "url": "https://stream.regenbogen2.de/90errock/mp3-128/radiobrowser",
-        "url_resolved": "https://stream.regenbogen2.de/90errock/mp3-128/radiobrowser",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "90er,90s,rock"
-    },
-    {
-        "stationuuid": "12341f33-23be-4faf-ac82-d46600133ba7",
-        "name": "Studentenradio Uni Leipzig",
-        "url": "https://stream.mephisto976.bjx.li/mephisto976_livestream.ogg",
-        "url_resolved": "https://stream.mephisto976.bjx.li/mephisto976_livestream.ogg",
-        "favicon": "https://pbs.twimg.com/profile_images/469051279486906368/QLjkWvWr.jpeg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "ac854b04-5ba2-4d7e-8f71-aa57022641fb",
-        "name": "Flux - 90s Channel (320)",
-        "url": "https://streams.fluxfm.de/90er/mp3-320/audio/",
-        "url_resolved": "https://streams.fluxfm.de/90er/mp3-320/audio/",
-        "favicon": "https://archiv.fluxfm.de/wp-content/uploads/2021/02/90s-Radio-250x250.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "f83b716b-ba02-11e9-acb2-52543be04c81",
-        "name": "ANTENNEBAYERN Schlagersahne (64 kbps AAC)",
-        "url": "http://mp3channels.webradio.antenne.de/das-schlager-karussell.aac",
-        "url_resolved": "http://mp3channels.webradio.antenne.de/das-schlager-karussell.aac",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "schlager"
-    },
-    {
-        "stationuuid": "67ca4a77-b5bd-46fa-a6b1-717281dcfb4b",
-        "name": "Hashtag+",
-        "url": "https://edge68.streamonkey.net/schweinfurt-radiohashtagplus",
-        "url_resolved": "https://edge68.streamonkey.net/schweinfurt-radiohashtagplus",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "charts,pop,top40"
-    },
-    {
-        "stationuuid": "6bc2818e-c536-498b-b1ee-30f833af9e82",
-        "name": "dj exxx",
-        "url": "https://laut.fm/djex-tc",
-        "url_resolved": "https://laut.fm/djex-tc",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "techno"
-    },
-    {
-        "stationuuid": "0d9f8884-88ef-4777-bb84-84b79a54d918",
-        "name": "Progalley",
-        "url": "http://stream.laut.fm/progalley",
-        "url_resolved": "http://stream.laut.fm/progalley",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "18072785-9b30-4b06-a8b3-3c9c3596983b",
-        "name": "JOKE FM",
-        "url": "https://rs33.stream24.net/joke-fm.mp3",
-        "url_resolved": "https://rs33.stream24.net/joke-fm.mp3",
-        "favicon": "https://www.jokefm.de/wp-content/uploads/2018/11/JOKEFM_Logo_1000x6161.png",
-        "country": "Germany",
-        "tags": "comedy"
-    },
-    {
-        "stationuuid": "fea2cd8e-7242-11ea-b1cf-52543be04c81",
-        "name": "Coco und Jambo",
-        "url": "https://stream.laut.fm/cocoundjambo",
-        "url_resolved": "https://stream.laut.fm/cocoundjambo",
-        "favicon": "https://static.wixstatic.com/media/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png/v1/fill/w_820,h_312,al_c/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png",
-        "country": "Germany",
-        "tags": "90s,dance"
-    },
-    {
-        "stationuuid": "1261c331-0f0c-4bb8-8deb-804796dc3461",
-        "name": "Radio Hellbach",
-        "url": "https://server3.streamserver-unlimited.de:8569/stream1",
-        "url_resolved": "https://server3.streamserver-unlimited.de:8569/stream1",
-        "favicon": "https://www.abetsch.de/radio/images/php-fusion-logo.png",
-        "country": "Germany",
-        "tags": "60s,70's,80's,90's,discofox+schlager,news"
-    },
-    {
-        "stationuuid": "962cf214-0601-11e8-ae97-52543be04c81",
-        "name": "RauteMusik Lovehits",
-        "url": "http://lovehits-high.rautemusik.fm/",
-        "url_resolved": "http://lovehits-high.rautemusik.fm/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "c509f463-0b09-4b39-9ecc-96b6a77e3a71",
-        "name": "egoRNB [HQ]",
-        "url": "https://cast.egofm.de/egofmrnb.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "url_resolved": "https://cast.egofm.de/egofmrnb.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
-        "favicon": "https://streams.egofm.de/img/alexa/egoFM%20RNB-256x256.png",
-        "country": "Germany",
-        "tags": "egofm,r&b,rhythm and blues,rnb"
-    },
-    {
-        "stationuuid": "1c1e6f1b-3ccc-43a3-9bd1-a7bf80be6455",
-        "name": "Radio BON national",
-        "url": "http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/",
-        "url_resolved": "http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "90c309f0-102e-45eb-af76-6f0bfb995c50",
-        "name": "Rock Antenne - Grunge",
-        "url": "https://stream.rockantenne.de/grunge/stream/mp3",
-        "url_resolved": "https://stream.rockantenne.de/grunge/stream/mp3",
-        "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
-        "country": "Germany",
-        "tags": "grunge,music,rock"
-    },
-    {
-        "stationuuid": "2b5b059f-82f6-447b-9307-c3fed12bf170",
-        "name": "Landeswelle Grillwelle",
-        "url": "https://edge63.streamonkey.net/landeswelle-grillwelle?aggregator=rewrite/mp3-192",
-        "url_resolved": "https://edge63.streamonkey.net/landeswelle-grillwelle?aggregator=rewrite/mp3-192",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "hip hop"
-    },
-    {
-        "stationuuid": "1afa90a4-421e-4949-8369-cdf376476aa5",
-        "name": "Radio LORA München 92,4",
-        "url": "https://lora.musiker.cloud/loramp3.mp3",
-        "url_resolved": "https://lora.musiker.cloud/loramp3.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "munich,politics,society,world"
-    },
-    {
-        "stationuuid": "00db73a6-59f1-4b5f-a3b3-1231bf117a8f",
-        "name": "Livestream EFK-Buende",
-        "url": "http://www.segenswelle.de:8000/efk-buende",
-        "url_resolved": "http://www.segenswelle.de:8000/efk-buende",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "christian"
-    },
-    {
-        "stationuuid": "06b57058-3cc4-4408-9fc9-6ba81e92f5a0",
-        "name": "Chillout Webradiovon ANTENNE BAYERN",
-        "url": "http://s7-webradio.antenne.de/chillout",
-        "url_resolved": "http://s7-webradio.antenne.de/chillout",
-        "favicon": "https://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "19111c09-d298-45f4-8198-64e86d8f0c45",
-        "name": "Radio Brocken Kinderzeit",
-        "url": "https://stream.radiobrocken.de/kinderzeit/mp3-256",
-        "url_resolved": "https://stream.radiobrocken.de/kinderzeit/mp3-256",
-        "favicon": "https://static.radiobrocken.de/img/4941/346682/288000/o/480/480/kinderzeit_1600.jpg",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "fc9eb060-18a3-4b43-a45b-e73dfef99a4d",
-        "name": "SR 3",
-        "url": "http://liveradio.sr.de/sr/sr3/mp3/256/stream.mp3",
-        "url_resolved": "http://liveradio.sr.de/sr/sr3/mp3/256/stream.mp3",
-        "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9e823fcba01bcdbf?w=512",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "c8ac2fc5-938b-45fb-9304-29d3d6e9147c",
-        "name": "RadioMonster.fm - Rock",
-        "url": "http://rock.radiomonster.fm/ultra",
-        "url_resolved": "http://rock.radiomonster.fm/ultra",
-        "favicon": "https://www.radiomonster.fm/wp-content/uploads/2024/07/webradio_radiomonster_logo_wide.png?x64582",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "960dd421-0601-11e8-ae97-52543be04c81",
-        "name": "Hit Radio FFH - Soundtrack",
-        "url": "http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3",
-        "url_resolved": "http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "soundtrack"
-    },
-    {
-        "stationuuid": "79661c51-b032-4cc5-a96d-c6a4c406ef3e",
-        "name": "RT1 Deutsche Hits",
-        "url": "https://edge66.streamonkey.net/rt1-ch16/stream/mp3?aggregator=public&aw_0_1st.source=public",
-        "url_resolved": "https://edge66.streamonkey.net/rt1-ch16/stream/mp3?aggregator=public&aw_0_1st.source=public",
-        "favicon": "https://rt1.imsueden.de/storage/thumbs/1024x/1948.webp",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "893ee6aa-3884-4faf-babc-426fcafa8d19",
-        "name": "StHörfunk",
-        "url": "http://stream.sthoerfunk.de:7000/sthoerfunk.mp3",
-        "url_resolved": "http://stream.sthoerfunk.de:7000/sthoerfunk.mp3",
-        "favicon": "https://www.sthoerfunk.de/perch/addons/feathers/startblock/img/apple-touch-icon-120x120.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "9616aba0-0601-11e8-ae97-52543be04c81",
-        "name": "MDR Jump In The Mix (AAC)",
-        "url": "http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3",
-        "url_resolved": "http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3",
-        "favicon": "https://www.mdrjump.de/resources/jump/img/favicons/apple-icon-120x120.png",
-        "country": "Germany",
-        "tags": "black,dance,mix,pop,rock"
-    },
-    {
-        "stationuuid": "ab6cc0be-b8f7-11e9-acb2-52543be04c81",
-        "name": "SecondRadio",
-        "url": "http://secondradio.de:7070/stream",
-        "url_resolved": "http://secondradio.de:7070/stream",
-        "favicon": "https://www.secondradio.de/webcfg/apple-icon-120x120.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "ee736406-e335-4958-810d-2a523d5323bc",
-        "name": "Karneval",
-        "url": "http://karneval.stream.laut.fm/karneval",
-        "url_resolved": "http://karneval.stream.laut.fm/karneval",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "folk"
-    },
-    {
-        "stationuuid": "b4bb4ce7-a295-4a97-992f-431a56054f42",
-        "name": "In The Mix Radio",
-        "url": "http://sdstream.de:9300/inthemixradio",
-        "url_resolved": "http://sdstream.de:9300/inthemixradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "2000s,80s,90s,dance,eurodance,mixed"
-    },
-    {
-        "stationuuid": "0ca4efb6-f406-489b-a35d-c7673012b109",
-        "name": "boss",
-        "url": "http://stream.laut.fm/bossisradio",
-        "url_resolved": "http://stream.laut.fm/bossisradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "misc"
-    },
-    {
-        "stationuuid": "da608c1c-c168-4adc-9aa2-753fb063fe07",
-        "name": "Radio Brocken Region Altmark",
-        "url": "https://stream.radiobrocken.de/live-altmark/mp3-256",
-        "url_resolved": "https://stream.radiobrocken.de/live-altmark/mp3-256",
-        "favicon": "https://www.radiobrocken.de/assets/icons/icon-152x152.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "9617864d-0601-11e8-ae97-52543be04c81",
-        "name": "R.SH Top 40",
-        "url": "http://streams.rsh.de/rsh-nordparade/mp3-128/mediaplayer",
-        "url_resolved": "http://streams.rsh.de/rsh-nordparade/mp3-128/mediaplayer",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "hits,top 40"
-    },
-    {
-        "stationuuid": "37c69463-0a4b-11ea-a87e-52543be04c81",
-        "name": "- 1 A - Christmas on Radio",
-        "url": "https://1a-christmas.radionetz.de/1a-christmas.aac",
-        "url_resolved": "https://1a-christmas.radionetz.de/1a-christmas.aac",
-        "favicon": "https://www.1aradio.com/logos/1a-christmas_600x600.jpg",
-        "country": "Germany",
-        "tags": "christmas,holiday,jazz,oldies,season,weihnachten"
-    },
-    {
-        "stationuuid": "960d588c-0601-11e8-ae97-52543be04c81",
-        "name": "laut.fm Fantasyradio",
-        "url": "http://stream.laut.fm/fantasyradio",
-        "url_resolved": "http://stream.laut.fm/fantasyradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "electro,epic,fantasy,folk,gothic,metal,mittelalter,symphonic"
-    },
-    {
-        "stationuuid": "829aad86-98d4-4a65-be38-d96bdebdc349",
-        "name": "Lena fm",
-        "url": "http://lenafm.stream.laut.fm/lenafm?pl=pls&t302=2026-01-15_00-21-12&uuid=5b6dbfa8-7ddc-41f9-98e2-e2e5808b36f9",
-        "url_resolved": "http://lenafm.stream.laut.fm/lenafm?pl=pls&t302=2026-01-15_00-21-12&uuid=5b6dbfa8-7ddc-41f9-98e2-e2e5808b36f9",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "a65a21fa-6b05-47c7-84a6-b77862ff511b",
-        "name": "Electricfabric",
-        "url": "http://stream.laut.fm/electricfabric",
-        "url_resolved": "http://stream.laut.fm/electricfabric",
-        "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "96194dc4-0601-11e8-ae97-52543be04c81",
-        "name": "in.pulz Stadtradio Freiberg",
-        "url": "http://88.198.175.30:5550/stream",
-        "url_resolved": "http://88.198.175.30:5550/stream",
-        "favicon": "http://www.radioinpulz.de/favicon.ico",
-        "country": "Germany",
-        "tags": "freiberg,house,pop"
-    },
-    {
-        "stationuuid": "02a1d3f7-8ef6-48b1-8c63-58e9743cea5c",
-        "name": "0nlineradio VOLKSMUSIK",
-        "url": "https://stream.0nlineradio.com/volksmusik?ref=radiobrowser",
-        "url_resolved": "https://stream.0nlineradio.com/volksmusik?ref=radiobrowser",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "blasmusik,disco,discofox,german,schlager,volksmusik"
-    },
-    {
-        "stationuuid": "214dcd23-0eb9-11e9-a80b-52543be04c81",
-        "name": "technoszene.com Radio",
-        "url": "http://technoszene.stream.laut.fm/technoszene?pl=m3u&t302=2026-01-14_23-31-43&uuid=5245fa8b-66f2-48a3-961a-8144c2c936f9",
-        "url_resolved": "http://technoszene.stream.laut.fm/technoszene?pl=m3u&t302=2026-01-14_23-31-43&uuid=5245fa8b-66f2-48a3-961a-8144c2c936f9",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "deep house,ebm,edm,hardcore,hardstyle,house,industrial techno,rave,tech house,techno,tekkno"
-    },
-    {
-        "stationuuid": "ad61f073-44e3-494d-be44-553f049c084f",
-        "name": "Laut.fm - Easylounge",
-        "url": "https://stream.laut.fm/easylounge",
-        "url_resolved": "https://stream.laut.fm/easylounge",
-        "favicon": "https://assets.laut.fm/2a8654e09a35b5701be18971eac48111?t=_120x120",
-        "country": "Germany",
-        "tags": "smooth jazz"
-    },
-    {
-        "stationuuid": "3d2a8422-2dd1-44ec-96e0-9074eee06de6",
-        "name": "Radio Völklingen",
-        "url": "http://radio-voelklingen.stream.laut.fm/radio-voelklingen?t302=2026-01-15_02-23-43&uuid=f6a34877-0e71-4da3-ac0d-1004b81b8942",
-        "url_resolved": "http://radio-voelklingen.stream.laut.fm/radio-voelklingen?t302=2026-01-15_02-23-43&uuid=f6a34877-0e71-4da3-ac0d-1004b81b8942",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "1411ef10-1880-465d-a783-bf08d5ab476f",
-        "name": "Maximix",
-        "url": "https://stream.laut.fm/maximix",
-        "url_resolved": "https://stream.laut.fm/maximix",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "9609ba6c-0601-11e8-ae97-52543be04c81",
-        "name": "Laut.FM super radio",
-        "url": "http://stream.laut.fm/super-radio",
-        "url_resolved": "http://stream.laut.fm/super-radio",
-        "favicon": "https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300",
-        "country": "Germany",
-        "tags": "dance,elektro,oldies,pop,rock,soul,trance"
-    },
-    {
-        "stationuuid": "022d0148-e588-4df9-8b41-f126a1dfad5d",
-        "name": "Illerkanal",
-        "url": "http://stream.laut.fm/illerkanal",
-        "url_resolved": "http://stream.laut.fm/illerkanal",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "oldies 50's/60's"
-    },
-    {
-        "stationuuid": "4e279b29-15f2-41b5-ab70-4cf41ee40b30",
-        "name": "Laut FM - Zwei",
-        "url": "https://zwei.stream.laut.fm/zwei?OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO2",
-        "url_resolved": "https://zwei.stream.laut.fm/zwei?OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO2",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "08e04644-2ef5-4eb5-aab2-8d34b7aa5921",
-        "name": "laut fm",
-        "url": "https://laut.fm/full_crossover",
-        "url_resolved": "https://laut.fm/full_crossover",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "rock"
-    },
-    {
-        "stationuuid": "498869f4-109c-4fbb-9173-20b3d06b5c90",
-        "name": "webmedia",
-        "url": "https://laut.fm/wibmedia",
-        "url_resolved": "https://laut.fm/wibmedia",
-        "favicon": "null",
-        "country": "Germany",
-        "tags": "dance,disco,italo-dance,relax.,vocal"
-    },
-    {
-        "stationuuid": "84e59828-e5d5-4b8e-ae9a-aa61e517b21c",
-        "name": "Ritus",
-        "url": "https://stream.laut.fm/ritus",
-        "url_resolved": "https://stream.laut.fm/ritus",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "961595e3-0601-11e8-ae97-52543be04c81",
-        "name": "Euro Smooth Jazz",
-        "url": "http://stream.laut.fm/eurosmoothjazz",
-        "url_resolved": "http://stream.laut.fm/eurosmoothjazz",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "ambient,lounge,smooth jazz"
-    },
-    {
-        "stationuuid": "09460ae1-c00f-46e1-9fc6-7318c5a429e5",
-        "name": "WDR 3 (adaptive bitrate)",
-        "url": "https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8",
-        "url_resolved": "https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8",
-        "favicon": "https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png",
-        "country": "Germany",
-        "tags": "classical,culture,jazz"
-    },
-    {
-        "stationuuid": "78b4b114-452a-477b-a13d-ed825a89f8f8",
-        "name": "Antenne Niedersachsen 80er Party",
-        "url": "http://stream.antenne.com/80erparty/mp3-192/linux/",
-        "url_resolved": "http://stream.antenne.com/80erparty/mp3-192/linux/",
-        "favicon": "https://static.antenne.com/img/6280/882525/307000/o/1200/630/2023_stream-visual_80er_party_1400x1400px.jpg",
-        "country": "Germany",
-        "tags": "80s"
-    },
-    {
-        "stationuuid": "9f88b38b-4673-4ed3-a450-0ebb49cae695",
-        "name": "rock",
-        "url": "https://stream.rockantenne.de/rockantenne/stream/mp3",
-        "url_resolved": "https://stream.rockantenne.de/rockantenne/stream/mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "1f52af83-c958-4e90-9d2c-9a42a8162179",
-        "name": "Laut.FM Chart-Tipps",
-        "url": "http://stream.laut.fm/chart-tipps",
-        "url_resolved": "http://stream.laut.fm/chart-tipps",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "dance,party,pop"
-    },
-    {
-        "stationuuid": "8a94e953-8f22-4bb3-b765-58943ada7b6a",
-        "name": "Star FM - Blues Rock",
-        "url": "https://stream.starfm.de/blues/mp3-192/iradio",
-        "url_resolved": "https://stream.starfm.de/blues/mp3-192/iradio",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
-    },
-    {
-        "stationuuid": "39211ced-d579-477e-a12c-4a2fbb190ec4",
-        "name": "mlp.radio",
-        "url": "https://dash.mlp.radio/listen/mlpfm/radio.mp3",
-        "url_resolved": "https://dash.mlp.radio/listen/mlpfm/radio.mp3",
-        "favicon": "",
-        "country": "Germany",
-        "tags": "mlp,my little pony: friendship is magic"
-    },
-    {
-        "stationuuid": "45b9e542-fcef-4513-a767-2a25c2d77fb9",
-        "name": "Regenbogen 2 Rhein-Neckar aac-128",
-        "url": "https://stream.regenbogen2.de/rheinneckar/aac-128",
-        "url_resolved": "https://stream.regenbogen2.de/rheinneckar/aac-128",
-        "favicon": "https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png",
-        "country": "Germany",
-        "tags": "classic rock,pop,rock"
-    },
-    {
-        "stationuuid": "c06bc863-0e38-4b5b-94b2-732111e35c21",
-        "name": "DASDING Visual Radio",
-        "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
-        "url_resolved": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
-        "favicon": "",
-        "country": "Germany",
-        "tags": ""
+        "tags": "pop,youth,hessen"
     },
     {
         "stationuuid": "a9b97232-ed6e-4a68-ac1a-10df207d7c51",

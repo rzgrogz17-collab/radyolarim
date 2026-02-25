@@ -20,18 +20,18 @@
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Fenomen Türk 256",
-        "url": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
+        "url": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
         "url_resolved": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomen%20t%C3%BCrk%202.png",
         "country": "Turkey",
         "tags": ""
     },
     {
         "stationuuid": "3ca73769-408e-4460-abc1-a748d035d313",
-        "name": "REPLAY NEWS - Türkçe    Her 5 dakikada haber radyosu",
+        "name": "REPLAY NEWS-Türkçe Her 5 dakikada haber radyosu",
         "url": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
         "url_resolved": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
-        "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-TR.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/replaynews%20tr.png",
         "country": "Turkey",
         "tags": "news"
     },
@@ -58,16 +58,16 @@
         "name": "Esas radyo",
         "url": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
         "url_resolved": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/eas.png",
         "country": "Turkey",
         "tags": "music,pop"
     },
     {
         "stationuuid": "197b21b5-9f89-4f1f-8d68-cfc59ae9ba70",
-        "name": "Haber Türk Radyo",
+        "name": "Habertürk Radyo",
         "url": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
         "url_resolved": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/indir.png",
         "country": "Turkey",
         "tags": "news"
     },
@@ -76,18 +76,9 @@
         "name": "Mayday Records",
         "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
         "url_resolved": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
-        "favicon": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/mayday.png",
         "country": "Turkey",
         "tags": "electronic,progressive house,tech house"
-    },
-    {
-        "stationuuid": "fbe7634c-4e4d-4533-9a5d-6602f6a6cf41",
-        "name": "HOUSELAND TURKEY",
-        "url": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": ""
     },
     {
         "stationuuid": "c06ef146-a5b0-485f-a6e3-1df09514a5bf",

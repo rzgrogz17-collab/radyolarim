@@ -20,8 +20,8 @@
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Fenomen Türk 256",
-        "url": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
-        "url_resolved": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
+        "url": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
+        "url_resolved": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomen%20t%C3%BCrk%202.png",
         "country": "Turkey",
         "tags": ""

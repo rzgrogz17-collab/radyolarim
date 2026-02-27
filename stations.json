@@ -1,15 +1,5 @@
 [
     {
-        "uuid": "bce6e674-37d7-48ae-8a9e-912dd9891674",
-        "name": "Metro FM",
-        "streamUrl": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
-        "iconUrl": "https://metrofm.com.tr/favicon.ico",
-        "tags": "",
-        "country": "Turkey",
-        "clickCount": 11113,
-        "isFavorite": false
-    },
-    {
         "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
         "name": "Electroradio.fm",
         "url": "http://stream.electroradio.fm/128k",

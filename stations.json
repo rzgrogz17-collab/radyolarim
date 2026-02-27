@@ -2423,8 +2423,8 @@
     {
         "stationuuid": "f17523b9-2e77-46f3-8851-cdd842ca5b8f",
         "name": "Metro fm turkey",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC.aac",
+        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC.aac",
         "favicon": "",
         "country": "Turkey",
         "tags": ""

@@ -20,8 +20,8 @@
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Fenomen Türk 256",
-        "url": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
-        "url_resolved": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
+        "url": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
+        "url_resolved": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomen%20t%C3%BCrk%202.png",
         "country": "Turkey",
         "tags": ""
@@ -81,47 +81,38 @@
         "tags": "electronic,progressive house,tech house"
     },
     {
-        "stationuuid": "c06ef146-a5b0-485f-a6e3-1df09514a5bf",
-        "name": "Kurd1",
-        "url": "https://listen.radioking.com/radio/119251/stream/158701",
-        "url_resolved": "https://listen.radioking.com/radio/119251/stream/158701",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "classical"
-    },
-    {
         "stationuuid": "926a0629-3096-4755-a3b3-031e78bef5c1",
         "name": "Radio Mydonose",
         "url": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
         "url_resolved": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
-        "favicon": "",
+        "favicon": "https://upload.wikimedia.org/wikipedia/tr/4/43/Radyo_Mydonose.png",
         "country": "Turkey",
         "tags": ""
+    },
+   {
+        "stationuuid": "02ad59d8-eeb6-41f0-b850-f453bc0401ae",
+        "name": "Radyo 45'lik",
+        "url": "https://stream.radyo45lik.com:4545/",
+        "url_resolved": "https://stream.radyo45lik.com:4545/",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/45likfm.png",
+        "country": "Turkey",
+        "tags": "yerel"
     },
     {
         "stationuuid": "c1e42f7b-b285-477f-b225-0b070b561822",
         "name": "Radyo Spor",
         "url": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
         "url_resolved": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/radyo%20spor.jpg",
         "country": "Turkey",
         "tags": "classical"
-    },
-    {
-        "stationuuid": "2e29c25c-0ec4-42a4-be7f-6fe22911cf31",
-        "name": "CLASSICLAND TURKEY",
-        "url": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": ""
     },
     {
         "stationuuid": "960e363d-0601-11e8-ae97-52543be04c81",
         "name": "Max Fm 95.8 Maximum Music",
         "url": "http://live2.radyotvonline.com:8025/",
         "url_resolved": "http://live2.radyotvonline.com:8025/",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/max%20fm.png",
         "country": "Turkey",
         "tags": ""
     },
@@ -130,25 +121,16 @@
         "name": "dinamo.fm fluent",
         "url": "http://channels.dinamo.fm/fluent-mp3",
         "url_resolved": "http://channels.dinamo.fm/fluent-mp3",
-        "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/dinamofm.jpg",
         "country": "Turkey",
         "tags": "atmospheric,d&b,drum and bass,liquid"
-    },
-    {
-        "stationuuid": "df6f9f99-dd61-4570-812c-398a06c3da4d",
-        "name": "KEYF STATION",
-        "url": "http://yayin.radyomadyo.com:8002/stream",
-        "url_resolved": "http://yayin.radyomadyo.com:8002/stream",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "pop"
     },
     {
         "stationuuid": "04ff41d5-b70a-4201-b06e-f39b5d6b9dcc",
         "name": "Fenomen Clubbin 256",
         "url": "https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8",
         "url_resolved": "https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomen%20clubiin.jpg",
         "country": "Turkey",
         "tags": ""
     },
@@ -164,9 +146,9 @@
     {
         "stationuuid": "800b985f-aed5-4ab6-adb9-854f774af2c3",
         "name": "Cantürk Radyo",
-        "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
-        "url_resolved": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
-        "favicon": "null",
+        "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
+        "url_resolved": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/cant%C3%BCrkfm.jpg",
         "country": "Turkey",
         "tags": ""
     },
@@ -175,16 +157,16 @@
         "name": "Fenomen Dans 256",
         "url": "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8",
         "url_resolved": "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomen%20dans.jpg",
         "country": "Turkey",
         "tags": ""
     },
     {
         "stationuuid": "2c1d30b7-3fbd-43cb-b956-167d822d276f",
-        "name": "Mega Site .",
+        "name": "Mega Site",
         "url": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
         "url_resolved": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
-        "favicon": "null",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/megasitefm.png",
         "country": "Turkey",
         "tags": ""
     },
@@ -193,34 +175,16 @@
         "name": "Radyo Hakkın Sesi",
         "url": "https://radio.mihr.com/radio/8010/hakkinsesi",
         "url_resolved": "https://radio.mihr.com/radio/8010/hakkinsesi",
-        "favicon": "https://mihr.com/Content/images/logo2.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/hakk%C4%B1nsesifm.png",
         "country": "Turkey",
         "tags": ""
-    },
-    {
-        "stationuuid": "c7ef0cc3-2ce1-4c4d-9506-ff1ca8d27197",
-        "name": "Batı Radyo",
-        "url": "https://sslyayin.netyayin.net:10902/",
-        "url_resolved": "https://sslyayin.netyayin.net:10902/",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "classical"
-    },
-    {
-        "stationuuid": "65a5f24f-7381-452c-8d05-2aa942c9f95d",
-        "name": "S1lhoutte - Slow FM",
-        "url": "https://anadolu.liderhost.com.tr:10973/",
-        "url_resolved": "https://anadolu.liderhost.com.tr:10973/",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "pop,rock,slow"
     },
     {
         "stationuuid": "ad387a99-2311-48ff-befd-346b6fa8a9ef",
         "name": "TheRockRadio",
         "url": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
         "url_resolved": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
-        "favicon": "https://therock.com.tr/images/favicon.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/therockfm.jpg",
         "country": "Turkey",
         "tags": ""
     },
@@ -260,14 +224,14 @@
         "country": "Turkey",
         "tags": ""
     },
-    {
-        "stationuuid": "02ad59d8-eeb6-41f0-b850-f453bc0401ae",
-        "name": "Radyo 45lik - 45'lik Radyo",
-        "url": "https://stream.radyo45lik.com:4545/",
-        "url_resolved": "https://stream.radyo45lik.com:4545/",
+   {
+        "stationuuid": "c7ef0cc3-2ce1-4c4d-9506-ff1ca8d27197",
+        "name": "Batı Radyo",
+        "url": "https://sslyayin.netyayin.net:10902/",
+        "url_resolved": "https://sslyayin.netyayin.net:10902/",
         "favicon": "",
         "country": "Turkey",
-        "tags": ""
+        "tags": "classical"
     },
     {
         "stationuuid": "5f77c3cc-d5be-4bfd-8259-c8c9cbc264e8",

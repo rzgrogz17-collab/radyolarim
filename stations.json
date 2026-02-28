@@ -20,9 +20,18 @@
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Fenomen Türk 256",
-        "url": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
-        "url_resolved": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
+        "url": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
+        "url_resolved": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomen%20t%C3%BCrk%202.png",
+        "country": "Turkey",
+        "tags": "pop"
+    },
+    {
+        "stationuuid": "1eaa11aa-8bff-48c4-9336-02a0d76389aa",
+        "name": "Erkam Radyo",
+        "url": "https://api-tv5.yayin.com.tr:8002/mp3",
+        "url_resolved": "https://api-tv5.yayin.com.tr:8002/mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/erkamn%20radyo.png",
         "country": "Turkey",
         "tags": ""
     },
@@ -33,25 +42,16 @@
         "url_resolved": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/replaynews%20tr.png",
         "country": "Turkey",
-        "tags": "news"
+        "tags": "haber"
     },
     {
         "stationuuid": "87d4f034-07d0-4d80-b185-1e29fc0ce445",
         "name": "Danceland",
-        "url": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
-        "favicon": "",
+        "url": "https://likeradiostream.com/danceland",
+        "url_resolved": "https://likeradiostream.com/danceland",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/efz7bwrtnvc9.jpg",
         "country": "Turkey",
         "tags": "electronic"
-    },
-    {
-        "stationuuid": "4c58f80e-f4fa-4233-b336-17164cf934b9",
-        "name": "radio megasite",
-        "url": "http://yayin.netradyom.com:7900/;",
-        "url_resolved": "http://yayin.netradyom.com:7900/;",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": ""
     },
     {
         "stationuuid": "04bf2806-4ce5-4114-925a-03fe55aaf8ad",
@@ -136,10 +136,10 @@
     },
     {
         "stationuuid": "b09c0736-3656-4675-b83b-9c6d6c1f9aa7",
-        "name": "S1LHOUTTE ANKARA HAVALARI",
+        "name": "ANKARA HAVALARI",
         "url": "http://37.247.98.8/stream/30/",
         "url_resolved": "http://37.247.98.8/stream/30/",
-        "favicon": "",
+        "favicon": "https://www.radyodinle.one/img/205x205/ankara-havalari.jpg",
         "country": "Turkey",
         "tags": "turkish music"
     },
@@ -279,15 +279,6 @@
         "tags": ""
     },
     {
-        "stationuuid": "d14b4b92-7c34-49c6-8b65-2da15bc51346",
-        "name": "Apacik Radyo",
-        "url": "http://stream.34bit.net/ar.aac",
-        "url_resolved": "http://stream.34bit.net/ar.aac",
-        "favicon": "https://apacikradyo.com.tr/logo1024",
-        "country": "Turkey",
-        "tags": "classical,ethnic,jazz,talk,turkish music,world music"
-    },
-    {
         "stationuuid": "bd54a457-92ce-433c-aab6-f625518dbbad",
         "name": "FENOMEN RAP",
         "url": "https://live.radyofenomen.com/fenomenrap/abr/fenomenrap/128/chunks.m3u8",
@@ -331,15 +322,6 @@
         "favicon": "null",
         "country": "Turkey",
         "tags": "discography"
-    },
-    {
-        "stationuuid": "1eaa11aa-8bff-48c4-9336-02a0d76389aa",
-        "name": "Erkam Radyo",
-        "url": "https://api-tv5.yayin.com.tr:8002/mp3",
-        "url_resolved": "https://api-tv5.yayin.com.tr:8002/mp3",
-        "favicon": "https://www.erkamradyo.com/images/mobil.png",
-        "country": "Turkey",
-        "tags": ""
     },
     {
         "stationuuid": "e6549c43-15bd-4675-bc96-f39723bb6144",

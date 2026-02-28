@@ -202,7 +202,7 @@
         "name": "Radyo Göktürk",
         "url": "https://ip231.ozelip.com:8004/;stream.mp3",
         "url_resolved": "https://ip231.ozelip.com:8004/;stream.mp3",
-        "favicon": "https://radyogokturk.com/dinle/doc/avatar.jpg",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/g%C3%B6kt%C3%BCrkfm.jpg",
         "country": "Turkey",
         "tags": ""
     },
@@ -220,24 +220,15 @@
         "name": ".Al quran radio",
         "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
         "url_resolved": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/kuranfm.png",
         "country": "Turkey",
         "tags": "classical"
     },
     {
-        "stationuuid": "d9dc8607-d88d-48f2-bde0-1dc98c901f68",
-        "name": "NUR Radyo",
-        "url": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
-        "url_resolved": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
-        "favicon": "https://www.mihr.com/Content/images/mihrcom.ico",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
         "stationuuid": "7eb696ea-60e3-4d9d-b18e-213fcae88b8d",
         "name": "FENOMEN AKUSTIK",
-        "url": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
-        "url_resolved": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
+        "url": "https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8",
+        "url_resolved": "https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8",
         "favicon": "",
         "country": "Turkey",
         "tags": ""

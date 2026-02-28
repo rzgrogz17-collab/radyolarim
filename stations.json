@@ -55,7 +55,7 @@
     },
     {
         "stationuuid": "04bf2806-4ce5-4114-925a-03fe55aaf8ad",
-        "name": "Esas radyo",
+        "name": "Esas Radyo",
         "url": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
         "url_resolved": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/eas.png",
@@ -162,15 +162,6 @@
         "tags": ""
     },
     {
-        "stationuuid": "2c1d30b7-3fbd-43cb-b956-167d822d276f",
-        "name": "Mega Site",
-        "url": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
-        "url_resolved": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/megasitefm.png",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
         "stationuuid": "9a83c49d-d17e-4fec-ba64-3db850788da4",
         "name": "Radyo Hakkın Sesi",
         "url": "https://radio.mihr.com/radio/8010/hakkinsesi",
@@ -185,15 +176,6 @@
         "url": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
         "url_resolved": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/therockfm.jpg",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
-        "stationuuid": "beb27462-45e9-48a5-82be-591c74347a12",
-        "name": "Radyo Megasite",
-        "url": "http://mega.netradyom.com:7900/radio.mp3",
-        "url_resolved": "http://mega.netradyom.com:7900/radio.mp3",
-        "favicon": "",
         "country": "Turkey",
         "tags": ""
     },
@@ -224,21 +206,12 @@
         "country": "Turkey",
         "tags": ""
     },
-   {
-        "stationuuid": "c7ef0cc3-2ce1-4c4d-9506-ff1ca8d27197",
-        "name": "Batı Radyo",
-        "url": "https://sslyayin.netyayin.net:10902/",
-        "url_resolved": "https://sslyayin.netyayin.net:10902/",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "classical"
-    },
     {
         "stationuuid": "5f77c3cc-d5be-4bfd-8259-c8c9cbc264e8",
         "name": "Radyo Trio",
         "url": "https://radyotrio.radyotvonline.net/radyotrio",
         "url_resolved": "https://radyotrio.radyotvonline.net/radyotrio",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/TR%C4%B0OFM.png",
         "country": "Turkey",
         "tags": ""
     },
@@ -421,6 +394,15 @@
         "favicon": "",
         "country": "Turkey",
         "tags": ""
+    },
+  {
+        "stationuuid": "c7ef0cc3-2ce1-4c4d-9506-ff1ca8d27197",
+        "name": "Batı Radyo",
+        "url": "https://sslyayin.netyayin.net:10902/",
+        "url_resolved": "https://sslyayin.netyayin.net:10902/",
+        "favicon": "",
+        "country": "Turkey",
+        "tags": "classical"
     },
     {
         "stationuuid": "2304e97c-5796-4a40-84a2-64a231732e47",

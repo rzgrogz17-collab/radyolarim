@@ -17,6 +17,24 @@
         "country": "Russia",
         "tags": "pop, rock, 80s, 90s, russian, retro, dance"
     },
+  {
+        "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
+        "name": "Metro FM",
+        "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
+        "url_resolved": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/metrofm.jpg",
+        "country": "Turkey",
+        "tags": "pop,hit"
+    },
+   {
+        "stationuuid": "4ead410e-2f33-411b-8a06-df9ff62efa56",
+        "name": "Joy Fm",
+        "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
+        "url_resolved": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/joy%20fm.jpg",
+        "country": "Turkey",
+        "tags": "international"
+    },
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Fenomen Türk 256",
@@ -184,9 +202,9 @@
         "name": "MEGA SİTE",
         "url": "http://yayin.netradyom.com:7900/;stream.mp3",
         "url_resolved": "http://yayin.netradyom.com:7900/;stream.mp3",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/megasitefm.png",
         "country": "Turkey",
-        "tags": "http://yayin.netradyom.com:7900/;stream.mp3"
+        "tags": "SLOW"
     },
     {
         "stationuuid": "03fe4753-3683-4913-ac9a-b32d260da990",
@@ -673,15 +691,6 @@
         "favicon": "",
         "country": "Turkey",
         "tags": ""
-    },
-    {
-        "stationuuid": "4ead410e-2f33-411b-8a06-df9ff62efa56",
-        "name": "Joy Fm",
-        "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-        "url_resolved": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "international"
     },
     {
         "stationuuid": "9056e9ee-3859-11e8-bb9b-52543be04c81",
@@ -2340,15 +2349,6 @@
         "tags": "chillout,lounge,relaxing"
     },
     {
-        "stationuuid": "f17523b9-2e77-46f3-8851-cdd842ca5b8f",
-        "name": "Metro fm turkey",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC.aac",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC.aac",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
         "stationuuid": "a4a06619-c8fc-43aa-b574-48b350b5e213",
         "name": "Havin FM",
         "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
@@ -2579,15 +2579,6 @@
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
         "favicon": "",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
-        "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
-        "name": "Metro FM",
-        "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
-        "url_resolved": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
-        "favicon": "https://metrofm.com.tr/favicon.ico",
         "country": "Turkey",
         "tags": ""
     },

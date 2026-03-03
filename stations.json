@@ -35,6 +35,15 @@
         "country": "Turkey",
         "tags": "international"
     },
+   {
+        "stationuuid": "ad09398c-3f3d-4311-9344-c76395e46805",
+        "name": "NTV Radyo",
+        "url": "http://ntvrdwmp.radyotvonline.com/",
+        "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ntvradyo.png",
+        "country": "Turkey",
+        "tags": "haber"
+    },
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Fenomen Türk 256",
@@ -51,7 +60,7 @@
         "url_resolved": "https://api-tv5.yayin.com.tr:8002/mp3",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/erkamn%20radyo.png",
         "country": "Turkey",
-        "tags": ""
+        "tags": "islam"
     },
     {
         "stationuuid": "3ca73769-408e-4460-abc1-a748d035d313",
@@ -79,6 +88,15 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/eas.png",
         "country": "Turkey",
         "tags": "music,pop"
+    },
+  {
+        "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
+        "name": "A HABER Radyo",
+        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
+        "country": "Turkey",
+        "tags": "news"
     },
     {
         "stationuuid": "197b21b5-9f89-4f1f-8d68-cfc59ae9ba70",
@@ -205,15 +223,6 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/megasitefm.png",
         "country": "Turkey",
         "tags": "SLOW"
-    },
-    {
-        "stationuuid": "03fe4753-3683-4913-ac9a-b32d260da990",
-        "name": "Erkam Radyo 2nd Stream",
-        "url": "https://yayin2.canliyayin.org:10910/stream?",
-        "url_resolved": "https://yayin2.canliyayin.org:10910/stream?",
-        "favicon": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0",
-        "country": "Turkey",
-        "tags": ""
     },
     {
         "stationuuid": "38233bd5-104c-420e-af33-7af24b90ec67",
@@ -2106,15 +2115,6 @@
         "tags": "classic hits"
     },
     {
-        "stationuuid": "ad09398c-3f3d-4311-9344-c76395e46805",
-        "name": "NTV Radyo",
-        "url": "http://ntvrdwmp.radyotvonline.com/",
-        "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "news"
-    },
-    {
         "stationuuid": "6f54c6a5-7032-4a86-b00e-21f1169f678a",
         "name": "SUPER FM 2 TURKEY",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
@@ -2230,15 +2230,6 @@
         "favicon": "",
         "country": "Turkey",
         "tags": "arabesk"
-    },
-    {
-        "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
-        "name": "A HABER Radyo",
-        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
-        "country": "Turkey",
-        "tags": ""
     },
     {
         "stationuuid": "943a244d-171c-11e8-ae97-52543be04c81",

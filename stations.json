@@ -180,6 +180,15 @@
         "tags": "turkish music"
     },
     {
+        "stationuuid": "800b985f-aed5-4ab6-adb9-854f774af2c3",
+        "name": "TRT Haber Radyo",
+        "url": "https://trt.radyotvonline.net/trthaber",
+        "url_resolved": "https://trt.radyotvonline.net/trthaber",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/trthaberradyo.jpg",
+        "country": "Turkey",
+        "tags": "haber,news"
+    },
+    {
         "stationuuid": "7225904f-6fd7-404f-b4a7-81e75e301ed4",
         "name": "Fenomen Dans 256",
         "url": "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8",

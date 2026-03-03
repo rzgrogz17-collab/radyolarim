@@ -89,7 +89,7 @@
         "country": "Turkey",
         "tags": "music,pop"
     },
-  {
+   {
         "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
         "name": "A HABER Radyo",
         "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
@@ -183,7 +183,7 @@
         "stationuuid": "800b985f-aed5-4ab6-adb9-854f774af2c3",
         "name": "TRT Haber Radyo",
         "url": "https://trt.radyotvonline.net/trthaber",
-        "url_resolved": ""https://trt.radyotvonline.net/trthaber",
+        "url_resolved": "https://trt.radyotvonline.net/trthaber",
         "favicon": "https://www.radyodinle1.com/img/rd-rsm/canli-trt-haber-radyo-dinle.jpg",
         "country": "Turkey",
         "tags": ""

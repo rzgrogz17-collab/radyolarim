@@ -92,8 +92,8 @@
   {
         "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
         "name": "A HABER Radyo",
-        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
+        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
         "country": "Turkey",
         "tags": "news"
@@ -181,10 +181,10 @@
     },
     {
         "stationuuid": "800b985f-aed5-4ab6-adb9-854f774af2c3",
-        "name": "Cantürk Radyo",
-        "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/cant%C3%BCrkfm.jpg",
+        "name": "TRT Haber Radyo",
+        "url": "https://trt.radyotvonline.net/trthaber",
+        "url_resolved": ""https://trt.radyotvonline.net/trthaber",
+        "favicon": "https://www.radyodinle1.com/img/rd-rsm/canli-trt-haber-radyo-dinle.jpg",
         "country": "Turkey",
         "tags": ""
     },

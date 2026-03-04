@@ -47,8 +47,8 @@
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Radyo Fenomen",
-        "url": "https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8?nimblesessionid=2427608618",
-        "url_resolved": "https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8?nimblesessionid=2427608618",
+        "url": "https://rdfenlive.mediatriple.net/fenomen/fenomendans/chunks.m3u8",
+        "url_resolved": "https://rdfenlive.mediatriple.net/fenomen/fenomendans/chunks.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/Radyo%20Fenomen.jpg",
         "country": "Turkey",
         "tags": "hit"
@@ -92,8 +92,8 @@
   {
         "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
         "name": "A HABER Radyo",
-        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
-        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
+        "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/media-u3aj2bpvq_31149.aac",
+        "url_resolved": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/media-u3aj2bpvq_31149.aac",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
         "country": "Turkey",
         "tags": "news"

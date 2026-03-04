@@ -89,11 +89,11 @@
         "country": "Turkey",
         "tags": "music,pop"
     },
-  {
+   {
         "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
         "name": "A HABER Radyo",
-        "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/media-u3aj2bpvq_31149.aac",
-        "url_resolved": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/media-u3aj2bpvq_31149.aac",
+        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
+        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
         "country": "Turkey",
         "tags": "news"

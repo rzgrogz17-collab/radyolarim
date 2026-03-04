@@ -47,8 +47,8 @@
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
         "name": "Radyo Fenomen",
-        "url": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
-        "url_resolved": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
+        "url": "https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8?nimblesessionid=2427608618",
+        "url_resolved": "https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/Radyo%20Fenomen.jpg",
         "country": "Turkey",
         "tags": "hit"

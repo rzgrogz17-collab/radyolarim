@@ -153,6 +153,15 @@
         "tags": ""
     },
     {
+        "stationuuid": "b4d2f7c7-8681-47ff-8bcf-71c06e60e750",
+        "name": "dinamo.fm deep",
+        "url": "http://channels.dinamo.fm/deep-mp3",
+        "url_resolved": "http://channels.dinamo.fm/deep-mp3",
+        "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
+        "country": "Turkey",
+        "tags": "deep house,house,nu disco"
+    },
+    {
         "stationuuid": "45bb5fc8-84df-4561-b282-935bb5dd7c86",
         "name": "dinamo.fm fluent",
         "url": "http://channels.dinamo.fm/fluent-mp3",
@@ -224,6 +233,15 @@
         "country": "Turkey",
         "tags": "SLOW"
     },
+      {
+        "stationuuid": "9ba83d03-ea3e-4726-8a48-85408d58c44d",
+        "name": "Radyo Viva",
+        "url": "https://chunks.radyotvonline.net/Media/hls/59/7487574.aac",
+        "url_resolved": "https://chunks.radyotvonline.net/Media/hls/59/7487574.aac",
+        "favicon": "https://www.radyoviva.com.tr/viva-logo.png",
+        "country": "Turkey",
+        "tags": "pop"
+    },
     {
         "stationuuid": "38233bd5-104c-420e-af33-7af24b90ec67",
         "name": "Radyo Göktürk",
@@ -251,14 +269,23 @@
         "country": "Turkey",
         "tags": "classical"
     },
+   {
+        "stationuuid": "2304e97c-5796-4a40-84a2-64a231732e47",
+        "name": "Radyo Bilkent",
+        "url": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
+        "url_resolved": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/bilkentfm.jpg",
+        "country": "Turkey",
+        "tags": ""
+    },
     {
         "stationuuid": "7eb696ea-60e3-4d9d-b18e-213fcae88b8d",
         "name": "FENOMEN AKUSTIK",
-        "url": "https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8",
-        "url_resolved": "https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8",
-        "favicon": "",
+        "url": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
+        "url_resolved": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/fenomenakustik.jpg",
         "country": "Turkey",
-        "tags": ""
+        "tags": "akustik"
     },
     {
         "stationuuid": "2adbdfbb-1b24-479d-b956-f175c4bb2590",
@@ -421,33 +448,6 @@
         "favicon": "",
         "country": "Turkey",
         "tags": "classical"
-    },
-    {
-        "stationuuid": "2304e97c-5796-4a40-84a2-64a231732e47",
-        "name": "Radyo Bilkent",
-        "url": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
-        "url_resolved": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
-        "stationuuid": "b4d2f7c7-8681-47ff-8bcf-71c06e60e750",
-        "name": "dinamo.fm deep",
-        "url": "http://channels.dinamo.fm/deep-mp3",
-        "url_resolved": "http://channels.dinamo.fm/deep-mp3",
-        "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
-        "country": "Turkey",
-        "tags": "deep house,house,nu disco"
-    },
-    {
-        "stationuuid": "9ba83d03-ea3e-4726-8a48-85408d58c44d",
-        "name": "Radyo Viva",
-        "url": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "pop"
     },
     {
         "stationuuid": "38ccbf1e-0938-4e36-a2df-76b7a4c559c4",

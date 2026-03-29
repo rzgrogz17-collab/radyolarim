@@ -20,14 +20,23 @@
   {
         "stationuuid": "2b54052e-d57b-4131-a072-a36bf7829965",
         "name": "Süper Fm",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
+        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/s%C3%BCperfm.jpg",
         "country": "Turkey",
         "tags": "pop"
     },
   {
         "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
+        "name": "Pash Pash 90s Station",
+        "url": "https://90s.pashpashradio.com:7001/;",
+        "url_resolved": "https://90s.pashpashradio.com:7001/;",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/pash%20fm.png",
+        "country": "Turkey",
+        "tags": "	80s, 90s"
+    },
+    {
+        "stationuuid": "0013c08a-31e7-48c6-87a9-7f64736e0a39",
         "name": "Metro FM",
         "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
         "url_resolved": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",

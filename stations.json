@@ -26,7 +26,7 @@
         "country": "Turkey",
         "tags": "pop"
     },
-  {
+   {
         "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
         "name": "Pash Pash 90s Station",
         "url": "https://90s.pashpashradio.com:7001/;",
@@ -83,8 +83,8 @@
     {
         "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
         "name": "A HABER Radyo",
-        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/media-up7hqgpr2_31192.aac",
-        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/media-up7hqgpr2_31192.aac",
+        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+        "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
         "country": "Turkey",
         "tags": "news"

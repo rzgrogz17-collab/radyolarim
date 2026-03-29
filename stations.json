@@ -14,8 +14,17 @@
         "url": "http://ic7.101.ru:8000/v3_1",
         "url_resolved": "http://ic7.101.ru:8000/v3_1",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
-        "country": "Russia",
+        "country": "Russian Federation",
         "tags": "pop, rock, 80s, 90s, russian, retro, dance"
+    },
+  {
+        "stationuuid": "2b54052e-d57b-4131-a072-a36bf7829965",
+        "name": "Süper Fm",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
+        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/s%C3%BCperfm.jpg",
+        "country": "Turkey",
+        "tags": "pop"
     },
   {
         "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
@@ -42,7 +51,7 @@
         "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ntvradyo.png",
         "country": "Turkey",
-        "tags": "haber"
+        "tags": "news"
     },
     {
         "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
@@ -63,33 +72,6 @@
         "tags": "islam"
     },
     {
-        "stationuuid": "3ca73769-408e-4460-abc1-a748d035d313",
-        "name": "REPLAY NEWS-Türkçe Her 5 dakikada haber radyosu",
-        "url": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
-        "url_resolved": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/replaynews%20tr.png",
-        "country": "Turkey",
-        "tags": "haber"
-    },
-    {
-        "stationuuid": "87d4f034-07d0-4d80-b185-1e29fc0ce445",
-        "name": "Danceland",
-        "url": "https://likeradiostream.com/danceland",
-        "url_resolved": "https://likeradiostream.com/danceland",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/efz7bwrtnvc9.jpg",
-        "country": "Turkey",
-        "tags": "electronic"
-    },
-    {
-        "stationuuid": "04bf2806-4ce5-4114-925a-03fe55aaf8ad",
-        "name": "Esas Radyo",
-        "url": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
-        "url_resolved": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/eas.png",
-        "country": "Turkey",
-        "tags": "music,pop"
-    },
-    {
         "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
         "name": "A HABER Radyo",
         "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/media-up7hqgpr2_31192.aac",
@@ -97,6 +79,15 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/a%20haber%20radyo.png",
         "country": "Turkey",
         "tags": "news"
+    },
+    {
+        "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
+        "name": "POP LAND",
+        "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+        "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
+        "country": "Turkey",
+        "tags": "pop"
     },
     {
         "stationuuid": "197b21b5-9f89-4f1f-8d68-cfc59ae9ba70",
@@ -195,7 +186,7 @@
         "url_resolved": "https://trt.radyotvonline.net/trthaber",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/trthaberradyo.jpg",
         "country": "Turkey",
-        "tags": "haber,news"
+        "tags": "news"
     },
     {
         "stationuuid": "7225904f-6fd7-404f-b4a7-81e75e301ed4",
@@ -213,7 +204,7 @@
         "url_resolved": "https://radio.mihr.com/radio/8010/hakkinsesi",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/hakk%C4%B1nsesifm.png",
         "country": "Turkey",
-        "tags": ""
+        "tags": "islam"
     },
     {
         "stationuuid": "ad387a99-2311-48ff-befd-346b6fa8a9ef",
@@ -267,7 +258,7 @@
         "url_resolved": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/kuranfm.png",
         "country": "Turkey",
-        "tags": "classical"
+        "tags": "islam"
     },
    {
         "stationuuid": "2304e97c-5796-4a40-84a2-64a231732e47",
@@ -316,7 +307,7 @@
     },
     {
         "stationuuid": "3acd808a-e801-43bb-bdb3-16a8f4761f0d",
-        "name": "meteorolojinin sesi",
+        "name": "Meteorolojinin sesi",
         "url": "http://radyomgm.canliyayinda.com/;stream.mp3",
         "url_resolved": "http://radyomgm.canliyayinda.com/;stream.mp3",
         "favicon": "",
@@ -352,10 +343,10 @@
     },
     {
         "stationuuid": "728789a2-8938-4c40-890e-768208376fc0",
-        "name": "a PARA",
+        "name": "A PARA",
         "url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
         "url_resolved": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
-        "favicon": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
+        "favicon": "https://www.turkuvapp.com/assets/images/live-channel/apara.jpg",
         "country": "Turkey",
         "tags": ""
     },
@@ -375,7 +366,7 @@
         "url_resolved": "http://yayin1.yayindakiler.com:3156/",
         "favicon": "http://dostfm.com/favicon.ico",
         "country": "Turkey",
-        "tags": ""
+        "tags": "islam"
     },
     {
         "stationuuid": "568ebc25-b2ba-4edc-baec-aa5e15f08512",
@@ -483,7 +474,7 @@
         "url_resolved": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://mp3islam.com/favicon.ico",
         "country": "Turkey",
-        "tags": ""
+        "tags": "islam,din,quran"
     },
     {
         "stationuuid": "cbd35624-d0ed-4676-b0c6-a18358987584",
@@ -501,7 +492,7 @@
         "url_resolved": "https://radio.mihr.com/radio/8050/radio.mp3",
         "favicon": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg",
         "country": "Turkey",
-        "tags": ""
+        "tags": "kur'an,quran,islam"
     },
     {
         "stationuuid": "3be05f55-f76e-4388-a769-c3c202910338",
@@ -576,13 +567,31 @@
         "tags": "journey,travel,traveler,wanderlust"
     },
     {
-        "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
-        "name": "POP LAND",
-        "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-        "favicon": "",
+        "stationuuid": "3ca73769-408e-4460-abc1-a748d035d313",
+        "name": "REPLAY NEWS-Türkçe Her 5 dakikada haber radyosu",
+        "url": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
+        "url_resolved": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/replaynews%20tr.png",
         "country": "Turkey",
-        "tags": ""
+        "tags": "news"
+    },
+    {
+        "stationuuid": "87d4f034-07d0-4d80-b185-1e29fc0ce445",
+        "name": "Danceland",
+        "url": "https://likeradiostream.com/danceland",
+        "url_resolved": "https://likeradiostream.com/danceland",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/efz7bwrtnvc9.jpg",
+        "country": "Turkey",
+        "tags": "electronic"
+    },
+    {
+        "stationuuid": "04bf2806-4ce5-4114-925a-03fe55aaf8ad",
+        "name": "Esas Radyo",
+        "url": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
+        "url_resolved": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/eas.png",
+        "country": "Turkey",
+        "tags": "music,pop"
     },
     {
         "stationuuid": "cc9c0c3a-bcc7-4e54-9456-5cb125cf8f93",
@@ -697,9 +706,9 @@
         "name": "TGRT FM",
         "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8",
         "url_resolved": "http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TGRT%20FM.png",
         "country": "Turkey",
-        "tags": ""
+        "tags": "islam,belgesel"
     },
     {
         "stationuuid": "9056e9ee-3859-11e8-bb9b-52543be04c81",
@@ -735,7 +744,7 @@
         "url_resolved": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
         "favicon": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
         "country": "Turkey",
-        "tags": ""
+        "tags": "islam"
     },
     {
         "stationuuid": "cc06c583-3875-4d75-8b90-383c310f1ba8",
@@ -817,15 +826,6 @@
         "favicon": "",
         "country": "Turkey",
         "tags": ""
-    },
-    {
-        "stationuuid": "2b54052e-d57b-4131-a072-a36bf7829965",
-        "name": "Süper Fm",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "pop"
     },
     {
         "stationuuid": "8e74c7ea-691a-4f48-b0cd-b9321d263ab9",

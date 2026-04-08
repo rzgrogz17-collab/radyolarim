@@ -112,16 +112,7 @@
         "name": "Kafa Radyo",
         "url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
         "url_resolved": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": ""
-    },
-    {
-        "stationuuid": "706def0c-7017-4601-8305-db1cdb2e9420",
-        "name": "Super Fm",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
-        "favicon": "https://superfm.com.tr/favicon.ico",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kafaradyo.png",
         "country": "Turkey",
         "tags": "pop"
     },
@@ -148,16 +139,16 @@
         "name": "Slow Turk",
         "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
         "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-        "favicon": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/slowt%C3%BCrk.png",
         "country": "Turkey",
-        "tags": ""
+        "tags": "slow"
     },
     {
         "stationuuid": "df369586-40fc-11e9-aa55-52543be04c81",
         "name": "Radyo 7",
         "url": "http://46.20.3.250/;stream",
         "url_resolved": "http://46.20.3.250/;stream",
-        "favicon": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
+        "favicon": "https://turkey.mom-rsf.org/uploads/_processed_/2/3/csm_245-101_import_0b73e7e51a.png",
         "country": "Turkey",
         "tags": ""
     },

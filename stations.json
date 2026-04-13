@@ -2,7 +2,7 @@
     {
         "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
         "name": "Electroradio.fm",
-        "url": "http://stream.electroradio.fm/128k",
+        "url": "http://stream.electroradio.fm/listen.aac",
         "url_resolved": "http://stream.electroradio.fm/listen.aac",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/electroradio.fm.png",
         "country": "Switzerland",
@@ -24,7 +24,7 @@
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/s%C3%BCperfm.jpg",
         "country": "Turkey",
-        "tags": "pop"
+        "tags": "hits,pop,turkish music"
     },
    {
         "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
@@ -103,7 +103,7 @@
         "name": "Habertürk Radyo",
         "url": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
         "url_resolved": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/indir.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/htradyo.png",
         "country": "Turkey",
         "tags": "news"
     },
@@ -148,7 +148,7 @@
         "name": "Radyo 7",
         "url": "http://46.20.3.250/;stream",
         "url_resolved": "http://46.20.3.250/;stream",
-        "favicon": "https://turkey.mom-rsf.org/uploads/_processed_/2/3/csm_245-101_import_0b73e7e51a.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/radyo7.png",
         "country": "Turkey",
         "tags": ""
     },
@@ -157,7 +157,7 @@
         "name": "1 Live",
         "url": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
         "url_resolved": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/1live.gif",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/vdr1.jpg",
         "country": "Germany",
         "tags": "pop,hits,youth,wdr"
     },
@@ -217,7 +217,7 @@
     },
     {
         "stationuuid": "45bb5fc8-84df-4561-b282-935bb5dd7c86",
-        "name": "dinamo.fm fluent",
+        "name": "Dinamo.fm fluent",
         "url": "http://channels.dinamo.fm/fluent-mp3",
         "url_resolved": "http://channels.dinamo.fm/fluent-mp3",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/FMGERCEKLOGOLAR/refs/heads/main/dinamofm.jpg",
@@ -379,7 +379,7 @@
     },
     {
         "stationuuid": "d315094f-6af9-4e34-a274-920035f9b3b2",
-        "name": "playdanceradio",
+        "name": "Play Dance Radio",
         "url": "https://radyo1.radyo-dinle.tc/playdanceradio/stream",
         "url_resolved": "https://radyo1.radyo-dinle.tc/playdanceradio/stream",
         "favicon": "",
@@ -1307,8 +1307,8 @@
     {
         "stationuuid": "5c1055ea-bdbd-4a67-96d4-c6f52886b158",
         "name": "Show Radyo",
-        "url": "https://moondigitaledge.radyotvonline.net/show/playlist.m3u8",
-        "url_resolved": "https://moondigitaledge.radyotvonline.net/show/playlist.m3u8",
+        "url": "https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8",
+        "url_resolved": "https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/showradyo.png",
         "country": "Turkey",
         "tags": ""
@@ -2230,15 +2230,6 @@
         "favicon": "",
         "country": "Turkey",
         "tags": "folk"
-    },
-    {
-        "stationuuid": "5e5b4c7f-716d-42bb-9231-0209c81037e9",
-        "name": "Süper 2 FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3",
-        "favicon": "",
-        "country": "Turkey",
-        "tags": "hits,pop,turkish music"
     },
     {
         "stationuuid": "6f3d3422-9998-4079-8e1a-7d23cef150ea",

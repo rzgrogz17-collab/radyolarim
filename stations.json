@@ -20,8 +20,8 @@
   {
         "stationuuid": "2b54052e-d57b-4131-a072-a36bf7829965",
         "name": "Süper Fm",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
+        "url": "https://karnaval.com/radyolar/superfm",
+        "url_resolved": "https://karnaval.com/radyolar/superfm",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/s%C3%BCperfm.jpg",
         "country": "Turkey",
         "tags": "hits,pop,turkish music"
@@ -3062,8 +3062,8 @@
     {
         "stationuuid": "c1a2b3c4-1049-4123-8abc-100000000049",
         "name": "SWR Dasding",
-        "url": "https://api.radio.de/stations/now-playing?stationIds=dasding",
-        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=dasding",
+        "url": "https://liveradio.swr.de/d245tgd/dasding/",
+        "url_resolved": "https://liveradio.swr.de/d245tgd/dasding/",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/SWR%20Dasding.jpg",
         "country": "Germany",
         "tags": "pop,youth,swr"

@@ -3062,8 +3062,8 @@
     {
         "stationuuid": "c1a2b3c4-1049-4123-8abc-100000000049",
         "name": "SWR Dasding",
-        "url": "https://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3",
-        "url_resolved": "https://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3",
+        "url": "https://api.radio.de/stations/now-playing?stationIds=dasding",
+        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=dasding",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/SWR%20Dasding.jpg",
         "country": "Germany",
         "tags": "pop,youth,swr"
@@ -3071,9 +3071,9 @@
     {
         "stationuuid": "c1a2b3c4-1050-4123-8abc-100000000050",
         "name": "WDR 1 Live Diggi",
-        "url": "https://wdr-1livediggi-live.icecast.wdr.de/wdr/1livediggi/live/mp3/128/stream.mp3",
-        "url_resolved": "https://wdr-1livediggi-live.icecast.wdr.de/wdr/1livediggi/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/WDR%201%20Live%20Diggi.jpg",
+        "url": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/192/seglist.m3u8",
+        "url_resolved": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/192/seglist.m3u8",
+        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/154/1live-diggi.7fa2dfd2.jpg",
         "country": "Germany",
         "tags": "pop,hits,youth,wdr"
     },

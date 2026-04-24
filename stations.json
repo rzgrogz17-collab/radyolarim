@@ -2681,11 +2681,29 @@
         "country": "Germany",
         "tags": "pop,hits,top40"
     },
+  {
+        "stationuuid": "c1a2b3c4-1049-4123-8abc-100000000049",
+        "name": "SWR Dasding",
+        "url": "https://liveradio.swr.de/d245tgd/dasding/",
+        "url_resolved": "https://liveradio.swr.de/d245tgd/dasding/",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/SWR%20Dasding.jpg",
+        "country": "Germany",
+        "tags": "pop,youth,swr"
+    },
+    {
+        "stationuuid": "c1a2b3c4-1018-4123-8abc-100000000018",
+        "name": "FFN Radio",
+        "url": "https://ffn-de-hz-fal-stream06-cluster01.radiohost.de/ffn_mp3-192",
+        "url_resolved": "https://ffn-de-hz-fal-stream06-cluster01.radiohost.de/ffn_mp3-192",
+        "favicon": "https://player.ffn.de/assets/channels/ffn.png",
+        "country": "Germany",
+        "tags": "pop,hits"
+    },
     {
         "stationuuid": "c1a2b3c4-1006-4123-8abc-100000000006",
         "name": "Bayern 1",
-        "url": "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3",
-        "url_resolved": "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3",
+        "url": "https://mcdn.hf.br.de/br/hf/b1schw/master.m3u8",
+        "url_resolved": "https://mcdn.hf.br.de/br/hf/b1schw/master.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Bayern%201.gif",
         "country": "Germany",
         "tags": "pop,oldies,bayern"
@@ -2693,8 +2711,8 @@
     {
         "stationuuid": "c1a2b3c4-1007-4123-8abc-100000000007",
         "name": "Bayern 2 Nord",
-        "url": "https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3",
-        "url_resolved": "https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3",
+        "url": "https://dispatcher.rndfnk.com/br/br2/live/mp3/mid",
+        "url_resolved": "https://dispatcher.rndfnk.com/br/br2/live/mp3/mid",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bayern2.gif",
         "country": "Germany",
         "tags": "kultur,info,bayern"
@@ -2702,8 +2720,8 @@
     {
         "stationuuid": "c1a2b3c4-1008-4123-8abc-100000000008",
         "name": "Bayern 3",
-        "url": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
-        "url_resolved": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+        "url": "https://mcdn.hf.br.de/br/hf/b3/master.m3u8",
+        "url_resolved": "https://mcdn.hf.br.de/br/hf/b3/master.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bayern3.gif",
         "country": "Germany",
         "tags": "pop,hits,bayern"
@@ -2711,8 +2729,8 @@
     {
         "stationuuid": "c1a2b3c4-1009-4123-8abc-100000000009",
         "name": "BR24",
-        "url": "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/128/stream.mp3",
-        "url_resolved": "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/128/stream.mp3",
+        "url": "https://mcdn.hf.br.de/br/hf/br24/master.m3u8",
+        "url_resolved": "https://mcdn.hf.br.de/br/hf/br24/master.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/br24.gif",
         "country": "Germany",
         "tags": "news,info,bayern"
@@ -2720,8 +2738,8 @@
     {
         "stationuuid": "c1a2b3c4-1010-4123-8abc-100000000010",
         "name": "BR Heimat",
-        "url": "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3",
-        "url_resolved": "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3",
+        "url": "https://mcdn.hf.br.de/br/hf/brheimat/master.m3u8",
+        "url_resolved": "https://mcdn.hf.br.de/br/hf/brheimat/master.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/brheimat.gif",
         "country": "Germany",
         "tags": "volksmusik,heimat,bayern"
@@ -2729,8 +2747,8 @@
     {
         "stationuuid": "c1a2b3c4-1011-4123-8abc-100000000011",
         "name": "BR Klassik",
-        "url": "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3",
-        "url_resolved": "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3",
+        "url": "https://mcdn.hf.br.de/br/hf/brklassik/master.m3u8",
+        "url_resolved": "https://mcdn.hf.br.de/br/hf/brklassik/master.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/brklassik.gif",
         "country": "Germany",
         "tags": "klassik,classical,bayern"
@@ -2738,47 +2756,47 @@
     {
         "stationuuid": "c1a2b3c4-1012-4123-8abc-100000000012",
         "name": "BR Schlager",
-        "url": "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/128/stream.mp3",
-        "url_resolved": "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/brschlager.gif",
+        "url": "https://mcdn.hf.br.de/br/hf/brschlager/master.m3u8",
+        "url_resolved": "https://mcdn.hf.br.de/br/hf/brschlager/master.m3u8",
+        "favicon": "https://www.radio.net/175/brschlager.png",
         "country": "Germany",
         "tags": "schlager,bayern"
     },
     {
         "stationuuid": "c1a2b3c4-1013-4123-8abc-100000000013",
         "name": "Bremen Eins",
-        "url": "https://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
-        "url_resolved": "https://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bremeneins.gif",
+        "url": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3",
+        "url_resolved": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3",
+        "favicon": "https://www.radio.net/175/bremeneins.jpeg",
         "country": "Germany",
         "tags": "pop,oldies,bremen"
     },
     {
         "stationuuid": "c1a2b3c4-1014-4123-8abc-100000000014",
         "name": "Die Maus",
-        "url": "https://wdr-diemaus-live.icecast.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
-        "url_resolved": "https://wdr-diemaus-live.icecast.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/diemaus.gif",
+        "url": "https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3",
+        "url_resolved": "https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3",
+        "favicon": "https://www.radio.net/175/diemaus.jpeg",
         "country": "Germany",
         "tags": "kinder,kids,children"
     },
     {
         "stationuuid": "c1a2b3c4-1015-4123-8abc-100000000015",
         "name": "Bremen Zwei",
-        "url": "https://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3",
-        "url_resolved": "https://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bremenzwei.gif",
+        "url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+        "url_resolved": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+        "favicon": "https://www.radio.de/175/bremenzwei.jpeg",
         "country": "Germany",
         "tags": "kultur,info,bremen"
     },
     {
         "stationuuid": "c1a2b3c4-1016-4123-8abc-100000000016",
-        "name": "Ella Radio",
-        "url": "https://listen.radioking.com/radio/40061/stream/80096",
-        "url_resolved": "https://listen.radioking.com/radio/40061/stream/80096",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ellaradio.gif",
+        "name": "Radio Arabella Bayern",
+        "url": "https://rs26.stream24.net/stream",
+        "url_resolved": "https://rs26.stream24.net/stream",
+        "favicon": "https://www.radio.net/175/arabellabayern.jpeg",
         "country": "Germany",
-        "tags": "jazz,soul,blues"
+        "tags": "80s,90s,Hits"
     },
     {
         "stationuuid": "c1a2b3c4-1017-4123-8abc-100000000017",
@@ -2788,15 +2806,6 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/bremenvier.gif",
         "country": "Germany",
         "tags": "pop,hits,bremen"
-    },
-    {
-        "stationuuid": "c1a2b3c4-1018-4123-8abc-100000000018",
-        "name": "FFN Radio",
-        "url": "http://player.ffn.de/ffn.mp3",
-        "url_resolved": "http://player.ffn.de/ffn.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ffn.gif",
-        "country": "Germany",
-        "tags": "pop,hits,comedy"
     },
     {
         "stationuuid": "c1a2b3c4-1019-4123-8abc-100000000019",
@@ -3060,15 +3069,6 @@
         "tags": "schlager,swr"
     },
     {
-        "stationuuid": "c1a2b3c4-1049-4123-8abc-100000000049",
-        "name": "SWR Dasding",
-        "url": "https://liveradio.swr.de/d245tgd/dasding/",
-        "url_resolved": "https://liveradio.swr.de/d245tgd/dasding/",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/SWR%20Dasding.jpg",
-        "country": "Germany",
-        "tags": "pop,youth,swr"
-    },
-    {
         "stationuuid": "c1a2b3c4-1050-4123-8abc-100000000050",
         "name": "WDR 1 Live Diggi",
         "url": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/192/seglist.m3u8",
@@ -3154,9 +3154,9 @@
         "name": "Phare FM",
         "url": "https://str0.creacast.com/pharefm",
         "url_resolved": "https://str0.creacast.com/pharefm",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/pharefm.png",
         "country": "France",
-        "tags": "chrétien"
+        "tags": "Pop,Hit"
     },
     {
         "stationuuid": "058fd4fb-d101-41f2-a4f5-78299e3705a0",

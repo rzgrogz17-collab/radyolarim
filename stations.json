@@ -2686,7 +2686,7 @@
         "name": "Antenne Bayern Chill Out",
         "url": "http://mp3channels.webradio.antenne.de/chillout",
         "url_resolved": "http://mp3channels.webradio.antenne.de/chillout",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Chill%20Out.gif",
+        "favicon": "https://www.radio.net/175/antennechillout.png",
         "country": "Germany",
         "tags": "lounge,chillout,ambient"
     },
@@ -2695,7 +2695,7 @@
         "name": "Antenne Bayern Lovesongs",
         "url": "http://mp3channels.webradio.antenne.de/lovesongs",
         "url_resolved": "http://mp3channels.webradio.antenne.de/lovesongs",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern%20Lovesongs.gif",
+        "favicon": "https://www.radio.net/175/antennelovesongs.png",
         "country": "Germany",
         "tags": "lovesongs,pop,romantic"
     },
@@ -3001,7 +3001,7 @@
         "name": "NDR 2",
         "url": "https://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
         "url_resolved": "https://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/ndr2.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/NDR22184x184.png",
         "country": "Germany",
         "tags": "pop,hits,ndr"
     },
@@ -3073,7 +3073,7 @@
         "name": "SWR Kultur",
         "url": "https://swr-swrkultur-live.cast.addradio.de/swr/swrkultur/live/mp3/128/stream.mp3",
         "url_resolved": "https://swr-swrkultur-live.cast.addradio.de/swr/swrkultur/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/swrkultur.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/SWR_Kultur184x184.png",
         "country": "Germany",
         "tags": "kultur,classical,swr"
     },
@@ -3082,7 +3082,7 @@
         "name": "SWR 3",
         "url": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
         "url_resolved": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr3.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/SWR3_3184x184.png",
         "country": "Germany",
         "tags": "pop,hits,swr"
     },
@@ -3091,7 +3091,7 @@
         "name": "SWR 4",
         "url": "https://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3",
         "url_resolved": "https://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr4.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/SWR4_3124x124.png",
         "country": "Germany",
         "tags": "schlager,swr"
     },
@@ -3100,7 +3100,7 @@
         "name": "WDR 1 Live Diggi",
         "url": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/192/seglist.m3u8",
         "url_resolved": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/192/seglist.m3u8",
-        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/154/1live-diggi.7fa2dfd2.jpg",
+        "favicon": "https://www.phonostar.de/images/auto_created/1live_diggi3184x184.png",
         "country": "Germany",
         "tags": "pop,hits,youth,wdr"
     },
@@ -3109,7 +3109,7 @@
         "name": "WDR 2",
         "url": "https://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
         "url_resolved": "https://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr2.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/wdr2_5184x184.png",
         "country": "Germany",
         "tags": "pop,rock,wdr"
     },
@@ -3127,7 +3127,7 @@
         "name": "WDR 4",
         "url": "https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
         "url_resolved": "https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr4.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/wdr4_5184x184.png",
         "country": "Germany",
         "tags": "oldies,hits,wdr"
     },
@@ -3136,7 +3136,7 @@
         "name": "WDR 5",
         "url": "https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
         "url_resolved": "https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/wdr5.gif",
+        "favicon": "https://www.phonostar.de/images/auto_created/wdr5_4184x184.png",
         "country": "Germany",
         "tags": "info,kultur,wdr"
     },
@@ -11101,7 +11101,7 @@
         "name": "Soul Central Radio",
         "url": "http://65.21.202.84:8519/stream/",
         "url_resolved": "http://65.21.202.84:8519/stream/",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/344/soul-central-radio.76a898a8.png",
         "country": "United Kingdom",
         "tags": "soul music"
     },
@@ -11110,7 +11110,7 @@
         "name": "Caroline Flashback",
         "url": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
         "url_resolved": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/675/radio-caroline-flashback.44b00080.png",
         "country": "United Kingdom",
         "tags": "goldies,pop rock"
     },
@@ -11119,7 +11119,7 @@
         "name": "HearMe - trance",
         "url": "https://radio.hearme.fm:8100/stream",
         "url_resolved": "https://radio.hearme.fm:8100/stream",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/399/trance.87804b88.jpg",
         "country": "United Kingdom",
         "tags": "trance"
     },
@@ -11605,7 +11605,7 @@
         "name": "Mi-Soul Radio",
         "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
         "url_resolved": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/025/mi-soul-music-radio.acd9f175.png",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -11713,7 +11713,7 @@
         "name": "Nation Radio London",
         "url": "http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3",
         "url_resolved": "http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3",
-        "favicon": "https://nationradio.london/wp-content/uploads/2024/08/cropped-icon188bet-180x180.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/644/nation-radio-uk.3b7349ea.png",
         "country": "United Kingdom",
         "tags": "adult contemporary"
     },
@@ -11722,7 +11722,7 @@
         "name": "OSTM Radio",
         "url": "https://stream.zeno.fm/1vx25xbdmzzuv",
         "url_resolved": "https://stream.zeno.fm/1vx25xbdmzzuv",
-        "favicon": "https://www.ostm.co.uk/img/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/578/ostm-radio-united-kingdom.d0772fac.png",
         "country": "United Kingdom",
         "tags": "alternative,alternative rock,indie,indie rock,rock"
     },
@@ -11731,7 +11731,7 @@
         "name": "45 Radio",
         "url": "https://stream1.themediasite.co.uk:7009/stream",
         "url_resolved": "https://stream1.themediasite.co.uk:7009/stream",
-        "favicon": "https://www.my45radio.co.uk/apple-touch-icon.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/268/45-radio.decc2a1f.jpg",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -13567,7 +13567,7 @@
         "name": "talkSPORT 2",
         "url": "http://radio.talksport.com/stream2",
         "url_resolved": "http://radio.talksport.com/stream2",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg",
         "country": "United Kingdom",
         "tags": "speech,sport,sports news"
     },
@@ -13576,7 +13576,7 @@
         "name": "Kaos Sound",
         "url": "https://s3.myradiostream.com:59506/stream",
         "url_resolved": "https://s3.myradiostream.com:59506/stream",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/627/kaos-sound.0eb580c5.jpg",
         "country": "United Kingdom",
         "tags": "rock"
     },
@@ -13585,7 +13585,7 @@
         "name": "Dance Anthems Radio",
         "url": "https://stream3.themediasite.co.uk:8302/stream",
         "url_resolved": "https://stream3.themediasite.co.uk:8302/stream",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/bu3N9WEbm6.png",
         "country": "United Kingdom",
         "tags": "00s,90s,anthems,dance,old skool"
     },
@@ -41375,7 +41375,7 @@
         "name": "SWR3",
         "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
         "url_resolved": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
-        "favicon": "https://swr3.de/assets/swr3/icons/apple-touch-icon.png",
+        "favicon": "https://www.phonostar.de/images/auto_created/SWR3_3184x184.png",
         "country": "Germany",
         "tags": "news,pop,rock",
         "votes": 328
@@ -41455,7 +41455,7 @@
         "name": "OLDIE ANTENNE",
         "url": "https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer",
         "url_resolved": "https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer",
-        "favicon": "https://www.oldie-antenne.de/logos/oldie-antenne/apple-touch-icon.png",
+        "favicon": "https://www.phonostar.de/images/auto_created/oldie_antenne184x184.png",
         "country": "Germany",
         "tags": "60's,70's,80s,90s,goldies,oldies,pop",
         "votes": 110
@@ -41505,7 +41505,7 @@
         "name": "Antenne Bayern",
         "url": "http://mp3channels.webradio.antenne.de/antenne",
         "url_resolved": "http://mp3channels.webradio.antenne.de/antenne",
-        "favicon": "",
+        "favicon": "https://www.phonostar.de/images/auto_created/antenne_bayern3184x184.png",
         "country": "Germany",
         "tags": "top 40",
         "votes": 79
@@ -41525,7 +41525,7 @@
         "name": "Sunshine Live",
         "url": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
         "url_resolved": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
-        "favicon": "",
+        "favicon": "https://www.phonostar.de/images/auto_created/sunshine_live4184x184.png",
         "country": "Germany",
         "tags": "dance,trance",
         "votes": 74
@@ -41555,7 +41555,7 @@
         "name": "Rock Antenne - Heavy Metal",
         "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
         "url_resolved": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
-        "favicon": "http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico",
+        "favicon": "https://www.radio.net/300/antenneheavy.png",
         "country": "Germany",
         "tags": "heavy metal,metal",
         "votes": 69
@@ -41735,7 +41735,7 @@
         "name": "Absolut Relax",
         "url": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249",
         "url_resolved": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249",
-        "favicon": "https://absolutradio.de/images/stations/229_relax.png",
+        "favicon": "https://www.phonostar.de/images/auto_created/Absolut_Relax2184x184.png",
         "country": "Germany",
         "tags": "",
         "votes": 51
@@ -41745,7 +41745,7 @@
         "name": "Radio BOB!",
         "url": "http://streams.radiobob.de/bob-national/mp3-192/mediaplayer",
         "url_resolved": "http://streams.radiobob.de/bob-national/mp3-192/mediaplayer",
-        "favicon": "",
+        "favicon": "https://www.phonostar.de/images/auto_created/radio_bob6184x184.png",
         "country": "Germany",
         "tags": "",
         "votes": 51
@@ -41755,7 +41755,7 @@
         "name": "Antenne Bayern - Chillout",
         "url": "http://mp3channels.webradio.antenne.de/chillout",
         "url_resolved": "http://mp3channels.webradio.antenne.de/chillout",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/antennechillout.png",
         "country": "Germany",
         "tags": "chillout",
         "votes": 51
@@ -41825,7 +41825,7 @@
         "name": "BR-Klassik",
         "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
         "url_resolved": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
-        "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+        "favicon": "https://www.phonostar.de/images/auto_created/br_klassik_3184x184.png",
         "country": "Germany",
         "tags": "classical",
         "votes": 43
@@ -42065,7 +42065,7 @@
         "name": "80s80s Italo Disco",
         "url": "http://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150?sABC=654902n3%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699283619",
         "url_resolved": "http://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150?sABC=654902n3%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699283619",
-        "favicon": "https://cdn-profiles.tunein.com/s307738/images/logog.png?t=155074",
+        "favicon": "https://www.phonostar.de/images/auto_created/80s80s_radio2184x184.png",
         "country": "Germany",
         "tags": "80s,decades,italo disco",
         "votes": 27
@@ -42185,7 +42185,7 @@
         "name": "Radio Paloma",
         "url": "http://icepool.silvacast.com/RADIOPALOMA.mp3",
         "url_resolved": "http://icepool.silvacast.com/RADIOPALOMA.mp3",
-        "favicon": "https://schlager.radio/wp-content/uploads/2020/11/cropped-radio-paloma-fav-180x180.png",
+        "favicon": "https://www.phonostar.de/images/auto_created/radio_paloma3184x184.png",
         "country": "Germany",
         "tags": "schlager",
         "votes": 24
@@ -42525,7 +42525,7 @@
         "name": "Antenne Bayern - Top 40",
         "url": "http://mp3channels.webradio.antenne.de/top-40",
         "url_resolved": "http://mp3channels.webradio.antenne.de/top-40",
-        "favicon": "http://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png",
+        "favicon": "https://www.radio.net/175/antennetop40.png",
         "country": "Germany",
         "tags": "top 40",
         "votes": 18
@@ -43675,7 +43675,7 @@
         "name": "France Inter",
         "url": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance",
         "url_resolved": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png",
+        "favicon": "https://www.radio.net/175/franceinter.png",
         "country": "France",
         "tags": "",
         "votes": 225
@@ -43759,6 +43759,16 @@
         "country": "France",
         "tags": "aac,news,talk",
         "votes": 79
+    },
+  {
+        "stationuuid": "96136fe5-0601-41e8-ae97-52543be04c77",
+        "name": "Jazz FM",
+        "url": "https://stream-al.hellorayo.co.uk/jazz.mp3?aw_0_1st.playerid=MyTuner&aw_0_1st.skey=7374499933&direct=true&stationCode=jaz",
+        "url_resolved": "https://stream-al.hellorayo.co.uk/jazz.mp3?aw_0_1st.playerid=MyTuner&aw_0_1st.skey=7374499933&direct=true&stationCode=jaz",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/205/jazz-fm.25b9ebff.png",
+        "country": "France",
+        "tags": "jazz,soul",
+        "votes": 75
     },
     {
         "stationuuid": "96136fe5-0601-11e8-ae97-52543be04c81",
@@ -43925,7 +43935,7 @@
         "name": "ABC Lounge Radio",
         "url": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
         "url_resolved": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
-        "favicon": "",
+        "favicon": "https://www.phonostar.de/images/auto_created/ABC_Lounge_Radio184x184.png",
         "country": "France",
         "tags": "ambient,chillout,easy listening,lounge,smooth jazz",
         "votes": 34
@@ -43955,7 +43965,7 @@
         "name": "BFM radio",
         "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
         "url_resolved": "https://audio.bfmtv.com/bfmradio_128.mp3",
-        "favicon": "https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/571/bfm-radio3.8511aeb8.png",
         "country": "France",
         "tags": "information,news",
         "votes": 27
@@ -43965,7 +43975,7 @@
         "name": "Jazz Radio Soul",
         "url": "http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3",
         "url_resolved": "http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3",
-        "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/353/jazz-radio-soul.3ee48350.png",
         "country": "France",
         "tags": "soul",
         "votes": 26
@@ -44125,7 +44135,7 @@
         "name": "france info (lofi)",
         "url": "http://direct.franceinfo.fr/live/franceinfo-lofi.mp3",
         "url_resolved": "http://direct.franceinfo.fr/live/franceinfo-lofi.mp3",
-        "favicon": "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/589/france-info-direct.ee02e261.png",
         "country": "France",
         "tags": "info,lofi,radio france",
         "votes": 16
@@ -45378,16 +45388,6 @@
         "favicon": "https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",
         "country": "France",
         "tags": "decades",
-        "votes": 4
-    },
-    {
-        "stationuuid": "ecbfc812-3f38-4157-8bdc-4fa381848ac6",
-        "name": "RTL 100% 80",
-        "url": "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl100pc80/130/audio-64000/index.m3u8",
-        "url_resolved": "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl100pc80/130/audio-64000/index.m3u8",
-        "favicon": "https://images.rtl.fr/~c/300v300/rtl/www/1595806-rtl-radio80-1400x1400-copie.jpg",
-        "country": "France",
-        "tags": "80s,music,oldies",
         "votes": 4
     },
     {
@@ -48011,16 +48011,6 @@
         "votes": 423
     },
     {
-        "stationuuid": "98137c2d-ce68-4e33-8cb7-ddf3692ecc9d",
-        "name": "BBC Radio 4 (128k)",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
-        "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
-        "country": "United Kingdom",
-        "tags": "comedy,drama,news,talk",
-        "votes": 211
-    },
-    {
         "stationuuid": "6efe216d-bf7e-11e9-8502-52543be04c81",
         "name": "LBC UK",
         "url": "http://media-ice.musicradio.com/LBCUK",
@@ -48043,39 +48033,19 @@
     {
         "stationuuid": "3606ef8c-cd58-4440-8c47-dbf1e0cacdac",
         "name": "BBC Radio 2 (128k)",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8",
-        "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s24940q.png",
+        "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_two.m3u8",
+        "url_resolved": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_two.m3u8",
+        "favicon": "https://www.radio.net/175/bbcradio2.png",
         "country": "United Kingdom",
         "tags": "adult contemporary",
         "votes": 99
-    },
-    {
-        "stationuuid": "fdbdc2b0-c184-437b-8643-9a5bfa45c253",
-        "name": "BBC Radio 1",
-        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
-        "url_resolved": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
-        "country": "United Kingdom",
-        "tags": "",
-        "votes": 92
-    },
-    {
-        "stationuuid": "1c6dcd6f-88c6-4fd4-8191-078435168e85",
-        "name": "BBC Radio 6 Music",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
-        "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
-        "favicon": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
-        "country": "United Kingdom",
-        "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
-        "votes": 70
     },
     {
         "stationuuid": "9608ade8-0601-11e8-ae97-52543be04c81",
         "name": "Heart London 106.2 [MP3]",
         "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
         "url_resolved": "http://ice-sov.musicradio.com/HeartLondonMP3",
-        "favicon": "https://cdn-profiles.tunein.com/s2846/images/logoq.jpg",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/956/heart-london-1062.e0548a1b.png",
         "country": "United Kingdom",
         "tags": "commercial,hot adult contemporary,london",
         "votes": 69
@@ -48085,7 +48055,7 @@
         "name": "BBC Radio 5 Live (128k)",
         "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s24943q.png",
+        "favicon": "https://www.radio.net/175/bbcradio5live.png",
         "country": "United Kingdom",
         "tags": "news,sports,talk",
         "votes": 69
@@ -48095,7 +48065,7 @@
         "name": "Times Radio UK",
         "url": "http://timesradio.wireless.radio/stream",
         "url_resolved": "http://timesradio.wireless.radio/stream",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/jehvybnq4jgc.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/248/times-radio.20b98e5e.png",
         "country": "United Kingdom",
         "tags": "information,news,talk",
         "votes": 66
@@ -48105,7 +48075,7 @@
         "name": "talkRADIO",
         "url": "http://radio.talkradio.co.uk/stream",
         "url_resolved": "http://radio.talkradio.co.uk/stream",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s265666q.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/hjpjegwqyac2.png",
         "country": "United Kingdom",
         "tags": "talk",
         "votes": 56
@@ -48113,9 +48083,9 @@
     {
         "stationuuid": "9606ceae-0601-11e8-ae97-52543be04c81",
         "name": "Radio Caroline",
-        "url": "http://78.129.202.200:8040/;",
-        "url_resolved": "http://78.129.202.200:8040/;",
-        "favicon": "https://www.radio.net/175/radiocaroline.png",
+        "url": "http://sc6.radiocaroline.net:8040/;",
+        "url_resolved": "http://sc6.radiocaroline.net:8040/;",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/130/radio-caroline.910499fe.png",
         "country": "United Kingdom",
         "tags": "country,pop,rock",
         "votes": 56
@@ -48125,7 +48095,7 @@
         "name": "LBC Radio",
         "url": "http://media-sov.musicradio.com/LBC973MP3Low",
         "url_resolved": "http://media-sov.musicradio.com/LBC973MP3Low",
-        "favicon": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/971/lbc.24030b1a.png",
         "country": "United Kingdom",
         "tags": "political talk",
         "votes": 52
@@ -48135,7 +48105,7 @@
         "name": "BBC Radio 3 (128k)",
         "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
+        "favicon": "https://www.radio.net/175/bbcradio3.png",
         "country": "United Kingdom",
         "tags": "classical",
         "votes": 52
@@ -48145,7 +48115,7 @@
         "name": "Smooth Radio",
         "url": "http://media-the.musicradio.com/SmoothEastMids",
         "url_resolved": "http://media-the.musicradio.com/SmoothEastMids",
-        "favicon": "http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/442/smooth-radio-london-1022.7a851254.png",
         "country": "United Kingdom",
         "tags": "easy listening,smooth,soft music",
         "votes": 50
@@ -48155,7 +48125,7 @@
         "name": "BBC Radio 6 Music (128k)",
         "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s44491q.png",
+        "favicon": "https://www.radio.net/175/bbcradio6music.png",
         "country": "United Kingdom",
         "tags": "alternative",
         "votes": 49
@@ -48165,7 +48135,7 @@
         "name": "GB News",
         "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
         "url_resolved": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-        "favicon": "http://cdn-profiles.tunein.com/s310252/images/logod.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/147/gb-news-radio.3f701390.png",
         "country": "United Kingdom",
         "tags": "news,speech,talk",
         "votes": 48
@@ -48175,7 +48145,7 @@
         "name": "NTS Radio 1",
         "url": "http://stream-relay-geo.ntslive.net/stream",
         "url_resolved": "http://stream-relay-geo.ntslive.net/stream",
-        "favicon": "http://www.nts.live/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/879/nts-radio-1.833ddfa0.png",
         "country": "United Kingdom",
         "tags": "community radio,dj sets,eclectic,freeform",
         "votes": 47
@@ -48185,7 +48155,7 @@
         "name": "BBC News HD (720P)",
         "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
         "url_resolved": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-        "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/775/bbc-london.4c94f1c5.png",
         "country": "United Kingdom",
         "tags": "england,english,london,news,uk,world news",
         "votes": 44
@@ -48195,7 +48165,7 @@
         "name": "Heart 90s",
         "url": "https://media-ssl.musicradio.com/Heart90sMP3",
         "url_resolved": "https://media-ssl.musicradio.com/Heart90sMP3",
-        "favicon": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/146/heart-90s.b39ce932.png",
         "country": "United Kingdom",
         "tags": "90s,national,pop,public radio,variety",
         "votes": 44
@@ -48355,7 +48325,7 @@
         "name": "BBC Radio 1 Dance (128k)",
         "url": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
+        "favicon": "https://www.radio.net/175/bbcradio1.png",
         "country": "United Kingdom",
         "tags": "dance,pop",
         "votes": 24
@@ -48451,16 +48421,6 @@
         "votes": 19
     },
     {
-        "stationuuid": "9d029cf2-bff5-4382-ad56-cabb568b84b4",
-        "name": "BBC Radio 5 Live (UK-HLS-Akamai)",
-        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8",
-        "url_resolved": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8",
-        "favicon": "",
-        "country": "United Kingdom",
-        "tags": "",
-        "votes": 17
-    },
-    {
         "stationuuid": "822b1291-d6c9-4493-a008-6e87c2e943da",
         "name": "Sonatica Classical Radio",
         "url": "http://orion.shoutca.st:8742/160",
@@ -48505,20 +48465,10 @@
         "name": "LBC News",
         "url": "https://media-ssl.musicradio.com/LBCNewsUK",
         "url_resolved": "https://media-ssl.musicradio.com/LBCNewsUK",
-        "favicon": "https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/919/lbc-news.78e78932.png",
         "country": "United Kingdom",
         "tags": "london,news,uk",
         "votes": 16
-    },
-    {
-        "stationuuid": "ace1f44f-51b8-4e1d-9492-819436044f60",
-        "name": "BBC Radio 2",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8",
-        "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s24940q.png",
-        "country": "United Kingdom",
-        "tags": "",
-        "votes": 15
     },
     {
         "stationuuid": "29dc48c6-adf5-49bf-a9d7-dfde3e9cfc6d",
@@ -48545,7 +48495,7 @@
         "name": "BBC Radio 4",
         "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8",
-        "favicon": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four/colour_default.svg",
+        "favicon": "https://www.radio.net/175/bbcradio4.png",
         "country": "United Kingdom",
         "tags": "comedy,drama,news,talk",
         "votes": 15
@@ -48791,16 +48741,6 @@
         "votes": 11
     },
     {
-        "stationuuid": "9c74458f-ddf9-48bd-bd65-e4ae7689ee35",
-        "name": "BBC Radio 3",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
-        "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
-        "favicon": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_three/colour_default.svg",
-        "country": "United Kingdom",
-        "tags": "arts,classical,culture,drama,jazz,opera,world music",
-        "votes": 11
-    },
-    {
         "stationuuid": "da52663e-bf3e-40aa-b863-28c1d12d6464",
         "name": "ROKit Radio : British Comedy 1",
         "url": "https://streaming04.liveboxstream.uk/proxy/roksta14/stream",
@@ -48935,7 +48875,7 @@
         "name": "BBC Radio 1Xtra (128k)",
         "url": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s20277q.png",
+        "favicon": "https://www.radio.net/175/bbcradio1xtra.png",
         "country": "United Kingdom",
         "tags": "black music,pop",
         "votes": 9
@@ -49145,7 +49085,7 @@
         "name": "Exclusively AC/DC",
         "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
         "url_resolved": "https://nl4.mystreaming.net/er/acdc/icecast.audio",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/exclusivelyacdc.png",
         "country": "United Kingdom",
         "tags": "classic rock",
         "votes": 7
@@ -49155,7 +49095,7 @@
         "name": "ROKit Radio : British Comedy 2",
         "url": "https://streaming05.liveboxstream.uk/proxy/jondreas/stream",
         "url_resolved": "https://streaming05.liveboxstream.uk/proxy/jondreas/stream",
-        "favicon": "https://rokitradio.com/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/093/rok-british-comedy-2-rok-classic-radio.81ffeb21.png",
         "country": "United Kingdom",
         "tags": "comedy,old time radio,otr,radio shows,u.k. comedy",
         "votes": 7
@@ -49165,7 +49105,7 @@
         "name": "Dance UK Radio danceradiouk",
         "url": "http://51.89.148.171:8022/stream",
         "url_resolved": "http://51.89.148.171:8022/stream",
-        "favicon": "https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/562/dance-uk-radio.9c80f0ad.png",
         "country": "United Kingdom",
         "tags": "club,dance,house,trance",
         "votes": 7
@@ -49175,7 +49115,7 @@
         "name": "Techno.FM",
         "url": "http://stream.techno.fm/radio.mp3",
         "url_resolved": "http://stream.techno.fm/radio.mp3",
-        "favicon": "https://techno.fm/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/464/technofm.bd3283aa.jpg",
         "country": "United Kingdom",
         "tags": "techno",
         "votes": 7
@@ -49185,7 +49125,7 @@
         "name": "TMM 2",
         "url": "https://listen-msmn.sharp-stream.com/nme2.mp3",
         "url_resolved": "https://listen-msmn.sharp-stream.com/nme2.mp3",
-        "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/708/tmm-2.8f8a03d7.png",
         "country": "United Kingdom",
         "tags": "alternative,hiphop,electronic",
         "votes": 7
@@ -49205,7 +49145,7 @@
         "name": "Drum & Bass Radio",
         "url": "https://eilo.org/getm3u.php?m3u=drum",
         "url_resolved": "http://eilo.org:8000/drum",
-        "favicon": "",
+        "favicon": "https://www.radio.net/100/drumandbassukradio.jpeg",
         "country": "United Kingdom",
         "tags": "",
         "votes": 7
@@ -49215,7 +49155,7 @@
         "name": "BBC Radio Ulster (128k)",
         "url": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8",
         "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8",
-        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/229/bbc-radio-ulster.6c5a9bef.png",
         "country": "United Kingdom",
         "tags": "music,news,sports,talk",
         "votes": 7
@@ -49235,7 +49175,7 @@
         "name": "Neon Radio - 80s & 90s Pop & Dance",
         "url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
         "url_resolved": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/216/neon-radio.4df97e63.png",
         "country": "United Kingdom",
         "tags": "hits 80s,hits 90s,pop music",
         "votes": 6
@@ -49245,7 +49185,7 @@
         "name": "24-7 Legends Classic Rock",
         "url": "https://antares.dribbcast.com:2199/tunein/s8180.pls",
         "url_resolved": "http://antares.dribbcast.com:4330/stream",
-        "favicon": "https://24-7nicheradio.com/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/wjm4nekes4nj.png",
         "country": "United Kingdom",
         "tags": "legends classic rock",
         "votes": 6
@@ -49285,7 +49225,7 @@
         "name": "Resonance FM 104.4 - London",
         "url": "http://stream.resonance.fm:8000/resonance",
         "url_resolved": "http://stream.resonance.fm:8000/resonance",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/762/resonance-fm.ada1d445.png",
         "country": "United Kingdom",
         "tags": "community radio,experimental,london",
         "votes": 6
@@ -49305,7 +49245,7 @@
         "name": "Worldwide FM",
         "url": "https://worldwide-fm.radiocult.fm/stream",
         "url_resolved": "https://worldwide-fm.radiocult.fm/stream",
-        "favicon": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-1/450237294_942043604601681_3306132891557988504_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Ur-AWGYdJIEQ7kNvwHfsWWi&_nc_oc=Adn31I1juFGVfOprAsE1UsSz-7_H0ISFLok1gNrhmWqzfmlI6AbPJgNZB15dkduTEq4&_nc_zt=24&_nc_ht=scontent-fra5-2.xx&_nc_gid=60spXN55S49um4k8ceAfcA&oh=00_AfrO3IOBFCxwn4Bqxc2mOFTcigubLSqRjTY1N2cfbWsvxg&oe=696ED4DC",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/550/worldwide-fm.2816392d.jpg",
         "country": "United Kingdom",
         "tags": "electronica,jazz,progressive,underground music,world music",
         "votes": 6
@@ -49345,7 +49285,7 @@
         "name": "Gold Radio UK",
         "url": "https://media-ice.musicradio.com/GoldMP3.m3u",
         "url_resolved": "https://media-ice.musicradio.com/GoldMP3",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/943/gold-radio-uk.86c3d0d3.jpg",
         "country": "United Kingdom",
         "tags": "golden oldies,pop",
         "votes": 6
@@ -49355,7 +49295,7 @@
         "name": "Capital Chill",
         "url": "https://media-ssl.musicradio.com/CapitalChill",
         "url_resolved": "https://media-ssl.musicradio.com/CapitalChill",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/148/capital-chill.7cc51cb3.png",
         "country": "United Kingdom",
         "tags": "chill,chilled",
         "votes": 6
@@ -49365,7 +49305,7 @@
         "name": "Greatest Hits Non-Stop",
         "url": "https://s8.myradiostream.com/58238//listen.mp3",
         "url_resolved": "https://s8.myradiostream.com/58238//listen.mp3",
-        "favicon": "https://greatesthitsnonstop.com/wp-content/uploads/2020/02/GHNS_512-1.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/219/greatest-hits-non-stop.e136af7b.png",
         "country": "United Kingdom",
         "tags": "",
         "votes": 6
@@ -49375,7 +49315,7 @@
         "name": "Dire Straits",
         "url": "https://stream.pcradio.ru/dire_straits-hi",
         "url_resolved": "https://stream.pcradio.ru/dire_straits-hi",
-        "favicon": "null",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/896/dirty-bass-fm.fadf8992.png",
         "country": "United Kingdom",
         "tags": "discography",
         "votes": 6
@@ -49385,7 +49325,7 @@
         "name": "Boom Radio",
         "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
         "url_resolved": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/687/boom-radio.d5ad123e.png",
         "country": "United Kingdom",
         "tags": "oldies",
         "votes": 6
@@ -52875,7 +52815,7 @@
         "name": "Costa Del Mar Smooth Jazz",
         "url": "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
         "url_resolved": "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/costadelmarsmoothjazz.png",
         "country": "Spain",
         "tags": "smooth jazz,smooth lounge",
         "votes": 4
@@ -62805,7 +62745,7 @@
         "name": "ABC NewsRadio MP3",
         "url": "http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls",
         "url_resolved": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
-        "favicon": "http://www.abc.net.au/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg",
         "country": "Australia",
         "tags": "abc,news,newsradio,public radio",
         "votes": 27
@@ -62815,7 +62755,7 @@
         "name": "80s 90s Super Pop Hits",
         "url": "https://s4.myradiostream.com:7344/listen.mp3?",
         "url_resolved": "https://s4.myradiostream.com:7344/listen.mp3?",
-        "favicon": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/au.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/944/80s-90s-super-pop-hits.a4acb9d6.jpg",
         "country": "Australia",
         "tags": "80s,90s,hits",
         "votes": 20
@@ -62855,7 +62795,7 @@
         "name": "Gold 104.3",
         "url": "https://ais-arn.streamguys1.com/au_004_icy",
         "url_resolved": "https://ais-arn.streamguys1.com/au_004_icy",
-        "favicon": "https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/favicon-32x32.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/L4X233HAK9.png",
         "country": "Australia",
         "tags": "classic hits",
         "votes": 14
@@ -62865,7 +62805,7 @@
         "name": "ABC Classic FM (AAC)",
         "url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
         "url_resolved": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-        "favicon": "http://www.abc.net.au/core-assets/classic/favicon-32x32.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/nZMWqFYHb8.png",
         "country": "Australia",
         "tags": "abc,classical,public radio",
         "votes": 14
@@ -62875,7 +62815,7 @@
         "name": "SBS Chill",
         "url": "http://sbs-ice.streamguys1.com/sbschill",
         "url_resolved": "http://sbs-ice.streamguys1.com/sbschill",
-        "favicon": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/EZdmrZUSrZ.jpg",
         "country": "Australia",
         "tags": "chillout",
         "votes": 13
@@ -62885,7 +62825,7 @@
         "name": "ABC Radio Sydney",
         "url": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
         "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
-        "favicon": "https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/pYjCc3vHGN.png",
         "country": "Australia",
         "tags": "news,talk",
         "votes": 12
@@ -62905,7 +62845,7 @@
         "name": "96FM - Perth - 96.1 FM (MP3)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM.mp3",
         "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM.mp3",
-        "favicon": "https://i.iheart.com/v3/re/new_assets/604ac622c7c4d49969798402",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/JNGpF2nuCJ.png",
         "country": "Australia",
         "tags": "active rock,mainstream rock,rock",
         "votes": 11
@@ -62915,7 +62855,7 @@
         "name": "Triple J",
         "url": "http://www.abc.net.au/res/streaming/audio/aac/triplej.pls",
         "url_resolved": "http://abc.streamguys1.com/live/triplejnsw/icecast.audio",
-        "favicon": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/Q82S6DFmcT.png",
         "country": "Australia",
         "tags": "",
         "votes": 11
@@ -63535,7 +63475,7 @@
         "name": "Voice of Islam",
         "url": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
         "url_resolved": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/NNG7eD45r6.png",
         "country": "Australia",
         "tags": "islamic",
         "votes": 3
@@ -63545,7 +63485,7 @@
         "name": "Nova 100 - Melbourne - 100.3 FM (AAC+ 320k)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac",
         "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac",
-        "favicon": "https://i.ibb.co/b2WSdxp/Brand-Tile-N100.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/339/nova-100.9170da37.png",
         "country": "Australia",
         "tags": "adult contemporary,commercial,top 40",
         "votes": 3
@@ -66515,7 +66455,7 @@
         "name": "Tomorrowland One World Radio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
-        "favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/095/one-world-radio-united-kingdom.16cbd298.png",
         "country": "Belgium",
         "tags": "",
         "votes": 27
@@ -66523,9 +66463,9 @@
     {
         "stationuuid": "cdf1baaf-ed22-41c5-8c9e-90b4133fda8f",
         "name": "Joe 80's & 90's",
-        "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
-        "url_resolved": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
+        "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?dist=mytuner&pname=redirect-service",
+        "url_resolved": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?dist=mytuner&pname=redirect-service",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/650/joe-70s-80s.b2344eb5.jpg",
         "country": "Belgium",
         "tags": "80's,90's,hits",
         "votes": 27
@@ -67265,7 +67205,7 @@
         "name": "NRJ Belgique",
         "url": "https://stream.rcs.revma.com/xh00fwuptg0uv",
         "url_resolved": "https://stream.rcs.revma.com/xh00fwuptg0uv",
-        "favicon": "https://www.nrj.be/build/images/favicon.ico",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/619/nrj-radio.8e389a5b.png",
         "country": "Belgium",
         "tags": "contemporary hits radio,dance,pop,top40",
         "votes": 3

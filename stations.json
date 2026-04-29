@@ -2654,6 +2654,33 @@
         "country": "Germany",
         "tags": "pop,hits,bayern"
     },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003301",
+        "name": "bigFM House Beats",
+        "url": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
+        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
+        "favicon": "https://www.radio.net/175/bigfmnitroxdeep.png",
+        "country": "Germany",
+        "tags": "Deep House,Techno"
+    },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
+        "name": "Big FM - Russia",
+        "url": "https://stream.bigfm.de/russia/aac-64",
+        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
+        "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
+        "country": "Germany",
+        "tags": "Russian Music,Dance,Pop"
+    },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003302",
+        "name": "Big FM - Latin Beats",
+        "url": "https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643",
+        "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643",
+        "favicon": "https://www.radio.net/175/bigfmlatinbeats.jpeg",
+        "country": "Germany",
+        "tags": "Salsa,Latino"
+    },
     {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000000003",
         "name": "Antenne Bayern Chill Out",
@@ -22030,6 +22057,60 @@
         "favicon": "https://pbs.twimg.com/profile_images/2018973010691002368/LZEexcx9_400x400.jpg",
         "country": "Russian Federation",
         "tags": "блюз,рок"
+    },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
+        "name": "101.ru Russia Top 50",
+        "url": "https://api.radio.de/stations/now-playing?stationIds=101rurussiatop50",
+        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=101rurussiatop50",
+        "favicon": "https://www.radio.net/100/101rurussiatop50.png",
+        "country": "Russian Federatio",
+        "tags": "Russian Music"
+    },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003304",
+        "name": "Radio Chanson",
+        "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+        "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+        "favicon": "https://www.radio.net/175/russkoe.png",
+        "country": "Russian Federatio",
+        "tags": "Russian Music"
+    },
+  {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003305",
+        "name": "Retro FM Russia Петро FM",
+        "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
+        "url_resolved": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
+        "favicon": "https://www.radio.net/175/retrofmrussland.png",
+        "country": "Russian Federatio",
+        "tags": "Oldies"
+    },
+  {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003306",
+        "name": "Vesti FM Вести.RU",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+        "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+        "favicon": "https://www.radio.net/175/retrofmrussland.png",
+        "country": "Russian Federatio",
+        "tags": "News"
+    },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003307",
+        "name": "Dorojnoe Radio",
+        "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
+        "url_resolved": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
+        "favicon": "https://www.radio.net/175/retrofmrussland.png",
+        "country": "Russian Federatio",
+        "tags": ""
+    },
+  {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003308",
+        "name": "Русские Песни (AMG Radio)",
+        "url": "https://rusongs.amgradio.ru/rusongs?radio_net",
+        "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net",
+        "favicon": "https://www.radio.net/175/russiansongs.png",
+        "country": "Russian Federatio",
+        "tags": "Russian Music,Pop"
     },
     {
         "stationuuid": "a5fb052e-59ff-11e9-a622-52543be04c81",

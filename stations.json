@@ -6560,6 +6560,16 @@
         "country": "France",
         "tags": ""
     },
+  {
+        "stationuuid": "e3be401b-96d2-81b2-bbcd-a5d959194181",
+        "name": "KBUE Que Buena 105.5 / 94.3 FM (US Only)",
+        "url": "https://14993.live.streamtheworld.com/KRQBFMAAC.aac",
+        "url_resolved": "https://14993.live.streamtheworld.com/KRQBFMAAC.aac?dist=webdesktop",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/364/kbue-que-buena-1055-943-fm-us-only.c68962f2.jpg",
+        "country": "The United States Of America",
+        "tags": "pop,top 40",
+        "votes": 11
+    },
     {
         "stationuuid": "960b7447-0601-11e8-ae97-52543be04c81",
         "name": "WLML-FM - Legends Radio 100.3 FM Lake Park, FL",
@@ -6578,12 +6588,21 @@
         "country": "The United States Of America",
         "tags": ""
     },
+  {
+        "stationuuid": "cef2a477-234a-4f58-8e79-9178c155d887",
+        "name": "181.fm - Comedy Club",
+        "url": "https://listen.181fm.com/181-comedy_128k.mp3",
+        "url_resolved": "https://listen.181fm.com/181-comedy_128k.mp3",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/745/181fm-comedy-club.b631e27f.png",
+        "country": "The United States Of America",
+        "tags": "Comedy"
+    },
     {
         "stationuuid": "cef2a001-234a-4f58-8e79-9178c155d395",
-        "name": "CompuFM",
-        "url": "http://icecast.yayponies.no/listen.ogg",
-        "url_resolved": "http://icecast.yayponies.no/listen.ogg",
-        "favicon": "",
+        "name": "KOTO 91.7 FM",
+        "url": "https://18153.live.streamtheworld.com/KOTOFM_SC",
+        "url_resolved": "https://18153.live.streamtheworld.com/KOTOFM_SC",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/754/koto-917-fm.66f24dd5.jpg",
         "country": "The United States Of America",
         "tags": "various"
     },
@@ -6598,10 +6617,10 @@
     },
     {
         "stationuuid": "9bee36ce-00d6-4647-8bb3-4b99ead75d80",
-        "name": "WIOS",
-        "url": "https://ice6.securenetsystems.net/WIOS",
-        "url_resolved": "https://ice6.securenetsystems.net/WIOS",
-        "favicon": "",
+        "name": "WFUV 90.7 FM",
+        "url": https://onair.wfuv.org/onair-hi",
+        "url_resolved": "https://onair.wfuv.org/onair-hi",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/006/wfuv-907-fm.acba13ea.png",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -46953,7 +46972,7 @@
         "name": "WWOZ 90.7 New Orleans, LA",
         "url": "http://wwoz-sc.streamguys.com/wwoz-hi.mp3",
         "url_resolved": "http://wwoz-sc.streamguys.com/wwoz-hi.mp3",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/394/wwoz-new-orleans-907-fm.21127270.jpg",
         "country": "The United States Of America",
         "tags": "blues,jazz,new orleans,non-commercial",
         "votes": 11

@@ -22064,7 +22064,7 @@
         "url": "https://api.radio.de/stations/now-playing?stationIds=101rurussiatop50",
         "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=101rurussiatop50",
         "favicon": "https://www.radio.net/100/101rurussiatop50.png",
-        "country": "Russian Federatio",
+        "country": "Russian Federation",
         "tags": "Russian Music"
     },
    {
@@ -22073,7 +22073,7 @@
         "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
         "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
         "favicon": "https://www.radio.net/175/russkoe.png",
-        "country": "Russian Federatio",
+        "country": "Russian Federation",
         "tags": "Russian Music"
     },
   {
@@ -22082,7 +22082,7 @@
         "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
         "url_resolved": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
         "favicon": "https://www.radio.net/175/retrofmrussland.png",
-        "country": "Russian Federatio",
+        "country": "Russian Federation",
         "tags": "Oldies"
     },
   {
@@ -22091,7 +22091,7 @@
         "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
         "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
         "favicon": "https://www.radio.net/175/retrofmrussland.png",
-        "country": "Russian Federatio",
+        "country": "Russian Federation",
         "tags": "News"
     },
    {
@@ -22100,7 +22100,7 @@
         "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
         "url_resolved": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
         "favicon": "https://www.radio.net/175/retrofmrussland.png",
-        "country": "Russian Federatio",
+        "country": "Russian Federation",
         "tags": ""
     },
   {
@@ -22109,7 +22109,7 @@
         "url": "https://rusongs.amgradio.ru/rusongs?radio_net",
         "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net",
         "favicon": "https://www.radio.net/175/russiansongs.png",
-        "country": "Russian Federatio",
+        "country": "Russian Federation",
         "tags": "Russian Music,Pop"
     },
     {
@@ -22277,11 +22277,20 @@
     {
         "stationuuid": "6d1b1652-56ce-4e12-aa03-dc431d06ad07",
         "name": "Love radio Ярославль 100.6 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239",
-        "url_resolved": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113014358.jpg?alt=media&token=baf5ebdb-844c-4642-a88f-360fad466b36",
+        "url": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
+        "url_resolved": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
+        "favicon": "https://topradio.me/assets/image/radio/180/love-radio.webp",
         "country": "Russian Federation",
         "tags": "love radio,music,pop,region 76,yaroslavl"
+    },
+  {
+        "stationuuid": "1d9d372c-8d88-4d3a-a417-b3563b643881",
+        "name": "Радио 1 (Едно)",
+        "url": "https://19983.live.streamtheworld.com/RADIO_1AAC_H.aac",
+        "url_resolved": "https://19983.live.streamtheworld.com/RADIO_1AAC_H.aac",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio1bg.jpg",
+        "country": "Болгария",
+        "tags": "music,pop"
     },
     {
         "stationuuid": "1d9d372c-8d12-4d3a-a417-b3563b643611",
@@ -22439,9 +22448,9 @@
     {
         "stationuuid": "0b9c3008-0bf6-47d6-ab2b-bafff359eb2a",
         "name": "Авторадио Можайск 98.6 FM",
-        "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_256",
-        "url_resolved": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_256",
-        "favicon": "null",
+        "url": "https://live.nts-tv.ru:8000/AvtoRadioVO ",
+        "url_resolved": "https://live.nts-tv.ru:8000/AvtoRadioVO ",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/auto.png",
         "country": "Russian Federation",
         "tags": "98_6 fm,avtoradio,car,mozhaysk,music,pop"
     },
@@ -22450,7 +22459,7 @@
         "name": "Радио Дача Нижний Новгород 104.5 FM",
         "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412",
         "url_resolved": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194834420.jpg?alt=media&token=96e16374-2d2e-4a1d-a913-61a998de38b7",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-dacha.png",
         "country": "Russian Federation",
         "tags": "music,nizhniy novgorod,pop,radio dacha"
     },
@@ -22592,9 +22601,9 @@
     {
         "stationuuid": "42227140-4485-4352-bea6-182c54f9c151",
         "name": "Вести ФМ",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-        "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-        "favicon": "",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+        "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/vestifm.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -23474,9 +23483,9 @@
     {
         "stationuuid": "64ead7c5-6faf-4af3-a5e6-9d66c70775d6",
         "name": "радио ретро сан ремо",
-        "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
-        "url_resolved": "http://retroserver.streamr.ru:8043/retro256.mp3",
-        "favicon": "https://play.google.com/favicon.ico",
+        "url": "https://hls-01-sanremo.emgsound.ru/5/112/playlist.m3u8",
+        "url_resolved": "https://hls-01-sanremo.emgsound.ru/5/112/playlist.m3u8",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/logo_rfm_sanremo.png",
         "country": "Russian Federation",
         "tags": "myzic"
     },
@@ -24455,9 +24464,9 @@
     {
         "stationuuid": "89d848db-19c7-44c1-b008-11d091070cf9",
         "name": "Радио 7 Липецк 106.2 FM",
-        "url": "http://onair.lipetskfm.ru:8000/radio7_lipetsk",
-        "url_resolved": "http://onair.lipetskfm.ru:8000/radio7_lipetsk",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_185809326.jpg?alt=media&token=d6dda706-d075-4674-84de-94a282423f83",
+        "url": "https://vobook.ru/http://center.lipetskfm.ru:8008/rusradio_lipetsk",
+        "url_resolved": "https://vobook.ru/http://center.lipetskfm.ru:8008/rusradio_lipetsk",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png",
         "country": "Russian Federation",
         "tags": "music"
     },
@@ -24526,10 +24535,10 @@
     },
     {
         "stationuuid": "9a18c99b-de5b-4f90-ac85-452bc6dc203e",
-        "name": "Plastica",
-        "url": "http://93.185.180.66:8000/plastica-opus",
-        "url_resolved": "http://93.185.180.66:8000/plastica-opus",
-        "favicon": "",
+        "name": "Маруся ФМ",
+        "url": "https://msk5.radio-holding.ru/marusya_default",
+        "url_resolved": "https://msk5.radio-holding.ru/marusya_default",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/marusyafm.png",
         "country": "Russian Federation",
         "tags": "club"
     },
@@ -24610,7 +24619,7 @@
         "name": "Радио Рекорд Dancecore",
         "url": "http://radiorecord.hostingradio.ru/dc96.aacp",
         "url_resolved": "http://radiorecord.hostingradio.ru/dc96.aacp",
-        "favicon": "http://radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiorecod.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -24689,9 +24698,9 @@
     {
         "stationuuid": "f6b65b6b-9e10-4269-b13f-f1c78d18087c",
         "name": "Русское радио Липецк 100.5 FM",
-        "url": "http://onair.lipetskfm.ru:8000/rusradio_lipetsk",
-        "url_resolved": "http://onair.lipetskfm.ru:8000/rusradio_lipetsk",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_190716237.jpg?alt=media&token=86fe572f-2108-4084-aa67-212ab381c653",
+        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+        "url_resolved": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/rusradio.png",
         "country": "Russian Federation",
         "tags": "music"
     },
@@ -24772,7 +24781,7 @@
         "name": "Dfm",
         "url": "http://dfm-basshouse.hostingradio.ru/basshouse96.aacp",
         "url_resolved": "http://dfm-basshouse.hostingradio.ru/basshouse96.aacp",
-        "favicon": "https://www.dfm.ru/uploads/favicon.ico",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-dfm.webp",
         "country": "Russian Federation",
         "tags": "bass house"
     },
@@ -53655,7 +53664,7 @@
         "name": "РАДИО ВАНЯ",
         "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
         "url_resolved": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-vanya.png",
         "country": "Russian Federation",
         "tags": "pop",
         "votes": 95
@@ -53773,9 +53782,9 @@
     {
         "stationuuid": "0a364b59-56b6-11e9-aa33-52543be04c81",
         "name": "Дорожное радио",
-        "url": "http://dorognoe.hostingradio.ru:8000/radio",
-        "url_resolved": "http://dorognoe.hostingradio.ru:8000/radio",
-        "favicon": "https://dorognoe.ru/assets/default/i/fav_114x114.png",
+        "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
+        "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
         "country": "Russian Federation",
         "tags": "dorojnoe",
         "votes": 37
@@ -54331,13 +54340,23 @@
         "votes": 10
     },
     {
-        "stationuuid": "afa1652d-7afa-43b9-933c-e1d3820ab304",
+        "stationuuid": "afa1652d-7afa-43b9-111c-e1d3820ab301",
         "name": "НОВОЕ РАДИО",
-        "url": "http://stream.newradio.ru/moscow.novoe.aacp",
-        "url_resolved": "http://stream.newradio.ru/moscow.novoe.aacp",
-        "favicon": "",
+        "url": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
+        "url_resolved": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/novoe-v2.png",
         "country": "Russian Federation",
-        "tags": "поп",
+        "tags": "",
+        "votes": 10
+    },
+  {
+        "stationuuid": "afa1652d-7afa-43b9-933c-e1d3820ab304",
+        "name": "Зайцев FM Rus",
+        "url": "https://abs.zaycev.fm/rus256k",
+        "url_resolved": "https://abs.zaycev.fm/rus256k",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/zaycevrus.jpg",
+        "country": "Russian Federation",
+        "tags": "",
         "votes": 10
     },
     {

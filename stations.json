@@ -22061,8 +22061,8 @@
    {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
         "name": "101.ru Russia Top 50",
-        "url": "https://api.radio.de/stations/now-playing?stationIds=101rurussiatop50",
-        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=101rurussiatop50",
+        "url": "https://pub0301.101.ru:8443/stream/pro/aac/64/34",
+        "url_resolved": "https://pub0301.101.ru:8443/stream/pro/aac/64/34",
         "favicon": "https://www.radio.net/100/101rurussiatop50.png",
         "country": "Russian Federation",
         "tags": "Russian Music"
@@ -22117,7 +22117,7 @@
         "name": "Радио Пассаж",
         "url": "http://listen.radiopassazh.ru/aac-48",
         "url_resolved": "http://listen.radiopassazh.ru/aac-48",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/100/passaj.jpg",
         "country": "Russian Federation",
         "tags": "french,hits,pop,russian,spanish,top40,world music"
     },
@@ -22135,7 +22135,7 @@
         "name": "Radio Caprice - Guitar Jazz",
         "url": "http://79.120.77.11:8002/guitarjazz",
         "url_resolved": "http://79.120.77.11:8002/guitarjazz",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/capriceinstrumental.png",
         "country": "Russian Federation",
         "tags": "guitar jazz,jazz"
     },
@@ -22144,7 +22144,7 @@
         "name": "Радио Ангелов",
         "url": "https://listen6.myradio24.com/angels_low.aac",
         "url_resolved": "https://listen6.myradio24.com/angels_low.aac",
-        "favicon": "https://angelsradio.ru/favicon.ico",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/angels-radio.jpg",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22153,7 +22153,7 @@
         "name": "Дорожное радио Выборг 106.7 FM",
         "url": "http://78.140.197.238:9877/DR-Vyborg",
         "url_resolved": "http://78.140.197.238:9877/DR-Vyborg",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_173428649.jpg?alt=media&token=2904b04a-3216-481d-b1d4-b93c77c9541a",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
         "country": "Russian Federation",
         "tags": "47,music,nostalgie,region 47,vyborg"
     },
@@ -22180,7 +22180,7 @@
         "name": "Радио 54",
         "url": "http://91.202.68.50:8000/;stream.mp3",
         "url_resolved": "http://91.202.68.50:8000/;stream.mp3",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/54.png",
         "country": "Russian Federation",
         "tags": "pop-music"
     },
@@ -22189,7 +22189,7 @@
         "name": "DFM - Club",
         "url": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
         "url_resolved": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/dfmclub.png",
         "country": "Russian Federation",
         "tags": "club,dance,dancefloor,house"
     },
@@ -22198,7 +22198,7 @@
         "name": "Радио Мелодия Воронеж 106.8 FM",
         "url": "http://icecast.mediaalliance.cdnvideo.ru/mediaalliance",
         "url_resolved": "http://icecast.mediaalliance.cdnvideo.ru/mediaalliance",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_192027471.jpg?alt=media&token=27e2ae46-af80-45e8-a422-8c0f73f85c6f",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/melodia.jpg",
         "country": "Russian Federation",
         "tags": "music,pop"
     },
@@ -22225,7 +22225,7 @@
         "name": "Radio Caprice - Saxophone",
         "url": "http://79.120.77.11:8000/saxophone?",
         "url_resolved": "http://79.120.77.11:8000/saxophone?",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/capricesaxophone.png",
         "country": "Russian Federation",
         "tags": "classical"
     },
@@ -22234,7 +22234,7 @@
         "name": "Radio Caprice Native American",
         "url": "http://79.111.119.111:8002/nativeamerican",
         "url_resolved": "http://79.111.119.111:8002/nativeamerican",
-        "favicon": "",
+        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/501/radio-caprice-gregorian-chants.9b2826dc.png",
         "country": "Russian Federation",
         "tags": "native american"
     },
@@ -22243,7 +22243,7 @@
         "name": "Contemporary Classical - Radio Caprice",
         "url": "http://79.111.119.111:8004/contclass",
         "url_resolved": "http://79.111.119.111:8004/contclass",
-        "favicon": "",
+        "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_99368801_100110.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22261,7 +22261,7 @@
         "name": "Радио Открытие Мценск 102.0 FM",
         "url": "https://stream.discoveryfm.ru/discovery256.mp3",
         "url_resolved": "https://stream.discoveryfm.ru/discovery256.mp3",
-        "favicon": "http://discoveryfm.ru/favicon.ico",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/Radio-otkryitie.png",
         "country": "Russian Federation",
         "tags": "classic hits,hits,top100"
     },
@@ -22270,7 +22270,7 @@
         "name": "Радио Родных Дорог",
         "url": "https://stream1.radiord.ru:8000/live128.mp3",
         "url_resolved": "https://stream1.radiord.ru:8000/live128.mp3",
-        "favicon": "null",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/Rodnyix-doroG.png",
         "country": "Russian Federation",
         "tags": "chanson,music,pop,rrd"
     },
@@ -22279,7 +22279,7 @@
         "name": "Love radio Ярославль 100.6 FM",
         "url": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
         "url_resolved": "https://stream2.n340.com/12_love_64_reg_44?type=aac",
-        "favicon": "https://topradio.me/assets/image/radio/180/love-radio.webp",
+        "favicon": "https://radiogenerator.ru/upload/iblock/5e1/love_radio_yaroslavl.jpg",
         "country": "Russian Federation",
         "tags": "love radio,music,pop,region 76,yaroslavl"
     },
@@ -22297,7 +22297,7 @@
         "name": "Радио 107 Краснодар 107.7 FM",
         "url": "http://5.restream.one/782_1",
         "url_resolved": "http://5.restream.one/782_1",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_222511401.jpg?alt=media&token=041f7bb4-ffe2-4499-abe7-b10ec10072cf",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%20107%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%A5%D0%B8%D1%82%D0%BE%D0%B2%D0%BE%D0%B5.jpg",
         "country": "Russian Federation",
         "tags": "music,pop"
     },
@@ -22351,7 +22351,7 @@
         "name": "Bolshoye Radio",
         "url": "http://listen.myradio24.com:9000/8286",
         "url_resolved": "http://listen.myradio24.com:9000/8286",
-        "favicon": "",
+        "favicon": "https://online-red.com/images/radio-logo/bolshoye-radio.png",
         "country": "Russian Federation",
         "tags": "hits"
     },
@@ -22360,7 +22360,7 @@
         "name": "Валдай FM",
         "url": "http://78.36.156.37:9010/valday",
         "url_resolved": "http://78.36.156.37:9010/valday",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/Valdai-fm.jpg",
         "country": "Russian Federation",
         "tags": "поп-музыка"
     },
@@ -22378,7 +22378,7 @@
         "name": "радио Дача Новосибирск",
         "url": "https://stream2.n340.com/12_dacha_28_reg_316?type=.aac&UID=0E7ACB8332B0F838199083C383FB7F40",
         "url_resolved": "https://stream2.n340.com/12_dacha_28_reg_316?type=.aac&UID=0E7ACB8332B0F838199083C383FB7F40",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-dacha.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22396,7 +22396,7 @@
         "name": "Radio Caprice - Groove Metal (128)",
         "url": "http://79.120.39.202:8000/groovemetal",
         "url_resolved": "http://79.120.39.202:8000/groovemetal",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/capricedoommetal.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22405,7 +22405,7 @@
         "name": "Вести ФМ Калуга 107.1 FM",
         "url": "http://radio.gtrk-kaluga.ru/vestifm_kaluga",
         "url_resolved": "http://radio.gtrk-kaluga.ru/vestifm_kaluga",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_223454404.jpg?alt=media&token=b004cc82-2219-4602-b75a-8ef0bebdad4e",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/vestifm.png",
         "country": "Russian Federation",
         "tags": "news,politics,talk"
     },
@@ -22414,7 +22414,7 @@
         "name": "Anima Amoris IDM",
         "url": "https://amoris.sknt.ru/idm.mp3",
         "url_resolved": "https://amoris.sknt.ru/idm.mp3",
-        "favicon": "",
+        "favicon": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/31847.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22423,7 +22423,7 @@
         "name": "Время Джаза - Радио Monte Carlo",
         "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
         "url_resolved": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
-        "favicon": "null",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/mc-time-jazz.jpg",
         "country": "Russian Federation",
         "tags": "jazz pop music"
     },
@@ -22432,7 +22432,7 @@
         "name": "Популярная классика Симагино 100.1 FM",
         "url": "http://icecast-radioclassica.cdnvideo.ru:8000/radioclassica",
         "url_resolved": "http://icecast-radioclassica.cdnvideo.ru:8000/radioclassica",
-        "favicon": "null",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/pop-classik.jpg",
         "country": "Russian Federation",
         "tags": "music"
     },
@@ -22441,7 +22441,7 @@
         "name": "Radio Caprice - Classical Symphonic Music",
         "url": "http://79.120.77.11:8002/classical",
         "url_resolved": "http://79.120.77.11:8002/classical",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/capriceinstrumental.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22486,7 +22486,7 @@
         "name": "Радио России (AAC)",
         "url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps",
         "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiorussia.png",
         "country": "Russian Federation",
         "tags": "music,news,talk"
     },
@@ -22522,7 +22522,7 @@
         "name": "Radio Maximum - Rock Hits",
         "url": "https://rockhits.hostingradio.ru/rockhits96.aacp",
         "url_resolved": "https://rockhits.hostingradio.ru/rockhits96.aacp",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/maximum1037fm.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22540,7 +22540,7 @@
         "name": "Radio Deluxe",
         "url": "http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3",
         "url_resolved": "http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3",
-        "favicon": "https://static.tildacdn.com/img/tildafavicon.ico",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/Radio-deluxe.jpg",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22549,7 +22549,7 @@
         "name": "Радио России Великие Луки 103.8 FM",
         "url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/radio_russia/index.m3u8",
         "url_resolved": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/radio_russia/index.m3u8",
-        "favicon": "null",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiorussia.png",
         "country": "Russian Federation",
         "tags": "103_8 fm,army,news,politics,talk,velikie luki"
     },
@@ -22882,7 +22882,7 @@
         "name": "Радио Пилигрим Онлайн Вещание",
         "url": "https://radiopiligrim.ru/icecast/live",
         "url_resolved": "https://radiopiligrim.ru/icecast/live",
-        "favicon": "https://radiopiligrim.ru/static/imagestemplate/mobile-icons/apple-touch-icon-precomposed32.png",
+        "favicon": "https://radio.fonki.pro/plugins/st/photo/2015072200234616.jpeg",
         "country": "Russian Federation",
         "tags": "christian"
     },
@@ -22891,7 +22891,7 @@
         "name": "106.9 FM",
         "url": "https://online2.106i9fm.ru/106i9",
         "url_resolved": "https://online2.106i9fm.ru/106i9",
-        "favicon": "https://m.106i9fm.ru/wp-content/uploads/2023/02/f6873f3103ee46bb106c272bf02a9416.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/106-9-fm.webp",
         "country": "Russian Federation",
         "tags": "поп-музыка"
     },

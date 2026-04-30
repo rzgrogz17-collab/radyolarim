@@ -10750,7 +10750,7 @@
         "name": "WDAC FM 94.5 HD2",
         "url": "https://ice66.securenetsystems.net/WDACHD2",
         "url_resolved": "https://ice66.securenetsystems.net/WDACHD2",
-        "favicon": "https://pwa.tunegenie.com/wdachd1/icon-192.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/rs2AVvKHwu.jpg",
         "country": "The United States Of America",
         "tags": "christian,christian-gospel"
     },
@@ -10759,7 +10759,7 @@
         "name": "NoiseBox Radio",
         "url": "http://n11.radiojar.com/n1bs4ekbvuhvv?rj-ttl=5&rj-tok=AAABjE1UCSYASTnnnPAqWHT0-w",
         "url_resolved": "http://n11.radiojar.com/n1bs4ekbvuhvv?rj-ttl=5&rj-tok=AAABjE1UCSYASTnnnPAqWHT0-w",
-        "favicon": "https://noiseboxradio.com/wp-content/uploads/2022/02/cropped-noisebox-circle-transparent-180x180.png",
+        "favicon": "https://uk.radio.net/175/noiseboxradio.jpeg",
         "country": "United Kingdom",
         "tags": "adult contemporary,eclectic,variety"
     },
@@ -10768,7 +10768,7 @@
         "name": "Fred Film Radio Extra",
         "url": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
         "url_resolved": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
-        "favicon": "",
+        "favicon": "https://media.radiospinner.com/media/logos/180/80313/logo_HEVfxL5tzN.png",
         "country": "United Kingdom",
         "tags": "culture,film,movie"
     },
@@ -10777,7 +10777,7 @@
         "name": "Belters",
         "url": "http://uk2.internet-radio.com:8008/stream",
         "url_resolved": "http://uk2.internet-radio.com:8008/stream",
-        "favicon": "",
+        "favicon": "https://uk.radio.net/podcast-images/175/brews-and-belters.jpeg",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -10795,7 +10795,7 @@
         "name": "Rewind Radio",
         "url": "http://s4.radio.co/s2eaa194f6/listen",
         "url_resolved": "http://s4.radio.co/s2eaa194f6/listen",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/279/rewind-radio-cornwall.8120f9ee.png",
         "country": "United Kingdom",
         "tags": "00s,90s,dance,oldschool,pop"
     },
@@ -10813,7 +10813,7 @@
         "name": "Cam FM",
         "url": "https://stream.camfm.co.uk/camfm",
         "url_resolved": "https://stream.camfm.co.uk/camfm",
-        "favicon": "",
+        "favicon": "https://www.camfm.co.uk/static/images/fb-main.png",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -10831,7 +10831,7 @@
         "name": "Rhubarb Radio",
         "url": "https://securestreams2.autopo.st:1234/stream#.mp3?1702339792481",
         "url_resolved": "https://securestreams2.autopo.st:1234/stream#.mp3?1702339792481",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/352/rhubarb-radio.878cccc5.jpg",
         "country": "United Kingdom",
         "tags": "local radio,music,pop music"
     },
@@ -10867,7 +10867,7 @@
         "name": "SAM FM Hampshire",
         "url": "https://listen-nation.sharp-stream.com/samfmhampshire.mp3",
         "url_resolved": "https://listen-nation.sharp-stream.com/samfmhampshire.mp3",
-        "favicon": "https://hellorayo.co.uk/tesla/static/favicons/rayo/favicon.svg",
+        "favicon": "",
         "country": "United Kingdom",
         "tags": "128 kbps,128 mp3,classic hits"
     },
@@ -10876,7 +10876,7 @@
         "name": "Naim classical",
         "url": "https://mscp3.live-streams.nl:8252/class-flac.flac",
         "url_resolved": "https://mscp3.live-streams.nl:8252/class-flac.flac",
-        "favicon": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "favicon": "https://www.phonostar.de/images/auto_created/Naim_Radio_Classical184x184.png",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -10885,7 +10885,7 @@
         "name": "Ayr Hospital Radio",
         "url": "https://uksoutha.streaming.broadcast.radio/stream/11820/ayrhr?1699802961222=",
         "url_resolved": "https://uksoutha.streaming.broadcast.radio/stream/11820/ayrhr?1699802961222=",
-        "favicon": "https://www.ayrhospitalradio.co.uk/api/image/ef2adb82-5c3f-42c4-9b5f-91c13e4cd64e.png?g=center&h=200",
+        "favicon": "https://www.ayrhospitalradio.co.uk/api/image/e5a734b7-9c49-4fc5-b3ef-5fb57401d54b.png",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -14431,9 +14431,18 @@
         "name": "Belfast 89 fm",
         "url": "http://mp3streaming.planetwideradio.com:9030/belfastfm",
         "url_resolved": "http://mp3streaming.planetwideradio.com:9030/belfastfm",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/635/belfast-89fm.fcf627f1.png",
         "country": "United Kingdom",
         "tags": "rock"
+    },
+   {
+        "stationuuid": "e5561c6c-379f-4722-9815-00a86611c787",
+        "name": "Gold Radio live",
+        "url": "https://media-ssl.musicradio.com/Gold",
+        "url_resolved": "https://media-ssl.musicradio.com/Gold",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/835/gold-radio-united-kingdom.b71eae32.png",
+        "country": "United Kingdom",
+        "tags": "classic"
     },
     {
         "stationuuid": "e5561c6c-379f-4422-9815-00a86611c363",
@@ -14449,7 +14458,7 @@
         "name": "WRN Europe",
         "url": "http://shoutcast.wrn.org:8026/",
         "url_resolved": "http://shoutcast.wrn.org:8026/",
-        "favicon": "https://www.encompass.tv/wp-content/themes/encompassmarketing/library/images/favicon.png",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/752/wrn-arabic.15493de8.png",
         "country": "United Kingdom",
         "tags": "international,news,world radio"
     },

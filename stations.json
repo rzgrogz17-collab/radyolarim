@@ -11,8 +11,8 @@
     {
         "stationuuid": "9db61957-813c-42b7-8490-b18485295c52",
         "name": "AvtoRadio (Авторадио)",
-        "url": "http://ic7.101.ru:8000/v3_1",
-        "url_resolved": "http://ic7.101.ru:8000/v3_1",
+        "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
+        "url_resolved": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
         "country": "Russian Federation",
         "tags": "pop, rock, 80s, 90s, russian, retro, dance"
@@ -20,20 +20,11 @@
   {
         "stationuuid": "2b54052e-d57b-4131-a072-a36bf7829965",
         "name": "Süper Fm",
-        "url": "https://25683.live.streamtheworld.com/SUPER_FM128AAC.aac",
-        "url_resolved": "https://25683.live.streamtheworld.com/SUPER_FM128AAC.aac",
+        "url": "https://karnaval.com/radyolar/superfm",
+        "url_resolved": "https://karnaval.com/radyolar/superfm",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/s%C3%BCperfm.jpg",
         "country": "Turkey",
         "tags": "hits,pop,turkish music"
-    },
-   {
-        "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
-        "name": "Pash Pash 90s Station",
-        "url": "https://90s.pashpashradio.com:7001/;",
-        "url_resolved": "https://90s.pashpashradio.com:7001/;",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/pash%20fm.png",
-        "country": "Turkey",
-        "tags": "	80s, 90s"
     },
     {
         "stationuuid": "0013c08a-31e7-48c6-87a9-7f64736e0a39",
@@ -2410,6 +2401,15 @@
         "favicon": "",
         "country": "Turkey",
         "tags": "folk"
+    },
+   {
+        "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
+        "name": "Pash Pash 90s Station",
+        "url": "https://90s.pashpashradio.com:7001/;",
+        "url_resolved": "https://90s.pashpashradio.com:7001/;",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/pash%20fm.png",
+        "country": "Turkey",
+        "tags": "	80s, 90s"
     },
     {
         "stationuuid": "dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca",
@@ -22131,6 +22131,15 @@
         "tags": "Russian Music"
     },
    {
+        "stationuuid": "e7f05237-s456-4a04-1256-7971bdaa0ccd",
+        "name": "DJIN FM",
+        "url": "https://djin.amgradio.ru/djin.aacp",
+        "url_resolved": "https://djin.amgradio.ru/djin.aacp",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/djin-fm.png",
+        "country": "Russian Federation",
+        "tags": "dj,club,hits"
+    },
+   {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003304",
         "name": "Radio Chanson",
         "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
@@ -22171,7 +22180,7 @@
         "name": "Русские Песни (AMG Radio)",
         "url": "https://rusongs.amgradio.ru/rusongs?radio_net",
         "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net",
-        "favicon": "https://www.radio.net/175/russiansongs.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
         "country": "Russian Federation",
         "tags": "Russian Music,Pop"
     },
@@ -22183,15 +22192,6 @@
         "favicon": "https://top-radio.ru/assets/image/radio/100/passaj.jpg",
         "country": "Russian Federation",
         "tags": "french,hits,pop,russian,spanish,top40,world music"
-    },
-    {
-        "stationuuid": "bbd423d5-cc32-11e9-8502-52543be04c81",
-        "name": "Radonezh",
-        "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad128",
-        "url_resolved": "http://icecast.radonezh.cdnvideo.ru:8000/rad128",
-        "favicon": "https://radonezh.ru/sites/default/files/favicon.ico",
-        "country": "Russian Federation",
-        "tags": ""
     },
     {
         "stationuuid": "e6eacee7-b2ef-11e8-afe1-52543be04c81",
@@ -22387,7 +22387,7 @@
         "name": "Юмор ФМ Вологда 106.5 FM",
         "url": "http://online-2.gkvr.ru:8000/yumorfm11_vld_64.aac",
         "url_resolved": "http://online-2.gkvr.ru:8000/yumorfm11_vld_64.aac",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_153231290.jpg?alt=media&token=4c26e983-bc17-4bd3-b16d-25becfdf6d52",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/yumor-fm.png",
         "country": "Russian Federation",
         "tags": "humour,music"
     },
@@ -22396,7 +22396,7 @@
         "name": "RadCap - Funk Rock Metal",
         "url": "http://213.141.131.10:8004/funkrock",
         "url_resolved": "http://213.141.131.10:8004/funkrock",
-        "favicon": "",
+        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/mrxecyrycaqv.png",
         "country": "Russian Federation",
         "tags": "funk rock metal,metal,radio caprice"
     },
@@ -22405,7 +22405,7 @@
         "name": "Радио Мир (Барнаул)",
         "url": "https://icecast-mirtv.cdnvideo.ru/radio_mir4_256",
         "url_resolved": "https://icecast-mirtv.cdnvideo.ru/radio_mir4_256",
-        "favicon": "",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiomir.jpg",
         "country": "Russian Federation",
         "tags": "barnaul,music,wapmahka,барнаул,местные новости,музыка,новосибирск,новости,поп-музыка"
     },
@@ -22540,7 +22540,7 @@
         "name": "Комсомольская Правда Нижний Новгород 92.8 FM",
         "url": "http://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3",
         "url_resolved": "http://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195446602.jpg?alt=media&token=e4125a03-4f29-4de6-9e25-8c7881ad87cf",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiokp.png",
         "country": "Russian Federation",
         "tags": "army,news,nizhniy novgorod,politics,talk"
     },
@@ -22576,7 +22576,7 @@
         "name": "Радио Рекорд Гастарбайтер FM",
         "url": "http://radiorecord.hostingradio.ru/gast96.aacp",
         "url_resolved": "http://radiorecord.hostingradio.ru/gast96.aacp",
-        "favicon": "http://radiorecord.ru/icons/apple-touch-icon.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiorecod.png",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22586,6 +22586,15 @@
         "url": "https://rockhits.hostingradio.ru/rockhits96.aacp",
         "url_resolved": "https://rockhits.hostingradio.ru/rockhits96.aacp",
         "favicon": "https://www.radio.net/175/maximum1037fm.png",
+        "country": "Russian Federation",
+        "tags": ""
+    },
+      {
+        "stationuuid": "bbd423d5-cc32-11e9-8502-52543be04c81",
+        "name": "Radonezh",
+        "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad128",
+        "url_resolved": "http://icecast.radonezh.cdnvideo.ru:8000/rad128",
+        "favicon": "https://radonezh.ru/sites/default/files/favicon.ico",
         "country": "Russian Federation",
         "tags": ""
     },
@@ -22792,7 +22801,7 @@
         "name": "Европа Плюс Липецк 101.3 FM",
         "url": "http://hls-01-regions.emgsound.ru/11_lipetsk/playlist.m3u8",
         "url_resolved": "http://hls-01-regions.emgsound.ru/11_lipetsk/playlist.m3u8",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_185323638.jpg?alt=media&token=b274a2de-2618-427b-9587-42f3ead7a97e",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/europa-plus.png",
         "country": "Russian Federation",
         "tags": "music,pop"
     },

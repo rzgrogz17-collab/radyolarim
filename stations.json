@@ -22130,7 +22130,7 @@
         "country": "Russian Federation",
         "tags": "Russian Music"
     },
-   {
+    {
         "stationuuid": "e7f05237-s456-4a04-1256-7971bdaa0ccd",
         "name": "DJIN FM",
         "url": "https://djin.amgradio.ru/djin.aacp",
@@ -22148,7 +22148,25 @@
         "country": "Russian Federation",
         "tags": "Russian Music,Pop"
     },
-   {
+    {
+        "stationuuid": "b8baff87-c317-48f4-82df-ee4cdc1cf191",
+        "name": "Дорожное радио Выборг 106.7 FM",
+        "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
+        "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
+        "country": "Russian Federation",
+        "tags": "47,music,nostalgie,region 47,vyborg"
+    },
+    {
+        "stationuuid": "c1a2b3c4-1003-2579-8ccb-10000000357",
+        "name": "POPFM Русское",
+        "url": "https://stream.popfm-bir.ru:1085/stream",
+        "url_resolved": "https://stream.popfm-bir.ru:1085/stream",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFMRU.png",
+        "country": "Russian Federation",
+        "tags": "Russian Music,Pop"
+    },
+    {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003304",
         "name": "Radio Chanson",
         "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
@@ -22174,15 +22192,6 @@
         "favicon": "https://www.radio.net/175/retrofmrussland.png",
         "country": "Russian Federation",
         "tags": "News"
-    },
-    {
-        "stationuuid": "c1a2b3c4-1003-2579-8ccb-10000000357",
-        "name": "POPFM Русское",
-        "url": "https://stream.popfm-bir.ru:1085/stream",
-        "url_resolved": "https://stream.popfm-bir.ru:1085/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFMRU.png",
-        "country": "Russian Federation",
-        "tags": "Russian Music,Pop"
     },
    {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003307",
@@ -22219,15 +22228,6 @@
         "favicon": "https://top-radio.ru/assets/image/radio/180/angels-radio.jpg",
         "country": "Russian Federation",
         "tags": ""
-    },
-    {
-        "stationuuid": "b8baff87-c317-48f4-82df-ee4cdc1cf191",
-        "name": "Дорожное радио Выборг 106.7 FM",
-        "url": "http://78.140.197.238:9877/DR-Vyborg",
-        "url_resolved": "http://78.140.197.238:9877/DR-Vyborg",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
-        "country": "Russian Federation",
-        "tags": "47,music,nostalgie,region 47,vyborg"
     },
     {
         "stationuuid": "bfde7dce-44fb-440f-8368-d1b491f7bbd2",

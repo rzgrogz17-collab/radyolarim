@@ -22139,6 +22139,15 @@
         "country": "Russian Federation",
         "tags": "dj,club,hits"
     },
+    {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003308",
+        "name": "Русские Песни (AMG Radio)",
+        "url": "https://rusongs.amgradio.ru/rusongs?radio_net",
+        "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
+        "country": "Russian Federation",
+        "tags": "Russian Music,Pop"
+    },
    {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003304",
         "name": "Radio Chanson",
@@ -22166,6 +22175,15 @@
         "country": "Russian Federation",
         "tags": "News"
     },
+    {
+        "stationuuid": "c1a2b3c4-1003-2579-8ccb-10000000357",
+        "name": "POPFM Русское",
+        "url": "https://stream.popfm-bir.ru:1085/stream",
+        "url_resolved": "https://stream.popfm-bir.ru:1085/stream",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFMRU.png",
+        "country": "Russian Federation",
+        "tags": "Russian Music,Pop"
+    },
    {
         "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003307",
         "name": "Dorojnoe Radio",
@@ -22174,15 +22192,6 @@
         "favicon": "https://www.radio.net/175/retrofmrussland.png",
         "country": "Russian Federation",
         "tags": ""
-    },
-  {
-        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003308",
-        "name": "Русские Песни (AMG Radio)",
-        "url": "https://rusongs.amgradio.ru/rusongs?radio_net",
-        "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
-        "country": "Russian Federation",
-        "tags": "Russian Music,Pop"
     },
     {
         "stationuuid": "a5fb052e-59ff-11e9-a622-52543be04c81",

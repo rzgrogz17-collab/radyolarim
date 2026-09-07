@@ -6086,6 +6086,26 @@
         "tags": "dance,house,pop",
         "votes": 99
     },
+      {
+        "stationuuid": "9622cd46-0771-11e8-ae07-52543be04c81",
+        "name": "Радио Родных Дорог",
+        "url": "https://stream1.radiord.ru:8000/live128.mp3",
+        "url_resolved": "https://stream1.radiord.ru:8000/live128.mp3",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/Rodnyix-doroG.png",
+        "country": "Russian Federation",
+        "tags": "dance,house,pop",
+        "votes": 599
+    },
+   {
+        "stationuuid": "9622cd46-5571-11e8-aa07-52543be04c11",
+        "name": "Радио 7",
+        "url": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
+        "url_resolved": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png",
+        "country": "Russian Federation",
+        "tags": "dance,house,pop",
+        "votes": 7
+    },
     {
         "stationuuid": "63688c44-e90b-11e8-a471-52543be04c81",
         "name": "РАДИО ВАНЯ",
@@ -6111,7 +6131,7 @@
         "name": "Радио «Комсомольская Правда» | КП Россия",
         "url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
         "url_resolved": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
-        "favicon": "https://radiopotok.ru/f/station_webp/512/1021.webp",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "moscow,music,news,russia,talk",
         "votes": 65
@@ -6121,7 +6141,7 @@
         "name": "DFM RUSSIAN DANCE",
         "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
         "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
-        "favicon": "https://dfm.ru/uploads/favicon.ico",
+        "favicon": "https://www.radio.net/175/dfmrussiandance.png",
         "country": "Russian Federation",
         "tags": "dance",
         "votes": 63
@@ -6131,7 +6151,7 @@
         "name": "Шансон Радио",
         "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
         "url_resolved": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-        "favicon": "https://radiopotok.ru/f/station_webp/512/2.webp",
+        "favicon": "https://images.seeklogo.com/logo-png/37/1/radio-shanson-logo-png_seeklogo-372833.png",
         "country": "Russian Federation",
         "tags": "chanson",
         "votes": 58
@@ -6141,7 +6161,7 @@
         "name": "Радио Маяк (Radio Mayak)",
         "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
         "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
-        "favicon": "https://radiopotok.ru/f/station_webp/512/89.webp",
+        "favicon": "https://images.seeklogo.com/logo-png/51/1/radio-mayak-logo-png_seeklogo-512468.png",
         "country": "Russian Federation",
         "tags": "music,news,talk",
         "votes": 55
@@ -6151,7 +6171,7 @@
         "name": "Спутник",
         "url": "https://icecast-rian.cdnvideo.ru/voicerus",
         "url_resolved": "https://icecast-rian.cdnvideo.ru/voicerus",
-        "favicon": "https://radiopotok.ru/f/station_webp/512/962.webp",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-sputnik.jpg",
         "country": "Russian Federation",
         "tags": "news,talk",
         "votes": 50
@@ -6191,7 +6211,7 @@
         "name": "Соловьёв FM",
         "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
         "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
-        "favicon": "http://telegram.org/img/apple-touch-icon.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg",
         "country": "Russian Federation",
         "tags": "news,politics,talk",
         "votes": 38

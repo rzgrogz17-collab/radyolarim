@@ -6131,7 +6131,7 @@
         "name": "Радио «Комсомольская Правда» | КП Россия",
         "url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
         "url_resolved": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
-        "favicon": "",
+        "favicon": "https://radiogenerator.ru/upload/iblock/3a9/komsomolskaya_pravda_moskva.png",
         "country": "Russian Federation",
         "tags": "moscow,music,news,russia,talk",
         "votes": 65
@@ -6151,7 +6151,7 @@
         "name": "Шансон Радио",
         "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
         "url_resolved": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-        "favicon": "https://images.seeklogo.com/logo-png/37/1/radio-shanson-logo-png_seeklogo-372833.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/shanson.png",
         "country": "Russian Federation",
         "tags": "chanson",
         "votes": 58
@@ -6161,7 +6161,7 @@
         "name": "Радио Маяк (Radio Mayak)",
         "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
         "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
-        "favicon": "https://images.seeklogo.com/logo-png/51/1/radio-mayak-logo-png_seeklogo-512468.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/radiomayak.png",
         "country": "Russian Federation",
         "tags": "music,news,talk",
         "votes": 55
@@ -6241,17 +6241,57 @@
         "name": "Радио Книга",
         "url": "http://bookradio.hostingradio.ru:8069/fm",
         "url_resolved": "http://bookradio.hostingradio.ru:8069/fm",
-        "favicon": "https://radiokniga.com/rk.ico",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/kniga.jpg",
         "country": "Russian Federation",
         "tags": "audiobooks,literature,talk,аудиокниги,литература",
         "votes": 37
+    },
+      {
+        "stationuuid": "96266006-1235-21e8-ae97-52543be04c81",
+        "name": "Новое Радио",
+        "url": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
+        "url_resolved": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/novoe-v2.png",
+        "country": "Russian Federation",
+        "tags": "",
+        "votes": 38
+    },
+    {
+        "stationuuid": "96266006-4856-21e8-ae90-52543be04c81",
+        "name": "Зайцев FM Rus",
+        "url": "https://abs.zaycev.fm/rus256k",
+        "url_resolved": "https://abs.zaycev.fm/rus256k",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/zaycevrus.jpg",
+        "country": "Russian Federation",
+        "tags": "",
+        "votes": 39
+    },
+  {
+        "stationuuid": "96266006-4523-55e8-ae97-52543be04c81",
+        "name": "Маруся ФМ",
+        "url": "https://msk13.radio-holding.ru/marusya_default",
+        "url_resolved": "https://msk13.radio-holding.ru/marusya_default",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/marusyafm.png",
+        "country": "Russian Federation",
+        "tags": "",
+        "votes": 40
+    },
+  {
+        "stationuuid": "96266006-7896-15e8-ae77-52543be04c81",
+        "name": "Русская Волна",
+        "url": "https://ru1.amgradio.ru/ruwave.aacp",
+        "url_resolved": "https://ru1.amgradio.ru/ruwave.aacp",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/russkaya-volna.png",
+        "country": "Russian Federation",
+        "tags": "",
+        "votes": 41
     },
     {
         "stationuuid": "3653b75c-0116-11ea-bbf2-52543be04c81",
         "name": "Psyndora Chillout",
         "url": "http://cast.magicstreams.gr:9125/stream",
         "url_resolved": "http://cast.magicstreams.gr:9125/stream",
-        "favicon": "https://www.psyndora.com/images/favicon-144x144.png",
+        "favicon": "https://top-radio.ru/assets/image/radio/180/russkaya-volna.png",
         "country": "Greece",
         "tags": "2 stations,24/7,chill,chillout,non-stop music,psybient,psydub,psytrance",
         "votes": 42

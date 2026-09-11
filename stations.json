@@ -72,6 +72,26 @@
         "tags": "alternative,classic rock,rock,turkish rock",
         "votes": 4
     },
+   {
+        "stationuuid": "1b18ec67-1456-4c55-92b4-cfc9f3dd85d8",
+        "name": "Küpe FM",
+        "url": "https://icecast.netmedya.net/kupefm",
+        "url_resolved": "https://icecast.netmedya.net/kupefm",
+        "favicon": "https://www.radio.net/175/kupe-fm.jpeg",
+        "country": "Turkey",
+        "tags": "Pop",
+        "votes": 5
+    },
+  {
+        "stationuuid": "1b18ec67-1456-4c55-92b4-cfc9f3dd85d8",
+        "name": "Tempo FM Çorlu",
+        "url": "https://sslyayin.netyayin.net/8038/stream",
+        "url_resolved": "https://sslyayin.netyayin.net/8038/stream",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/ybrb3uy8dj37.jpg",
+        "country": "Turkey",
+        "tags": "Pop",
+        "votes": 6
+    },
     {
         "stationuuid": "6d8f8858-7f5f-4223-956a-73ecd2b23b21",
         "name": "İTÜ Klasik",

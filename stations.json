@@ -127,7 +127,7 @@
         "url_resolved": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kafaradyo.png",
         "country": "Turkey",
-        "tags": "pop"
+        "tags": "Pop"
     },
     {
         "stationuuid": "948408f4-0060-44fa-a26c-bf313f6c774d",
@@ -140,12 +140,12 @@
     },
     {
         "stationuuid": "97f3bb39-24a0-461d-b282-b0ccae5a12c4",
-        "name": "Slow Turk",
+        "name": "Slow Türk",
         "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
         "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/slowt%C3%BCrk.png",
         "country": "Turkey",
-        "tags": "slow"
+        "tags": "Slow"
     },
     {
         "stationuuid": "df369586-40fc-11e9-aa55-52543be04c81",
@@ -155,7 +155,7 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/radyo7.png",
         "country": "Turkey",
         "tags": ""
-    },
+   },
    {
         "stationuuid": "02ad59d8-eeb6-41f0-b850-f453bc0401ae",
         "name": "Radyo 45'lik",
@@ -182,9 +182,36 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern.gif",
         "country": "Germany",
         "tags": "pop,hits,bayern"
-    },
+   },
    {
-        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003301",
+        "stationuuid": "c2a2b3c4-1002-4124-8abc-100000000004",
+        "name": "bigFM",
+        "url": "https://stream.bigfm.de/deutschland/mp3-128/radiode",
+        "url_resolved": "https://stream.bigfm.de/deutschland/mp3-128/radiode",
+        "favicon": "https://www.radio.de/175/bigfm.png",
+        "country": "Germany",
+        "tags": "Top 40,Electro,Charts,Hip Hop"
+    },
+    {
+        "stationuuid": "c3a2b3c4-1003-4125-8abc-100000000005",
+        "name": "bigFM Hip-Hop Radio",
+        "url": "https://stream.bigfm.de/hiphop/mp3-128/radiode",
+        "url_resolved": "https://stream.bigfm.de/hiphop/mp3-128/radiode",
+        "favicon": "https://www.radio.de/175/bigfmhiphop.png",
+        "country": "Germany",
+        "tags": "R'n'B,Rap,Hip Hop"
+   },
+   {
+        "stationuuid": "c4a2b3c4-1004-4126-8abc-100000000005",
+        "name": "bigFM Dance Radio",
+        "url": "https://stream.bigfm.de/dance/mp3-128/radiode",
+        "url_resolved": "https://stream.bigfm.de/dance/mp3-128/radiode",
+        "favicon": "https://www.radio.de/175/bigfmdance.jpeg",
+        "country": "Germany",
+        "tags": "Techno,Electro,House,Dance"
+   },
+   {
+        "stationuuid": "c1a2b3c4-1007-4143-8abc-100000003301",
         "name": "bigFM House Beats",
         "url": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
         "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
@@ -198,11 +225,11 @@
         "url": "https://stream.bigfm.de/russia/aac-64",
         "url_resolved": "https://stream.bigfm.de/russia/aac-64",
         "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
-        "country": "Germany",
+        "country": "Russian Federation",
         "tags": "Russian Music,Dance,Pop"
     },
    {
-        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003302",
+        "stationuuid": "c7a2b3c4-1007-4127-8abc-100000003302",
         "name": "Big FM - Latin Beats",
         "url": "https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643",
         "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643",
@@ -5267,7 +5294,7 @@
         "votes": 79
     },
     {
-        "stationuuid": "960b77af-0601-11e8-ae97-52543be04c81",
+        "stationuuid": "961b77af-0601-11e8-ae97-52543be04c81",
         "name": "Inforadio",
         "url": "http://www.inforadio.de/live.m3u",
         "url_resolved": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid",
@@ -5277,7 +5304,7 @@
         "votes": 79
     },
     {
-        "stationuuid": "960d063e-0601-11e8-ae97-52543be04c81",
+        "stationuuid": "962d063e-0601-11e8-ae97-52543be04c81",
         "name": "Sunshine Live",
         "url": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
         "url_resolved": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
@@ -5287,7 +5314,7 @@
         "votes": 74
     },
   {
-        "stationuuid": "960d063e-7581-11e8-ae97-52543be04c81",
+        "stationuuid": "963d063e-7581-55e8-ae80-52543be04c81",
         "name": "SUNSHINE LIVE - 90s",
         "url": "https://stream.sunshine-live.de/90er/mp3-192/radio.de",
         "url_resolved": "https://stream.sunshine-live.de/90er/mp3-192/radio.de",
@@ -5297,7 +5324,7 @@
         "votes": 75
     },
   {
-        "stationuuid": "960d063e-7581-11e8-ae97-52543be04c81",
+        "stationuuid": "964d063e-7111-15e8-ae90-52543be04c81",
         "name": "SUNSHINE LIVE - 2000s",
         "url": "https://stream.sunshine-live.de/2000er/mp3-192/radio.de",
         "url_resolved": "https://stream.sunshine-live.de/2000er/mp3-192/radio.de",
@@ -5307,7 +5334,7 @@
         "votes": 76
     },
    {
-        "stationuuid": "960d063e-7581-11e8-ae97-52543be04c81",
+        "stationuuid": "965d063e-1057-12e8-ae99-52543be04c81",
         "name": "SUNSHINE LIVE - Techno",
         "url": "https://stream.sunshine-live.de/techno/mp3-192/radio.de",
         "url_resolved": "https://stream.sunshine-live.de/techno/mp3-192/radio.de",
@@ -5315,6 +5342,36 @@
         "country": "Germany",
         "tags": "DJ,Techno",
         "votes": 77
+    },
+   {
+        "stationuuid": "966d063e-1057-12e8-ae99-52543be04c81",
+        "name": "SUNSHINE LIVE - Schranz",
+        "url": "https://stream.sunshine-live.de/schranz/mp3-192/radio.de",
+        "url_resolved": "https://stream.sunshine-live.de/schranz/mp3-192/radio.de",
+        "favicon": "https://www.radio.net/175/sunshineschranz.png",
+        "country": "Germany",
+        "tags": "Music only,DJ,Techno,Electronica",
+        "votes": 78
+    },
+    {
+        "stationuuid": "967d063e-1739-02e8-Be99-52543be04c81",
+        "name": "SUNSHINE LIVE - Bounce",
+        "url": "https://stream.sunshine-live.de/bounce/mp3-192/radio.de",
+        "url_resolved": "https://stream.sunshine-live.de/bounce/mp3-192/radio.de",
+        "favicon": "https://www.radio.net/175/sunshinebounce.png",
+        "country": "Germany",
+        "tags": "Music only,Electronica,Happy Hardcore",
+        "votes": 79
+    },
+      {
+        "stationuuid": "968d063e-1788-05e8-ce99-52543be04c81",
+        "name": "SUNSHINE LIVE - Calm Flow by Karmaloft",
+        "url": "https://stream.sunshine-live.de/calmflow/mp3-192/radio.de",
+        "url_resolved": "https://stream.sunshine-live.de/calmflow/mp3-192/radio.de",
+        "favicon": "https://www.radio.net/175/sunshinecalmflow.jpeg",
+        "country": "Germany",
+        "tags": "Music only,Chillout",
+        "votes": 80
     },
     {
         "stationuuid": "85c799b3-d91f-4f60-b91a-723e4a04acf5",

@@ -5266,6 +5266,36 @@
         "tags": "dance,trance",
         "votes": 74
     },
+  {
+        "stationuuid": "960d063e-7581-11e8-ae97-52543be04c81",
+        "name": "SUNSHINE LIVE - 90s",
+        "url": "https://stream.sunshine-live.de/90er/mp3-192/radio.de",
+        "url_resolved": "https://stream.sunshine-live.de/90er/mp3-192/radio.de",
+        "favicon": "https://www.radio.net/175/sunshine90er.jpeg",
+        "country": "Germany",
+        "tags": "DJ,Dance,90s,Club",
+        "votes": 75
+    },
+  {
+        "stationuuid": "960d063e-7581-11e8-ae97-52543be04c81",
+        "name": "SUNSHINE LIVE - 2000s",
+        "url": "https://stream.sunshine-live.de/2000er/mp3-192/radio.de",
+        "url_resolved": "https://stream.sunshine-live.de/2000er/mp3-192/radio.de",
+        "favicon": "https://www.radio.net/175/sunshinedie2000er.jpeg",
+        "country": "Germany",
+        "tags": "DJ,Dance,90s,Club",
+        "votes": 76
+    },
+   {
+        "stationuuid": "960d063e-7581-11e8-ae97-52543be04c81",
+        "name": "SUNSHINE LIVE - Techno",
+        "url": "https://stream.sunshine-live.de/techno/mp3-192/radio.de",
+        "url_resolved": "https://stream.sunshine-live.de/techno/mp3-192/radio.de",
+        "favicon": "https://www.radio.net/175/sunshinetechno.jpeg",
+        "country": "Germany",
+        "tags": "DJ,Techno",
+        "votes": 77
+    },
     {
         "stationuuid": "85c799b3-d91f-4f60-b91a-723e4a04acf5",
         "name": "90s90s HipHop & Rap",
@@ -6086,7 +6116,17 @@
         "tags": "dance,house,pop",
         "votes": 99
     },
-      {
+   {
+        "stationuuid": "9622cd46-0555-151e8-ae57-52543be04c81",
+        "name": "DFM Chill-out",
+        "url": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
+        "url_resolved": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
+        "favicon": "https://www.radio.net/175/dfmchillout.png",
+        "country": "Russian Federation",
+        "tags": "Chillout",
+        "votes": 100
+    },
+    {
         "stationuuid": "9622cd46-0771-11e8-ae07-52543be04c81",
         "name": "Радио Родных Дорог",
         "url": "https://stream1.radiord.ru:8000/live128.mp3",
@@ -6095,6 +6135,16 @@
         "country": "Russian Federation",
         "tags": "dance,house,pop",
         "votes": 599
+    },
+  {
+        "stationuuid": "9622cd46-0881-18e8-ae07-52543be04c81",
+        "name": "DFM Russian Dance",
+        "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
+        "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
+        "favicon": "https://www.radio.net/175/dfmrussiandance.png",
+        "country": "Russian Federation",
+        "tags": "Electro",
+        "votes": 101
     },
    {
         "stationuuid": "9622cd46-5571-11e8-aa07-52543be04c11",

@@ -971,7 +971,7 @@
         "name": "VILASSAR RADIO",
         "url": "https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3?us_privacy=1YNY56.mp3",
         "url_resolved": "https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3?us_privacy=1YNY56.mp3",
-        "favicon": "https://vilassarradio.cat/favicon.ico",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/vilassar.png",
         "country": "Spain",
         "tags": "best music"
     },
@@ -980,7 +980,7 @@
         "name": "Lola FM Dance",
         "url": "https://digitalcreative.es:9000/lolafm_dance",
         "url_resolved": "https://digitalcreative.es:9000/lolafm_dance",
-        "favicon": "https://lolafm.es/wp-content/uploads/2021/10/logo_lola_fm-06.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/lola.jpg",
         "country": "Spain",
         "tags": ""
     },
@@ -989,7 +989,7 @@
         "name": "CalamarRradio",
         "url": "http://www.calamarrradio.org:8000/stream",
         "url_resolved": "http://www.calamarrradio.org:8000/stream",
-        "favicon": "https://www.calamarrradio.org/wp-content/uploads/2020/05/icons8-tentaculos-50-e1588315296706.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/calamar%20radio.jpg",
         "country": "Spain",
         "tags": ""
     },
@@ -1016,7 +1016,7 @@
         "name": "Radio Relativa",
         "url": "https://streamer.radio.co/sd6131729c/listen",
         "url_resolved": "https://streamer.radio.co/sd6131729c/listen",
-        "favicon": "https://radiorelativa.eu/_nuxt/icon/icon_512x512.04c22e.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/relativa.jpg",
         "country": "Spain",
         "tags": ""
     },
@@ -1025,7 +1025,7 @@
         "name": "Onda Wantuki",
         "url": "https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ",
         "url_resolved": "https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ",
-        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20220923_223554634.png?alt=media&token=b0543e7b-d4d1-478d-b305-6120a41b0692",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/onda.jpg",
         "country": "Spain",
         "tags": "80s,90s,dance,hip hop,pop,punk,rock"
     },
@@ -1034,7 +1034,7 @@
         "name": "Onda Aranjuez",
         "url": "http://server8.emitironline.com:18544/stream",
         "url_resolved": "http://server8.emitironline.com:18544/stream",
-        "favicon": "https://www.aranjuez.es/wp-content/uploads/2016/10/cropped-aranjuezlogo_sintexto-192x192.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/Onda%20Aranjuez%20-%20Madrid.png",
         "country": "Spain",
         "tags": "music,spoken word"
     },
@@ -6008,7 +6008,7 @@
         "name": "RAC1",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/rac1.jpeg",
         "country": "Spain",
         "tags": "culture,humour,local news,news,sports",
         "votes": 75
@@ -6068,7 +6068,7 @@
         "name": "Catalunya Radio",
         "url": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
         "url_resolved": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CARRAD.png",
         "country": "Spain",
         "tags": "talk & speech",
         "votes": 33
@@ -6158,7 +6158,7 @@
         "name": "RNE - R5 --> Madrid",
         "url": "https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20",
         "url_resolved": "https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNE-R5.jpg",
         "country": "Spain",
         "tags": "",
         "votes": 15
@@ -6168,7 +6168,7 @@
         "name": "COPE + Sevilla",
         "url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
         "url_resolved": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/COPE%20SEVILLA.jpg",
         "country": "Spain",
         "tags": "local news",
         "votes": 14

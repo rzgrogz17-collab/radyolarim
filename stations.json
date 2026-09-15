@@ -341,7 +341,7 @@
         "name": "EklectyWaves - The Sharing Radio",
         "url": "https://play.radioking.io/eklectywaves-the-sharing-radio",
         "url_resolved": "https://play.radioking.io/eklectywaves-the-sharing-radio",
-        "favicon": "https://www.radioplug.co.uk/img/channel/19-03-2025-22-43-21-c.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SLCT.png",
         "country": "France",
         "tags": "blues,classic rock,metal,pop rock,progressive,rock,world"
     },
@@ -350,7 +350,7 @@
         "name": "Mister Stuff",
         "url": "http://82.64.4.42:8000/live.mp3",
         "url_resolved": "http://82.64.4.42:8000/live.mp3",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MSR.png",
         "country": "France",
         "tags": ""
     },
@@ -359,7 +359,7 @@
         "name": "Radio Val d'Isère",
         "url": "http://radio.doubleclic.fr/radiovaldisere.mp3",
         "url_resolved": "http://radio.doubleclic.fr/radiovaldisere.mp3",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RV.jpg",
         "country": "France",
         "tags": ""
     },
@@ -377,7 +377,7 @@
         "name": "La Tribu",
         "url": "http://radio10.pro-fhi.net/radio/9003/live.mp3",
         "url_resolved": "http://radio10.pro-fhi.net/radio/9003/live.mp3",
-        "favicon": "https://www.lafrap.fr/wp-content/uploads/2009/12/LaTribu-logo.jpg",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LTRADIO.jpg",
         "country": "France",
         "tags": ""
     },
@@ -386,7 +386,7 @@
         "name": "Radio Scoop Powerdance",
         "url": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac",
         "url_resolved": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RSCOOP.png",
         "country": "France",
         "tags": "dance"
     },
@@ -395,7 +395,7 @@
         "name": "Morow Progressive Rock Radio",
         "url": "http://stream.fr.morow.com:8080/morow_hi.aacp",
         "url_resolved": "http://stream.fr.morow.com:8080/morow_hi.aacp",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MPROCK.png",
         "country": "France",
         "tags": "prog rock,progressive rock"
     },
@@ -404,7 +404,7 @@
         "name": "DFM 930",
         "url": "http://stream.radios-arra.fr:8000/dfm930",
         "url_resolved": "http://stream.radios-arra.fr:8000/dfm930",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFM930.jpg",
         "country": "France",
         "tags": ""
     },
@@ -413,7 +413,7 @@
         "name": "Identité radio",
         "url": "https://listen.radioking.com/radio/26860/stream/59584",
         "url_resolved": "https://listen.radioking.com/radio/26860/stream/59584",
-        "favicon": "",
+        "favicon": "https://www.radio.fr/175/identite.png",
         "country": "France",
         "tags": ""
     },
@@ -5400,7 +5400,7 @@
         "name": "France Culture",
         "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
         "url_resolved": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
-        "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FRANCECULTURE.png",
         "country": "France",
         "tags": "aac,culture,public radio,radio france",
         "votes": 165
@@ -5470,7 +5470,7 @@
         "name": "Europe 1",
         "url": "https://stream.europe1.fr/europe1.aac",
         "url_resolved": "https://stream.europe1.fr/europe1.aac",
-        "favicon": "https://www.europe1.fr/build/e1/images/favicon-120x120.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/EUROPE1.png",
         "country": "France",
         "tags": "aac,news,talk",
         "votes": 79
@@ -5510,7 +5510,7 @@
         "name": "RTL France",
         "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
         "url_resolved": "http://streaming.radio.rtl.fr/rtl-1-44-128",
-        "favicon": "https://www.radio.de/images/broadcasts/88/5b/5168/c300.png",
+        "favicon": "https://www.radio.net/175/rtl.png",
         "country": "France",
         "tags": "news,pop-music",
         "votes": 65
@@ -5560,7 +5560,7 @@
         "name": "Radio Nova",
         "url": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
         "url_resolved": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
-        "favicon": "https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNFRANCE.jpg",
         "country": "France",
         "tags": "alternative,pop,world music",
         "votes": 50

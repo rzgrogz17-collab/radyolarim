@@ -1201,20 +1201,20 @@
         "tags": "club,dance,dancefloor,house"
     },
   {
-        "stationuuid": "46bf662e-4cc2-41d9-9737-bc98a60891ef",
-        "name": "Waterland Radio (320k)",
-        "url": "https://loa.beheerstream.nl:8034/stream",
-        "url_resolved": "https://loa.beheerstream.nl:8034/stream",
-        "favicon": "https://www.waterlandradio.nl/wp-content/uploads/2023/04/logo_waterlandradio_site.png",
+        "stationuuid": "c55dd0b5-5b35-46d8-b54c-00e55b85dc6a",
+        "name": "A1Lounge",
+        "url": "https://stream01.a1lounge.com/radio",
+        "url_resolved": "https://stream01.a1lounge.com/radio",
+        "favicon": "https://cdn.radoxo.com/images/netherlands/a1lounge.webp",
         "country": "The Netherlands",
-        "tags": "various music"
+        "tags": ""
     },
     {
         "stationuuid": "c26dd0b3-9b35-46d8-b74c-00e11b86dc6a",
         "name": "SRC FM",
         "url": "https://cc6.beheerstream.com/proxy/src1?mp=/stream;stream.mp3",
         "url_resolved": "https://cc6.beheerstream.com/proxy/src1?mp=/stream;stream.mp3",
-        "favicon": "https://www.src.fm/images/logo_mob.png",
+        "favicon": "https://nl.radio.net/175/srcfm.jpeg",
         "country": "The Netherlands",
         "tags": ""
     },
@@ -1223,7 +1223,7 @@
         "name": "Que Brille 800!",
         "url": "https://cdn.instream.audio/:9050/stream",
         "url_resolved": "https://cdn.instream.audio/:9050/stream",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/QB800.png",
         "country": "The Netherlands",
         "tags": "religious"
     },
@@ -1232,16 +1232,16 @@
         "name": "Disco Factory",
         "url": "https://s5.radio.co/s253044a7a/listen",
         "url_resolved": "https://s5.radio.co/s253044a7a/listen",
-        "favicon": "https://www.discofactory.fm/uploads/1/4/3/0/143020101/logo-vierkant-zwart_orig.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DF.png",
         "country": "The Netherlands",
         "tags": ""
     },
     {
         "stationuuid": "4692de73-3832-4dff-8fab-f23533a5a119",
         "name": "Radio De Musketiers",
-        "url": "https://loa.beheerstream.nl:8022/stream",
-        "url_resolved": "https://loa.beheerstream.nl:8022/stream",
-        "favicon": "https://www.radiodemusketiers.nl/wp-content/uploads/2023/03/cropped-bannerRDM.jpg",
+        "url": "https://demusketiers.beheerstream.nl/8022/stream",
+        "url_resolved": "https://demusketiers.beheerstream.nl/8022/stream",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDM.jpg",
         "country": "The Netherlands",
         "tags": "24/7,various music"
     },
@@ -6680,7 +6680,7 @@
         "name": "Radio 10 60's & 70's Hits",
         "url": "http://playerservices.streamtheworld.com/pls/TLPSTR18.pls",
         "url_resolved": "http://22333.live.streamtheworld.com:3690/TLPSTR18_SC",
-        "favicon": "https://www.radio10.nl/favicon.ico",
+        "favicon": "https://radioflow.nl/storage/stations/logos/radio-10-60s-70s-hits.webp",
         "country": "The Netherlands",
         "tags": "",
         "votes": 58

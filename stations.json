@@ -192,6 +192,15 @@
         "country": "Germany",
         "tags": "Top 40,Electro,Charts,Hip Hop"
     },
+     {
+        "stationuuid": "c3a2b8c4-7003-7123-7abc-100000007803",
+        "name": "bigFM Sunset Lounge",
+        "url": "https://stream.bigfm.de/russia/aac-64",
+        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
+        "favicon": "https://www.radio.net/175/bigfmsunsetlounge.jpeg",
+        "country": "Germany",
+        "tags": "Lounge,Easy Listening,Ambient,Chillout"
+    },
     {
         "stationuuid": "c3a2b3c4-1003-4125-8abc-100000000005",
         "name": "bigFM Hip-Hop Radio",
@@ -213,20 +222,11 @@
    {
         "stationuuid": "c1a2b3c4-1007-4143-8abc-100000003301",
         "name": "bigFM House Beats",
-        "url": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
-        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
+        "url": "https://stream.bigfm.de/deeptechhouse/mp3-128/radiode",
+        "url_resolved": "https://stream.bigfm.de/deeptechhouse/mp3-128/radiode",
         "favicon": "https://www.radio.net/175/bigfmnitroxdeep.png",
         "country": "Germany",
         "tags": "Deep House,Techno"
-    },
-   {
-        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
-        "name": "Big FM - Russia",
-        "url": "https://stream.bigfm.de/russia/aac-64",
-        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
-        "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
-        "country": "Russian Federation",
-        "tags": "Russian Music,Dance,Pop"
     },
    {
         "stationuuid": "c7a2b3c4-1007-4127-8abc-100000003302",
@@ -1037,6 +1037,15 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
         "country": "Russian Federation",
         "tags": "pop, rock, 80s, 90s, russian, retro, dance"
+    },
+     {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
+        "name": "Big FM - Russia",
+        "url": "https://stream.bigfm.de/russia/aac-64",
+        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
+        "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
+        "country": "Russian Federation",
+        "tags": "Russian Music,Dance,Pop"
     },
     {
         "stationuuid": "1f23a112-c88f-4243-9f94-ea342818dc9a",

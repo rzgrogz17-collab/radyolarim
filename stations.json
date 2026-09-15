@@ -494,7 +494,7 @@
         "name": "VMFM 91.7",
         "url": "https://wvmw.streamguys1.com/live",
         "url_resolved": "https://wvmw.streamguys1.com/live",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VMFM%2091.7.jpg",
         "country": "The United States Of America",
         "tags": "college,college radio"
     },
@@ -512,7 +512,7 @@
         "name": "WKU Public Radio",
         "url": "https://dal-wku-stream-1.neighborhoodca.com/stream?uuid=j21qhd5su",
         "url_resolved": "https://dal-wku-stream-1.neighborhoodca.com/stream?uuid=j21qhd5su",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/WKU%20Public%20Radio.png",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -521,7 +521,7 @@
         "name": "Montana Public Radio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3?uuid=j285sajjp",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3?uuid=j285sajjp",
-        "favicon": "https://npr.brightspotcdn.com/dims4/default/067d901/2147483647/strip/true/crop/114x60+0+0/resize/228x120!/format/webp/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F29c671a%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F1c%2F9852e7684d76b95dce52d8812569%2Fmtpr-logo-fb-02.jpg",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/Montana%20Public%20Radio.png",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -530,7 +530,7 @@
         "name": "Real Roots Radio",
         "url": "https://ice7.securenetsystems.net/WBZI?playSessionID=487C5C61-BE89-B9B2-42B167DD87537A9B",
         "url_resolved": "https://ice7.securenetsystems.net/WBZI?playSessionID=487C5C61-BE89-B9B2-42B167DD87537A9B",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/realrootesradio.png",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -557,7 +557,7 @@
         "name": "WKMS Music",
         "url": "https://wkms.streamguys1.com/WKMSHD3.mp3?uuid=1iziv1ao",
         "url_resolved": "https://wkms.streamguys1.com/WKMSHD3.mp3?uuid=1iziv1ao",
-        "favicon": "https://npr.brightspotcdn.com/dims4/default/21a3a73/2147483647/strip/true/crop/1115x748+0+0/resize/358x240!/format/webp/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/7d/bd/58d22a7940d392884ba7256b5e9e/wkms2017navy.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kms.jpg",
         "country": "The United States Of America",
         "tags": "music"
     },
@@ -566,7 +566,7 @@
         "name": "Sports Radio 740",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
-        "favicon": "",
+        "favicon": "https://www.radio.net/175/wmsp-sports-radio-740.png",
         "country": "The United States Of America",
         "tags": "sports"
     },
@@ -575,34 +575,16 @@
         "name": "WNSP",
         "url": "https://centova.rockhost.com/proxy/dotcompl?mp=/wnsp",
         "url_resolved": "https://centova.rockhost.com/proxy/dotcompl?mp=/wnsp",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/WNSP.jpg",
         "country": "The United States Of America",
         "tags": "sports"
-    },
-    {
-        "stationuuid": "45e7dec2-bb97-4ad1-9d8f-11ef4a1e312f",
-        "name": "The Other Side of Midnight - Richard C. Hoagland",
-        "url": "http://stream.theothersideofmidnight.com:8000/stream",
-        "url_resolved": "http://stream.theothersideofmidnight.com:8000/stream",
-        "favicon": "",
-        "country": "The United States Of America",
-        "tags": "paranormal"
-    },
-    {
-        "stationuuid": "9d10a619-58e4-470a-90f5-3b5b48a32377",
-        "name": "Hartford Bible Students Radio",
-        "url": "https://streamer.radio.co/se1aece429/listen",
-        "url_resolved": "https://streamer.radio.co/se1aece429/listen",
-        "favicon": "",
-        "country": "The United States Of America",
-        "tags": "bible,christian"
     },
     {
         "stationuuid": "c8028314-5c82-4194-9f6b-677bee41e883",
         "name": "Jewish Music Stream",
         "url": "http://stream.jewishmusicstream.com:8000/%20stream/;.m3u",
         "url_resolved": "http://stream.jewishmusicstream.com:8000/%20stream/;.m3u",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JMS.jpg",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -611,7 +593,7 @@
         "name": "Gen X Radio",
         "url": "https://stream.revma.ihrhls.com/zc5322/hls.m3u8",
         "url_resolved": "https://stream.revma.ihrhls.com/zc5322/hls.m3u8",
-        "favicon": "https://i.iheart.com/v3/re/new_assets/b8fcf925-d4be-4873-85ee-cf1d5e637b94?ops=fit(960%2C960)%2Cresize(0%2C390)",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/GXR.png",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -629,7 +611,7 @@
         "name": "Fred Film Radio Extra",
         "url": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
         "url_resolved": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
-        "favicon": "https://media.radiospinner.com/media/logos/180/80313/logo_HEVfxL5tzN.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FRED.png",
         "country": "United Kingdom",
         "tags": "culture,film,movie"
     },
@@ -711,15 +693,6 @@
         "url": "https://usa1-vn.mixstream.net/8084/listen.mp3",
         "url_resolved": "https://usa1-vn.mixstream.net/8084/listen.mp3",
         "favicon": "https://ramfm.org/favicon.ico",
-        "country": "United Kingdom",
-        "tags": ""
-    },
-    {
-        "stationuuid": "be18cfa5-a40e-47c0-88a9-895fd3e9e08f",
-        "name": "Radio Wey",
-        "url": "http://streaming.techiserver.com:8000/radiowey128",
-        "url_resolved": "http://streaming.techiserver.com:8000/radiowey128",
-        "favicon": "https://radiowey.org/wp-content/themes/justradio/img/radiowey-logo-square.svg",
         "country": "United Kingdom",
         "tags": ""
     },
@@ -5628,7 +5601,7 @@
         "name": "Ambient Sleeping Pill",
         "url": "http://radio.stereoscenic.com/asp-h",
         "url_resolved": "http://radio.stereoscenic.com/asp-h",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ASP.jpg",
         "country": "The United States Of America",
         "tags": "ambient,meditation,sleep",
         "votes": 152
@@ -5658,7 +5631,7 @@
         "name": "Deep House Lounge",
         "url": "http://198.15.94.34:8006/stream",
         "url_resolved": "http://198.15.94.34:8006/stream",
-        "favicon": "http://www.deephouselounge.com/wp-content/themes/maronpro/images/favicon.ico",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DHS.png",
         "country": "The United States Of America",
         "tags": "deep house,disco,electronica,funky,house,jazzy,lounge,philadelphia,techno",
         "votes": 115
@@ -5668,7 +5641,7 @@
         "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
         "url": "https://radiopanther.radiolebowski.com/play",
         "url_resolved": "https://radiopanther.radiolebowski.com/play",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMB7080.png",
         "country": "The United States Of America",
         "tags": "1970s,1980s,70's,70s,70s disco,80,80's,80s,classic hits",
         "votes": 106
@@ -5678,7 +5651,7 @@
         "name": "Deep House Radio",
         "url": "http://62.210.105.16:7000/stream",
         "url_resolved": "http://62.210.105.16:7000/stream",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DHR.jpg",
         "country": "The United States Of America",
         "tags": "electronic",
         "votes": 95
@@ -5738,7 +5711,7 @@
         "name": ".977 The Mix",
         "url": "http://playerservices.streamtheworld.com/pls/977_MIX.pls",
         "url_resolved": "http://26343.live.streamtheworld.com:3690/977_MIX_SC",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/977Mix.png",
         "country": "The United States Of America",
         "tags": "80s,90s,hits,today",
         "votes": 77
@@ -5758,7 +5731,7 @@
         "name": "LBC UK",
         "url": "http://media-ice.musicradio.com/LBCUK",
         "url_resolved": "http://media-ice.musicradio.com/LBCUK",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s220687q.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LBCUK.jpg",
         "country": "United Kingdom",
         "tags": "news talk,talk",
         "votes": 198

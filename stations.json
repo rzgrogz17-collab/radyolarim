@@ -6850,7 +6850,7 @@
         "name": "Vivid Bharti",
         "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
         "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-        "favicon": "",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VB.png",
         "country": "India",
         "tags": "classical",
         "votes": 223
@@ -6868,8 +6868,8 @@
     {
         "stationuuid": "bce9aa64-8fd5-434e-8c9d-3ee67c594a06",
         "name": "Red FM 93.5",
-        "url": "https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM",
-        "url_resolved": "https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM",
+        "url": "https://stream.zeno.fm/9phrkb1e3v8uv",
+        "url_resolved": "https://stream.zeno.fm/9phrkb1e3v8uv",
         "favicon": "https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp",
         "country": "India",
         "tags": "",
@@ -6920,7 +6920,7 @@
         "name": "latamangeshkarradio",
         "url": "https://stream.zeno.fm/87xam8pf7tzuv",
         "url_resolved": "https://stream.zeno.fm/87xam8pf7tzuv",
-        "favicon": "https://radiosindia.com/images/latamangeshkarradio.jpg",
+        "favicon": "https://a10.gaanacdn.com/gn_img/radiotheme/D0PKLrWGl9/D0PKLnqWGl/size_m_1716488434.jpg",
         "country": "India",
         "tags": "",
         "votes": 66
@@ -6930,7 +6930,7 @@
         "name": "Goldy Evergreen",
         "url": "https://stream.zeno.fm/n2fd0edh9k8uv",
         "url_resolved": "https://stream.zeno.fm/n2fd0edh9k8uv",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/khbf2jlccjaf.png",
         "country": "India",
         "tags": "",
         "votes": 62
@@ -7809,17 +7809,17 @@
         "name": "KAYA FM 95.9",
         "url": "http://edge.iono.fm/xhls/82_high.m3u8",
         "url_resolved": "http://edge.iono.fm/xhls/82_high.m3u8",
-        "favicon": "https://cdn-profiles.tunein.com/s6401/images/logog.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KAYAFM.jpg",
         "country": "South Africa",
         "tags": "african,alternative,pop",
         "votes": 152
     },
     {
         "stationuuid": "9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
-        "name": "metro fm south Africa",
+        "name": "Metro FM South Africa",
         "url": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
         "url_resolved": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
-        "favicon": "null",
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/781/metro-fm-live.21bf50af.png",
         "country": "South Africa",
         "tags": "",
         "votes": 150

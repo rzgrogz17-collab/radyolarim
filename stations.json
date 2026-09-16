@@ -7804,7 +7804,8 @@
         "tags": "classic country",
         "votes": 27
     },
-      {
+      [
+    {
         "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
         "name": "Radio Sonder Grense",
         "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
@@ -7824,7 +7825,7 @@
         "tags": "african,alternative,pop",
         "votes": 152
     },
-  {
+    {
         "stationuuid": "b24e8d57-0608-11ea-afd6-53643be04c81",
         "name": "Radio 2000",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
@@ -7833,7 +7834,7 @@
         "country": "South Africa",
         "tags": "regional radio",
         "votes": 38
-    }
+    },
     {
         "stationuuid": "9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
         "name": "Metro FM South Africa",

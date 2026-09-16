@@ -1,4 +1,22 @@
 [
+    {
+        "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
+        "name": "Electroradio.fm",
+        "url": "http://stream.electroradio.fm/listen.aac",
+        "url_resolved": "http://stream.electroradio.fm/listen.aac",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/electroradio.fm.png",
+        "country": "Switzerland",
+        "tags": "electronic, dance, house, trance, club"
+    },
+    {
+        "stationuuid": "9db61957-813c-42b7-8490-b18485295c52",
+        "name": "AvtoRadio (Авторадио)",
+        "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
+        "url_resolved": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
+        "country": "Russian Federation",
+        "tags": "pop, rock, 80s, 90s, russian, retro, dance"
+    },
   {
         "stationuuid": "2b54052e-d57b-4131-a072-a36bf7829965",
         "name": "Süper Fm",
@@ -72,26 +90,6 @@
         "tags": "alternative,classic rock,rock,turkish rock",
         "votes": 4
     },
-   {
-        "stationuuid": "1b18ec67-1456-4c55-92b4-cfc9f3dd85d8",
-        "name": "Küpe FM",
-        "url": "https://icecast.netmedya.net/kupefm",
-        "url_resolved": "https://icecast.netmedya.net/kupefm",
-        "favicon": "https://www.radio.net/175/kupe-fm.jpeg",
-        "country": "Turkey",
-        "tags": "Pop",
-        "votes": 5
-    },
-  {
-        "stationuuid": "1b18ec67-1456-4c55-92b4-cfc9f3dd85d8",
-        "name": "Tempo FM Çorlu",
-        "url": "https://sslyayin.netyayin.net/8038/stream",
-        "url_resolved": "https://sslyayin.netyayin.net/8038/stream",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/ybrb3uy8dj37.jpg",
-        "country": "Turkey",
-        "tags": "Pop",
-        "votes": 6
-    },
     {
         "stationuuid": "6d8f8858-7f5f-4223-956a-73ecd2b23b21",
         "name": "İTÜ Klasik",
@@ -127,7 +125,7 @@
         "url_resolved": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kafaradyo.png",
         "country": "Turkey",
-        "tags": "Pop"
+        "tags": "pop"
     },
     {
         "stationuuid": "948408f4-0060-44fa-a26c-bf313f6c774d",
@@ -140,12 +138,12 @@
     },
     {
         "stationuuid": "97f3bb39-24a0-461d-b282-b0ccae5a12c4",
-        "name": "Slow Türk",
+        "name": "Slow Turk",
         "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
         "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/slowt%C3%BCrk.png",
         "country": "Turkey",
-        "tags": "Slow"
+        "tags": "slow"
     },
     {
         "stationuuid": "df369586-40fc-11e9-aa55-52543be04c81",
@@ -155,7 +153,7 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/radyo7.png",
         "country": "Turkey",
         "tags": ""
-   },
+    },
    {
         "stationuuid": "02ad59d8-eeb6-41f0-b850-f453bc0401ae",
         "name": "Radyo 45'lik",
@@ -182,54 +180,27 @@
         "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern.gif",
         "country": "Germany",
         "tags": "pop,hits,bayern"
-   },
-   {
-        "stationuuid": "c2a2b3c4-1002-4124-8abc-100000000004",
-        "name": "bigFM",
-        "url": "https://stream.bigfm.de/deutschland/mp3-128/radiode",
-        "url_resolved": "https://stream.bigfm.de/deutschland/mp3-128/radiode",
-        "favicon": "https://www.radio.de/175/bigfm.png",
-        "country": "Germany",
-        "tags": "Top 40,Electro,Charts,Hip Hop"
     },
-     {
-        "stationuuid": "c3a2b8c4-7003-7123-7abc-100000007803",
-        "name": "bigFM Sunset Lounge",
-        "url": "https://stream.bigfm.de/russia/aac-64",
-        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
-        "favicon": "https://www.radio.net/175/bigfmsunsetlounge.jpeg",
-        "country": "Germany",
-        "tags": "Lounge,Easy Listening,Ambient,Chillout"
-    },
-    {
-        "stationuuid": "c3a2b3c4-1003-4125-8abc-100000000005",
-        "name": "bigFM Hip-Hop Radio",
-        "url": "https://stream.bigfm.de/hiphop/mp3-128/radiode",
-        "url_resolved": "https://stream.bigfm.de/hiphop/mp3-128/radiode",
-        "favicon": "https://www.radio.de/175/bigfmhiphop.png",
-        "country": "Germany",
-        "tags": "R'n'B,Rap,Hip Hop"
-   },
    {
-        "stationuuid": "c4a2b3c4-1004-4126-8abc-100000000005",
-        "name": "bigFM Dance Radio",
-        "url": "https://stream.bigfm.de/dance/mp3-128/radiode",
-        "url_resolved": "https://stream.bigfm.de/dance/mp3-128/radiode",
-        "favicon": "https://www.radio.de/175/bigfmdance.jpeg",
-        "country": "Germany",
-        "tags": "Techno,Electro,House,Dance"
-   },
-   {
-        "stationuuid": "c1a2b3c4-1007-4143-8abc-100000003301",
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003301",
         "name": "bigFM House Beats",
-        "url": "https://stream.bigfm.de/deeptechhouse/mp3-128/radiode",
-        "url_resolved": "https://stream.bigfm.de/deeptechhouse/mp3-128/radiode",
+        "url": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
+        "url_resolved": "https://api.radio.de/stations/now-playing?stationIds=bigfmnitroxdeep",
         "favicon": "https://www.radio.net/175/bigfmnitroxdeep.png",
         "country": "Germany",
         "tags": "Deep House,Techno"
     },
    {
-        "stationuuid": "c7a2b3c4-1007-4127-8abc-100000003302",
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
+        "name": "Big FM - Russia",
+        "url": "https://stream.bigfm.de/russia/aac-64",
+        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
+        "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
+        "country": "Germany",
+        "tags": "Russian Music,Dance,Pop"
+    },
+   {
+        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003302",
         "name": "Big FM - Latin Beats",
         "url": "https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643",
         "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643",
@@ -341,7 +312,7 @@
         "name": "EklectyWaves - The Sharing Radio",
         "url": "https://play.radioking.io/eklectywaves-the-sharing-radio",
         "url_resolved": "https://play.radioking.io/eklectywaves-the-sharing-radio",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SLCT.png",
+        "favicon": "https://www.radioplug.co.uk/img/channel/19-03-2025-22-43-21-c.png",
         "country": "France",
         "tags": "blues,classic rock,metal,pop rock,progressive,rock,world"
     },
@@ -350,7 +321,7 @@
         "name": "Mister Stuff",
         "url": "http://82.64.4.42:8000/live.mp3",
         "url_resolved": "http://82.64.4.42:8000/live.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MSR.png",
+        "favicon": "",
         "country": "France",
         "tags": ""
     },
@@ -359,7 +330,7 @@
         "name": "Radio Val d'Isère",
         "url": "http://radio.doubleclic.fr/radiovaldisere.mp3",
         "url_resolved": "http://radio.doubleclic.fr/radiovaldisere.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RV.jpg",
+        "favicon": "",
         "country": "France",
         "tags": ""
     },
@@ -377,7 +348,7 @@
         "name": "La Tribu",
         "url": "http://radio10.pro-fhi.net/radio/9003/live.mp3",
         "url_resolved": "http://radio10.pro-fhi.net/radio/9003/live.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LTRADIO.jpg",
+        "favicon": "https://www.lafrap.fr/wp-content/uploads/2009/12/LaTribu-logo.jpg",
         "country": "France",
         "tags": ""
     },
@@ -386,7 +357,7 @@
         "name": "Radio Scoop Powerdance",
         "url": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac",
         "url_resolved": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RSCOOP.png",
+        "favicon": "",
         "country": "France",
         "tags": "dance"
     },
@@ -395,7 +366,7 @@
         "name": "Morow Progressive Rock Radio",
         "url": "http://stream.fr.morow.com:8080/morow_hi.aacp",
         "url_resolved": "http://stream.fr.morow.com:8080/morow_hi.aacp",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MPROCK.png",
+        "favicon": "",
         "country": "France",
         "tags": "prog rock,progressive rock"
     },
@@ -404,7 +375,7 @@
         "name": "DFM 930",
         "url": "http://stream.radios-arra.fr:8000/dfm930",
         "url_resolved": "http://stream.radios-arra.fr:8000/dfm930",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFM930.jpg",
+        "favicon": "",
         "country": "France",
         "tags": ""
     },
@@ -413,7 +384,7 @@
         "name": "Identité radio",
         "url": "https://listen.radioking.com/radio/26860/stream/59584",
         "url_resolved": "https://listen.radioking.com/radio/26860/stream/59584",
-        "favicon": "https://www.radio.fr/175/identite.png",
+        "favicon": "",
         "country": "France",
         "tags": ""
     },
@@ -494,7 +465,7 @@
         "name": "VMFM 91.7",
         "url": "https://wvmw.streamguys1.com/live",
         "url_resolved": "https://wvmw.streamguys1.com/live",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VMFM%2091.7.jpg",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "college,college radio"
     },
@@ -512,7 +483,7 @@
         "name": "WKU Public Radio",
         "url": "https://dal-wku-stream-1.neighborhoodca.com/stream?uuid=j21qhd5su",
         "url_resolved": "https://dal-wku-stream-1.neighborhoodca.com/stream?uuid=j21qhd5su",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/WKU%20Public%20Radio.png",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -521,7 +492,7 @@
         "name": "Montana Public Radio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3?uuid=j285sajjp",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3?uuid=j285sajjp",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/Montana%20Public%20Radio.png",
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/067d901/2147483647/strip/true/crop/114x60+0+0/resize/228x120!/format/webp/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F29c671a%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F1c%2F9852e7684d76b95dce52d8812569%2Fmtpr-logo-fb-02.jpg",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -530,7 +501,7 @@
         "name": "Real Roots Radio",
         "url": "https://ice7.securenetsystems.net/WBZI?playSessionID=487C5C61-BE89-B9B2-42B167DD87537A9B",
         "url_resolved": "https://ice7.securenetsystems.net/WBZI?playSessionID=487C5C61-BE89-B9B2-42B167DD87537A9B",
-        "favicon": "https://www.radio.net/175/realrootesradio.png",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -557,7 +528,7 @@
         "name": "WKMS Music",
         "url": "https://wkms.streamguys1.com/WKMSHD3.mp3?uuid=1iziv1ao",
         "url_resolved": "https://wkms.streamguys1.com/WKMSHD3.mp3?uuid=1iziv1ao",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kms.jpg",
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/21a3a73/2147483647/strip/true/crop/1115x748+0+0/resize/358x240!/format/webp/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/7d/bd/58d22a7940d392884ba7256b5e9e/wkms2017navy.png",
         "country": "The United States Of America",
         "tags": "music"
     },
@@ -566,7 +537,7 @@
         "name": "Sports Radio 740",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
-        "favicon": "https://www.radio.net/175/wmsp-sports-radio-740.png",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "sports"
     },
@@ -575,16 +546,34 @@
         "name": "WNSP",
         "url": "https://centova.rockhost.com/proxy/dotcompl?mp=/wnsp",
         "url_resolved": "https://centova.rockhost.com/proxy/dotcompl?mp=/wnsp",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/WNSP.jpg",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "sports"
+    },
+    {
+        "stationuuid": "45e7dec2-bb97-4ad1-9d8f-11ef4a1e312f",
+        "name": "The Other Side of Midnight - Richard C. Hoagland",
+        "url": "http://stream.theothersideofmidnight.com:8000/stream",
+        "url_resolved": "http://stream.theothersideofmidnight.com:8000/stream",
+        "favicon": "",
+        "country": "The United States Of America",
+        "tags": "paranormal"
+    },
+    {
+        "stationuuid": "9d10a619-58e4-470a-90f5-3b5b48a32377",
+        "name": "Hartford Bible Students Radio",
+        "url": "https://streamer.radio.co/se1aece429/listen",
+        "url_resolved": "https://streamer.radio.co/se1aece429/listen",
+        "favicon": "",
+        "country": "The United States Of America",
+        "tags": "bible,christian"
     },
     {
         "stationuuid": "c8028314-5c82-4194-9f6b-677bee41e883",
         "name": "Jewish Music Stream",
         "url": "http://stream.jewishmusicstream.com:8000/%20stream/;.m3u",
         "url_resolved": "http://stream.jewishmusicstream.com:8000/%20stream/;.m3u",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JMS.jpg",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -593,7 +582,7 @@
         "name": "Gen X Radio",
         "url": "https://stream.revma.ihrhls.com/zc5322/hls.m3u8",
         "url_resolved": "https://stream.revma.ihrhls.com/zc5322/hls.m3u8",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/GXR.png",
+        "favicon": "https://i.iheart.com/v3/re/new_assets/b8fcf925-d4be-4873-85ee-cf1d5e637b94?ops=fit(960%2C960)%2Cresize(0%2C390)",
         "country": "The United States Of America",
         "tags": ""
     },
@@ -611,7 +600,7 @@
         "name": "Fred Film Radio Extra",
         "url": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
         "url_resolved": "https://s10.webradio-hosting.com/proxy/fredradioec/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FRED.png",
+        "favicon": "https://media.radiospinner.com/media/logos/180/80313/logo_HEVfxL5tzN.png",
         "country": "United Kingdom",
         "tags": "culture,film,movie"
     },
@@ -683,7 +672,7 @@
         "name": "Eric Clapton",
         "url": "https://streaming.exclusive.radio/er/ericclapton/icecast.audio",
         "url_resolved": "https://streaming.exclusive.radio/er/ericclapton/icecast.audio",
-        "favicon": "https://ia601904.us.archive.org/9/items/eric-clapton-providence-ri-1974-fm-broadcast/Eric%20Clapton%20Providence%20RI%201974%20FM%20Broadcast.JPG?cnt=0",
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg/1200px-Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg",
         "country": "United Kingdom",
         "tags": "international"
     },
@@ -697,11 +686,20 @@
         "tags": ""
     },
     {
+        "stationuuid": "be18cfa5-a40e-47c0-88a9-895fd3e9e08f",
+        "name": "Radio Wey",
+        "url": "http://streaming.techiserver.com:8000/radiowey128",
+        "url_resolved": "http://streaming.techiserver.com:8000/radiowey128",
+        "favicon": "",
+        "country": "United Kingdom",
+        "tags": ""
+    },
+    {
         "stationuuid": "484f4416-760b-4182-ba81-d07c7c59b8f4",
         "name": "SAM FM Hampshire",
         "url": "https://listen-nation.sharp-stream.com/samfmhampshire.mp3",
         "url_resolved": "https://listen-nation.sharp-stream.com/samfmhampshire.mp3",
-        "favicon": "https://i1.sndcdn.com/artworks-000279851561-udidwj-t500x500.jpg",
+        "favicon": "",
         "country": "United Kingdom",
         "tags": "128 kbps,128 mp3,classic hits"
     },
@@ -719,7 +717,7 @@
         "name": "RMC Music Star Mina",
         "url": "http://edge.radiomontecarlo.net/rmcweb014",
         "url_resolved": "http://edge.radiomontecarlo.net/rmcweb014",
-        "favicon": "https://www.radio.net/175/rmcmusicstarmina.png",
+        "favicon": "",
         "country": "Italy",
         "tags": "mina,pop"
     },
@@ -737,7 +735,7 @@
         "name": "Radio Notte Stereo",
         "url": "http://nr9.newradio.it:9199/stream",
         "url_resolved": "http://nr9.newradio.it:9199/stream",
-        "favicon": "https://www.radio.it/175/radionotte.png",
+        "favicon": "",
         "country": "Italy",
         "tags": "classic hits,hits,top100"
     },
@@ -746,7 +744,7 @@
         "name": "Radio 106.6",
         "url": "https://rrock.fluidstream.eu/radiorock_ita.mp3",
         "url_resolved": "https://rrock.fluidstream.eu/radiorock_ita.mp3",
-        "favicon": "https://www.radio.net/175/radiorockroma.png",
+        "favicon": "",
         "country": "Italy",
         "tags": ""
     },
@@ -755,7 +753,7 @@
         "name": "Radio Forever 80",
         "url": "https://stream.laut.fm/forever80",
         "url_resolved": "https://stream.laut.fm/forever80",
-        "favicon": "https://www.radio.net/175/80sforeverch.png",
+        "favicon": "",
         "country": "Italy",
         "tags": "80's,classic dance,oldies"
     },
@@ -764,7 +762,7 @@
         "name": "Radio Stereo Sound Italia",
         "url": "http://s5.myradiostream.com:39494/",
         "url_resolved": "http://s5.myradiostream.com:39494/",
-        "favicon": "https://www.radio.it/175/radionetx1.jpeg",
+        "favicon": "null",
         "country": "Italy",
         "tags": "disco"
     },
@@ -782,7 +780,7 @@
         "name": "Radio Rosa",
         "url": "http://onair15.xdevel.com:8072/;",
         "url_resolved": "http://onair15.xdevel.com:8072/;",
-        "favicon": "https://uk.radio.net/175/rosa.png",
+        "favicon": "",
         "country": "Italy",
         "tags": "classic hits,hits,local news,musica italiana"
     },
@@ -791,7 +789,7 @@
         "name": "Happy Station",
         "url": "https://rtr99.fluidstream.eu/rtr99_happy_hq.aac",
         "url_resolved": "https://rtr99.fluidstream.eu/rtr99_happy_hq.aac",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/Qmjg8zDJZj.png",
+        "favicon": "",
         "country": "Italy",
         "tags": "happy music,happyhits"
     },
@@ -818,7 +816,7 @@
         "name": "Radio Linea Sport Energy",
         "url": "https://rblive.it:8130/radio.mp3",
         "url_resolved": "https://rblive.it:8130/radio.mp3",
-        "favicon": "https://www.radiolinea.it/stream/linea-cover-sport.png",
+        "favicon": "",
         "country": "Italy",
         "tags": "high energy"
     },
@@ -827,7 +825,7 @@
         "name": "Radio Alto Jonio - RAJ",
         "url": "https://stream1.xdevel.com/audio0s975781-332/stream/icecast.audio",
         "url_resolved": "https://stream1.xdevel.com/audio0s975781-332/stream/icecast.audio",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/634/radio-alto-jonio-raj.777811b2.png",
+        "favicon": "",
         "country": "Italy",
         "tags": ""
     },
@@ -899,43 +897,43 @@
         "name": "Radio Jerez",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JEREZ.mp3",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JEREZ.mp3",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/298/cadena-ser-jerez.9ebdd82d.png",
+        "favicon": "",
         "country": "Spain",
-        "tags": "Noticias,Radio hablada"
+        "tags": ""
     },
     {
         "stationuuid": "af3d724c-3510-4314-a4ee-2f7314038839",
         "name": "Radio Serranía",
         "url": "https://stream-179.zeno.fm/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDJqN09GTE5RSXVXZzVvZDRUWWhDUSIsImlhdCI6MTc2ODQ1OTQyMywiZXhwIjoxNzY4NDU5NDgzfQ.VQGXKt0LSXNn5bTuBulvfM_Q_z-M_NPoAm-9gKUZ-4I",
         "url_resolved": "https://stream-179.zeno.fm/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDJqN09GTE5RSXVXZzVvZDRUWWhDUSIsImlhdCI6MTc2ODQ1OTQyMywiZXhwIjoxNzY4NDU5NDgzfQ.VQGXKt0LSXNn5bTuBulvfM_Q_z-M_NPoAm-9gKUZ-4I",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/600/serrania-fm-997.b9b2e5f9.jpg",
+        "favicon": "",
         "country": "Spain",
         "tags": "information,pop"
     },
     {
         "stationuuid": "00cccb9f-39a4-4f98-a830-78b7a1363f66",
-        "name": "Radio Esport 91.4 FM",
-        "url": "https://www.radio-espana.es/null/feedback/v1/play",
-        "url_resolved": "https://www.radio-espana.es/null/feedback/v1/play",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/829/radio-esport.1549a0bb.jpg",
+        "name": "Radio",
+        "url": "https://laut.fm/radio",
+        "url_resolved": "https://laut.fm/radio",
+        "favicon": "null",
         "country": "Spain",
         "tags": "all of edm and all of music,music,rock"
     },
     {
         "stationuuid": "93435748-198a-4dd5-8b97-77a7edd07567",
-        "name": "Ibiza Radios - Deep House",
-        "url": "https://radio2.vip-radios.fm:18027/stream-128kmp3-IbizaDeep",
-        "url_resolved": "https://radio2.vip-radios.fm:18027/stream-128kmp3-IbizaDeep",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/181/ibiza-radios-deep-house.c0212838.png",
+        "name": "Radio EduNeu 1: ElecrricCircus",
+        "url": "https://radio.eduneu.eu/hls/radio1/live.m3u8",
+        "url_resolved": "https://radio.eduneu.eu/hls/radio1/live.m3u8",
+        "favicon": "null",
         "country": "Spain",
-        "tags": "House,electrónica"
+        "tags": ""
     },
     {
         "stationuuid": "bf3d9f69-25a8-11e9-a80b-52543be04c81",
         "name": "Ràdio Arrels",
         "url": "http://stream.radios-arra.fr:8000/radioarrels",
         "url_resolved": "http://stream.radios-arra.fr:8000/radioarrels",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/mWRYRgNmqr.png",
+        "favicon": "",
         "country": "Spain",
         "tags": "music,news"
     },
@@ -944,7 +942,7 @@
         "name": "VILASSAR RADIO",
         "url": "https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3?us_privacy=1YNY56.mp3",
         "url_resolved": "https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3?us_privacy=1YNY56.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/vilassar.png",
+        "favicon": "https://vilassarradio.cat/favicon.ico",
         "country": "Spain",
         "tags": "best music"
     },
@@ -953,7 +951,7 @@
         "name": "Lola FM Dance",
         "url": "https://digitalcreative.es:9000/lolafm_dance",
         "url_resolved": "https://digitalcreative.es:9000/lolafm_dance",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/lola.jpg",
+        "favicon": "https://lolafm.es/wp-content/uploads/2021/10/logo_lola_fm-06.png",
         "country": "Spain",
         "tags": ""
     },
@@ -962,7 +960,7 @@
         "name": "CalamarRradio",
         "url": "http://www.calamarrradio.org:8000/stream",
         "url_resolved": "http://www.calamarrradio.org:8000/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/calamar%20radio.jpg",
+        "favicon": "https://www.calamarrradio.org/wp-content/uploads/2020/05/icons8-tentaculos-50-e1588315296706.png",
         "country": "Spain",
         "tags": ""
     },
@@ -971,7 +969,7 @@
         "name": "Radio Planeta Costa del Sol",
         "url": "https://radioplaneta.emitironline.com/radio",
         "url_resolved": "https://radioplaneta.emitironline.com/radio",
-        "favicon": "https://www.radio.net/175/radioplaneta.jpeg",
+        "favicon": "",
         "country": "Spain",
         "tags": "dance,house,pop,r&b"
     },
@@ -989,7 +987,7 @@
         "name": "Radio Relativa",
         "url": "https://streamer.radio.co/sd6131729c/listen",
         "url_resolved": "https://streamer.radio.co/sd6131729c/listen",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/relativa.jpg",
+        "favicon": "https://radiorelativa.eu/_nuxt/icon/icon_512x512.04c22e.png",
         "country": "Spain",
         "tags": ""
     },
@@ -998,7 +996,7 @@
         "name": "Onda Wantuki",
         "url": "https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ",
         "url_resolved": "https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/onda.jpg",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20220923_223554634.png?alt=media&token=b0543e7b-d4d1-478d-b305-6120a41b0692",
         "country": "Spain",
         "tags": "80s,90s,dance,hip hop,pop,punk,rock"
     },
@@ -1007,16 +1005,16 @@
         "name": "Onda Aranjuez",
         "url": "http://server8.emitironline.com:18544/stream",
         "url_resolved": "http://server8.emitironline.com:18544/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/Onda%20Aranjuez%20-%20Madrid.png",
+        "favicon": "https://www.aranjuez.es/wp-content/uploads/2016/10/cropped-aranjuezlogo_sintexto-192x192.png",
         "country": "Spain",
         "tags": "music,spoken word"
     },
     {
         "stationuuid": "9c484f4a-418c-4d6c-be62-cf117ee1747b",
         "name": "Radio 5 RNE Almería",
-        "url": "https://dispatcher.rndfnk.com/crtve/rne5/cad/aac/high?cid=01GEPXNR2GD70SEGJYN9G1TQCA",
-        "url_resolved": "https://dispatcher.rndfnk.com/crtve/rne5/cad/aac/high?cid=01GEPXNR2GD70SEGJYN9G1TQCA",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/156/rne-radio-5-cadiz.27e7d97b.png",
+        "url": "https://d131.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3?cid=01GEPXZ8ZTFMN07R4EJZ955R9W&sid=38HaGqdb77NBk307NrDb2yzrSIG&token=ImNRQn16tD2RKxYDYV8EqY8Am8NyX-d-ICiVKc8ynuo&tvf=9JScGpvnihhkMTMxLnJuZGZuay5jb20",
+        "url_resolved": "https://d131.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3?cid=01GEPXZ8ZTFMN07R4EJZ955R9W&sid=38HaGqdb77NBk307NrDb2yzrSIG&token=ImNRQn16tD2RKxYDYV8EqY8Am8NyX-d-ICiVKc8ynuo&tvf=9JScGpvnihhkMTMxLnJuZGZuay5jb20",
+        "favicon": "",
         "country": "Spain",
         "tags": "almería,juanjitos,news,noticias,rne"
     },
@@ -1025,27 +1023,9 @@
         "name": "Ona Cat Ràdio",
         "url": "https://server8.emitironline.com:10824/",
         "url_resolved": "https://server8.emitironline.com:10824/",
-        "favicon": "https://www.radio.es/175/onacatradio.png",
+        "favicon": "",
         "country": "Spain",
         "tags": "music"
-    },
-    {
-        "stationuuid": "9db61957-813c-42b7-8490-b18485295c52",
-        "name": "AvtoRadio (Авторадио)",
-        "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-        "url_resolved": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
-        "country": "Russian Federation",
-        "tags": "pop, rock, 80s, 90s, russian, retro, dance"
-    },
-     {
-        "stationuuid": "c1a2b3c4-1003-4123-8abc-100000003303",
-        "name": "Big FM - Russia",
-        "url": "https://stream.bigfm.de/russia/aac-64",
-        "url_resolved": "https://stream.bigfm.de/russia/aac-64",
-        "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
-        "country": "Russian Federation",
-        "tags": "Russian Music,Dance,Pop"
     },
     {
         "stationuuid": "1f23a112-c88f-4243-9f94-ea342818dc9a",
@@ -1201,20 +1181,20 @@
         "tags": "club,dance,dancefloor,house"
     },
   {
-        "stationuuid": "c55dd0b5-5b35-46d8-b54c-00e55b85dc6a",
-        "name": "A1Lounge",
-        "url": "https://stream01.a1lounge.com/radio",
-        "url_resolved": "https://stream01.a1lounge.com/radio",
-        "favicon": "https://cdn.radoxo.com/images/netherlands/a1lounge.webp",
+        "stationuuid": "46bf662e-4cc2-41d9-9737-bc98a60891ef",
+        "name": "Waterland Radio (320k)",
+        "url": "https://loa.beheerstream.nl:8034/stream",
+        "url_resolved": "https://loa.beheerstream.nl:8034/stream",
+        "favicon": "https://www.waterlandradio.nl/wp-content/uploads/2023/04/logo_waterlandradio_site.png",
         "country": "The Netherlands",
-        "tags": ""
+        "tags": "various music"
     },
     {
         "stationuuid": "c26dd0b3-9b35-46d8-b74c-00e11b86dc6a",
         "name": "SRC FM",
         "url": "https://cc6.beheerstream.com/proxy/src1?mp=/stream;stream.mp3",
         "url_resolved": "https://cc6.beheerstream.com/proxy/src1?mp=/stream;stream.mp3",
-        "favicon": "https://nl.radio.net/175/srcfm.jpeg",
+        "favicon": "https://www.src.fm/images/logo_mob.png",
         "country": "The Netherlands",
         "tags": ""
     },
@@ -1223,7 +1203,7 @@
         "name": "Que Brille 800!",
         "url": "https://cdn.instream.audio/:9050/stream",
         "url_resolved": "https://cdn.instream.audio/:9050/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/QB800.png",
+        "favicon": "",
         "country": "The Netherlands",
         "tags": "religious"
     },
@@ -1232,16 +1212,16 @@
         "name": "Disco Factory",
         "url": "https://s5.radio.co/s253044a7a/listen",
         "url_resolved": "https://s5.radio.co/s253044a7a/listen",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DF.png",
+        "favicon": "https://www.discofactory.fm/uploads/1/4/3/0/143020101/logo-vierkant-zwart_orig.png",
         "country": "The Netherlands",
         "tags": ""
     },
     {
         "stationuuid": "4692de73-3832-4dff-8fab-f23533a5a119",
         "name": "Radio De Musketiers",
-        "url": "https://demusketiers.beheerstream.nl/8022/stream",
-        "url_resolved": "https://demusketiers.beheerstream.nl/8022/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDM.jpg",
+        "url": "https://loa.beheerstream.nl:8022/stream",
+        "url_resolved": "https://loa.beheerstream.nl:8022/stream",
+        "favicon": "https://www.radiodemusketiers.nl/wp-content/uploads/2023/03/cropped-bannerRDM.jpg",
         "country": "The Netherlands",
         "tags": "24/7,various music"
     },
@@ -5276,7 +5256,7 @@
         "votes": 79
     },
     {
-        "stationuuid": "961b77af-0601-11e8-ae97-52543be04c81",
+        "stationuuid": "960b77af-0601-11e8-ae97-52543be04c81",
         "name": "Inforadio",
         "url": "http://www.inforadio.de/live.m3u",
         "url_resolved": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid",
@@ -5286,7 +5266,7 @@
         "votes": 79
     },
     {
-        "stationuuid": "962d063e-0601-11e8-ae97-52543be04c81",
+        "stationuuid": "960d063e-0601-11e8-ae97-52543be04c81",
         "name": "Sunshine Live",
         "url": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
         "url_resolved": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
@@ -5294,66 +5274,6 @@
         "country": "Germany",
         "tags": "dance,trance",
         "votes": 74
-    },
-  {
-        "stationuuid": "963d063e-7581-55e8-ae80-52543be04c81",
-        "name": "SUNSHINE LIVE - 90s",
-        "url": "https://stream.sunshine-live.de/90er/mp3-192/radio.de",
-        "url_resolved": "https://stream.sunshine-live.de/90er/mp3-192/radio.de",
-        "favicon": "https://www.radio.net/175/sunshine90er.jpeg",
-        "country": "Germany",
-        "tags": "DJ,Dance,90s,Club",
-        "votes": 75
-    },
-  {
-        "stationuuid": "964d063e-7111-15e8-ae90-52543be04c81",
-        "name": "SUNSHINE LIVE - 2000s",
-        "url": "https://stream.sunshine-live.de/2000er/mp3-192/radio.de",
-        "url_resolved": "https://stream.sunshine-live.de/2000er/mp3-192/radio.de",
-        "favicon": "https://www.radio.net/175/sunshinedie2000er.jpeg",
-        "country": "Germany",
-        "tags": "DJ,Dance,90s,Club",
-        "votes": 76
-    },
-   {
-        "stationuuid": "965d063e-1057-12e8-ae99-52543be04c81",
-        "name": "SUNSHINE LIVE - Techno",
-        "url": "https://stream.sunshine-live.de/techno/mp3-192/radio.de",
-        "url_resolved": "https://stream.sunshine-live.de/techno/mp3-192/radio.de",
-        "favicon": "https://www.radio.net/175/sunshinetechno.jpeg",
-        "country": "Germany",
-        "tags": "DJ,Techno",
-        "votes": 77
-    },
-   {
-        "stationuuid": "966d063e-1057-12e8-ae99-52543be04c81",
-        "name": "SUNSHINE LIVE - Schranz",
-        "url": "https://stream.sunshine-live.de/schranz/mp3-192/radio.de",
-        "url_resolved": "https://stream.sunshine-live.de/schranz/mp3-192/radio.de",
-        "favicon": "https://www.radio.net/175/sunshineschranz.png",
-        "country": "Germany",
-        "tags": "Music only,DJ,Techno,Electronica",
-        "votes": 78
-    },
-    {
-        "stationuuid": "967d063e-1739-02e8-Be99-52543be04c81",
-        "name": "SUNSHINE LIVE - Bounce",
-        "url": "https://stream.sunshine-live.de/bounce/mp3-192/radio.de",
-        "url_resolved": "https://stream.sunshine-live.de/bounce/mp3-192/radio.de",
-        "favicon": "https://www.radio.net/175/sunshinebounce.png",
-        "country": "Germany",
-        "tags": "Music only,Electronica,Happy Hardcore",
-        "votes": 79
-    },
-      {
-        "stationuuid": "968d063e-1788-05e8-ce99-52543be04c81",
-        "name": "SUNSHINE LIVE - Calm Flow by Karmaloft",
-        "url": "https://stream.sunshine-live.de/calmflow/mp3-192/radio.de",
-        "url_resolved": "https://stream.sunshine-live.de/calmflow/mp3-192/radio.de",
-        "favicon": "https://www.radio.net/175/sunshinecalmflow.jpeg",
-        "country": "Germany",
-        "tags": "Music only,Chillout",
-        "votes": 80
     },
     {
         "stationuuid": "85c799b3-d91f-4f60-b91a-723e4a04acf5",
@@ -5400,7 +5320,7 @@
         "name": "France Culture",
         "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
         "url_resolved": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FRANCECULTURE.png",
+        "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png",
         "country": "France",
         "tags": "aac,culture,public radio,radio france",
         "votes": 165
@@ -5470,7 +5390,7 @@
         "name": "Europe 1",
         "url": "https://stream.europe1.fr/europe1.aac",
         "url_resolved": "https://stream.europe1.fr/europe1.aac",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/EUROPE1.png",
+        "favicon": "https://www.europe1.fr/build/e1/images/favicon-120x120.png",
         "country": "France",
         "tags": "aac,news,talk",
         "votes": 79
@@ -5510,7 +5430,7 @@
         "name": "RTL France",
         "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
         "url_resolved": "http://streaming.radio.rtl.fr/rtl-1-44-128",
-        "favicon": "https://www.radio.net/175/rtl.png",
+        "favicon": "https://www.radio.de/images/broadcasts/88/5b/5168/c300.png",
         "country": "France",
         "tags": "news,pop-music",
         "votes": 65
@@ -5560,7 +5480,7 @@
         "name": "Radio Nova",
         "url": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
         "url_resolved": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNFRANCE.jpg",
+        "favicon": "https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75",
         "country": "France",
         "tags": "alternative,pop,world music",
         "votes": 50
@@ -5610,7 +5530,7 @@
         "name": "Ambient Sleeping Pill",
         "url": "http://radio.stereoscenic.com/asp-h",
         "url_resolved": "http://radio.stereoscenic.com/asp-h",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ASP.jpg",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "ambient,meditation,sleep",
         "votes": 152
@@ -5640,7 +5560,7 @@
         "name": "Deep House Lounge",
         "url": "http://198.15.94.34:8006/stream",
         "url_resolved": "http://198.15.94.34:8006/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DHS.png",
+        "favicon": "http://www.deephouselounge.com/wp-content/themes/maronpro/images/favicon.ico",
         "country": "The United States Of America",
         "tags": "deep house,disco,electronica,funky,house,jazzy,lounge,philadelphia,techno",
         "votes": 115
@@ -5650,7 +5570,7 @@
         "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
         "url": "https://radiopanther.radiolebowski.com/play",
         "url_resolved": "https://radiopanther.radiolebowski.com/play",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMB7080.png",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "1970s,1980s,70's,70s,70s disco,80,80's,80s,classic hits",
         "votes": 106
@@ -5660,7 +5580,7 @@
         "name": "Deep House Radio",
         "url": "http://62.210.105.16:7000/stream",
         "url_resolved": "http://62.210.105.16:7000/stream",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DHR.jpg",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "electronic",
         "votes": 95
@@ -5720,7 +5640,7 @@
         "name": ".977 The Mix",
         "url": "http://playerservices.streamtheworld.com/pls/977_MIX.pls",
         "url_resolved": "http://26343.live.streamtheworld.com:3690/977_MIX_SC",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/977Mix.png",
+        "favicon": "",
         "country": "The United States Of America",
         "tags": "80s,90s,hits,today",
         "votes": 77
@@ -5740,7 +5660,7 @@
         "name": "LBC UK",
         "url": "http://media-ice.musicradio.com/LBCUK",
         "url_resolved": "http://media-ice.musicradio.com/LBCUK",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LBCUK.jpg",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s220687q.png",
         "country": "United Kingdom",
         "tags": "news talk,talk",
         "votes": 198
@@ -5990,7 +5910,7 @@
         "name": "RAC1",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
-        "favicon": "https://www.radio.net/175/rac1.jpeg",
+        "favicon": "",
         "country": "Spain",
         "tags": "culture,humour,local news,news,sports",
         "votes": 75
@@ -6050,7 +5970,7 @@
         "name": "Catalunya Radio",
         "url": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
         "url_resolved": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CARRAD.png",
+        "favicon": "",
         "country": "Spain",
         "tags": "talk & speech",
         "votes": 33
@@ -6140,7 +6060,7 @@
         "name": "RNE - R5 --> Madrid",
         "url": "https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20",
         "url_resolved": "https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNE-R5.jpg",
+        "favicon": "",
         "country": "Spain",
         "tags": "",
         "votes": 15
@@ -6150,7 +6070,7 @@
         "name": "COPE + Sevilla",
         "url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
         "url_resolved": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/COPE%20SEVILLA.jpg",
+        "favicon": "",
         "country": "Spain",
         "tags": "local news",
         "votes": 14
@@ -6175,46 +6095,6 @@
         "tags": "dance,house,pop",
         "votes": 99
     },
-   {
-        "stationuuid": "9622cd46-0555-151e8-ae57-52543be04c81",
-        "name": "DFM Chill-out",
-        "url": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
-        "url_resolved": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
-        "favicon": "https://www.radio.net/175/dfmchillout.png",
-        "country": "Russian Federation",
-        "tags": "Chillout",
-        "votes": 100
-    },
-    {
-        "stationuuid": "9622cd46-0771-11e8-ae07-52543be04c81",
-        "name": "Радио Родных Дорог",
-        "url": "https://stream1.radiord.ru:8000/live128.mp3",
-        "url_resolved": "https://stream1.radiord.ru:8000/live128.mp3",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/Rodnyix-doroG.png",
-        "country": "Russian Federation",
-        "tags": "dance,house,pop",
-        "votes": 599
-    },
-  {
-        "stationuuid": "9622cd46-0881-18e8-ae07-52543be04c81",
-        "name": "DFM Russian Dance",
-        "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-        "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-        "favicon": "https://www.radio.net/175/dfmrussiandance.png",
-        "country": "Russian Federation",
-        "tags": "Electro",
-        "votes": 101
-    },
-   {
-        "stationuuid": "9622cd46-5571-11e8-aa07-52543be04c11",
-        "name": "Радио 7",
-        "url": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
-        "url_resolved": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png",
-        "country": "Russian Federation",
-        "tags": "dance,house,pop",
-        "votes": 7
-    },
     {
         "stationuuid": "63688c44-e90b-11e8-a471-52543be04c81",
         "name": "РАДИО ВАНЯ",
@@ -6230,7 +6110,7 @@
         "name": "Соловьёв LIVE",
         "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
         "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
-        "favicon": "https://cdn.smotrim.ru/photobank/prod/large/901/590/7.png",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "politics,world news",
         "votes": 70
@@ -6240,7 +6120,7 @@
         "name": "Радио «Комсомольская Правда» | КП Россия",
         "url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
         "url_resolved": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
-        "favicon": "https://radiogenerator.ru/upload/iblock/3a9/komsomolskaya_pravda_moskva.png",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "moscow,music,news,russia,talk",
         "votes": 65
@@ -6250,7 +6130,7 @@
         "name": "DFM RUSSIAN DANCE",
         "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
         "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
-        "favicon": "https://www.radio.net/175/dfmrussiandance.png",
+        "favicon": "https://dfm.ru/uploads/favicon.ico",
         "country": "Russian Federation",
         "tags": "dance",
         "votes": 63
@@ -6260,7 +6140,7 @@
         "name": "Шансон Радио",
         "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
         "url_resolved": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/shanson.png",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "chanson",
         "votes": 58
@@ -6270,7 +6150,7 @@
         "name": "Радио Маяк (Radio Mayak)",
         "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
         "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/radiomayak.png",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "music,news,talk",
         "votes": 55
@@ -6280,7 +6160,7 @@
         "name": "Спутник",
         "url": "https://icecast-rian.cdnvideo.ru/voicerus",
         "url_resolved": "https://icecast-rian.cdnvideo.ru/voicerus",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-sputnik.jpg",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "news,talk",
         "votes": 50
@@ -6290,7 +6170,7 @@
         "name": "Дискотека СССР",
         "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA",
         "url_resolved": "http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA",
-        "favicon": "https://m.the-radio.ru/ava/2024/07/780_the_radio_ru_b80f58.webp",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "80s,90s,russian",
         "votes": 45
@@ -6300,7 +6180,7 @@
         "name": "DFM Дискач 90-х",
         "url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
         "url_resolved": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/diskach-90s-dfm.jpg",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "90-е,eurodance,nostalgia",
         "votes": 43
@@ -6310,7 +6190,7 @@
         "name": "Радио Русские Песни",
         "url": "http://listen.rusongs.ru/ru-mp3-128",
         "url_resolved": "http://listen.rusongs.ru/ru-mp3-128",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "russian pop",
         "votes": 40
@@ -6320,7 +6200,7 @@
         "name": "Соловьёв FM",
         "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
         "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg",
+        "favicon": "http://telegram.org/img/apple-touch-icon.png",
         "country": "Russian Federation",
         "tags": "news,politics,talk",
         "votes": 38
@@ -6330,7 +6210,7 @@
         "name": "Вести FM",
         "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
         "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
-        "favicon": "https://radiopotok.ru/f/station_webp/512/644.webp",
+        "favicon": "",
         "country": "Russian Federation",
         "tags": "news,talk",
         "votes": 37
@@ -6350,57 +6230,17 @@
         "name": "Радио Книга",
         "url": "http://bookradio.hostingradio.ru:8069/fm",
         "url_resolved": "http://bookradio.hostingradio.ru:8069/fm",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/kniga.jpg",
+        "favicon": "https://radiokniga.com/rk.ico",
         "country": "Russian Federation",
         "tags": "audiobooks,literature,talk,аудиокниги,литература",
         "votes": 37
-    },
-      {
-        "stationuuid": "96266006-1235-21e8-ae97-52543be04c81",
-        "name": "Новое Радио",
-        "url": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
-        "url_resolved": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/novoe-v2.png",
-        "country": "Russian Federation",
-        "tags": "",
-        "votes": 38
-    },
-    {
-        "stationuuid": "96266006-4856-21e8-ae90-52543be04c81",
-        "name": "Зайцев FM Rus",
-        "url": "https://abs.zaycev.fm/rus256k",
-        "url_resolved": "https://abs.zaycev.fm/rus256k",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/zaycevrus.jpg",
-        "country": "Russian Federation",
-        "tags": "",
-        "votes": 39
-    },
-  {
-        "stationuuid": "96266006-4523-55e8-ae97-52543be04c81",
-        "name": "Маруся ФМ",
-        "url": "https://msk13.radio-holding.ru/marusya_default",
-        "url_resolved": "https://msk13.radio-holding.ru/marusya_default",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/marusyafm.png",
-        "country": "Russian Federation",
-        "tags": "",
-        "votes": 40
-    },
-  {
-        "stationuuid": "96266006-7896-15e8-ae77-52543be04c81",
-        "name": "Русская Волна",
-        "url": "https://ru1.amgradio.ru/ruwave.aacp",
-        "url_resolved": "https://ru1.amgradio.ru/ruwave.aacp",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/russkaya-volna.png",
-        "country": "Russian Federation",
-        "tags": "",
-        "votes": 41
     },
     {
         "stationuuid": "3653b75c-0116-11ea-bbf2-52543be04c81",
         "name": "Psyndora Chillout",
         "url": "http://cast.magicstreams.gr:9125/stream",
         "url_resolved": "http://cast.magicstreams.gr:9125/stream",
-        "favicon": "https://top-radio.ru/assets/image/radio/180/russkaya-volna.png",
+        "favicon": "https://www.psyndora.com/images/favicon-144x144.png",
         "country": "Greece",
         "tags": "2 stations,24/7,chill,chillout,non-stop music,psybient,psydub,psytrance",
         "votes": 42
@@ -6680,7 +6520,7 @@
         "name": "Radio 10 60's & 70's Hits",
         "url": "http://playerservices.streamtheworld.com/pls/TLPSTR18.pls",
         "url_resolved": "http://22333.live.streamtheworld.com:3690/TLPSTR18_SC",
-        "favicon": "https://radioflow.nl/storage/stations/logos/radio-10-60s-70s-hits.webp",
+        "favicon": "https://www.radio10.nl/favicon.ico",
         "country": "The Netherlands",
         "tags": "",
         "votes": 58
@@ -6850,7 +6690,7 @@
         "name": "Vivid Bharti",
         "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
         "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VB.png",
+        "favicon": "",
         "country": "India",
         "tags": "classical",
         "votes": 223
@@ -6868,8 +6708,8 @@
     {
         "stationuuid": "bce9aa64-8fd5-434e-8c9d-3ee67c594a06",
         "name": "Red FM 93.5",
-        "url": "https://stream.zeno.fm/9phrkb1e3v8uv",
-        "url_resolved": "https://stream.zeno.fm/9phrkb1e3v8uv",
+        "url": "https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM",
+        "url_resolved": "https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM",
         "favicon": "https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp",
         "country": "India",
         "tags": "",
@@ -6920,7 +6760,7 @@
         "name": "latamangeshkarradio",
         "url": "https://stream.zeno.fm/87xam8pf7tzuv",
         "url_resolved": "https://stream.zeno.fm/87xam8pf7tzuv",
-        "favicon": "https://a10.gaanacdn.com/gn_img/radiotheme/D0PKLrWGl9/D0PKLnqWGl/size_m_1716488434.jpg",
+        "favicon": "https://radiosindia.com/images/latamangeshkarradio.jpg",
         "country": "India",
         "tags": "",
         "votes": 66
@@ -6930,7 +6770,7 @@
         "name": "Goldy Evergreen",
         "url": "https://stream.zeno.fm/n2fd0edh9k8uv",
         "url_resolved": "https://stream.zeno.fm/n2fd0edh9k8uv",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/khbf2jlccjaf.png",
+        "favicon": "",
         "country": "India",
         "tags": "",
         "votes": 62
@@ -7666,15 +7506,6 @@
         "votes": 33
     },
     {
-        "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
-        "name": "Electroradio.fm",
-        "url": "http://stream.electroradio.fm/listen.aac",
-        "url_resolved": "http://stream.electroradio.fm/listen.aac",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/electroradio.fm.png",
-        "country": "Switzerland",
-        "tags": "electronic, dance, house, trance, club"
-    },
-    {
         "stationuuid": "961f1da4-0601-11e8-ae97-52543be04c81",
         "name": "SRF 3",
         "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
@@ -7804,33 +7635,22 @@
         "tags": "classic country",
         "votes": 27
     },
-      [
-    {
-        "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
-        "name": "Radio Sonder Grense",
-        "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
-        "url_resolved": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/785/rsg-radio-sonder-grense.56113c70.png",
-        "country": "South Africa",
-        "tags": "",
-        "votes": 57
-    },
     {
         "stationuuid": "119f07c3-81f0-4309-91e8-f46525f0d35d",
         "name": "KAYA FM 95.9",
         "url": "http://edge.iono.fm/xhls/82_high.m3u8",
         "url_resolved": "http://edge.iono.fm/xhls/82_high.m3u8",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KAYAFM.jpg",
+        "favicon": "https://cdn-profiles.tunein.com/s6401/images/logog.png",
         "country": "South Africa",
         "tags": "african,alternative,pop",
         "votes": 152
     },
     {
         "stationuuid": "9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
-        "name": "Metro FM South Africa",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
-        "favicon": "https://static.mytuner.mobi/media/tvos_radios/781/metro-fm-live.21bf50af.png",
+        "name": "metro fm south Africa",
+        "url": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
+        "url_resolved": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
+        "favicon": "null",
         "country": "South Africa",
         "tags": "",
         "votes": 150
@@ -7840,7 +7660,7 @@
         "name": "Jacaranda FM",
         "url": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
         "url_resolved": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
-        "favicon": "https://www.radio.net/175/jacarandafm.png",
+        "favicon": "https://turntable.kagiso.io/core/images/jacaranda/apple-touch-icon.png",
         "country": "South Africa",
         "tags": "adult contemporary,pop,regional radio,talk",
         "votes": 113
@@ -7850,7 +7670,7 @@
         "name": "Ukhozi FM S.A",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
-        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/UFMSA.jpg",
+        "favicon": "https://www.ukhozifm.co.za/wp-content/uploads/2023/07/cropped-ukhozi-tranparent-logo.png",
         "country": "South Africa",
         "tags": "",
         "votes": 103
@@ -7860,7 +7680,7 @@
         "name": "Lesedi",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/778/lesedi-fm-live.62fca629.png",
+        "favicon": "http://www.lesedifm.co.za/sabc/wcm/connect/1c966b4c-f8cb-4b55-a426-9b607a8fa32e/index.jpg?MOD=AJPERES&CACHEID=1c966b4c-f8cb-4b55-a426-9b607a8fa32e&cache=none",
         "country": "South Africa",
         "tags": "",
         "votes": 77
@@ -7870,9 +7690,19 @@
         "name": "Bosveld Stereo",
         "url": "http://capeant.antfarm.co.za:8000/Bosveld",
         "url_resolved": "http://capeant.antfarm.co.za:8000/Bosveld",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/703/bosveld-stereo.18543abd.jpg",
+        "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/RRjd3up6aH.png",
         "country": "South Africa",
         "tags": "pop,rock",
+        "votes": 57
+    },
+    {
+        "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
+        "name": "Radio Sonder Grense",
+        "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
+        "url_resolved": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
+        "favicon": "https://static.wikia.nocookie.net/logopedia/images/8/8d/Radio_Sonder_Grense_logo.png/revision/latest?cb=20171102212609",
+        "country": "South Africa",
+        "tags": "",
         "votes": 57
     },
     {
@@ -7880,7 +7710,7 @@
         "name": "OFM 94 & 97 FM Bloemfontein",
         "url": "http://edge.iono.fm/xice/ofm_live_medium.aac",
         "url_resolved": "http://edge.iono.fm/xice/ofm_live_medium.aac",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/065/ofm.2d8979d0.png",
+        "favicon": "",
         "country": "South Africa",
         "tags": "bloemfontein,commercial,local news,news,pop",
         "votes": 56
@@ -7890,7 +7720,7 @@
         "name": "KFM 94.5",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/042/kfm-radio.a1ba5112.jpg",
+        "favicon": "",
         "country": "South Africa",
         "tags": "pop,rock",
         "votes": 52
@@ -7900,7 +7730,7 @@
         "name": "ThobelaFM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/787/thobela-fm.8da74da7.png",
+        "favicon": "http://www.thobelafm.co.za/sabc/contenthandler/!ut/p/digest!os-IGfRHDAke8Lr8sjz6Wg/war/CustomTheme8Static/themes/Portal8.0/pivot/thobelafm/images/website-header-main-logo.png",
         "country": "South Africa",
         "tags": "",
         "votes": 49
@@ -7910,7 +7740,7 @@
         "name": "Hot 102.7 FM",
         "url": "https://edge.iono.fm/xice/57_high.aac",
         "url_resolved": "https://edge.iono.fm/xice/57_high.aac",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/682/hot-1027-fm.1937ad08.png",
+        "favicon": "",
         "country": "South Africa",
         "tags": "",
         "votes": 43
@@ -7920,7 +7750,7 @@
         "name": "Jozi FM",
         "url": "https://edge.iono.fm/xice/51_medium.aac",
         "url_resolved": "https://edge.iono.fm/xice/51_medium.aac",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/717/jozi-fm.8eb15ef3.png",
+        "favicon": "",
         "country": "South Africa",
         "tags": "regional radio",
         "votes": 37

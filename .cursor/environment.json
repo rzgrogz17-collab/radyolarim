@@ -1,0 +1,4 @@
+{
+  "name": "radyolarim",
+  "install": "npm install --no-audit --no-fund"
+}

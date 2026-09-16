@@ -1500,16 +1500,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "09983f06-279c-497a-8e96-8e1057fa094a",
-    "name": "Hitsujikai Radio",
-    "url": "http://streaming.radio.co/se4a8e6a93/listen",
-    "url_resolved": "http://streaming.radio.co/se4a8e6a93/listen",
-    "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "53e7d317-c9e8-4054-87a4-2e21893e80cc",
     "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
     "url": "https://kathy.torontocast.com:3350/;?shoutcast=",
@@ -2707,6 +2697,16 @@
     "favicon": "https://www.nhk.or.jp/favicon.ico",
     "country": "Japan",
     "tags": "classical,jpop",
+    "votes": 0
+  },
+    {
+    "stationuuid": "09983f06-279c-497a-8e96-8e1057fa094a",
+    "name": "Hitsujikai Radio",
+    "url": "http://streaming.radio.co/se4a8e6a93/listen",
+    "url_resolved": "http://streaming.radio.co/se4a8e6a93/listen",
+    "favicon": "",
+    "country": "Japan",
+    "tags": "",
     "votes": 0
   },
   {

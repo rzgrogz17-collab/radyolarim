@@ -7816,6 +7816,16 @@
         "votes": 57
     },
     {
+        "stationuuid": "b24e8d57-0608-11ea-afd6-53643be04c81",
+        "name": "Radio 2000",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
+        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/784/radio-2000.9559406c.png",
+        "country": "South Africa",
+        "tags": "regional radio",
+        "votes": 38
+    }
+    {
         "stationuuid": "119f07c3-81f0-4309-91e8-f46525f0d35d",
         "name": "KAYA FM 95.9",
         "url": "http://edge.iono.fm/xhls/82_high.m3u8",

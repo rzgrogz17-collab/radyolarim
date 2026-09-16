@@ -7804,6 +7804,16 @@
         "tags": "classic country",
         "votes": 27
     },
+      {
+        "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
+        "name": "Radio Sonder Grense",
+        "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
+        "url_resolved": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/785/rsg-radio-sonder-grense.56113c70.png",
+        "country": "South Africa",
+        "tags": "",
+        "votes": 57
+    },
     {
         "stationuuid": "119f07c3-81f0-4309-91e8-f46525f0d35d",
         "name": "KAYA FM 95.9",
@@ -7814,11 +7824,21 @@
         "tags": "african,alternative,pop",
         "votes": 152
     },
+  {
+        "stationuuid": "b24e8d57-0608-11ea-afd6-53643be04c81",
+        "name": "Radio 2000",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
+        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/784/radio-2000.9559406c.png",
+        "country": "South Africa",
+        "tags": "regional radio",
+        "votes": 38
+    }
     {
         "stationuuid": "9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
         "name": "Metro FM South Africa",
-        "url": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
-        "url_resolved": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
+        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
         "favicon": "https://static.mytuner.mobi/media/tvos_radios/781/metro-fm-live.21bf50af.png",
         "country": "South Africa",
         "tags": "",
@@ -7829,7 +7849,7 @@
         "name": "Jacaranda FM",
         "url": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
         "url_resolved": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
-        "favicon": "https://turntable.kagiso.io/core/images/jacaranda/apple-touch-icon.png",
+        "favicon": "https://www.radio.net/175/jacarandafm.png",
         "country": "South Africa",
         "tags": "adult contemporary,pop,regional radio,talk",
         "votes": 113
@@ -7839,7 +7859,7 @@
         "name": "Ukhozi FM S.A",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
-        "favicon": "https://www.ukhozifm.co.za/wp-content/uploads/2023/07/cropped-ukhozi-tranparent-logo.png",
+        "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/UFMSA.jpg",
         "country": "South Africa",
         "tags": "",
         "votes": 103
@@ -7849,7 +7869,7 @@
         "name": "Lesedi",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
-        "favicon": "http://www.lesedifm.co.za/sabc/wcm/connect/1c966b4c-f8cb-4b55-a426-9b607a8fa32e/index.jpg?MOD=AJPERES&CACHEID=1c966b4c-f8cb-4b55-a426-9b607a8fa32e&cache=none",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/778/lesedi-fm-live.62fca629.png",
         "country": "South Africa",
         "tags": "",
         "votes": 77
@@ -7859,19 +7879,9 @@
         "name": "Bosveld Stereo",
         "url": "http://capeant.antfarm.co.za:8000/Bosveld",
         "url_resolved": "http://capeant.antfarm.co.za:8000/Bosveld",
-        "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/RRjd3up6aH.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/703/bosveld-stereo.18543abd.jpg",
         "country": "South Africa",
         "tags": "pop,rock",
-        "votes": 57
-    },
-    {
-        "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
-        "name": "Radio Sonder Grense",
-        "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
-        "url_resolved": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
-        "favicon": "https://static.wikia.nocookie.net/logopedia/images/8/8d/Radio_Sonder_Grense_logo.png/revision/latest?cb=20171102212609",
-        "country": "South Africa",
-        "tags": "",
         "votes": 57
     },
     {
@@ -7879,7 +7889,7 @@
         "name": "OFM 94 & 97 FM Bloemfontein",
         "url": "http://edge.iono.fm/xice/ofm_live_medium.aac",
         "url_resolved": "http://edge.iono.fm/xice/ofm_live_medium.aac",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/065/ofm.2d8979d0.png",
         "country": "South Africa",
         "tags": "bloemfontein,commercial,local news,news,pop",
         "votes": 56
@@ -7889,7 +7899,7 @@
         "name": "KFM 94.5",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/042/kfm-radio.a1ba5112.jpg",
         "country": "South Africa",
         "tags": "pop,rock",
         "votes": 52
@@ -7899,7 +7909,7 @@
         "name": "ThobelaFM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac",
         "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac",
-        "favicon": "http://www.thobelafm.co.za/sabc/contenthandler/!ut/p/digest!os-IGfRHDAke8Lr8sjz6Wg/war/CustomTheme8Static/themes/Portal8.0/pivot/thobelafm/images/website-header-main-logo.png",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/787/thobela-fm.8da74da7.png",
         "country": "South Africa",
         "tags": "",
         "votes": 49
@@ -7909,7 +7919,7 @@
         "name": "Hot 102.7 FM",
         "url": "https://edge.iono.fm/xice/57_high.aac",
         "url_resolved": "https://edge.iono.fm/xice/57_high.aac",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/682/hot-1027-fm.1937ad08.png",
         "country": "South Africa",
         "tags": "",
         "votes": 43
@@ -7919,7 +7929,7 @@
         "name": "Jozi FM",
         "url": "https://edge.iono.fm/xice/51_medium.aac",
         "url_resolved": "https://edge.iono.fm/xice/51_medium.aac",
-        "favicon": "",
+        "favicon": "https://static.mytuner.mobi/media/radios-150px/717/jozi-fm.8eb15ef3.png",
         "country": "South Africa",
         "tags": "regional radio",
         "votes": 37

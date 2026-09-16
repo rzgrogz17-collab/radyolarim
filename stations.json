@@ -7826,16 +7826,6 @@
         "votes": 152
     },
     {
-        "stationuuid": "a24e8d57-0608-11ea-afd6-53643be04c81",
-        "name": "Radio 2000",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC.aac",
-        "favicon": "https://static.mytuner.mobi/media/radios-150px/784/radio-2000.9559406c.png",
-        "country": "South Africa",
-        "tags": "",
-        "votes": 151
-    },
-    {
         "stationuuid": "9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
         "name": "Metro FM South Africa",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",

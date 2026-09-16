@@ -1,0 +1,16 @@
+{
+  "name": "radyolarim",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curated list of radio stations (stations.json) with a validation harness.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-stations.mjs",
+    "validate:strict": "node scripts/validate-stations.mjs --strict",
+    "test": "node scripts/validate-stations.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

@@ -7744,7 +7744,7 @@
     "name": "Convoy en vivo",
     "url": "https://live.convoynetwork.com/stream",
     "url_resolved": "https://live.convoynetwork.com/stream",
-    "favicon": "http://convoynetwork.com/assets/favicon.7a65c983.ico",
+    "favicon": "https://i1.sndcdn.com/avatars-000199680373-henxih-t1080x1080.jpg",
     "country": "Mexico",
     "tags": "classic rock,latin music,rock",
     "votes": 103
@@ -7754,7 +7754,7 @@
     "name": "La Ke Buena Ciudad de México - 92.9 FM - XEQ-FM - Radiópolis - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac",
-    "favicon": "https://recursosweb.prisaradio.com/fotos/original/010002851440.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/335/la-z-1073.071021f6.png",
     "country": "Mexico",
     "tags": "92.9,92.9 fm,banda,cdmx,ciudad de méxico,estación,fm,grupera,la ke buena,mex,mexico,musica regional,musica regional mexicana,mx,méxico,radio,radiópolis,regional mexican,regional mexicana",
     "votes": 48
@@ -7774,7 +7774,7 @@
     "name": "88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(240%2C240)",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/466/889-noticias.62cade58.png",
     "country": "Mexico",
     "tags": "88.9,88.9 fm,acir,balada en español,baladas en español,cdmx,ciudad de méxico,espacio deportivo,español,estación,fm,fundación acir,grupo acir,hablada,iheart,iheart radio,informacion,información,informativa,mex,mx,news,noticias,noticias cortas,noticias en español,noticias locales,noticias y comentarios,panorama informativo,radio,radio hablada,rock en español",
     "votes": 40
@@ -7794,7 +7794,7 @@
     "name": "Amor Ciudad de México - 95.3 FM - XHSH-FM - Grupo ACIR - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.aac",
     "url_resolved": "https://27143.live.streamtheworld.com:443/XHSHFMAAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988?ops=fit(240%2C240)",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/AvrZwexREf.jpg",
     "country": "Mexico",
     "tags": "95.3,95.3 fm,acir,amor,amor sólo música romántica,balada,balada en español,baladas,baladas en español,cdmx,ciudad de méxico,estación,fm,grupo acir,iheart,iheart radio,la hora de luis miguel,luna de amor,mex,mx,méxico,música,radio,sólo música romántica",
     "votes": 35
@@ -7814,7 +7814,7 @@
     "name": "La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL",
     "url": "http://streamingcwsradio20.com:9410/stream",
     "url_resolved": "http://streamingcwsradio20.com:9410/stream",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s24506g.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/506/la-ranchera-de-monterrey.4199c2c2.png",
     "country": "Mexico",
     "tags": "1050,1050 am,am,estación,grupera,grupero,mex,mexican music,mexico,monterrey,musica mexicana,musica regional,musica regional mexicana,musica tradicional mexicana,mx,méxico,música popular mexicana,música regional,nuevo leon,nuevo león,núcleo radio monterrey,radio,ranchera,rancheras,regional,regional mexican,regional mexicana,regional radio,traditional mexican music",
     "votes": 25
@@ -7824,7 +7824,7 @@
     "name": "MIX Ciudad de México - 106.5 FM - XHDFM-FM - Grupo ACIR - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
     "url_resolved": "https://18233.live.streamtheworld.com:443/XHDFMFMAAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(240%2C240)",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/QcAZwkB4r5.png",
     "country": "Mexico",
     "tags": "2000s,2010s,80s,90s,90s y más,acir,cdmx,ciudad de méxico,estación,grupo acir,iheart,iheart radio,mex,mix,mix fm,mx,méxico,pop,radio",
     "votes": 25
@@ -7844,7 +7844,7 @@
     "name": "W Radio Ciudad de México (XEW-AM 900 kHz, XEW-FM 96.9 MHz) Televisa Radio",
     "url": "http://provisioning.streamtheworld.com/pls/W_RADIOAAC.pls",
     "url_resolved": "http://19293.live.streamtheworld.com:3690/W_RADIOAAC_SC",
-    "favicon": "http://wradio.com.mx/pf/resources/wradiomx/favicon.ico?d=71",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/296/w-radio-mexico.06306eb0.jpg",
     "country": "Mexico",
     "tags": "adult contemporary,live sports,local news,mexico city,news,news talk,sports news,talk radio",
     "votes": 23
@@ -8134,7 +8134,7 @@
     "name": "Radio RMF MAXXX",
     "url": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
     "url_resolved": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/4/1294.v9.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RFMR.png",
     "country": "Poland",
     "tags": "misc",
     "votes": 64
@@ -8154,7 +8154,7 @@
     "name": "Radio Nowy Świat",
     "url": "https://go-audio.toya.net.pl/63214",
     "url_resolved": "https://go-audio.toya.net.pl/63214",
-    "favicon": "https://dl.memuplay.com/new_market/img/com.thehouseofcode.radio_nowy_swiat.icon.2021-03-20-18-25-39.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/460/radio-nowy-swiat.1e8810ed.jpg",
     "country": "Poland",
     "tags": "soft adult contemporary",
     "votes": 57
@@ -8164,7 +8164,7 @@
     "name": "Radio Eska Wrocław",
     "url": "https://ic1.smcdn.pl/2180-1.mp3",
     "url_resolved": "https://ic1.smcdn.pl/2180-1.mp3",
-    "favicon": "https://www.radio.net/175/radioeskawroclaw.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/192/eska-wroclaw.5fe77e51.jpg",
     "country": "Poland",
     "tags": "dance,pop,pop music,rock",
     "votes": 55
@@ -8204,17 +8204,17 @@
     "name": "Radio ZET Chilli",
     "url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
     "url_resolved": "https://ch.cdn.eurozet.pl/chi-net.mp3",
-    "favicon": "",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/888/zet-chilli.9bfde6ae.jpg",
     "country": "Poland",
     "tags": "",
     "votes": 45
   },
   {
     "stationuuid": "c101cf0d-9385-452f-96f8-ad46425f89d3",
-    "name": "VOX FM",
-    "url": "http://www.emsoft.ct8.pl/inne/time.m3u?id=3990",
-    "url_resolved": "http://ic1.smcdn.pl/3990-1.aac",
-    "favicon": "https://www.voxfm.pl/apple-touch-icon.png",
+    "name": "VOX Dance",
+    "url": "https://waw.ic.smcdn.pl/6180-2.aac",
+    "url_resolved": "https://waw.ic.smcdn.pl/6180-2.aac",
+    "favicon": "https://cdn.music.smcloud.net/t/cover/41d9bb49-736a-4ea9-a70c-bab5de942f3e_VD_500x500_500x500.jpg",
     "country": "Poland",
     "tags": "",
     "votes": 40
@@ -8224,10 +8224,20 @@
     "name": "VOX FM 128",
     "url": "https://ic2.smcdn.pl/3990-1.mp3",
     "url_resolved": "https://ic2.smcdn.pl/3990-1.mp3",
-    "favicon": "http://voxfm.pl/apple-touch-icon.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/255/radio-vox-fm-933.26c4e4f3.png",
     "country": "Poland",
-    "tags": "",
+    "tags": "Pop / Top 40",
     "votes": 33
+  },
+  {
+    "stationuuid": "c63a051f-cfd5-5fc6-9c94-ebef10bc85844",
+    "name": "VOX DJ Mix",
+    "url": "https://liveradio.timesa.pl/6020-1-noad.aac/playlist.m3u8",
+    "url_resolved": "https://liveradio.timesa.pl/6020-1-noad.aac/playlist.m3u8",
+    "favicon": "https://www.radio.net/175/voxdjmix.jpeg",
+    "country": "Poland",
+    "tags": "dj,mix",
+    "votes": 32
   },
   {
     "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",

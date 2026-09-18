@@ -7764,9 +7764,9 @@
     "name": "La Z Ciudad de México - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5ef0ca937ec97a064f3322cd",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/B2eyugprMp.png",
     "country": "Mexico",
-    "tags": "107.3,107.3 fm,banda,cdmx,ciudad de mexico,ciudad de méxico,estación,fm,grupera,grupo radio centro,la z,mex,mexico,mexico city,musica regional,musica regional mexicana,mx,méxico,música,música regional,radio,regional,regional mexican,regional mexicana",
+    "tags": "107.3,107.3 fm,banda,cdmx,ciudad de mexico",
     "votes": 41
   },
   {
@@ -7834,7 +7834,7 @@
     "name": "MIX: 80's, 90's y Más",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
     "url_resolved": "https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac",
-    "favicon": "https://i.postimg.cc/J4K5Xkqz/mix.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/424/mix-7.355a77e9.jpg",
     "country": "Mexico",
     "tags": "106.5 fm,2000s,2010s,70s,80s,80s 90s y más,90s,90s y más,acir,acir online,américa,cdmx,ciudad de méxico,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo acir,iheart,iheart radio,latinoamérica,mexico city,mix,mix fm,music,méxico,música,música del recuerdo,música en inglés,música pop,norteamérica,oldies,pop,pop en inglés,pop music,radio,retro hits,retro music,valle de méxico,éxitos",
     "votes": 23
@@ -7874,7 +7874,7 @@
     "name": "La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
-    "favicon": "http://cdn-profiles.tunein.com/s6984/images/logod.jpg",
+    "favicon": "https://www.allradio.net/500/_HzkZfywAdJYVTOsps_mz.webp",
     "country": "Argentina",
     "tags": "99.9 fm,argentina,buenos aires,entretenimiento,español,estación,fm,grupo clarín,la 100,latinoamérica,magazines,moi merino,música,radio,suramérica",
     "votes": 58
@@ -7884,7 +7884,7 @@
     "name": "Radio La Red AM 910. Ciudad de Buenos Aires",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
-    "favicon": "",
+    "favicon": "https://www.allradio.net/500/oH4jsqQymkSCdhxiAmZL5.webp",
     "country": "Argentina",
     "tags": "",
     "votes": 32
@@ -7894,7 +7894,7 @@
     "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
-    "favicon": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/M790R.jpg",
     "country": "Argentina",
     "tags": "",
     "votes": 30
@@ -7924,7 +7924,7 @@
     "name": "Blue 100.7 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
-    "favicon": "https://bluefm.com.ar/wp-content/themes/bluefmtheme/img/logo_blue.png",
+    "favicon": "https://www.radio.de/175/blue1007fm.png",
     "country": "Argentina",
     "tags": "80s,90s,classic hits,entretenimiento",
     "votes": 24
@@ -7944,7 +7944,7 @@
     "name": "Radio Rivadavia AM 630. Ciudad de Buenos Aires",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
-    "favicon": "https://rivadavia.com.ar/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RRA630.png",
     "country": "Argentina",
     "tags": "",
     "votes": 22
@@ -7964,7 +7964,7 @@
     "name": "El Destape Radio",
     "url": "https://ipanel.instream.audio/8004/stream",
     "url_resolved": "https://ipanel.instream.audio/8004/stream",
-    "favicon": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/EDRAR.png",
     "country": "Argentina",
     "tags": "actualidad,debate,economia,noticias,politica",
     "votes": 17
@@ -7974,7 +7974,7 @@
     "name": "AM710 - Radio 10 (El sonido de la realidad)",
     "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
     "url_resolved": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
-    "favicon": "https://www.radio10.com.ar/css-custom/220/favicons/android-chrome-512x512.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/R10710.png",
     "country": "Argentina",
     "tags": "news,noticias",
     "votes": 17
@@ -7984,7 +7984,7 @@
     "name": "La Popu",
     "url": "https://liveradio.mediainbox.net/popular.mp3",
     "url_resolved": "https://liveradio.mediainbox.net/popular.mp3",
-    "favicon": "https://www.lapopu.com.ar/img/favicon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RLP.png",
     "country": "Argentina",
     "tags": "cuarteto,local news,music",
     "votes": 14

@@ -7284,7 +7284,7 @@
     "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
-    "favicon": "https://cdn-profiles.tunein.com/s8129/images/logod.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AM107.png",
     "country": "Brazil",
     "tags": "light,misc,portuguese music",
     "votes": 50
@@ -7314,7 +7314,7 @@
     "name": "JB FM",
     "url": "http://provisioning.streamtheworld.com/pls/JBFMAAC.pls",
     "url_resolved": "http://26663.live.streamtheworld.com:3690/JBFMAAC_SC",
-    "favicon": "",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/331/jb-fm-999.c1d0d2fb.jpg",
     "country": "Brazil",
     "tags": "",
     "votes": 38
@@ -7354,7 +7354,7 @@
     "name": "Smooth Jazz Lounge",
     "url": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
     "url_resolved": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
-    "favicon": "https://www.vip-radios.fm/favicon.ico",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/621/smooth-jazz2.df24c01c.png",
     "country": "Brazil",
     "tags": "jazz,smooth jazz,smooth lounge",
     "votes": 26
@@ -7364,7 +7364,7 @@
     "name": "89 A Radio Rock",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
-    "favicon": "",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/629/89-a-radio-rock-de-goiania.662b7371.png",
     "country": "Brazil",
     "tags": "alternative rock,rock",
     "votes": 24
@@ -7384,7 +7384,7 @@
     "name": "Kiss FM São Paulo",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac?1655609055880=",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac?1655609055880=",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KFMSP.jpg",
     "country": "Brazil",
     "tags": "",
     "votes": 22
@@ -7499,6 +7499,16 @@
     "tags": "",
     "votes": 62
   },
+   {
+    "stationuuid": "8afae8e4-9d06-43f5-b60e-a51d6e09e61e",
+    "name": "VOCM",
+    "url": "https://newcap.leanstream.co/VOCMAM",
+    "url_resolved": "https://newcap.leanstream.co/VOCMAM",
+    "favicon": "https://uk.radio.net/175/vocm.png",
+    "country": "Canada",
+    "tags": "",
+    "votes": 103
+  },
   {
     "stationuuid": "7afae7e3-8d06-42f5-b59e-a52d6e09e60e",
     "name": "# RdMix Classic Rock 70s 80s 90s",
@@ -7564,7 +7574,7 @@
     "name": "CBC Radio 1 Toronto",
     "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
     "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBC_Radio_Logo.svg/250px-CBC_Radio_Logo.svg.png",
+    "favicon": "https://ie.radio.net/175/cbctoronto.png",
     "country": "Canada",
     "tags": "public radio",
     "votes": 32
@@ -7584,7 +7594,7 @@
     "name": "# 70s 80s 90s RdMix Network",
     "url": "https://cast1.torontocast.com:1830/stream",
     "url_resolved": "https://cast1.torontocast.com:1830/stream",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/6789FM.jpg",
     "country": "Canada",
     "tags": "00's,00s,192kbps,1970s,1980s,1990s,70's,70s,80's,80s,90's,90s,charts,classic hits,classic rock,dance,entretenimiento,fm,high quality audio,hits,local news,local radio,misc,music,musica,news,oldies,ontario,pop,pop music,pop rock,public radio,radio,rock,talk,top 100,top hits,top40,toronto,webradio",
     "votes": 30
@@ -7604,7 +7614,7 @@
     "name": "REGGAE CHILL CAFE",
     "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
     "url_resolved": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/reggaechillcafe.png",
     "country": "Canada",
     "tags": "chill,chillout,dancehall,reggae,relax,relaxation,relaxing,tropical",
     "votes": 27

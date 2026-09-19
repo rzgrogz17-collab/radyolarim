@@ -1384,7 +1384,7 @@
     "name": "RTW FM",
     "url": "https://loa.beheerstream.nl:8104/stream",
     "url_resolved": "https://loa.beheerstream.nl:8104/stream",
-    "favicon": "https://rtvmiddenholland.nl/wp-content/uploads/2024/03/Logo-rtw-waddinxveen.webp",
+    "favicon": "https://nl.radio.net/175/rtwfm.png",
     "country": "The Netherlands",
     "tags": "local news,local radio,news,various music",
     "votes": 0
@@ -1394,7 +1394,7 @@
     "name": "Hofstad radio",
     "url": "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=%2Fstream",
     "url_resolved": "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=%2Fstream",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/hofstadradio.png",
     "country": "The Netherlands",
     "tags": "pop",
     "votes": 0
@@ -1404,7 +1404,7 @@
     "name": "Radio Emmeloord",
     "url": "http://86.93.49.78:8080/live",
     "url_resolved": "http://86.93.49.78:8080/live",
-    "favicon": "https://www.radioemmeloord.nl/images/logoredab.gif",
+    "favicon": "https://nl.radio.net/175/radioemm.jpeg",
     "country": "The Netherlands",
     "tags": "",
     "votes": 0
@@ -1424,7 +1424,7 @@
     "name": "SRC FM 2 - Rivierenland en Vijfheerenlanden",
     "url": "https://loa.beheerstream.nl:8126/stream",
     "url_resolved": "https://loa.beheerstream.nl:8126/stream",
-    "favicon": "https://www.src.fm/images/logo_social.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyolarim/refs/heads/main/SRCFM2.png",
     "country": "The Netherlands",
     "tags": "local news,local radio,various music",
     "votes": 0
@@ -7160,6 +7160,16 @@
     "votes": 9
   },
   {
+    "stationuuid": "5e45745b-7337-4299-bb93-6b99fafbc2b2",
+    "name": "Q music Nederland",
+    "url": "https://stream.qmusic.nl/qmusic/aachigh",
+    "url_resolved": "https://stream.qmusic.nl/qmusic/aachigh",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KMN.jpg",
+    "country": "The Netherlands",
+    "tags": "pop",
+    "votes": 47
+  },
+  {
     "stationuuid": "6add27d4-5573-47b4-ae27-1d05834a9a4a",
     "name": "JOE",
     "url": "https://stream.joe.nl/joe/aachigh",
@@ -7174,7 +7184,7 @@
     "name": "NPO Radio 2",
     "url": "http://icecast.omroep.nl/radio2-bb-mp3",
     "url_resolved": "http://icecast.omroep.nl/radio2-bb-mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/640px-NPO_Radio_2_logo.svg.png",
+    "favicon": "https://www.radio.net/175/nporadio2.png",
     "country": "The Netherlands",
     "tags": "evergreens,talk",
     "votes": 197
@@ -7184,7 +7194,7 @@
     "name": "Radio 538",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
     "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
-    "favicon": "https://www.538.nl/favicon.ico",
+    "favicon": "https://nl.radio.net/100/538nl.png",
     "country": "The Netherlands",
     "tags": "",
     "votes": 176
@@ -7221,12 +7231,12 @@
   },
   {
     "stationuuid": "f0ab0c5c-7125-476c-97a4-2eabc14f5f05",
-    "name": "538 Radio",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
-    "favicon": "",
+    "name": "538 HITZONE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11AAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+    "favicon": "https://nl.radio.net/100/538hitzone.png",
     "country": "The Netherlands",
-    "tags": "",
+    "tags": "Hits,Pop,Top 40,Hitparade",
     "votes": 80
   },
   {
@@ -7234,7 +7244,7 @@
     "name": "100% NL",
     "url": "http://stream.100p.nl/100pctnl.mp3",
     "url_resolved": "http://stream.100p.nl/100pctnl.mp3",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyolarim/refs/heads/main/100NL.png",
     "country": "The Netherlands",
     "tags": "",
     "votes": 61
@@ -7254,20 +7264,10 @@
     "name": "Radio Veronica",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac",
     "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RV.png",
     "country": "The Netherlands",
     "tags": "",
     "votes": 56
-  },
-  {
-    "stationuuid": "5e45745b-7337-4299-bb93-6b99fafbc2b2",
-    "name": "Q music Nederland",
-    "url": "https://stream.qmusic.nl/qmusic/aachigh",
-    "url_resolved": "https://stream.qmusic.nl/qmusic/aachigh",
-    "favicon": "https://qmusic.nl/favicon.ico",
-    "country": "The Netherlands",
-    "tags": "pop",
-    "votes": 47
   },
   {
     "stationuuid": "901c92bd-a757-449a-b8ce-652b079fd38a",
@@ -8274,7 +8274,7 @@
     "name": "SRF 3",
     "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
     "url_resolved": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SRF3.jpg",
     "country": "Switzerland",
     "tags": "pop,public radio,srg ssr",
     "votes": 85
@@ -8284,7 +8284,7 @@
     "name": "1.FM - Chillout Lounge Radio",
     "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
     "url_resolved": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CH1FM.jpg",
     "country": "Switzerland",
     "tags": "chillout,lounge",
     "votes": 61
@@ -8294,7 +8294,7 @@
     "name": "Radio Swiss Pop",
     "url": "https://stream.srg-ssr.ch/rsp/aacp_96.m3u",
     "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsp/aac/96",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png",
+    "favicon": "https://www.radio.net/175/swisspop.png",
     "country": "Switzerland",
     "tags": "aac+,pop,srg ssr",
     "votes": 54
@@ -8304,7 +8304,7 @@
     "name": "Radio Swiss Jazz",
     "url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
     "url_resolved": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/swissjazz.png",
     "country": "Switzerland",
     "tags": "jazz,public radio,srg ssr",
     "votes": 54
@@ -8314,7 +8314,7 @@
     "name": "SWISS GROOVE",
     "url": "https://relay2.swissgroove.ch/;",
     "url_resolved": "https://relay2.swissgroove.ch/;",
-    "favicon": "https://swissgroove.ch/favicon.ico",
+    "favicon": "https://www.radio.net/175/swissgroove.png",
     "country": "Switzerland",
     "tags": "funk,jazz,latin,lounge,nu grooves,soul,world",
     "votes": 50
@@ -8324,7 +8324,7 @@
     "name": "1.FM - Deep House Radio",
     "url": "http://strm112.1.fm/deephouse_mobile_mp3",
     "url_resolved": "http://strm112.1.fm/deephouse_mobile_mp3",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/1fmdeephouse.png",
     "country": "Switzerland",
     "tags": "deep house,techno",
     "votes": 45
@@ -8334,7 +8334,7 @@
     "name": "Vintage Radio",
     "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
     "url_resolved": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/vintageradio.png",
     "country": "Switzerland",
     "tags": "music",
     "votes": 41
@@ -8354,7 +8354,7 @@
     "name": "1.FM - Amsterdam Trance Radio",
     "url": "http://strm112.1.fm/atr_mobile_mp3",
     "url_resolved": "http://strm112.1.fm/atr_mobile_mp3",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/1fmamsterdamtrance.png",
     "country": "Switzerland",
     "tags": "trance",
     "votes": 33
@@ -8364,7 +8364,7 @@
     "name": "1.FM - Deep Techno & Deep House",
     "url": "http://strm112.1.fm/deeptech_mobile_mp3",
     "url_resolved": "http://strm112.1.fm/deeptech_mobile_mp3",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/1fmdeeptech.png",
     "country": "Switzerland",
     "tags": "deep house,techno",
     "votes": 32
@@ -8394,7 +8394,7 @@
     "name": "1.FM - Classic Country Radio",
     "url": "http://strm112.1.fm/ccountry_mobile_mp3",
     "url_resolved": "http://strm112.1.fm/ccountry_mobile_mp3",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/1fmclassiccountry.png",
     "country": "Switzerland",
     "tags": "classic country",
     "votes": 27

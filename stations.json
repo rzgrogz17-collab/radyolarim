@@ -5681,12 +5681,12 @@
   },
   {
     "stationuuid": "78012206-1aa1-11e9-a80b-52543be04c81",
-    "name": "MANGORADIO",
-    "url": "https://mangoradio.stream.laut.fm/mangoradio",
-    "url_resolved": "https://mangoradio.stream.laut.fm/mangoradio",
-    "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
+    "name": "RTL RADIO Feel Good Music",
+    "url": "https://stream.rtlradio.de/rtl-de-national/mp3-128/RadioDE/",
+    "url_resolved": "https://stream.rtlradio.de/rtl-de-national/mp3-128/RadioDE/",
+    "favicon": "https://www.radio.net/175/rtlradiode.png",
     "country": "Germany",
-    "tags": "music,variety",
+    "tags": "Pop,Hits",
     "votes": 606
   },
   {
@@ -5794,7 +5794,7 @@
     "name": "SWR1 BW",
     "url": "https://liveradio.swr.de/sw282p3/swr1bw/play.mp3",
     "url_resolved": "https://liveradio.swr.de/sw282p3/swr1bw/play.mp3",
-    "favicon": "https://www.radio.at/images/broadcasts/07/41/2273/2/c300.png",
+    "favicon": "https://www.radio.de/175/swr1bw.jpeg",
     "country": "Germany",
     "tags": "",
     "votes": 87
@@ -5812,8 +5812,8 @@
   {
     "stationuuid": "717e3749-b9e8-4497-bd6a-61ccec935922",
     "name": "Deutschlandfunk | DLF | AAC 192k",
-    "url": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web",
-    "url_resolved": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web",
+    "url": "https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac",
+    "url_resolved": "https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac",
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "country": "Germany",
     "tags": "culture,news,public service,information",

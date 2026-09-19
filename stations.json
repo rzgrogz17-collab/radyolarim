@@ -8010,6 +8010,16 @@
     "votes": 13
   },
   {
+    "stationuuid": "461295bd-725e-52e8-ab5c-82927f20712e",
+    "name": "Qmusic",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/673/qmusic-belgium.1e21387c.png",
+    "country": "Belgium",
+    "tags": "Dutch,Amsterdam,Hits",
+    "votes": 67
+  },
+  {
     "stationuuid": "451491bd-624e-41e8-ab4c-71816f10611e",
     "name": "Nostalgie Vlaanderen",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
@@ -8024,7 +8034,7 @@
     "name": "VRT Radio 1",
     "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/radio1-high.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/489/vrt-radio-1.17ec9be6.png",
     "country": "Belgium",
     "tags": "news,pop,vrt",
     "votes": 61
@@ -8034,7 +8044,7 @@
     "name": "MNM",
     "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/mnm-high.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/482/vrt-mnm.dadaf24b.png",
     "country": "Belgium",
     "tags": "pop,vrt",
     "votes": 53
@@ -8054,7 +8064,7 @@
     "name": "RTBF La Première",
     "url": "https://radios.rtbf.be/laprem1ere-64.aac",
     "url_resolved": "https://radios.rtbf.be/laprem1ere-64.aac",
-    "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/113/rtbf-la-premiere.c613f5df.png",
     "country": "Belgium",
     "tags": "news,rtbf,variety",
     "votes": 44
@@ -8064,7 +8074,7 @@
     "name": "Willy",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
     "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
-    "favicon": "https://cdn-profiles.tunein.com/s308770/images/logod.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/809/willy.fc7aaaed.png",
     "country": "Belgium",
     "tags": "rock",
     "votes": 43
@@ -8074,7 +8084,7 @@
     "name": "TOPradio Belgium",
     "url": "http://str.topradio.be/topradio.mp3",
     "url_resolved": "http://str.topradio.be/topradio.mp3",
-    "favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/695/top-radio.54bf9514.png",
     "country": "Belgium",
     "tags": "",
     "votes": 37
@@ -8084,7 +8094,7 @@
     "name": "MNM Hits",
     "url": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
-    "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/483/vrt-mnm-hits.00e9c569.jpg",
     "country": "Belgium",
     "tags": "pop,vrt",
     "votes": 36
@@ -8104,7 +8114,7 @@
     "name": "Tomorrowland One World Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/095/one-world-radio-united-kingdom.16cbd298.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/511/one-world-radio.ba0008b5.jpg",
     "country": "Belgium",
     "tags": "",
     "votes": 27

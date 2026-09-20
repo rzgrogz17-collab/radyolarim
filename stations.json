@@ -6684,7 +6684,7 @@
     "name": "Radio Nacional de España - Radio 5 Todo noticias",
     "url": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
     "url_resolved": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
-    "favicon": "https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg",
+    "favicon": "https://www.radio.es/175/rneradio5.jpeg",
     "country": "Spain",
     "tags": "news,talk",
     "votes": 19
@@ -6974,10 +6974,20 @@
     "name": "Sport FM 94.6",
     "url": "http://netradio.live24.gr/sportfm7712",
     "url_resolved": "http://netradio.live24.gr/sportfm7712",
-    "favicon": "http://www.sport-fm.gr/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SFM.png",
     "country": "Greece",
     "tags": "greek,sport",
     "votes": 38
+  },
+   {
+    "stationuuid": "b1e1f76e-52fd-22e9-aa66-63654be04c92",
+    "name": "Ράδιο Κρήτη 101,5",
+    "url": "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/media_w1025939545_17246.aac",
+    "url_resolved": "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/chunklist_w1025939545.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/GFM.png",
+    "country": "Greece",
+    "tags": "blues",
+    "votes": 31
   },
   {
     "stationuuid": "b9e1f76e-41fd-11e9-aa55-52543be04c81",
@@ -6990,21 +7000,11 @@
     "votes": 33
   },
   {
-    "stationuuid": "dcbbb866-0116-11ea-bbf2-52543be04c81",
-    "name": "Psyndora Psytrance",
-    "url": "http://cast.magicstreams.gr:9111/stream",
-    "url_resolved": "http://cast.magicstreams.gr:9111/stream",
-    "favicon": "https://www.psyndora.com/images/favicon-144x144.png",
-    "country": "Greece",
-    "tags": "goa,non-stop music,psyndora,psytrance,trance",
-    "votes": 29
-  },
-  {
     "stationuuid": "9611d448-0601-11e8-ae97-52543be04c81",
     "name": "Sfera 102.2",
     "url": "http://sfera.live24.gr/sfera4132",
     "url_resolved": "http://sfera.live24.gr/sfera4132",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SFERA.png",
     "country": "Greece",
     "tags": "greek,pop,top 40",
     "votes": 25
@@ -7014,27 +7014,27 @@
     "name": "Trance Athena",
     "url": "https://cast.streams.ovh:2199/tunein/tranceathena.pls",
     "url_resolved": "http://cast.streams.ovh:8008/stream",
-    "favicon": "https://static.wixstatic.com/media/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TAFM.jpg",
     "country": "Greece",
     "tags": "electronic,melodic trance,music,trance,uplifting trance",
-    "votes": 25
+    "votes": 28
   },
   {
     "stationuuid": "d286d583-aab7-11e8-a907-52543be04c81",
     "name": "Off Radio - Athens",
     "url": "https://s3.yesstreaming.net:2199/tunein/offradio.pls",
     "url_resolved": "http://s3.yesstreaming.net:7062/stream",
-    "favicon": "https://www.offradio.gr/wp-content/uploads/2020/09/cropped-site-icon-180x180.png",
+    "favicon": "https://www.radio.net/175/offradio.png",
     "country": "Greece",
     "tags": "",
-    "votes": 25
+    "votes": 27
   },
   {
     "stationuuid": "96b37cae-4795-4e9a-92be-178f16216ecf",
     "name": "Rythmos 94.9",
     "url": "http://stream.radiojar.com/aw1w2xfx1vduv",
     "url_resolved": "http://stream.radiojar.com/aw1w2xfx1vduv",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/rythmos949fm.png",
     "country": "Greece",
     "tags": "greek,pop,top 40",
     "votes": 22
@@ -7044,7 +7044,7 @@
     "name": "Σκύλος 90",
     "url": "http://n01.radiojar.com/819r8wupdrruv",
     "url_resolved": "http://n01.radiojar.com/819r8wupdrruv",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RTM90.png",
     "country": "Greece",
     "tags": "folk,greek",
     "votes": 21
@@ -7054,7 +7054,7 @@
     "name": "Pepper 96.6",
     "url": "https://stream.radiojar.com/pepper",
     "url_resolved": "https://stream.radiojar.com/pepper",
-    "favicon": "https://www.pepper966.gr/wp-content/uploads/2018/06/logo-pepper.png",
+    "favicon": "https://www.radio.net/175/pepper966.png",
     "country": "Greece",
     "tags": "easy listening,smooth",
     "votes": 20
@@ -7064,7 +7064,7 @@
     "name": "Skai 100.3",
     "url": "http://netradio.live24.gr/skai1003",
     "url_resolved": "http://netradio.live24.gr/skai1003",
-    "favicon": "",
+    "favicon": "https://uk.radio.net/175/skai.png",
     "country": "Greece",
     "tags": "",
     "votes": 18
@@ -7084,7 +7084,7 @@
     "name": "My radio 104.6",
     "url": "http://streaming.myradio1046.fm/myradio1046",
     "url_resolved": "http://streaming.myradio1046.fm/myradio1046",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MR104.png",
     "country": "Greece",
     "tags": "greek pop,mainstream",
     "votes": 14
@@ -7094,7 +7094,7 @@
     "name": "Δρομοσ 89,8 | Dromos 89,8",
     "url": "http://netradio.live24.gr/dromos2",
     "url_resolved": "http://netradio.live24.gr/dromos2",
-    "favicon": "",
+    "favicon": "https://www.radio.net/175/dromosfm.png",
     "country": "Greece",
     "tags": "greek music,greek pop",
     "votes": 14
@@ -7104,7 +7104,7 @@
     "name": "Laikos FM",
     "url": "http://netradio.live24.gr/laikos876",
     "url_resolved": "http://netradio.live24.gr/laikos876",
-    "favicon": "https://www.laikos.gr/templates/bt_medical/favicon.ico",
+    "favicon": "https://www.radio.net/175/laikos-1057-fmfm.gif",
     "country": "Greece",
     "tags": "greek pop",
     "votes": 13
@@ -7124,7 +7124,7 @@
     "name": "Kiss 92.9",
     "url": "http://netradio.live24.gr/kissfmathens",
     "url_resolved": "http://netradio.live24.gr/kissfmathens",
-    "favicon": "https://www.kiss929.gr/sites/default/files/kiss.ico",
+    "favicon": "https://www.radio.net/175/kissfmgreece.png",
     "country": "Greece",
     "tags": "pop",
     "votes": 12
@@ -7134,7 +7134,7 @@
     "name": "Derti 98.6",
     "url": "http://derti.live24.gr/derty1000",
     "url_resolved": "http://derti.live24.gr/derty1000",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DERTFM.png",
     "country": "Greece",
     "tags": "laika",
     "votes": 11
@@ -7144,7 +7144,7 @@
     "name": "Cosmoradio 95,1",
     "url": "http://eco.onestreaming.com:8689/",
     "url_resolved": "http://eco.onestreaming.com:8689/",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KP51FM.jpg",
     "country": "Greece",
     "tags": "cosmoradio,kosmoradio",
     "votes": 11

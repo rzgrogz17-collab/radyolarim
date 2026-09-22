@@ -194,7 +194,7 @@
     "name": "Antenne Bayern",
     "url": "http://mp3channels.webradio.antenne.de/antenne",
     "url_resolved": "http://mp3channels.webradio.antenne.de/antenne",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern.gif",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ABFM.png",
     "country": "Germany",
     "tags": "pop,hits,bayern",
     "votes": 0
@@ -261,7 +261,7 @@
   },
   {
     "stationuuid": "c1a2b3c4-1003-4123-8abc-100000000003",
-    "name": "Antenne Bayern Chill Out",
+    "name": " Chill Out",
     "url": "http://mp3channels.webradio.antenne.de/chillout",
     "url_resolved": "http://mp3channels.webradio.antenne.de/chillout",
     "favicon": "https://www.radio.net/175/antennechillout.png",
@@ -271,7 +271,7 @@
   },
   {
     "stationuuid": "c1a2b3c4-1004-4123-8abc-100000000004",
-    "name": "Antenne Bayern Lovesongs",
+    "name": " Lovesongs",
     "url": "http://mp3channels.webradio.antenne.de/lovesongs",
     "url_resolved": "http://mp3channels.webradio.antenne.de/lovesongs",
     "favicon": "https://www.radio.net/175/antennelovesongs.png",
@@ -281,7 +281,7 @@
   },
   {
     "stationuuid": "c1a2b3c4-1005-4123-8abc-100000000005",
-    "name": "Antenne Bayern Top 40",
+    "name": " Top 40",
     "url": "http://mp3channels.webradio.antenne.de/top-40",
     "url_resolved": "http://mp3channels.webradio.antenne.de/top-40",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/almanyafm/refs/heads/main/Antenne%20Bayern%20Top%2040.gif",
@@ -1134,7 +1134,7 @@
     "name": "AvtoRadio (Авторадио)",
     "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
     "url_resolved": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-    "favicon": "https://images.seeklogo.com/logo-png/27/1/avto-radio-logo-png_seeklogo-271348.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AVTORUFM.png",
     "country": "Russia",
     "tags": "pop,rock,80s,90s,russian,retro,dance",
     "votes": 0
@@ -3321,7 +3321,7 @@
   },
   {
     "stationuuid": "9605739a-0601-11e8-ae97-52543be04c81",
-    "name": "Antenne Bayern",
+    "name": "",
     "url": "http://mp3channels.webradio.antenne.de/antenne",
     "url_resolved": "http://mp3channels.webradio.antenne.de/antenne",
     "favicon": "https://www.phonostar.de/images/auto_created/antenne_bayern3184x184.png",
@@ -6014,7 +6014,7 @@
     "name": "Русское Радио",
     "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
     "url_resolved": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RUFM.jpg",
     "country": "Russia",
     "tags": "misc",
     "votes": 31406
@@ -6234,7 +6234,7 @@
     "name": "Radio Fantastika",
     "url": "http://fantasyradioru.no-ip.biz:8002/live",
     "url_resolved": "http://fantasyradioru.no-ip.biz:8002/live",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s63710q.png",
+    "favicon": "",
     "country": "Russia",
     "tags": "fantasy,talk",
     "votes": 1486
@@ -6342,8 +6342,8 @@
   {
     "stationuuid": "b73821db-127a-11e9-a80b-52543be04c81",
     "name": "Пи FM",
-    "url": "http://cdn.pifm.ru/mp3",
-    "url_resolved": "http://cdn.pifm.ru/mp3",
+    "url": "https://cdn.pifm.ru/mp3",
+    "url_resolved": "https://cdn.pifm.ru/mp3",
     "favicon": "http://pifm.ru/img/ico/96%D1%8596.png",
     "country": "Russia",
     "tags": "dance",
@@ -6354,7 +6354,7 @@
     "name": "Модель для сборки",
     "url": "http://mds-station.com:8000/mds",
     "url_resolved": "http://mds-station.com:8000/mds",
-    "favicon": "https://cdn-profiles.tunein.com/s144846/images/logog.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MRUFM.jpg",
     "country": "Russia",
     "tags": "fantastic,fantasy,mds,science fiction,аудиокниги,мдс,модель для сборки,рассказы,фантастика",
     "votes": 704
@@ -6384,7 +6384,7 @@
     "name": "Радио Новая Россия",
     "url": "http://91.194.120.107:8000/256",
     "url_resolved": "http://91.194.120.107:8000/256",
-    "favicon": "https://static.tildacdn.com/tild3836-3136-4765-a261-373634646139/-/resize/504x/_11.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PHPFMRU.png",
     "country": "Russia",
     "tags": "музыка",
     "votes": 413
@@ -6454,7 +6454,7 @@
     "name": "Радио СИ",
     "url": "https://online.radioc.ru/radioc",
     "url_resolved": "https://online.radioc.ru/radioc",
-    "favicon": "https://www.radioc.ru/online/logo.png",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-si.png",
     "country": "Russia",
     "tags": "",
     "votes": 202
@@ -6464,7 +6464,7 @@
     "name": "Studio 21",
     "url": "http://icecast-studio21.cdnvideo.ru/S21cl_1r",
     "url_resolved": "http://icecast-studio21.cdnvideo.ru/S21cl_1r",
-    "favicon": "https://studio21.ru/favicon.png",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/studio21.png",
     "country": "Russia",
     "tags": "hip-hop,rap,trap",
     "votes": 173
@@ -6474,7 +6474,7 @@
     "name": "Такси FM",
     "url": "https://stream2.n340.com/13_taxi_28?type=.aac&UID=4D9A64A113E478565B7443DA00E31A80",
     "url_resolved": "https://stream2.n340.com/13_taxi_28?type=.aac&UID=4D9A64A113E478565B7443DA00E31A80",
-    "favicon": "http://img.taxifm.ru/images/logo.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RUTFM.png",
     "country": "Russia",
     "tags": "",
     "votes": 30
@@ -6864,7 +6864,7 @@
     "name": "Radyo 35",
     "url": "https://yayin.turkhosted.com/6012/stream",
     "url_resolved": "https://yayin.turkhosted.com/6012/stream",
-    "favicon": "https://www.radyo35.com/img/logo.png",
+    "favicon": "https://www.radyo35.com/img/cover.jpg",
     "country": "Turkey",
     "tags": "pop,türkçe",
     "votes": 141
@@ -6874,7 +6874,7 @@
     "name": "TRT Memleketim FM",
     "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
     "url_resolved": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
-    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/trt-memleketim-fm.webp",
     "country": "Turkey",
     "tags": "national radio",
     "votes": 103
@@ -6943,8 +6943,8 @@
     "stationuuid": "ef2a39d8-7633-48cf-99ef-a1f00f07d8a7",
     "name": "Moral FM",
     "url": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
-    "url_resolved": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
-    "favicon": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
+    "url_resolved": "https://stream.zeno.fm/0cfiqwdkobavv",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MRLFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 40
@@ -6954,7 +6954,7 @@
     "name": "İstanbul FM",
     "url": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
     "url_resolved": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
-    "favicon": "https://www.istanbulfm.com.tr/assets/logo.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/istanbul-fm.webp",
     "country": "Turkey",
     "tags": "",
     "votes": 38
@@ -6964,7 +6964,7 @@
     "name": "Radyo Karadeniz",
     "url": "https://radyomar.80.yayin.com.tr/;",
     "url_resolved": "https://radyomar.80.yayin.com.tr/;",
-    "favicon": "https://radyokaradeniz.com/uploads/settings/logo_69fcfb84e4cd6.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/radyo-karadeniz.webp",
     "country": "Turkey",
     "tags": "",
     "votes": 31

@@ -92,8 +92,8 @@
   {
     "stationuuid": "302a2b72-09e5-5319-b1f2-6ed80f62dbfa",
     "name": "Tempo FM Çorlu",
-    "url": "https://sslyayin.netyayin.net/8038/stream",
-    "url_resolved": "https://sslyayin.netyayin.net/8038/stream",
+    "url": "https://stream2.rtvtakip.com:7016/;",
+    "url_resolved": "https://stream2.rtvtakip.com:7016/;",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/ybrb3uy8dj37.jpg",
     "country": "Turkey",
     "tags": "Pop",
@@ -144,7 +144,7 @@
     "name": "KRAL FM",
     "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
     "url_resolved": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-    "favicon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KRALFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 0
@@ -1135,7 +1135,7 @@
     "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
     "url_resolved": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
     "favicon": "https://images.seeklogo.com/logo-png/27/1/avto-radio-logo-png_seeklogo-271348.png",
-    "country": "",
+    "country": "Russia",
     "tags": "pop,rock,80s,90s,russian,retro,dance",
     "votes": 0
   },
@@ -1145,7 +1145,7 @@
     "url": "https://stream.bigfm.de/russia/aac-64",
     "url_resolved": "https://stream.bigfm.de/russia/aac-64",
     "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
-    "country": "",
+    "country": "Russia",
     "tags": "Russian Music,Dance,Pop",
     "votes": 0
   },
@@ -1155,7 +1155,7 @@
     "url": "https://a8.radioheart.ru:9003/sk-radio",
     "url_resolved": "https://a8.radioheart.ru:9003/sk-radio",
     "favicon": "https://pbs.twimg.com/profile_images/2018973010691002368/LZEexcx9_400x400.jpg",
-    "country": "",
+    "country": "Russia",
     "tags": "блюз,рок",
     "votes": 0
   },
@@ -1165,7 +1165,7 @@
     "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/34",
     "url_resolved": "https://srv01.gpmradio.ru/stream/pro/aac/64/34",
     "favicon": "https://www.radio.net/175/101rueurohits.png",
-    "country": "",
+    "country": "Russia",
     "tags": "Russian Music",
     "votes": 0
   },
@@ -1175,7 +1175,7 @@
     "url": "https://djin.amgradio.ru/djin.aacp",
     "url_resolved": "https://djin.amgradio.ru/djin.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/djin-fm.png",
-    "country": "",
+    "country": "Russia",
     "tags": "dj,club,hits",
     "votes": 0
   },
@@ -1185,7 +1185,7 @@
     "url": "https://rusongs.amgradio.ru/rusongs?radio_net=",
     "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net=",
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
-    "country": "",
+    "country": "Russia",
     "tags": "Russian Music,Pop",
     "votes": 0
   },
@@ -1195,7 +1195,7 @@
     "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
-    "country": "",
+    "country": "Russia",
     "tags": "47,music,nostalgie,region 47,vyborg",
     "votes": 0
   },
@@ -1205,7 +1205,7 @@
     "url": "https://stream.popfm-bir.ru:1085/stream",
     "url_resolved": "https://stream.popfm-bir.ru:1085/stream",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFMRU.png",
-    "country": "",
+    "country": "Russia",
     "tags": "Russian Music,Pop",
     "votes": 0
   },
@@ -1215,7 +1215,7 @@
     "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "favicon": "https://www.radio.net/175/russkoe.png",
-    "country": "",
+    "country": "Russia",
     "tags": "Russian Music",
     "votes": 0
   },
@@ -1225,7 +1225,7 @@
     "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
     "url_resolved": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
     "favicon": "https://www.radio.net/175/retrofmrussland.png",
-    "country": "",
+    "country": "Russia",
     "tags": "Oldies",
     "votes": 0
   },
@@ -1235,7 +1235,7 @@
     "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
     "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
     "favicon": "https://www.radio.net/175/retrofmrussland.png",
-    "country": "",
+    "country": "Russia",
     "tags": "News",
     "votes": 0
   },
@@ -1245,7 +1245,7 @@
     "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
     "url_resolved": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
     "favicon": "https://www.radio.net/175/retrofmrussland.png",
-    "country": "",
+    "country": "Russia",
     "tags": "",
     "votes": 0
   },
@@ -1255,7 +1255,7 @@
     "url": "http://listen.radiopassazh.ru/aac-48",
     "url_resolved": "http://listen.radiopassazh.ru/aac-48",
     "favicon": "https://top-radio.ru/assets/image/radio/100/passaj.jpg",
-    "country": "",
+    "country": "Russia",
     "tags": "french,hits,pop,russian,spanish,top40,world music",
     "votes": 0
   },
@@ -1265,7 +1265,7 @@
     "url": "http://79.120.77.11:8002/guitarjazz",
     "url_resolved": "http://79.120.77.11:8002/guitarjazz",
     "favicon": "https://www.radio.net/175/capriceinstrumental.png",
-    "country": "",
+    "country": "Russia",
     "tags": "guitar jazz,jazz",
     "votes": 0
   },
@@ -1275,7 +1275,7 @@
     "url": "https://listen6.myradio24.com/angels_low.aac",
     "url_resolved": "https://listen6.myradio24.com/angels_low.aac",
     "favicon": "https://top-radio.ru/assets/image/radio/180/angels-radio.jpg",
-    "country": "",
+    "country": "Russia",
     "tags": "",
     "votes": 0
   },
@@ -1285,7 +1285,7 @@
     "url": "http://jfm1.hostingradio.ru:14536/rock00.mp3",
     "url_resolved": "http://jfm1.hostingradio.ru:14536/rock00.mp3",
     "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
-    "country": "",
+    "country": "Russia",
     "tags": "rock",
     "votes": 0
   },
@@ -1295,7 +1295,7 @@
     "url": "https://revolutionradio.ru:8443/live.mp3",
     "url_resolved": "https://revolutionradio.ru:8443/live.mp3",
     "favicon": "https://radio-onliner.ru/assets/images/radio/revolution-radio.png",
-    "country": "",
+    "country": "Russia",
     "tags": "клубная,электронная музыка",
     "votes": 0
   },
@@ -1305,7 +1305,7 @@
     "url": "http://91.202.68.50:8000/;stream.mp3",
     "url_resolved": "http://91.202.68.50:8000/;stream.mp3",
     "favicon": "https://top-radio.ru/assets/image/radio/180/54.png",
-    "country": "",
+    "country": "Russia",
     "tags": "pop-music",
     "votes": 0
   },
@@ -1315,7 +1315,7 @@
     "url": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
     "url_resolved": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMCR.jpg",
-    "country": "",
+    "country": "Russia",
     "tags": "club,dance,dancefloor,house",
     "votes": 0
   },
@@ -1326,7 +1326,7 @@
     "url_resolved": "https://stream01.a1lounge.com/radio",
     "favicon": "https://cdn.radoxo.com/images/netherlands/a1lounge.webp",
     "country": "The Netherlands",
-    "tags": "",
+    "tags": "Russia",
     "votes": 0
   },
   {
@@ -6604,7 +6604,7 @@
     "name": "TRT FM",
     "url": "https://trt.radyotvonline.net/trtfm",
     "url_resolved": "https://trt.radyotvonline.net/trtfm",
-    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 1058
@@ -6684,7 +6684,7 @@
     "name": "102.1 Arabeskin Merkezi Fm",
     "url": "http://canli.arabeskinmerkezi.com:9180/stream",
     "url_resolved": "http://canli.arabeskinmerkezi.com:9180/stream",
-    "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/1021-arabeskin-merkezi-fm.webp",
     "country": "Turkey",
     "tags": "arabesk,arabesk fantazi,arabic,pop",
     "votes": 641
@@ -6804,7 +6804,7 @@
     "name": "TürküRadyo",
     "url": "https://yayin.turkhosted.com/4591/stream",
     "url_resolved": "https://yayin.turkhosted.com/4591/stream",
-    "favicon": "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/turku-radyo.webp",
     "country": "Turkey",
     "tags": "",
     "votes": 212
@@ -6814,7 +6814,7 @@
     "name": "Radyo D",
     "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
     "url_resolved": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s14264d.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/radyo-d.webp",
     "country": "Turkey",
     "tags": "",
     "votes": 196
@@ -6854,7 +6854,7 @@
     "name": "Best FM",
     "url": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
     "url_resolved": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
-    "favicon": "https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BESTFM.png",
     "country": "Turkey",
     "tags": "",
     "votes": 146
@@ -6894,7 +6894,7 @@
     "name": "TRT Diyarbakır",
     "url": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
     "url_resolved": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
-    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/41d20783-0d27-48af-a16b-d1df88610d70.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/trt-gap-diyarbakir-radyosu.webp",
     "country": "Turkey",
     "tags": "local radio",
     "votes": 87
@@ -6904,7 +6904,7 @@
     "name": "TRT Antalya",
     "url": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
     "url_resolved": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
-    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25a3f157-c5a0-4506-b513-5e63518173bb.png",
+    "favicon": "https://cdn.radoxo.com/images/turkey/trt-antalya-radyosu.webp",
     "country": "Turkey",
     "tags": "local radio",
     "votes": 82

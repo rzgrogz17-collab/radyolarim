@@ -640,16 +640,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "c8028314-5c82-4194-9f6b-677bee41e883",
-    "name": "Jewish Music Stream",
-    "url": "http://stream.jewishmusicstream.com:8000/%20stream/;.m3u",
-    "url_resolved": "http://stream.jewishmusicstream.com:8000/%20stream/;.m3u",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JMS.jpg",
-    "country": "The United States Of America",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "57bd8480-e733-4a6e-ae93-3e7df760976f",
     "name": "Gen X Radio",
     "url": "https://stream.revma.ihrhls.com/zc5322/hls.m3u8",
@@ -1350,16 +1340,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "0ee68662-cd73-4ea8-866d-37677da969f1",
-    "name": "Que Brille 800!",
-    "url": "https://cdn.instream.audio/:9050/stream",
-    "url_resolved": "https://cdn.instream.audio/:9050/stream",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/QB800.png",
-    "country": "The Netherlands",
-    "tags": "religious",
-    "votes": 0
-  },
-  {
     "stationuuid": "59f13a3a-a1e9-4794-bd87-dbff768abd71",
     "name": "Disco Factory",
     "url": "https://s5.radio.co/s253044a7a/listen",
@@ -1430,56 +1410,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "304bea72-0af3-42fb-899c-58f9d2991324",
-    "name": "レインボータウンFM",
-    "url": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "88.5,江東",
-    "votes": 0
-  },
-  {
-    "stationuuid": "36a949f8-b550-4b68-adef-ac5d9b1d8b27",
-    "name": "なとらじ801",
-    "url": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "80.1,名取",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a729546b-0dde-4de3-8d6e-3f5f4e4cc23a",
-    "name": "Radio Mix Kyoto FM87.0",
-    "url": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "87.0,京都府",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d62d116a-e1ce-4ce3-b18a-254dfa6c2914",
-    "name": "FMはまなすジャパン",
-    "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
-    "url_resolved": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f4f69bbd-b8cd-4098-ad46-a3d501bf354c",
-    "name": "FMわたらせ",
-    "url": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "2119387e-f76a-449f-b15d-315ba83c2dfe",
     "name": "Patchwork Archive - VTuber Songs and Covers",
     "url": "https://a4.asurahosting.com:6930/radio.mp3",
@@ -1500,16 +1430,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "53e7d317-c9e8-4054-87a4-2e21893e80cc",
-    "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
-    "url": "https://kathy.torontocast.com:3350/;?shoutcast=",
-    "url_resolved": "https://kathy.torontocast.com:3350/;?shoutcast=",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "pop",
-    "votes": 0
-  },
-  {
     "stationuuid": "0d926201-13b3-4e14-9348-68b7666be53d",
     "name": "R/a/dio",
     "url": "https://relay0.r-a-d.io/main.mp3",
@@ -1517,66 +1437,6 @@
     "favicon": "http://r-a-d.io/favicon.ico",
     "country": "Japan",
     "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "14f39985-e279-4533-9a41-69e3bf6c514b",
-    "name": "エフエムEGAO",
-    "url": "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.3,岡崎",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3dc4d4af-a0fd-4d0d-b3a0-723668b68d24",
-    "name": "J-Pop Powerplay Kawaii",
-    "url": "https://kathy.torontocast.com:3060/;",
-    "url_resolved": "https://kathy.torontocast.com:3060/;",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b3b6aaa8-b8a7-4fe6-a44f-433727ee9aec",
-    "name": "FMぱるるん",
-    "url": "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.2,水戸",
-    "votes": 0
-  },
-  {
-    "stationuuid": "18b30bd4-a3c2-43d3-b177-d6be5ac4209f",
-    "name": "エフエム世田谷",
-    "url": "http://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
-    "url_resolved": "http://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3eacb8df-5cc0-4c6b-9a6f-084eeadb55c5",
-    "name": "J-Pop Powerplay",
-    "url": "https://kathy.torontocast.com:3560/;",
-    "url_resolved": "https://kathy.torontocast.com:3560/;",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b8c2e483-706b-475c-a9a8-d92bc7d51cd3",
-    "name": "FMやんばる",
-    "url": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "87.7,名護市",
     "votes": 0
   },
   {
@@ -1600,216 +1460,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "851e146e-242a-47ab-bd41-ceac2b064923",
-    "name": "ラジオ石巻",
-    "url": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "4,76,石巻",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ce962d43-c800-4490-bfd0-09060ef05e9c",
-    "name": "AIR STATION HIBIKI",
-    "url": "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "88.2,北九州市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "07d14a05-8de1-4cd1-b218-9448141364bf",
-    "name": "KOCOラジ",
-    "url": "https://mtist.as.smartstream.ne.jp/30020/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30020/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.1,郡山",
-    "votes": 0
-  },
-  {
-    "stationuuid": "436b6f8c-25e2-4c1f-afb6-4eaa5247cf15",
-    "name": "DARAZ FM",
-    "url": "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.8,米子市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bcd2dfab-0797-4e3a-a478-fc61d54f4234",
-    "name": "ラヂオ気仙沼",
-    "url": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.5,気仙沼",
-    "votes": 0
-  },
-  {
-    "stationuuid": "07d44324-869d-4479-8da6-dfaa2aa0da92",
-    "name": "あまみエフエム",
-    "url": "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.7,奄美市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ca3b4229-b5e3-4ab6-a3f4-8da61a91cd25",
-    "name": "fmいずみ",
-    "url": "https://mtist.as.smartstream.ne.jp/30018/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30018/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.7,仙台",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5b55c9a1-dd7f-45cb-8c30-3f08cf6048cf",
-    "name": "ＦＭカオン",
-    "url": "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "84.2,海老名",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8200660c-59e7-44f2-bb86-e30fc313bc5f",
-    "name": "鹿角きりたんぽFM",
-    "url": "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.1,鹿角",
-    "votes": 0
-  },
-  {
-    "stationuuid": "925ed0bd-d0e9-4e10-a5cb-015cde92d923",
-    "name": "フラワーラジオ",
-    "url": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.7,鴻巣",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a5ac3058-2deb-411a-9f88-112fa02ca978",
-    "name": "みやこハーバーラジオ",
-    "url": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "82.6,宮古",
-    "votes": 0
-  },
-  {
-    "stationuuid": "603d37de-50aa-47f3-b8ad-10c72cff4282",
-    "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
-    "url": "https://streaming.radio.co/se4a8e6a93/low",
-    "url_resolved": "https://streaming.radio.co/se4a8e6a93/low",
-    "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d1f94994-76ef-4623-847d-63d07432b20c",
-    "name": "FMおとくに",
-    "url": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "86.2,長岡京市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b992ec2b-63cb-40f9-909a-5427916a31a1",
-    "name": "FM ジャングル",
-    "url": "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.4,豊岡市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3a475914-e17d-45a5-b2c2-cfad18ea4ee5",
-    "name": "まえばしCITYエフエム",
-    "url": "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "84.5,前橋",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8b49d036-7dc5-495a-b786-5961a72295c7",
-    "name": "REDS WAVE",
-    "url": "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "87.3,さいたま市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "64630495-168b-4ea4-b3df-538b6a0937dd",
-    "name": "ラヂオもりおか FM76.9",
-    "url": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.9,盛岡",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6ebf58e8-8732-4f94-a909-8e0acbdfd411",
-    "name": "敦賀FM",
-    "url": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.9,敦賀市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "95d808d3-ee4a-4b38-b7c3-70a284ef41b2",
-    "name": "FMうしくうれしく放送",
-    "url": "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "85.4,牛久",
-    "votes": 0
-  },
-  {
-    "stationuuid": "405566fa-dd30-437e-b20b-934fcdbe768f",
-    "name": "Kamakura FM",
-    "url": "https://stream.laut.fm/kamakura",
-    "url_resolved": "https://stream.laut.fm/kamakura",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3c5dc353-b1ce-43be-a361-ae555535a2b0",
-    "name": "J1 Hits (HTTP)",
-    "url": "http://jenny.torontocast.com:8056/",
-    "url_resolved": "http://jenny.torontocast.com:8056/",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "918ec34d-9572-49c8-a6b5-653325f99eef",
     "name": "A&G+",
     "url": "https://www.uniqueradio.jp/agapps/hls/cdn.m3u8",
@@ -1817,106 +1467,6 @@
     "favicon": "https://www.joqr.co.jp/wp/wp-content/themes/joqr/img/favicon.ico",
     "country": "Japan",
     "tags": "classical",
-    "votes": 0
-  },
-  {
-    "stationuuid": "443a5e7e-4392-4930-bbed-10b9af54e32e",
-    "name": "羊飼いラジオ Hitsujikai Radio",
-    "url": "https://streaming.radio.co/se4a8e6a93/listen",
-    "url_resolved": "https://streaming.radio.co/se4a8e6a93/listen",
-    "favicon": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hitsujikai-radio.com/&size=256",
-    "country": "Japan",
-    "tags": "christian,classical,soft",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fdffc27f-a096-4be8-b3bf-2c51a943a1d1",
-    "name": "Gotanno FM 89.2",
-    "url": "https://radio.gotanno.love/;",
-    "url_resolved": "https://radio.gotanno.love/;",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "indie pop,jpop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "72f14258-8fb1-40d3-a161-426e2832a947",
-    "name": "WREP",
-    "url": "http://c13.radioboss.fm:8200/stream",
-    "url_resolved": "http://c13.radioboss.fm:8200/stream",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "hip-hop,hiphop,rap,trap",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1b604853-4fac-434c-9566-935e2796638f",
-    "name": "エフエム椿台",
-    "url": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.6,秋田",
-    "votes": 0
-  },
-  {
-    "stationuuid": "76e663f9-9ffd-4649-8b80-c0fd5897946d",
-    "name": "BOOTY FM",
-    "url": "http://60.45.66.12:88/bootyfm",
-    "url_resolved": "http://60.45.66.12:88/bootyfm",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "151f8c13-0171-449f-a074-e4ddff23f954",
-    "name": "FMとよみ",
-    "url": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "83.2,豊見城市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ce46492b-3512-48e5-bf12-e992df4b4906",
-    "name": "Big B Radio #JPOP",
-    "url": "https://antares.dribbcast.com/proxy/jpop?mp=%2Fs",
-    "url_resolved": "https://antares.dribbcast.com/proxy/jpop?mp=%2Fs",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ecbcdd6f-ac5f-408f-9d9b-cc979e5344c4",
-    "name": "J-Pop Powerplay Kawaii(asia dream radio)",
-    "url": "https://kathy.torontocast.com:3060/;?shoutcast=",
-    "url_resolved": "https://kathy.torontocast.com:3060/;?shoutcast=",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "music,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fa1af3ed-4a86-4d7a-bac6-3379574ea5ea",
-    "name": "FMふっかちゃん",
-    "url": "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "88.5,深谷",
-    "votes": 0
-  },
-  {
-    "stationuuid": "c5839f19-b2e5-4597-aa25-e32acf0db71f",
-    "name": "FMひたち",
-    "url": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "82.2,日立",
     "votes": 0
   },
   {
@@ -1930,16 +1480,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "907271e6-0c55-4342-b344-468206e831f2",
-    "name": "tilderadio",
-    "url": "https://tilderadio.org/listen",
-    "url_resolved": "https://tilderadio.org/listen",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "internacional,music,tilde,tildeverse",
-    "votes": 0
-  },
-  {
     "stationuuid": "e0763775-fdb9-4f6d-b88e-057165cb283c",
     "name": "Gensokyo Radio (OGG)",
     "url": "https://stream.gensokyoradio.net/2",
@@ -1947,26 +1487,6 @@
     "favicon": "https://stream.gensokyoradio.net/images/logo.png",
     "country": "Japan",
     "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "505fcd85-39b4-4336-b8d0-7afe103648b5",
-    "name": "FMのべおか",
-    "url": "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "88.6,延岡市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "db05622a-12af-4853-b83f-bdb06fb1ca95",
-    "name": "ラジオカロスサッポロ FM78.1",
-    "url": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "コミュニティfm",
     "votes": 0
   },
   {
@@ -1980,106 +1500,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "cb8b1a74-bbb9-4185-bf83-d4eb739f6a1b",
-    "name": "FMたんご",
-    "url": "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.4,京丹後市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d1df0119-1b6c-45c8-94c3-f5723083c742",
-    "name": "FM Mot.com",
-    "url": "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.7,本宮",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8f00a733-bac8-419a-8722-50a30df1c71d",
-    "name": "FMいわき",
-    "url": "https://mtist.as.smartstream.ne.jp/30009/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30009/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.2,いわき市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "51f0066d-6de7-40b5-83a0-f264727f30a4",
-    "name": "J-Rock Powerplay(Asia DREAM Radio)",
-    "url": "https://kathy.torontocast.com:3340/;?shoutcast=",
-    "url_resolved": "https://kathy.torontocast.com:3340/;?shoutcast=",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "music,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ddfd0cda-f782-419b-86d0-6d2a12c5fc78",
-    "name": "エフエムたつごう",
-    "url": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "78.9,大島郡",
-    "votes": 0
-  },
-  {
-    "stationuuid": "cd6300b8-7446-45e8-acac-dc97a2d11d5b",
-    "name": "FMぎのわん",
-    "url": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.7,宜野湾市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e2abcb12-3954-4ca2-a5b4-5df5502d9045",
-    "name": "FM Kawaguchi 856 studio (FM川口)",
-    "url": "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "85.6,川口",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1c7e511c-9215-443d-ae65-6bfeac259811",
-    "name": "FMゆーとぴあ",
-    "url": "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.3,湯沢",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3948798a-51c0-4d38-bb58-cafc2937c287",
-    "name": "Retro PC Game Music Streaming Radio for Gyusyabu",
-    "url": "http://gyusyabu.ddo.jp:8000/;stream.mp3",
-    "url_resolved": "http://gyusyabu.ddo.jp:8000/;stream.mp3",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a36cb1a5-f9b5-4739-a86a-987d256b7d0e",
-    "name": "J-Club Club Bandstand",
-    "url": "https://cast1.torontocast.com:2060/;.mp3",
-    "url_resolved": "https://cast1.torontocast.com:2060/;.mp3",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "1930s,1940s,big band,jazz,swing",
-    "votes": 0
-  },
-  {
     "stationuuid": "b6512cd8-9b4d-4b25-82a6-3fcd9a6273c6",
     "name": "Gensokyo Radio (Enhanced)",
     "url": "https://stream.gensokyoradio.net/3",
@@ -2090,66 +1510,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c",
-    "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
-    "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
-    "url_resolved": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "relax",
-    "votes": 0
-  },
-  {
-    "stationuuid": "045fd26e-5be3-4ef8-9c38-651ebceef4d1",
-    "name": "wi-radio",
-    "url": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.6",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fbdf08c1-ec04-49f1-834a-aec641b5e5ba",
-    "name": "FMいしがきサンサンラジオ",
-    "url": "https://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.1,石垣市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "2bd889fe-1a7b-4989-be0c-6ed795f0264f",
-    "name": "ラジオスイート",
-    "url": "https://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "81.5,東近江市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bc33ea37-3935-41a5-bf9f-788496ef6959",
-    "name": "J-Club Powerplay HipHop",
-    "url": "https://kathy.torontocast.com:3350/;",
-    "url_resolved": "https://kathy.torontocast.com:3350/;",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d870c205-e869-44aa-a9b9-f548fc2f1d4b",
-    "name": "カシオペアFM",
-    "url": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.9,二戸",
-    "votes": 0
-  },
-  {
     "stationuuid": "090ec5aa-54d0-4410-8442-82c5236c57b8",
     "name": "J1 HITS",
     "url": "https://jenny.torontocast.com:2000/stream/J1HITS",
@@ -2157,36 +1517,6 @@
     "favicon": "https://mmo.aiircdn.com/387/5e763a347e800.png",
     "country": "Japan",
     "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "c17a651c-1f8c-4da1-b802-403cb81bf5b6",
-    "name": "FMアップル",
-    "url": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "02cf24a8-b1a6-4196-bf1c-d5553d2090bd",
-    "name": "asia DREAM radio - Japan Hits",
-    "url": "https://quincy.torontocast.com:2020/stream.mp3",
-    "url_resolved": "https://quincy.torontocast.com:2020/stream.mp3",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "j-pop,japanese,jpop,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8d01010d-aea1-4226-9b48-8beb376f0d61",
-    "name": "J-Pop Sakura (asia DREAM radio)",
-    "url": "http://quincy.torontocast.com:2070/stream.mp3",
-    "url_resolved": "http://quincy.torontocast.com:2070/stream.mp3",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "j-pop,japanese,jpop,oldies",
     "votes": 0
   },
   {
@@ -2210,76 +1540,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "0f0b233d-2b81-49e9-b9fd-51cdbd645210",
-    "name": "ぎのわんシティFM",
-    "url": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "81.8,宜野湾市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "0f9cf618-ac22-42b8-8604-57a7f2b1cf17",
-    "name": "ハローハッピー・こしがやエフエム",
-    "url": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "86.8,越谷",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5d0978bf-0eaa-402a-a8ad-e8f56e55e508",
-    "name": "FMおたる",
-    "url": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ce287e36-5818-4b87-88bc-452f0f383923",
-    "name": "横手かまくらエフエム",
-    "url": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.4,横手",
-    "votes": 0
-  },
-  {
-    "stationuuid": "29e18f32-a063-4002-9768-fb416f172778",
-    "name": "BeFM",
-    "url": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.5,八戸市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f6b43a0f-0211-4dd2-b552-c3fc38cb7297",
-    "name": "BAY WAVE 塩竈のラジオ",
-    "url": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "78.1,塩竈",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e95449cf-fe53-4b0c-9a96-eb2396877a64",
-    "name": "チョクラジ",
-    "url": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "86.1,直方市",
-    "votes": 0
-  },
-  {
     "stationuuid": "1909f412-f4d4-4edd-9ea2-50a288183ba0",
     "name": "Ottava",
     "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
@@ -2300,26 +1560,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "4321bd6c-19e8-4f5e-ae57-bf7e62416b4b",
-    "name": "JPopsuki Radio",
-    "url": "http://65.21.170.149:8000/stream",
-    "url_resolved": "http://65.21.170.149:8000/stream",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5a2cbfe7-0518-44e9-aca6-0fd41e466ff0",
-    "name": "Fred Film Radio(日本語)",
-    "url": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
-    "url_resolved": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "culture,film,movie",
-    "votes": 0
-  },
-  {
     "stationuuid": "57cf528a-02be-4805-a510-6d05bb0ff996",
     "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
     "url": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
@@ -2327,56 +1567,6 @@
     "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-JA.png",
     "country": "Japan",
     "tags": "information,news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "04d1eabe-f19d-11e8-a471-52543be04c81",
-    "name": "Moon Mission Recordings",
-    "url": "http://uk5.internet-radio.com:8306/",
-    "url_resolved": "http://uk5.internet-radio.com:8306/",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "deep house,techno",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e2ea97c5-a2ad-40eb-a7d7-e686d92f4d26",
-    "name": "FM N1",
-    "url": "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.3,野々市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "21fece77-9763-4223-8f01-358adbddeac7",
-    "name": "Nonstop Casiopea",
-    "url": "https://nonstopcasiopea.radioca.st/",
-    "url_resolved": "https://nonstopcasiopea.radioca.st/",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "12ac30d1-1900-4edc-baef-7c027232ee64",
-    "name": "J-Rock PowerPlay",
-    "url": "https://kathy.torontocast.com:3340/stream",
-    "url_resolved": "https://kathy.torontocast.com:3340/stream",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3a578ed9-ca5d-4e95-8519-19ee16674dbc",
-    "name": "FMメイプル",
-    "url": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
     "votes": 0
   },
   {
@@ -2400,36 +1590,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "df402746-9d27-4b53-8d07-ab4634ac8b66",
-    "name": "大富ラジオ",
-    "url": "https://stream.zeno.fm/oaxp6mswcqltv",
-    "url_resolved": "https://stream.zeno.fm/oaxp6mswcqltv",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "94787418-4335-4192-966d-d89105db8548",
-    "name": "FM RADIO3 (ラジオ3)",
-    "url": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.2,仙台",
-    "votes": 0
-  },
-  {
-    "stationuuid": "0347b46a-91c7-4fe3-943d-a9eb02cdd9b9",
-    "name": "Rainwave All",
-    "url": "https://relay.rainwave.cc/all.mp3?1%3AMF0d8GHw2d=",
-    "url_resolved": "https://relay.rainwave.cc/all.mp3?1%3AMF0d8GHw2d=",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "90397feb-f9ab-43b8-87c0-4a8e1b7e4316",
     "name": "ALR Jazz Radio",
     "url": "http://195.154.79.204:8638/stream",
@@ -2437,36 +1597,6 @@
     "favicon": "https://www.alrjazz.com/favicon.ico",
     "country": "Japan",
     "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f0d0887f-961d-4615-a679-27c1551cb4b0",
-    "name": "京都三条ラジオカフェ",
-    "url": "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.7,京都市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9af1536b-1acd-11ea-a620-52543be04c81",
-    "name": "Nightwave Plaza OPUS 96",
-    "url": "http://radio.plaza.one/opus",
-    "url_resolved": "http://radio.plaza.one/opus",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "aesthetic,chillwave,futurefunk,lofi,vaporwave",
-    "votes": 0
-  },
-  {
-    "stationuuid": "69c7cb5b-df1d-47b6-93c3-964cf64c7ea7",
-    "name": "ラジオ・ミュー",
-    "url": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "76.1,黒部市",
     "votes": 0
   },
   {
@@ -2480,46 +1610,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ec554185-b0f8-4a45-9572-ee90bbf34622",
-    "name": "FMたちかわ",
-    "url": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "84.4,立川",
-    "votes": 0
-  },
-  {
-    "stationuuid": "32d5e5ac-e196-4451-9193-bd41a7961556",
-    "name": "J1 Gold (HTTP)",
-    "url": "http://jenny.torontocast.com:8062/",
-    "url_resolved": "http://jenny.torontocast.com:8062/",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "jpop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1972ede1-8a0a-4cf3-87a7-4497e3260b92",
-    "name": "B･FM791",
-    "url": "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "79.1,徳島市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e4f7dac4-db05-446d-9282-d79a56ce7327",
-    "name": "Jazz Sakura",
-    "url": "https://kathy.torontocast.com:3330/;",
-    "url_resolved": "https://kathy.torontocast.com:3330/;",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "1bca74bf-82e7-4631-87b6-1e96be3bae43",
     "name": "SOUND UP STATION NFRS",
     "url": "https://stream2.rcast.net/70945",
@@ -2527,16 +1617,6 @@
     "favicon": "https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico",
     "country": "Japan",
     "tags": "indie,jpop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "961b7ba6-0601-11e8-ae97-52543be04c81",
-    "name": "FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
-    "url": "http://radio.kahoku.net:8000/;",
-    "url_resolved": "http://radio.kahoku.net:8000/;",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "enka,japan,japanese,jpop,kayokyoku,talk radio",
     "votes": 0
   },
   {
@@ -2570,16 +1650,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "121df42c-e7a1-4a57-ab0b-a5149ae3956f",
-    "name": "Shonan Beach FM 78.9 湘南ビーチ",
-    "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
-    "url_resolved": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "jazz",
-    "votes": 0
-  },
-  {
     "stationuuid": "6d1d23d9-50d9-412d-83e2-d4c087d121d8",
     "name": "Vaporwave",
     "url": "http://radio.plaza.one/ogg",
@@ -2610,46 +1680,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "7d7237f8-7fbb-4ff1-98e0-1bca42b63911",
-    "name": "775ライブリーFM",
-    "url": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "77.5,朝霞",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9f9cc220-3462-11e8-bb9b-52543be04c81",
-    "name": "Retro PC GAME MUSIC Streaming Radio",
-    "url": "http://gyusyabu.ddo.jp:8000/",
-    "url_resolved": "http://gyusyabu.ddo.jp:8000/",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "chiptune,retro games,soundtracks,video game",
-    "votes": 0
-  },
-  {
-    "stationuuid": "271d5018-2b16-49de-ab3f-df460337c0f8",
-    "name": "調布FM",
-    "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "83.8,調布",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5e42f3f1-41cd-4c71-a06c-7d88b76bdc17",
-    "name": "BAN-BANラジオ",
-    "url": "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "86.9,加古川市",
-    "votes": 0
-  },
-  {
     "stationuuid": "fad42bb6-2865-4854-94a7-96152e881800",
     "name": "FM世田谷",
     "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
@@ -2667,16 +1697,6 @@
     "favicon": "https://listen.moe/favicon.ico",
     "country": "Japan",
     "tags": "jpop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "af566e6b-3d2b-4b96-92ca-a9cb183e6fd8",
-    "name": "Free FM Tokyo",
-    "url": "https://rocafmadrid.radioca.st/",
-    "url_resolved": "https://rocafmadrid.radioca.st/",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "free fm,free japan music,musica,tokyo",
     "votes": 0
   },
   {
@@ -2699,26 +1719,6 @@
     "tags": "classical,jpop",
     "votes": 0
   },
-    {
-    "stationuuid": "09983f06-279c-497a-8e96-8e1057fa094a",
-    "name": "Hitsujikai Radio",
-    "url": "http://streaming.radio.co/se4a8e6a93/listen",
-    "url_resolved": "http://streaming.radio.co/se4a8e6a93/listen",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9766d47a-68a3-4a30-8aec-c026f1ec6020",
-    "name": "Jazz Sakura (asia dream radio)",
-    "url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer=&cb=82181.mp3",
-    "url_resolved": "http://kathy.torontocast.com:3330/stream/1/?esPlayer=&cb=82181.mp3",
-    "favicon": "",
-    "country": "Japan",
-    "tags": "japanese,japanese music,jazz",
-    "votes": 0
-  },
   {
     "stationuuid": "1adf1539-e647-44c3-85d8-b437b768fb8c",
     "name": "Anime Para Ti",
@@ -2730,31 +1730,11 @@
     "votes": 0
   },
   {
-    "stationuuid": "080ca1e4-751c-11e9-af37-52543be04c81",
-    "name": "青岛经济广播",
-    "url": "http://lhttp.qingting.fm/live/1674/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1674/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "economics,lifestyle",
-    "votes": 0
-  },
-  {
     "stationuuid": "57eb7a99-643c-4a6e-8750-d3ff1771eed0",
     "name": "哈尔滨音乐广播",
     "url": "https://stream.hrbtv.net/yypl/playlist.m3u8",
     "url_resolved": "https://stream.hrbtv.net/yypl/playlist.m3u8",
     "favicon": "http://pic.qingting.fm/2015/1210/20151210172937967.jpg",
-    "country": "China",
-    "tags": "music,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9218e92d-2a7f-411c-87fd-e74cd52cc16d",
-    "name": "格莱美音乐台",
-    "url": "http://play-radio-stream3.hndt.com/now/yorSd1X2/chunklist.m3u8",
-    "url_resolved": "http://play-radio-stream3.hndt.com/now/yorSd1X2/chunklist.m3u8",
-    "favicon": "",
     "country": "China",
     "tags": "music,pop",
     "votes": 0
@@ -2770,26 +1750,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "5f135b1f-d27d-11e9-a861-52543be04c81",
-    "name": "天津静海区广播电台",
-    "url": "http://lhttp.qingting.fm/live/20212227/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20212227/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "pop music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ee9c2201-4b63-42ad-bef3-d6fb4290685a",
-    "name": "河南网络广播·安全百科网络台",
-    "url": "http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8",
-    "url_resolved": "http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "a7b77a3d-409c-4597-b309-c8c04e239e94",
     "name": "洛阳音乐广播",
     "url": "http://lhttp.qingting.fm/live/1226/64k.mp3",
@@ -2797,16 +1757,6 @@
     "favicon": "http://pic.qingting.fm/2022/0217/20220217121421.jpeg",
     "country": "China",
     "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d3a63a00-1f19-45d2-918b-cc7288f235ef",
-    "name": "珠海交通875·环保经济广播",
-    "url": "http://lhttp.qingting.fm/live/1275/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1275/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -2820,36 +1770,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "157bd215-a919-4cdb-a6df-3fb8ef7b4c15",
-    "name": "海口综合广播",
-    "url": "https://lhttp.qtfm.cn/live/5022015/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5022015/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "101.8",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3033568a-be40-11e8-aaf2-52543be04c81",
-    "name": "Weifang Music Radio",
-    "url": "http://ls.qingting.fm/live/4865.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/4865.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "99a740fa-ae76-4c55-9359-dac5db58f1a5",
-    "name": "花都人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/1263/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/1263/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,news",
-    "votes": 0
-  },
-  {
     "stationuuid": "ceffc6a0-19ec-4710-ad18-80a725e9f780",
     "name": "澄海电台FM100.5",
     "url": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
@@ -2857,16 +1777,6 @@
     "favicon": "https://pic.qtfm.cn/2015/0430/20150430050915573.jpg",
     "country": "China",
     "tags": "full service,music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6e0a1245-6399-4141-a9c7-9d108cd34111",
-    "name": "益阳综合广播",
-    "url": "https://lhttp.qingting.fm/live/20314/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20314/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -2910,16 +1820,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "f686ae25-b33c-4f4b-977a-b7865945b815",
-    "name": "Green Village Radio FM 99.5",
-    "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
-    "url_resolved": "https://fm995.ddns.net/hls1/fm995.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "be731842-5dc7-4ff1-ac7e-9a2f25b759bf",
     "name": "无锡新闻综合广播FM93.7",
     "url": "https://lhttp.qtfm.cn/live/2777/64k.mp3",
@@ -2950,16 +1850,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "e18a1d86-7c54-11ea-8a3b-52543be04c81",
-    "name": "长春经济广播U FM88.0",
-    "url": "http://lhttp.qingting.fm/live/4850/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/4850/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "99ca1baa-33ad-4f6a-8177-a944e3d6cf59",
     "name": "济宁综合广播",
     "url": "http://lhttp.qingting.fm/live/4901/64k.mp3",
@@ -2967,16 +1857,6 @@
     "favicon": "http://pic.qingting.fm/2021/1230/20211230074250.jpeg",
     "country": "China",
     "tags": "full service,news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6e1c761e-7446-4243-aa0a-617f11ac4589",
-    "name": "天籁之音 - 国风",
-    "url": "http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8",
-    "url_resolved": "http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "classical",
     "votes": 0
   },
   {
@@ -3000,36 +1880,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "1a1baa4b-951a-4c5e-9c2f-2a9f6f8ecb29",
-    "name": "阳泉综合广播",
-    "url": "http://lhttp.qingting.fm/live/15318568/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/15318568/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3f8bbb0a-3764-468b-a717-2e70ac9e3112",
-    "name": "宜昌都市生活广播",
-    "url": "https://lhttp.qingting.fm/live/20567/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20567/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9aff3489-d2bc-11e9-a861-52543be04c81",
-    "name": "大同交通广播",
-    "url": "http://lhttp.qingting.fm/live/5022396/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5022396/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "public radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "bb0dcca9-0248-480d-92b6-34374f2af47e",
     "name": "枣庄交通·文艺广播",
     "url": "https://lhttp.qtfm.cn/live/1688/64k.mp3",
@@ -3047,16 +1897,6 @@
     "favicon": "https://pic.qtfm.cn/2023/0407/20230407033639.png",
     "country": "China",
     "tags": "full service",
-    "votes": 0
-  },
-  {
-    "stationuuid": "7156caf1-495e-11e8-b1b0-52543be04c81",
-    "name": "Wukin News TV",
-    "url": "http://live.wjyanghu.com/live/CH1.m3u8",
-    "url_resolved": "http://live.wjyanghu.com/live/CH1.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "hls video,kiangsu",
     "votes": 0
   },
   {
@@ -3090,26 +1930,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "72482946-62c6-4a73-a161-7ec312ae48bf",
-    "name": "BRTV北京青年广播（停播）",
-    "url": "https://brtv-radiolive.rbc.cn/alive/fm982.m3u8",
-    "url_resolved": "https://brtv-radiolive.rbc.cn/alive/fm982.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,oldies",
-    "votes": 0
-  },
-  {
-    "stationuuid": "308c9715-5c4b-11ea-be63-52543be04c81",
-    "name": "长沙市望城区人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/5022076/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5022076/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "8a8e926c-af18-45e9-933c-49e158657e8e",
     "name": "金山人民广播电台",
     "url": "https://lhttp.qingting.fm/live/4022/64k.mp3",
@@ -3120,56 +1940,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "f53fa9e0-20e8-4cfc-af84-d9a039f3f0e7",
-    "name": "烟台音乐广播",
-    "url": "http://live.xmcdn.com/live/2716/64.m3u8",
-    "url_resolved": "http://live.xmcdn.com/live/2716/64.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b1d86f24-1472-11e9-a80b-52543be04c81",
-    "name": "桐乡人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/5021791/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5021791/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "71c2b7c8-af6b-4a8d-b0a8-4efdbeb3f379",
-    "name": "淮安农村广播",
-    "url": "https://lhttp.qingting.fm/live/4588/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/4588/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "75bc1345-6da5-4551-b7fe-df6d2800e100",
-    "name": "广西教育广播",
-    "url": "https://stream.bbrtv.com:10443/hls/I7LJVL1Gg/I7LJVL1Gg_live.m3u8",
-    "url_resolved": "https://stream.bbrtv.com:10443/hls/I7LJVL1Gg/I7LJVL1Gg_live.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "93.0,93.0 fm,entertainment,music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "998ad534-15b1-4f5a-99e6-f1932664924d",
-    "name": "辽宁交通广播",
-    "url": "https://lhttp.qtfm.cn/live/20025/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20025/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "information",
-    "votes": 0
-  },
-  {
     "stationuuid": "7ddac0c7-7c55-4b55-9916-356b723741e5",
     "name": "河北交通广播 高清",
     "url": "https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8",
@@ -3177,16 +1947,6 @@
     "favicon": "http://pic.qingting.fm/2017/0411/20170411011252.jpeg",
     "country": "China",
     "tags": "traffic information",
-    "votes": 0
-  },
-  {
-    "stationuuid": "95eec224-9431-4dfd-bc15-ca7b96e23893",
-    "name": "鼎城人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/5021860/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/5021860/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,news",
     "votes": 0
   },
   {
@@ -3220,46 +1980,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ed1f8e78-8cac-4a93-af76-e299d64c2847",
-    "name": "即墨人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/20807/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20807/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4260076d-e6d9-4e49-a3b2-d554f4cb0a7e",
-    "name": "济南音乐广播",
-    "url": "https://lhttp.qtfm.cn/live/1671/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1671/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "hits,indie,music,pop,rock",
-    "votes": 0
-  },
-  {
-    "stationuuid": "daf35b80-39c4-4d39-aa66-1a7f47c30ffe",
-    "name": "德宏综合广播",
-    "url": "https://lhttp.qingting.fm/live/5021849/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/5021849/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "99ace9a5-fb19-4f3d-99b6-0976d4a18bd9",
-    "name": "清远交通音乐广播",
-    "url": "http://lhttp.qingting.fm/live/20500067/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20500067/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "f8df1bbf-be1f-41b8-b187-60ff60a14df6",
     "name": "恐怖在線（周一至周五23:11）",
     "url": "https://acast01.kolorboxlab.com/radio/8010/radio.mp3",
@@ -3277,16 +1997,6 @@
     "favicon": "http://pic.qingting.fm/2014/0606/20140606062037891.jpg",
     "country": "China",
     "tags": "information,music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a76bd9f3-4243-4269-b2af-f246e1b076b3",
-    "name": "萧山综合广播",
-    "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-    "url_resolved": "https://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "107.9,107.9 fm,public radio",
     "votes": 0
   },
   {
@@ -3320,26 +2030,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "9bb3c006-3495-4f59-b3bd-eed3a549b1cf",
-    "name": "哈尔滨古典音乐广播",
-    "url": "http://lhttp.qingting.fm/live/5022338/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5022338/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "classical music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d6399d4e-c49c-4985-9fd3-40e84e04ec13",
-    "name": "安庆农村广播",
-    "url": "https://lhttp.qingting.fm/live/1966/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/1966/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "entertainment,music",
-    "votes": 0
-  },
-  {
     "stationuuid": "9584e24b-ab58-4efb-9a19-cbd16469cdfc",
     "name": "镇江综合广播",
     "url": "https://lhttp-hw.qtfm.cn/live/3984/64k.mp3",
@@ -3365,26 +2055,6 @@
     "url": "http://live.ximalaya.com/radio-first-page-app/live/2861/64.m3u8",
     "url_resolved": "http://live.ximalaya.com/radio-first-page-app/live/2861/64.m3u8",
     "favicon": "https://imagev2.xmcdn.com/storages/ee3e-audiofreehighqps/1E/F5/GMCoOSEI_AhwABAAAAJqOpqv.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "cc4f14eb-2268-4542-9289-94d8685829a0",
-    "name": "滨海综合广播 100.1",
-    "url": "http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8",
-    "url_resolved": "http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "79b4bfdd-a35b-4ddc-9c98-2745ff86eac3",
-    "name": "深圳龙岗星光991",
-    "url": "https://lhttp.qingting.fm/live/20160/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20160/64k.mp3",
-    "favicon": "",
     "country": "China",
     "tags": "",
     "votes": 0
@@ -3420,16 +2090,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "92691215-b7eb-42f8-812a-3484562071f4",
-    "name": "有线直播新闻台",
-    "url": "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8",
-    "url_resolved": "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "0de8b55a-8b98-45b1-bace-061cca489121",
     "name": "长兴人民广播电台·Up Radio FM97.3太湖之声",
     "url": "https://lhttp.qtfm.cn/live/5022311/64k.mp3",
@@ -3457,16 +2117,6 @@
     "favicon": "https://pic.qtfm.cn/2024/1120/20241120085105.jpeg",
     "country": "China",
     "tags": "full service",
-    "votes": 0
-  },
-  {
-    "stationuuid": "2169562d-a121-4422-b086-4aa6841b83ab",
-    "name": "安徽经济广播",
-    "url": "https://lhttp.qtfm.cn/live/4916/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/4916/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "economics",
     "votes": 0
   },
   {
@@ -3500,61 +2150,11 @@
     "votes": 0
   },
   {
-    "stationuuid": "5cf1a8c8-baf6-4b46-a718-b3950c6e7ef3",
-    "name": "长春交通之声",
-    "url": "http://lhttp.qingting.fm/live/4967/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/4967/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "traffic",
-    "votes": 0
-  },
-  {
     "stationuuid": "104bd1b7-a6ae-49e3-9008-e9bd1c497d90",
     "name": "永吉县魅力FM1008",
     "url": "https://lhttp.qtfm.cn/live/5021975/64k.mp3",
     "url_resolved": "https://lhttp.qtfm.cn/live/5021975/64k.mp3",
     "favicon": "https://pic.qtfm.cn/2022/0303/20220303105426.jpeg",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f149a3a4-cbd4-49f4-a770-c3a8c6e268cb",
-    "name": "天津卫视伴音",
-    "url": "https://piccpndali.v.myalicdn.com/audio/tianjin_2.m3u8",
-    "url_resolved": "https://piccpndali.v.myalicdn.com/audio/tianjin_2.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6c1f80e9-aac5-4c59-b7e8-16743a02650d",
-    "name": "河南教育广播",
-    "url": "https://stream.hndt.com/live/jiaoyu/playlist.m3u8",
-    "url_resolved": "https://stream.hndt.com/live/jiaoyu/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "children,classic hits,educational",
-    "votes": 0
-  },
-  {
-    "stationuuid": "81555fd1-7120-4f63-89ee-e1d552784c27",
-    "name": "哈尔滨电视台 都市资讯频道",
-    "url": "http://stream.hrbtv.net/zxpd/playlist.m3u8",
-    "url_resolved": "http://stream.hrbtv.net/zxpd/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "tv,哈尔滨,哈尔滨电视台,地方台,本地,生活,电视,电视伴音,都市",
-    "votes": 0
-  },
-  {
-    "stationuuid": "34f4c6dd-b974-44f9-a7db-7b2a41ddcee4",
-    "name": "南京城市管理广播",
-    "url": "http://hls.njgb.com/live_hls/5/playlist.m3u8",
-    "url_resolved": "http://hls.njgb.com/live_hls/5/playlist.m3u8",
-    "favicon": "",
     "country": "China",
     "tags": "music",
     "votes": 0
@@ -3580,16 +2180,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "b140a0d7-00b7-4131-8824-65f10ce7f174",
-    "name": "松原大众生活",
-    "url": "https://lhttp.qtfm.cn/live/5082/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5082/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "information,music,talk",
-    "votes": 0
-  },
-  {
     "stationuuid": "aa42fb46-6397-44e9-86bc-0491982d490c",
     "name": "宜昌音乐生活广播",
     "url": "https://liveplay.ycrmt.cn/fm/qct.m3u8",
@@ -3597,26 +2187,6 @@
     "favicon": "http://pic.qingting.fm/2018/0209/20180209124958.jpeg",
     "country": "China",
     "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "12885e21-63c8-4707-9a28-26baeb5f83f7",
-    "name": "常州交通广播",
-    "url": "https://lhttp.qtfm.cn/live/2796/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/2796/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "90.0,90.0 fm,information,music,traffic radio broadcast",
-    "votes": 0
-  },
-  {
-    "stationuuid": "da5eec6b-0515-426c-81ca-d0f4906df828",
-    "name": "江西综合新闻广播",
-    "url": "https://lhttp.qtfm.cn/live/1809/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1809/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -3680,16 +2250,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "65fa8d6b-e5da-4211-8483-387f26d0da8b",
-    "name": "聊城经济广播",
-    "url": "https://lhttp.qtfm.cn/live/5022262/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5022262/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "92.4,92.4 fm",
-    "votes": 0
-  },
-  {
     "stationuuid": "a964e5ff-43f0-4079-82f4-022d45d2d458",
     "name": "牡丹广播电视台",
     "url": "http://lhttp.qingting.fm/live/15318316/64k.mp3",
@@ -3697,36 +2257,6 @@
     "favicon": "https://pic.qtfm.cn/2020/0414/20200414023514.png",
     "country": "China",
     "tags": "full service",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d872fc0c-f978-4295-924c-ccdb565d8b95",
-    "name": "廊坊交通长书广播",
-    "url": "http://lhttp.qingting.fm/live/3948/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/3948/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "992e18bf-48ad-4338-af56-f74fbab4c8bd",
-    "name": "西宁交通文艺广播",
-    "url": "http://lhttp.qingting.fm/live/5022283/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5022283/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "literature",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4e15ea13-bdaa-11e8-aaf2-52543be04c81",
-    "name": "Tsingtao Music & Sports Radio",
-    "url": "http://ls.qingting.fm/live/1677.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/1677.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
     "votes": 0
   },
   {
@@ -3750,16 +2280,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "1050e80d-8d23-4727-a014-6249f1e86e9d",
-    "name": "广西综合广播",
-    "url": "https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8",
-    "url_resolved": "https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news,test",
-    "votes": 0
-  },
-  {
     "stationuuid": "a9e478a3-b033-4f29-87a1-986be284a46f",
     "name": "河北文艺广播",
     "url": "https://radio.pull.hebtv.com/live/hebwy.m3u8",
@@ -3767,16 +2287,6 @@
     "favicon": "http://pic.qingting.fm/2018/1031/20181031103406.jpeg",
     "country": "China",
     "tags": "literature",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fa375a8a-13e6-11e9-a80b-52543be04c81",
-    "name": "衢州交通广播",
-    "url": "http://lhttp.qingting.fm/live/20442/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20442/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "traffic",
     "votes": 0
   },
   {
@@ -3790,16 +2300,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "3f21b63b-dba9-454a-814e-ae4504a5bb85",
-    "name": "福建海峡之声",
-    "url": "https://lhttp-hw.qtfm.cn/live/1744/64k.mp3",
-    "url_resolved": "https://lhttp-hw.qtfm.cn/live/1744/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "information,music",
-    "votes": 0
-  },
-  {
     "stationuuid": "7035e69e-ee4f-4383-ae11-32de0a447dd6",
     "name": "宁波经济广播",
     "url": "http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8",
@@ -3810,26 +2310,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "54227eea-2472-44bd-a8ad-92127f41128a",
-    "name": "宿迁交通广播",
-    "url": "https://lhttp.qingting.fm/live/5004/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/5004/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "cc16cf64-38aa-11ea-8dd7-52543be04c81",
-    "name": "开封音乐广播",
-    "url": "http://lhttp.qingting.fm/live/4569/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/4569/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "4922dc73-750c-11e9-af37-52543be04c81",
     "name": "上海交通广播",
     "url": "http://lhttp.qingting.fm/live/266/64k.mp3",
@@ -3837,56 +2317,6 @@
     "favicon": "http://www.fm1057.cn/template/conch/asset/img/favicon.png",
     "country": "China",
     "tags": "public radio,traffic",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ade87624-e142-4c2e-8066-e87636314165",
-    "name": "遵义交通文艺广播",
-    "url": "https://lhttp.qingting.fm/live/20741/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20741/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "10936a6f-9b14-4c0a-923b-ef38fcb99df9",
-    "name": "登封人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/5022077/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/5022077/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "96653f00-59ed-4ecb-9682-bc5fd55f8b92",
-    "name": "安徽戏曲广播",
-    "url": "https://lhttp.qtfm.cn/live/1952/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1952/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "folk,music,opera",
-    "votes": 0
-  },
-  {
-    "stationuuid": "c18ee93a-e736-435e-832a-5af16c7d3da4",
-    "name": "沈阳新闻广播",
-    "url": "http://lhttp.qingting.fm/live/20024/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20024/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "24648e9f-6cde-4f91-9a9b-e605d275d975",
-    "name": "湖北之声（调频版）（2）",
-    "url": "https://lhttp.qingting.fm/live/1303/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/1303/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -3930,16 +2360,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "d92edf04-81df-4e33-a44b-21155eb0136c",
-    "name": "绍兴交通广播",
-    "url": "http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8",
-    "url_resolved": "http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "94.1,94.1 fm,entertainment,traffic radio broadcast",
-    "votes": 0
-  },
-  {
     "stationuuid": "66aca013-4c40-4417-8a77-8b247d342f48",
     "name": "岳阳经济广播",
     "url": "https://lhttp-hw.qtfm.cn/live/5022391/64k.mp3",
@@ -3960,36 +2380,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "c0584818-86c8-4fbf-aed9-eab6c49ecac0",
-    "name": "云南民族广播",
-    "url": "https://lhttp.qtfm.cn/live/1933/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1933/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "public radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "74bd7676-d257-4002-ba3b-df36c3a1dd1f",
-    "name": "临朐人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/20500033/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20500033/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "66c36651-5a4e-4f49-9741-5558a37bf969",
-    "name": "中江综合广播年代音乐994",
-    "url": "https://lhttp.qtfm.cn/live/20500148/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20500148/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "99.4,99.4 fm,music,oldies,pop",
-    "votes": 0
-  },
-  {
     "stationuuid": "a60d6e71-f993-4d13-a73a-5b1774fa6756",
     "name": "新都区广播电视台综合广播 新声905",
     "url": "https://lhttp-hw.qtfm.cn/live/20500221/64k.mp3",
@@ -4000,16 +2390,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "d8ead0b8-f502-45c1-bbc1-0d3d52812896",
-    "name": "长春经济广播",
-    "url": "https://lhttp.qtfm.cn/live/4850/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/4850/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "7fb02f83-de5d-4bd2-8eed-4ff0254f1a8b",
     "name": "吉林乡村广播",
     "url": "https://live-jlr.jlntv.cn/live/fm976.m3u8",
@@ -4017,36 +2397,6 @@
     "favicon": "https://attachments.jlntv.cn/saas/image/2023-02/2616d430-840b-4ade-9eb6-bf55beb12598.png?k=4e2ca2afbf688327f064d7f4faca4bc2&t=1730776599",
     "country": "China",
     "tags": "agriculture",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ae02bfbf-97d0-11e9-a605-52543be04c81",
-    "name": "郑州人民广播电台 交通广播",
-    "url": "http://lhttp.qingting.fm/live/1211/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1211/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a794f83a-abd3-45d2-9ed7-263e49c47a16",
-    "name": "盐城音乐广播",
-    "url": "https://lhttp.qtfm.cn/live/5022380/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5022380/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "dca23906-95a3-4baa-8c28-807d0b8d54e2",
-    "name": "昌吉交通广播",
-    "url": "https://lhttp.qtfm.cn/live/20440/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20440/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "traffic radio broadcast",
     "votes": 0
   },
   {
@@ -4090,66 +2440,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "fce4aab5-dc3f-4746-a9f6-59ed2392e880",
-    "name": "国际旅游岛之声",
-    "url": "http://ls.qingting.fm/live/1862.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/1862.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "tourism,海南旅游广播",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a816434f-ba86-11e8-aaf2-52543be04c81",
-    "name": "Kiangsu News Radio",
-    "url": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8",
-    "url_resolved": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "da2faebd-807b-4319-b6fe-916862ab4d3f",
-    "name": "哈尔滨综合广播",
-    "url": "https://stream.hrbtv.net/xwpl/playlist.m3u8",
-    "url_resolved": "https://stream.hrbtv.net/xwpl/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "40531f0d-14a5-11e9-a80b-52543be04c81",
-    "name": "长沙交通广播",
-    "url": "http://lhttp.qingting.fm/live/3967/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/3967/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d9864ff8-1720-11ea-a620-52543be04c81",
-    "name": "桂林飞扬频率",
-    "url": "http://lhttp.qingting.fm/live/1760/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1760/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "7673bae4-8d17-45f3-98c1-f9b12feb491f",
-    "name": "第三师图木舒克市人民广播电台",
-    "url": "https://lhttp.qtfm.cn/live/20500135/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20500135/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "public radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "43c7d4fe-9cb5-4466-b689-f151a9dd322e",
     "name": "呼伦贝尔蒙语广播",
     "url": "https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8",
@@ -4170,26 +2460,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "c2e3c55a-a67a-403c-bd36-b07f1cca827e",
-    "name": "西昌人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/20211706/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20211706/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ea432480-4baf-11e8-a4d1-52543be04c81",
-    "name": "Sinchang News TV",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "chekiang,hls video",
-    "votes": 0
-  },
-  {
     "stationuuid": "2abdf5b4-1603-4fb0-9150-b1ffce2b396f",
     "name": "BRTV北京外语广播（停播）",
     "url": "https://brtv-radiolive.rbc.cn/alive/fm923.m3u8",
@@ -4197,46 +2467,6 @@
     "favicon": "http://www.am774.com/_CMS_TPL_IMG_/public/a_images/sy_img_02.jpg",
     "country": "China",
     "tags": "educational",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fd27520f-c6da-45e6-8496-6018d825f1fd",
-    "name": "襄阳文化教育广播",
-    "url": "http://lhttp.qingting.fm/live/5057/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5057/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "educational,music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "da1f8ebc-aadc-43c1-b432-df8953598089",
-    "name": "石家庄综合广播",
-    "url": "http://lhttp.qingting.fm/live/1652/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1652/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "96183a34-0601-11e8-ae97-52543be04c81",
-    "name": "RTHK Radio-4",
-    "url": "http://stm.rthk.hk/radio4",
-    "url_resolved": "http://stm.rthk.hk/radio4",
-    "favicon": "",
-    "country": "China",
-    "tags": "hong kong",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ff4cde12-7513-11e9-af37-52543be04c81",
-    "name": "无锡音乐广播",
-    "url": "http://lhttp.qingting.fm/live/2779/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/2779/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
     "votes": 0
   },
   {
@@ -4270,26 +2500,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "755af9c4-6673-48db-abd7-038b95e4d0c3",
-    "name": "兰溪人民广播电台",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXlanxiaud/128k.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXlanxiaud/128k.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "7c11c2dd-0d23-4e68-bdfe-6aa990039957",
-    "name": "遂宁综合广播",
-    "url": "http://lhttp.qingting.fm/live/20182/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20182/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "history,information",
-    "votes": 0
-  },
-  {
     "stationuuid": "39c8bec3-5ce0-4fa4-a00e-5f000d3abefe",
     "name": "攀枝花综合广播",
     "url": "https://lhttp.qtfm.cn/live/4904/64k.mp3",
@@ -4297,16 +2507,6 @@
     "favicon": "http://pic.qingting.fm/2013/channel_logo/4904.jpg",
     "country": "China",
     "tags": "information",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1178fb20-7115-4086-a8ff-76d5002d408f",
-    "name": "梅河口人民广播电台",
-    "url": "https://lhttp.qtfm.cn/live/20500115/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20500115/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news,public radio",
     "votes": 0
   },
   {
@@ -4380,16 +2580,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "a2e05c50-539b-4b69-bbad-3de5573f8151",
-    "name": "桦甸综合广播",
-    "url": "http://stream9.jlntv.cn/aac_huadiangb/sd/live.m3u8",
-    "url_resolved": "http://stream9.jlntv.cn/aac_huadiangb/sd/live.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news,public radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "7192df7a-ff56-47cc-9531-df2d0abfc5aa",
     "name": "应城综合广播",
     "url": "http://live.xmcdn.com/live/2798/64.m3u8",
@@ -4397,16 +2587,6 @@
     "favicon": "https://imagev2.xmcdn.com/storages/f262-audiofreehighqps/BE/EC/GKwRIJEGEu_qAANI8AEvCuY3.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
     "country": "China",
     "tags": "public radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b46eaebe-2919-11ea-aa0c-52543be04c81",
-    "name": "武汉经典音乐广播·岁月悠长，听见好时光",
-    "url": "http://ls.qingting.fm/live/1297.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/1297.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
     "votes": 0
   },
   {
@@ -4420,36 +2600,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ac2453f0-fb06-4f69-8580-c5fddff042e9",
-    "name": "太原老年之声",
-    "url": "http://lhttp.qingting.fm/live/20211701/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20211701/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "golden music,lifestyle",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9ca36586-96c7-4fa9-9751-e10b249504b7",
-    "name": "鄂尔多斯蒙语综合广播",
-    "url": "http://lhttp.qingting.fm/live/20348/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20348/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "77b58823-843f-11e9-aa30-52543be04c81",
-    "name": "邢台生活广播",
-    "url": "http://lhttp.qingting.fm/live/15318265/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/15318265/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "lifestyle",
-    "votes": 0
-  },
-  {
     "stationuuid": "54f8ff9a-2183-4998-9a04-9e3c5a220c64",
     "name": "宜昌交通广播",
     "url": "https://liveplay.ycrmt.cn/fm/jtt.m3u8",
@@ -4457,26 +2607,6 @@
     "favicon": "http://pic.qtfm.cn/2018/0308/20180308105236.jpeg!200",
     "country": "China",
     "tags": "traffic information",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3ac26737-0688-11ea-afd6-52543be04c81",
-    "name": "Wangtsing TV",
-    "url": "http://stream5.jlntv.cn/wq/sd/live.m3u8",
-    "url_resolved": "http://stream5.jlntv.cn/wq/sd/live.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a056df5d-5c4b-11ea-be63-52543be04c81",
-    "name": "郾城人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/15318300/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/15318300/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "classical",
     "votes": 0
   },
   {
@@ -4500,41 +2630,11 @@
     "votes": 0
   },
   {
-    "stationuuid": "4bd1c5b9-f994-44bc-802c-68bc040b122c",
-    "name": "徐州新闻综合广播",
-    "url": "https://lhttp.qingting.fm/live/4922/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/4922/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "abed049c-9c63-4b11-bdf1-07495564f2a6",
-    "name": "大连音乐广播",
-    "url": "http://lhttp.qingting.fm/live/1084/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1084/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "children,music",
-    "votes": 0
-  },
-  {
     "stationuuid": "b4d0e934-1d99-40d8-ae48-14d2bb711b5c",
     "name": "镇江文艺广播",
     "url": "https://lhttp-hw.qtfm.cn/live/4605/64k.mp3",
     "url_resolved": "https://lhttp-hw.qtfm.cn/live/4605/64k.mp3",
     "favicon": "http://pic.qtfm.cn/2013/channel_logo/4605.jpg!200",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bd9b1429-7c55-11ea-8a3b-52543be04c81",
-    "name": "长春乡村戏曲广播",
-    "url": "http://lhttp.qingting.fm/live/5014/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5014/64k.mp3",
-    "favicon": "",
     "country": "China",
     "tags": "music",
     "votes": 0
@@ -4570,26 +2670,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "a484359d-8d6c-40a7-8a42-bc352594e8ee",
-    "name": "厦门经济交通广播",
-    "url": "http://lhttp.qingting.fm/live/1738/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1738/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "lifestyle",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bad1298f-8831-43e4-8905-8b7bc2c538ce",
-    "name": "恩平人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/20701/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20701/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,news",
-    "votes": 0
-  },
-  {
     "stationuuid": "b1081cad-f841-4b91-9dea-6680890d90d7",
     "name": "宝鸡交通旅游广播",
     "url": "https://lhttp-hw.qtfm.cn/live/15318128/64k.mp3",
@@ -4597,16 +2677,6 @@
     "favicon": "https://pic.qtfm.cn/2019/0722/20190722123955.jpeg",
     "country": "China",
     "tags": "traffic information",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ed46c417-495e-11e8-b1b0-52543be04c81",
-    "name": "Wukin Metro Radio",
-    "url": "http://live.wjyanghu.com/live/CH6.m3u8",
-    "url_resolved": "http://live.wjyanghu.com/live/CH6.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "kiangsu",
     "votes": 0
   },
   {
@@ -4640,16 +2710,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "e62533b7-b404-433e-a388-26c5fc519002",
-    "name": "安徽音乐广播",
-    "url": "https://lhttp.qtfm.cn/live/1947/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1947/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "41e46823-2d39-449f-99d6-d5644c43aa25",
     "name": "洛阳文艺广播",
     "url": "https://lhttp-hw.qtfm.cn/live/20211321/64k.mp3",
@@ -4657,16 +2717,6 @@
     "favicon": "https://pic.qtfm.cn/2022/0223/20220223115521.png",
     "country": "China",
     "tags": "music,oldies,storytelling",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1a89b2d4-013a-4422-a486-daac43870b51",
-    "name": "乌海综合广播",
-    "url": "http://lhttp.qingting.fm/live/15318706/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/15318706/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -4700,36 +2750,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "e0289f0b-333a-4289-b92d-8ab4c2bc8510",
-    "name": "崇州年代音乐1022",
-    "url": "http://lhttp.qingting.fm/live/20500066/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20500066/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,oldies",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8e4e07d2-be6e-11e8-aaf2-52543be04c81",
-    "name": "Taiyuan Traffic Radio",
-    "url": "http://ls.qingting.fm/live/4900.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/4900.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "13102d7a-2e08-40c0-b73a-718676e36eb8",
-    "name": "大连体育广播",
-    "url": "http://ls.qingting.fm/live/1085.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/1085.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "sport,sports",
-    "votes": 0
-  },
-  {
     "stationuuid": "331853cf-8f6f-43cd-a5a0-589d1f569ea5",
     "name": "昆明老年广播",
     "url": "https://lhttp-hw.qtfm.cn/live/1937/64k.mp3",
@@ -4737,46 +2757,6 @@
     "favicon": "http://pic.qingting.fm/2016/1227/20161227094524.jpeg",
     "country": "China",
     "tags": "life,music,news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "7c8f8d94-e436-4eb0-9f7b-6d6e82a6b919",
-    "name": "慈溪人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/5021401/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/5021401/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,慈溪经典车电台",
-    "votes": 0
-  },
-  {
-    "stationuuid": "79433e61-647f-4659-8c39-0f5925f56ff8",
-    "name": "赣州综合广播（2）",
-    "url": "https://lhttp.qingting.fm/live/20266/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20266/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a7e1ca9d-bdc4-42e0-a6e5-a2dbc0b4cb95",
-    "name": "衡阳交通经济广播",
-    "url": "https://lhttp.qtfm.cn/live/15318385/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/15318385/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "entertainment,literature",
-    "votes": 0
-  },
-  {
-    "stationuuid": "15e50020-4a2b-11e8-b1b0-52543be04c81",
-    "name": "Yurao News TV",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "chekiang,hls video",
     "votes": 0
   },
   {
@@ -4800,26 +2780,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "2dd8574f-d5bf-4015-94a6-5ac32c61bff3",
-    "name": "四川音乐广播",
-    "url": "https://lhttp.qtfm.cn/live/1110/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1110/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5255d913-4359-44e0-bfd0-1aa23c0f53cc",
-    "name": "辽源综合广播",
-    "url": "http://stream9.jlntv.cn/lyrmgb/playlist.m3u8",
-    "url_resolved": "http://stream9.jlntv.cn/lyrmgb/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
     "stationuuid": "208f7843-4cde-417f-8d26-56f7828556a4",
     "name": "青岛FM9.26",
     "url": "https://lhttp.qtfm.cn/live/20176/64k.mp3",
@@ -4827,36 +2787,6 @@
     "favicon": "http://pic.qtfm.cn/2022/0928/20220928050416.jpeg",
     "country": "China",
     "tags": "chinese pop,life,local radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4e5a38cb-2ae2-11ea-aa0c-52543be04c81",
-    "name": "安康交通广播",
-    "url": "http://lhttp.qingting.fm/live/5021862/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5021862/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "literature,music,sport,traffic",
-    "votes": 0
-  },
-  {
-    "stationuuid": "94aebd52-b75d-11e8-aaf2-52543be04c81",
-    "name": "Harbin Literature & Art Radio",
-    "url": "http://lhttp.qingting.fm/live/20083/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20083/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f31b48e4-d32d-4b16-9ff4-fd5b76ae858e",
-    "name": "缙云广播",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXjinyunaud/128k.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXjinyunaud/128k.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -4870,16 +2800,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ba5a3192-12bb-4aff-944b-92e2704955bb",
-    "name": "张家口986音乐广播",
-    "url": "https://lhttp.qtfm.cn/live/5021801/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5021801/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "地方台,音乐",
-    "votes": 0
-  },
-  {
     "stationuuid": "ff54928f-a24c-4db3-90c1-35234346937d",
     "name": "黄石经济广播",
     "url": "https://lhttp.qingting.fm/live/3964/64k.mp3",
@@ -4887,26 +2807,6 @@
     "favicon": "http://pmof6a723.pic38.websiteonline.cn/upload/bitbug_favicon2.ico",
     "country": "China",
     "tags": "lounge,traffic",
-    "votes": 0
-  },
-  {
-    "stationuuid": "13e10c24-154a-4c0f-bd7c-eb6695c6065f",
-    "name": "安庆综合广播",
-    "url": "https://lhttp.qingting.fm/live/1965/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/1965/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "dd44011d-3a95-4c23-a794-55dbcbce834d",
-    "name": "哈尔滨电视台 影视频道",
-    "url": "http://stream.hrbtv.net/yspd/playlist.m3u8",
-    "url_resolved": "http://stream.hrbtv.net/yspd/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "tv,哈尔滨,哈尔滨电视台,地方台,影视,电影,电视,电视伴音,电视剧",
     "votes": 0
   },
   {
@@ -4920,16 +2820,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ade48209-4c9d-4d1c-be46-978c7eeb491b",
-    "name": "广西文艺广播",
-    "url": "https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8",
-    "url_resolved": "https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "95.0,95.0 fm,music",
-    "votes": 0
-  },
-  {
     "stationuuid": "2e4e4cab-cf98-4ba7-bda2-26a615fd0d1c",
     "name": "昭通交通旅游广播",
     "url": "http://lhttp.qingting.fm/live/21247/64k.mp3",
@@ -4940,46 +2830,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "a11a6322-f533-4a9e-9d0b-6f14906b433c",
-    "name": "廊坊综合广播",
-    "url": "https://lhttp.qingting.fm/live/3948/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/3948/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f4482fbe-7432-44c0-a193-ea762ede70a1",
-    "name": "自贡综合广播",
-    "url": "https://lhttp.qtfm.cn/live/20207784/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20207784/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "77f8567b-bf33-11e8-aaf2-52543be04c81",
-    "name": "Changchi News Radio",
-    "url": "http://lhttp.qingting.fm/live/5021874/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5021874/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4f8ea6a8-c960-4e79-b96f-691324d169aa",
-    "name": "靖宇县综合广播",
-    "url": "http://stream9.jlntv.cn/jygb/playlist.m3u8",
-    "url_resolved": "http://stream9.jlntv.cn/jygb/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news,public radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "bec7da78-3210-41b3-9fb6-d7841de253b1",
     "name": "河北文艺广播 高清",
     "url": "https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8",
@@ -4987,16 +2837,6 @@
     "favicon": "http://pic.qingting.fm/2018/1031/20181031103406.jpeg",
     "country": "China",
     "tags": "culture",
-    "votes": 0
-  },
-  {
-    "stationuuid": "aeb1fa8e-14a5-11e9-a80b-52543be04c81",
-    "name": "长沙品味音乐广播",
-    "url": "http://lhttp.qingting.fm/live/4930/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/4930/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
     "votes": 0
   },
   {
@@ -5017,16 +2857,6 @@
     "favicon": "http://pic.qingting.fm/2019/0109/20190109101558.jpeg",
     "country": "China",
     "tags": "entertainment,music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "15e854b6-3ffc-42e5-b5ad-2f2563d62185",
-    "name": "綦江综合广播",
-    "url": "https://lhttp.qtfm.cn/live/20500201/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/20500201/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "information,news",
     "votes": 0
   },
   {
@@ -5070,36 +2900,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "684fc62f-073d-41aa-9ef8-91b242df3ac4",
-    "name": "测试16",
-    "url": "https://js1.amtb.cn/liveedge/_definst_/smil:livetv.smil/playlist.m3u8",
-    "url_resolved": "https://js1.amtb.cn/liveedge/_definst_/smil:livetv.smil/playlist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "66dfe4d0-7c51-11ea-8a3b-52543be04c81",
-    "name": "铜山县人民广播电台FM94.2",
-    "url": "http://lhttp.qingting.fm/live/15318160/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/15318160/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "16147a52-0de2-11ea-a87e-52543be04c81",
-    "name": "Mengchow TV 1",
-    "url": "http://live.dxhmt.cn:9081/tv/10883-1.m3u8",
-    "url_resolved": "http://live.dxhmt.cn:9081/tv/10883-1.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "349a71c7-2ed9-4f83-b3a0-297590f0052d",
     "name": "邢台交通音乐广播",
     "url": "https://jwcdnqx.hebyun.com.cn/live/xtjtyygb/1500k/tzwj_video.m3u8",
@@ -5120,26 +2920,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "01ca4e5f-6909-49d5-8f89-9e4ed454cbce",
-    "name": "娄底交通广播",
-    "url": "https://lhttp.qingting.fm/live/20507/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20507/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "lounge",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b2db59b9-bda9-11e8-aaf2-52543be04c81",
-    "name": "Tsingtao Private Car Radio",
-    "url": "http://ls.qingting.fm/live/1675.m3u8",
-    "url_resolved": "http://ls.qingting.fm/live/1675.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "ae5bc1c2-a83e-42df-89dd-84f2a44b2e4b",
     "name": "黑龙江交通广播",
     "url": "https://lhttp-hw.qtfm.cn/live/4973/64k.mp3",
@@ -5147,16 +2927,6 @@
     "favicon": "https://pic.qtfm.cn/2021/1231/20211231014716.jpeg",
     "country": "China",
     "tags": "traffic information",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e9a41c0f-2be3-4c63-9ea6-327d782dddd3",
-    "name": "杭州音乐时尚广播",
-    "url": "https://live.xmcdn.com/live/1845/64.m3u8",
-    "url_resolved": "https://live.xmcdn.com/live/1845/64.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
     "votes": 0
   },
   {
@@ -5180,16 +2950,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "2e03e3f1-81d7-4fdf-baf6-5dadc8538a66",
-    "name": "义安电台",
-    "url": "https://lhttp.qingting.fm/live/5021979/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/5021979/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "entertainment,music,public radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "c07ea12f-710a-43b4-b23d-685473a18c49",
     "name": "洛阳交通广播",
     "url": "http://lhttp.qingting.fm/live/1227/64k.mp3",
@@ -5197,36 +2957,6 @@
     "favicon": "http://pic.qtfm.cn/2018/05/29/partner_5ab52eb37a13b04e98a7fb8502b4e962.jpg!200",
     "country": "China",
     "tags": "entertainment",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4610edcd-9987-4b55-b0f5-87bea6f94377",
-    "name": "民谣·蓝调",
-    "url": "http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8",
-    "url_resolved": "http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "blues,folk,music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d0a916c2-2fb9-4e10-b616-e20b2c79e441",
-    "name": "遂宁交通旅游广播",
-    "url": "http://lhttp.qingting.fm/live/20180/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20180/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "culture,entertainment,lifestyle",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9618f4fb-0601-11e8-ae97-52543be04c81",
-    "name": "RTHK Putonghua Channel",
-    "url": "http://stm.rthk.hk/radiopth",
-    "url_resolved": "http://stm.rthk.hk/radiopth",
-    "favicon": "",
-    "country": "China",
-    "tags": "hong kong",
     "votes": 0
   },
   {
@@ -5260,16 +2990,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "1ad18435-55b4-4b29-9b86-8c80edc52765",
-    "name": "安徽生活广播",
-    "url": "http://lhttp.qingting.fm/live/1948/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1948/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "auto,entertainment,music,traffic",
-    "votes": 0
-  },
-  {
     "stationuuid": "c0c84956-2af4-430e-a969-c75302a6dae4",
     "name": "河南网络星河音乐台",
     "url": "http://stream.hndt.com/live/1061/playlist.m3u8",
@@ -5277,26 +2997,6 @@
     "favicon": "http://cmsres.dianzhenkeji.com/files/images/2018/01/05/1515144881197542.png",
     "country": "China",
     "tags": "music,oldies",
-    "votes": 0
-  },
-  {
-    "stationuuid": "445c4432-8f09-42f2-be51-8ad648c0be52",
-    "name": "岳阳交通广播",
-    "url": "http://lhttp.qingting.fm/live/20987/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20987/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "745ca70b-0461-407c-8bf9-79877f921071",
-    "name": "涿州人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/20211619/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20211619/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "golden music",
     "votes": 0
   },
   {
@@ -5320,16 +3020,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ee36b896-4a2b-11e8-b1b0-52543be04c81",
-    "name": "Yurao Culture TV",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "chekiang,hls video",
-    "votes": 0
-  },
-  {
     "stationuuid": "86f826f0-a1cf-4342-9e1e-82eb39baa8e9",
     "name": "庆元广播",
     "url": "http://l.cztvcloud.com/channels/lantian/SXqingyuanaud/128k.m3u8",
@@ -5350,26 +3040,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "f6388e49-c142-43da-88b8-5c1e6da1b48b",
-    "name": "十堰交通音乐广播",
-    "url": "https://lhttp.qingting.fm/live/20342/64k.mp3",
-    "url_resolved": "https://lhttp.qingting.fm/live/20342/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "02ed2843-c323-4aca-8bac-f709a9140c98",
-    "name": "长春都市音乐广播",
-    "url": "https://lhttp.qtfm.cn/live/5015/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5015/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "lifestyle",
-    "votes": 0
-  },
-  {
     "stationuuid": "bec19809-a04a-4205-af72-79d29d30bad2",
     "name": "泰安综合广播",
     "url": "https://lhttp-hw.qtfm.cn/live/20500185/64k.mp3",
@@ -5377,36 +3047,6 @@
     "favicon": "http://pic.qingting.fm/sso/48/1682325565418_w0caPM5GW.png",
     "country": "China",
     "tags": "full service",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6bee0c53-6eee-4a3c-ac02-a627ec3f1fb7",
-    "name": "太原综合广播",
-    "url": "http://live.xmcdn.com/live/888/64.m3u8",
-    "url_resolved": "http://live.xmcdn.com/live/888/64.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "de90199d-1f73-4041-bc06-e7eb637ed2cd",
-    "name": "象山综合广播",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXxiangshanaud/128k.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXxiangshanaud/128k.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "46c271aa-e558-4782-808e-20ea2c7978f7",
-    "name": "漳州交通广播",
-    "url": "http://lhttp.qingting.fm/live/1743/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1743/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
     "votes": 0
   },
   {
@@ -5440,26 +3080,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "f170353f-8d14-4aa9-b8f2-b4faf27e4d67",
-    "name": "新疆维语综合广播",
-    "url": "http://ocj2.kksmg.com/ocj1/ocj1.m3u8",
-    "url_resolved": "http://ocj2.kksmg.com/ocj1/ocj1.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "information",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b5928a85-e8dc-11e8-a471-52543be04c81",
-    "name": "Siaoshan FM Radio",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "21206122-a0bd-48b8-921c-046d1465edc5",
     "name": "巴中交通旅游广播",
     "url": "https://lhttp.qtfm.cn/live/20209340/64k.mp3",
@@ -5490,16 +3110,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "b08ffe94-0089-436c-9792-740bf0fb48db",
-    "name": "江宁人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/20500075/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/20500075/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "44f58d45-b8db-4cb2-89a9-08929c0cb1f0",
     "name": "绵阳综合广播",
     "url": "https://lhttp.qtfm.cn/live/4024/64k.mp3",
@@ -5507,16 +3117,6 @@
     "favicon": "http://pic.qingting.fm/2018/0508/20180508011612.jpeg",
     "country": "China",
     "tags": "full service,news,storytelling",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f333ffee-6343-4c4d-adc3-6d400cb56bac",
-    "name": "甘南藏语广播",
-    "url": "http://pili-live-hls.hfmt.net/gntv/gnzygb.m3u8",
-    "url_resolved": "http://pili-live-hls.hfmt.net/gntv/gnzygb.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
     "votes": 0
   },
   {
@@ -5530,26 +3130,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "fe79a11f-8f0e-4586-a90b-503a447d6e68",
-    "name": "上海音乐广播",
-    "url": "http://lhttp.qingting.fm/live/273/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/273/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6479eefc-6929-47c8-9bb8-28849b2978d1",
-    "name": "春天的风",
-    "url": "https://radio.pull.hebtv.com/live/hebxw.m3u8",
-    "url_resolved": "https://radio.pull.hebtv.com/live/hebxw.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "好听",
-    "votes": 0
-  },
-  {
     "stationuuid": "d612e359-5142-496f-a737-f069796c6655",
     "name": "楚雄综合广播",
     "url": "https://lhttp-hw.qtfm.cn/live/4030/64k.mp3",
@@ -5557,26 +3137,6 @@
     "favicon": "http://pic.qingting.fm/2020/0405/20200405120206.png",
     "country": "China",
     "tags": "full service",
-    "votes": 0
-  },
-  {
-    "stationuuid": "70a044b3-5b7c-424e-8ed5-8f032a7ee279",
-    "name": "文成广播",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXwenchengaud/128k.m3u8",
-    "url_resolved": "http://l.cztvcloud.com/channels/lantian/SXwenchengaud/128k.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "858c1c75-e3a7-4dc0-b1c3-9f73916a38d0",
-    "name": "辽宁生活广播",
-    "url": "https://lhttp.qtfm.cn/live/1102/64k.mp3?app=",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1102/64k.mp3?app=",
-    "favicon": "",
-    "country": "China",
-    "tags": "life",
     "votes": 0
   },
   {
@@ -5590,26 +3150,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "0b95579d-fdce-44e0-8262-006c83b01da1",
-    "name": "阳泉交通广播",
-    "url": "http://lhttp.qingting.fm/live/15318165/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/15318165/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,traffic",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e3000cbd-7464-11e9-af37-52543be04c81",
-    "name": "FM89.8烟台汽车音乐广播",
-    "url": "http://lhttp.qingting.fm/live/5022382/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5022382/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music,pop",
-    "votes": 0
-  },
-  {
     "stationuuid": "70790f35-d78c-4fb3-ae7a-9ca04c76f2c3",
     "name": "开平电台 飞扬956",
     "url": "https://lhttp-hw.qtfm.cn/live/5037/64k.mp3",
@@ -5620,36 +3160,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "ba0b483f-f7df-4b19-82ad-79c927677816",
-    "name": "武安人民广播电台",
-    "url": "http://lhttp.qingting.fm/live/5022474/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/5022474/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b8c6f80e-b54b-48b8-bdb1-2a9711e61bc1",
-    "name": "测试7",
-    "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
-    "url_resolved": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
-    "favicon": "",
-    "country": "China",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f38439f5-ccf6-4878-893a-9ab8bdb2f2d7",
-    "name": "湖州交通文艺广播",
-    "url": "https://lhttp.qtfm.cn/live/2811/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/2811/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
     "stationuuid": "310674ca-acc4-48f6-9caf-a0b4678f5ca2",
     "name": "台儿庄FM96.8古城音乐广播",
     "url": "https://jsyaudiolive302.iqilu.com/live/taierzhuang_audio/index.m3u8",
@@ -5657,26 +3167,6 @@
     "favicon": "https://so1.360tres.com/t01ad424713a4ba945d.jpg",
     "country": "China",
     "tags": "music,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9981dcc4-0a65-4fb5-b2b0-b7afe5d6fbab",
-    "name": "辽宁资讯广播",
-    "url": "https://lhttp.qtfm.cn/live/5022018/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5022018/64k.mp3",
-    "favicon": "",
-    "country": "China",
-    "tags": "dalian city,lifestyle,news,public radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "46c79dfa-1a99-4139-a052-81c434f259dd",
-    "name": "Fred Film Radio(中文)",
-    "url": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream",
-    "url_resolved": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream",
-    "favicon": "",
-    "country": "China",
-    "tags": "culture,film,movie",
     "votes": 0
   },
   {
@@ -6630,16 +4120,6 @@
     "votes": 28
   },
   {
-    "stationuuid": "9584da46-3ab4-11e9-9b4e-52543be04c81",
-    "name": "COPE Málaga",
-    "url": "http://net1.cope.stream.flumotion.com/cope/net1.mp3.m3u",
-    "url_resolved": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
-    "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-    "country": "Spain",
-    "tags": "",
-    "votes": 28
-  },
-  {
     "stationuuid": "960e4940-0601-11e8-ae97-52543be04c81",
     "name": "Ibiza Global Radio",
     "url": "http://ibizaglobalradio.streaming-pro.com:8024/",
@@ -6708,16 +4188,6 @@
     "country": "Spain",
     "tags": "",
     "votes": 15
-  },
-  {
-    "stationuuid": "09f4d466-1ab2-4b61-a180-96409adc5d80",
-    "name": "COPE + Sevilla",
-    "url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
-    "url_resolved": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/COPE%20SEVILLA.jpg",
-    "country": "Spain",
-    "tags": "local news",
-    "votes": 14
   },
   {
     "stationuuid": "95eff2f9-cb7a-4fe4-bb07-8c700719f8b6",
@@ -6979,7 +4449,7 @@
     "tags": "greek,sport",
     "votes": 38
   },
-   {
+  {
     "stationuuid": "b1e1f76e-52fd-22e9-aa66-63654be04c92",
     "name": "Ράδιο Κρήτη 101,5",
     "url": "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/media_w1025939545_17246.aac",
@@ -7499,7 +4969,7 @@
     "tags": "",
     "votes": 62
   },
-   {
+  {
     "stationuuid": "8afae8e4-9d06-43f5-b60e-a51d6e09e61e",
     "name": "VOCM",
     "url": "https://newcap.leanstream.co/VOCMAM",
@@ -8518,5 +5988,2005 @@
     "country": "South Africa",
     "tags": "regional radio",
     "votes": 37
+  },
+  {
+    "stationuuid": "961c96ef-0601-11e8-ae97-52543be04c81",
+    "name": "ROCK FM",
+    "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
+    "url_resolved": "http://nashe1.hostingradio.ru/rock-128.mp3",
+    "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "classic rock,pop rock,rock",
+    "votes": 58982
+  },
+  {
+    "stationuuid": "960b1967-0601-11e8-ae97-52543be04c81",
+    "name": "Наше Радио",
+    "url": "http://nashe1.hostingradio.ru/nashe-128.mp3",
+    "url_resolved": "http://nashe1.hostingradio.ru/nashe-128.mp3",
+    "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "live air",
+    "votes": 45013
+  },
+  {
+    "stationuuid": "033fe547-b71c-4ea0-8274-e6522444629c",
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "url_resolved": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
+    "country": "Russia",
+    "tags": "misc",
+    "votes": 31406
+  },
+  {
+    "stationuuid": "960b7dcb-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ultra",
+    "url": "http://nashe1.hostingradio.ru/ultra-192.mp3",
+    "url_resolved": "http://nashe1.hostingradio.ru/ultra-192.mp3",
+    "favicon": "https://radioultra.ru/favicons/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "alternative,alternative rock,rock",
+    "votes": 22058
+  },
+  {
+    "stationuuid": "9e4f0920-a3bd-4884-9e98-fbd0051215ed",
+    "name": "Радио Рекорд",
+    "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "url_resolved": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "music,news",
+    "votes": 19975
+  },
+  {
+    "stationuuid": "0854bfd2-2c68-11e9-a35e-52543be04c81",
+    "name": "Радио Maximum",
+    "url": "https://maximum.hostingradio.ru/maximum128.mp3",
+    "url_resolved": "https://maximum.hostingradio.ru/maximum128.mp3",
+    "favicon": "https://maximum.ru/favicon.ico",
+    "country": "Russia",
+    "tags": "rock",
+    "votes": 17577
+  },
+  {
+    "stationuuid": "d847db37-5f89-48a5-be32-b10e5406f0e6",
+    "name": "Mixadance FM",
+    "url": "https://stream.mixadance.fm/mixadance",
+    "url_resolved": "https://stream.mixadance.fm/mixadance",
+    "favicon": "http://www.mixadance.fm/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "dance,electro,electronic,house,music",
+    "votes": 15972
+  },
+  {
+    "stationuuid": "96163b46-0601-11e8-ae97-52543be04c81",
+    "name": "Коммерсантъ FM",
+    "url": "http://kommersant77.hostingradio.ru:8016/kommersant64.mp3",
+    "url_resolved": "http://kommersant77.hostingradio.ru:8016/kommersant64.mp3",
+    "favicon": "https://im.kommersant.ru/contentflex/images/favicons2020/apple-touch-icon-120.png",
+    "country": "Russia",
+    "tags": "news",
+    "votes": 15780
+  },
+  {
+    "stationuuid": "961a35ee-0601-11e8-ae97-52543be04c81",
+    "name": "Говорит Москва",
+    "url": "http://media.govoritmoskva.ru:8880/ru64.mp3",
+    "url_resolved": "http://media.govoritmoskva.ru:8880/ru64.mp3",
+    "favicon": "http://govoritmoskva.ru/static/images/logoGM_400x400.jpeg",
+    "country": "Russia",
+    "tags": "dorenko,moscow,news,talk",
+    "votes": 14842
+  },
+  {
+    "stationuuid": "b6fa9d93-97bf-48b0-8624-e8f84b817823",
+    "name": "Anon.FM",
+    "url": "https://icecast.anon.fm/radio",
+    "url_resolved": "https://icecast.anon.fm/radio",
+    "favicon": "https://icecast.anon.fm/favicon.png",
+    "country": "Russia",
+    "tags": "anime,dnb,downtempo,experimental,jazz,psychedelic,rock,trance",
+    "votes": 9989
+  },
+  {
+    "stationuuid": "780b212d-189c-45e2-828d-76cc6164ef5f",
+    "name": "Юмор FM",
+    "url": "http://pub0101.101.ru:8000/stream/air/aac/64/102",
+    "url_resolved": "http://pub0101.101.ru:8000/stream/air/aac/64/102",
+    "favicon": "https://www.veseloeradio.ru/design/images/assets/img/icons/touch-icon-ipad.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 8840
+  },
+  {
+    "stationuuid": "71d1622f-f9a1-11e8-a97a-52543be04c81",
+    "name": "HIT FM",
+    "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+    "url_resolved": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+    "favicon": "http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f",
+    "country": "Russia",
+    "tags": "dance,pop",
+    "votes": 5469
+  },
+  {
+    "stationuuid": "c4175f89-69da-11ea-b1cf-52543be04c81",
+    "name": "Business FM",
+    "url": "https://bfm.hostingradio.ru:9075/fm",
+    "url_resolved": "https://bfm.hostingradio.ru:9075/fm",
+    "favicon": "https://www.bfm.ru/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "business,business news,business programs",
+    "votes": 4707
+  },
+  {
+    "stationuuid": "96200832-0601-11e8-ae97-52543be04c81",
+    "name": "Эльдорадио",
+    "url": "http://emgspb.hostingradio.ru/eldoradio128.mp3",
+    "url_resolved": "http://emgspb.hostingradio.ru/eldoradio128.mp3",
+    "favicon": "https://static.tildacdn.com/tild6262-6139-4665-b935-653236323437/Rectangle_215.png",
+    "country": "Russia",
+    "tags": "pop",
+    "votes": 4238
+  },
+  {
+    "stationuuid": "6b184db5-4f63-4ec1-9a59-8573675908a2",
+    "name": "Радио Эхо",
+    "url": "https://noasrv.caster.fm:10034/stream",
+    "url_resolved": "https://noasrv.caster.fm:10034/stream",
+    "favicon": "https://play-lh.googleusercontent.com/n0Ow7jTeHolJS_2-a1D66oWPqtAHPPfJfx_yHjg35qrzjxwAroDPjTdMAAJDEnYCFA",
+    "country": "Russia",
+    "tags": "talk & speech",
+    "votes": 3352
+  },
+  {
+    "stationuuid": "c96be971-6ea9-48c7-8825-8cc9faf40201",
+    "name": "Luxury Lounge",
+    "url": "http://188.40.109.122:8000/ices3",
+    "url_resolved": "http://188.40.109.122:8000/ices3",
+    "favicon": "https://lounge.luxury/img/apple-touch-icon.png?1",
+    "country": "Russia",
+    "tags": "chillout,lounge,meditation",
+    "votes": 2787
+  },
+  {
+    "stationuuid": "7aafcdc7-73b9-11e9-af37-52543be04c81",
+    "name": "Радио Искатель",
+    "url": "http://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+    "url_resolved": "http://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+    "favicon": "https://upload.wikimedia.org/wikipedia/ru/2/28/Iskatel-logo-colors.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 2302
+  },
+  {
+    "stationuuid": "963b2e7a-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Jazz",
+    "url": "http://jfm1.hostingradio.ru:14536/jvstream.mp3",
+    "url_resolved": "http://jfm1.hostingradio.ru:14536/jvstream.mp3",
+    "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "jazz vocal",
+    "votes": 2218
+  },
+  {
+    "stationuuid": "1d13fc30-266e-4724-b288-ca82f63da688",
+    "name": "Известия",
+    "url": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
+    "url_resolved": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
+    "favicon": "https://cdn.iz.ru/profiles/portal/themes/purple/images/favicons/apple-icon.png",
+    "country": "Russia",
+    "tags": "news,talk,новости,разговорное",
+    "votes": 2202
+  },
+  {
+    "stationuuid": "e025935d-1b07-4d7a-b638-86923d4b4c66",
+    "name": "Пилот FM",
+    "url": "https://online.pilotfm.ru/pilot",
+    "url_resolved": "https://online.pilotfm.ru/pilot",
+    "favicon": "https://pilotfm.ru/apple-touch-icon-114x114.png",
+    "country": "Russia",
+    "tags": "pop music",
+    "votes": 2040
+  },
+  {
+    "stationuuid": "191da48e-2977-11e8-91bf-52543be04c81",
+    "name": "PromoDJ Too Deep",
+    "url": "http://radio.promodj.com:8000/toodeep-192",
+    "url_resolved": "http://radio.promodj.com:8000/toodeep-192",
+    "favicon": "https://cdn.promodj.com/legacy/i/favicon/favicon_180.png",
+    "country": "Russia",
+    "tags": "deep house,too deep",
+    "votes": 1944
+  },
+  {
+    "stationuuid": "2d5faf9e-7609-4bdd-a1e5-129e422fceb6",
+    "name": "Радио Звезда",
+    "url": "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
+    "url_resolved": "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
+    "favicon": "https://radiozvezda.ru/_next/static/media/apple-touch-icon.86c2338c.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 1785
+  },
+  {
+    "stationuuid": "73f1944c-06d3-4acc-b378-28608056a82f",
+    "name": "Русский Рок",
+    "url": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
+    "url_resolved": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
+    "favicon": "https://topradio.mobi/screen/1630414047_russkii_rok_moskva_rossiya.jpg",
+    "country": "Russia",
+    "tags": "рок",
+    "votes": 1772
+  },
+  {
+    "stationuuid": "d1a7b1dd-60c7-4b3d-8dfe-c1b470cc485d",
+    "name": "Musical Decadence",
+    "url": "https://stream.musicaldecadence.ru/live",
+    "url_resolved": "https://stream.musicaldecadence.ru/live",
+    "favicon": "https://www.musicaldecadence.ru/conf/img/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "#electro,#electronic-radio,#house,#techno",
+    "votes": 1761
+  },
+  {
+    "stationuuid": "962100a0-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Fantastika",
+    "url": "http://fantasyradioru.no-ip.biz:8002/live",
+    "url_resolved": "http://fantasyradioru.no-ip.biz:8002/live",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s63710q.png",
+    "country": "Russia",
+    "tags": "fantasy,talk",
+    "votes": 1486
+  },
+  {
+    "stationuuid": "92ec65ea-0324-4d45-bc55-d66955af4a1f",
+    "name": "Радио Шоколад",
+    "url": "https://choco.hostingradio.ru:10010/fm",
+    "url_resolved": "https://choco.hostingradio.ru:10010/fm",
+    "favicon": "https://chocoradio.ru/favicon.ico",
+    "country": "Russia",
+    "tags": "covers,hits,remake",
+    "votes": 1366
+  },
+  {
+    "stationuuid": "3b014fad-37d3-4022-a8f7-3299d1912259",
+    "name": "Питер FM (Piter FM)",
+    "url": "https://icecast-piterfm.cdnvideo.ru/piterfm",
+    "url_resolved": "https://icecast-piterfm.cdnvideo.ru/piterfm",
+    "favicon": "https://vote.mediastata.com/logos/16/pfm.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 1318
+  },
+  {
+    "stationuuid": "b78025cf-e68d-43f9-8e59-2a68ae84e7d7",
+    "name": "Noise FM",
+    "url": "http://play.sas-media.ru/play_256",
+    "url_resolved": "http://play.sas-media.ru/play_256",
+    "favicon": "https://noisefm.ru/thumbnail.jpg",
+    "country": "Russia",
+    "tags": "dance,dnb,drum and bass,dubstep,electronic,top40,trance,various",
+    "votes": 1191
+  },
+  {
+    "stationuuid": "37909169-8089-4cc9-9914-51e37e0ab068",
+    "name": "Серебряный Дождь",
+    "url": "http://213.59.4.27:8000/silver128.mp3",
+    "url_resolved": "http://213.59.4.27:8000/silver128.mp3",
+    "favicon": "https://silver.ru/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "news talk music",
+    "votes": 1166
+  },
+  {
+    "stationuuid": "62220177-9f8b-48d0-a9bc-df4c9a3927c9",
+    "name": "Советская эстрада",
+    "url": "https://evcast.mediacp.eu:2075/stream",
+    "url_resolved": "https://evcast.mediacp.eu:2075/stream",
+    "favicon": "https://avatars.mds.yandex.net/i?id=022b2b00ee1704c27d3fd32929a9de3d_l-5518476-images-thumbs&n=13",
+    "country": "Russia",
+    "tags": "",
+    "votes": 1142
+  },
+  {
+    "stationuuid": "bd9f56b0-1bb3-4f93-b681-a93ba7035f66",
+    "name": "Радио МИР",
+    "url": "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+    "url_resolved": "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+    "favicon": "https://i.ibb.co/ygdPW3d/image.png",
+    "country": "Russia",
+    "tags": "music,wapmahka,музыка,новости,разговорное,разговорный",
+    "votes": 1114
+  },
+  {
+    "stationuuid": "0a105faa-7578-41d4-9613-fc9ef8a8ee20",
+    "name": "BigTunesRadio House",
+    "url": "https://bigtunesradio.com:8003/house.mp3?1712236225331",
+    "url_resolved": "https://bigtunesradio.com:8003/house.mp3?1712236225331",
+    "favicon": "https://bigtunesradio.com/wp-content/uploads/2020/10/cropped-%D0%91%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-180x180.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 1034
+  },
+  {
+    "stationuuid": "df0ec465-dfcd-4cd4-a727-1ad34e1b4de0",
+    "name": "Радио Ретроклуб",
+    "url": "http://retroclub.hostingradio.ru/retroclub128.aacp",
+    "url_resolved": "http://retroclub.hostingradio.ru/retroclub128.aacp",
+    "favicon": "http://retroclub.online/images/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "retro,talk",
+    "votes": 807
+  },
+  {
+    "stationuuid": "9efc1935-20a8-460d-9ec3-fa8f65a2ef1c",
+    "name": "Спутник ФМ",
+    "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+    "url_resolved": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+    "favicon": "https://bash.news/images/favicon/apple-touch-icon-120x120-precomposed.png",
+    "country": "Russia",
+    "tags": "107,music,news,pop,ufa,уфа",
+    "votes": 743
+  },
+  {
+    "stationuuid": "fb9fdebb-73c9-450c-bd6d-18157738bef8",
+    "name": "Союз ФМ",
+    "url": "http://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633",
+    "url_resolved": "http://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633",
+    "favicon": "https://castnow.bigtunesradio.com/account/upload/stations/704150499.jpg",
+    "country": "Russia",
+    "tags": "",
+    "votes": 723
+  },
+  {
+    "stationuuid": "b73821db-127a-11e9-a80b-52543be04c81",
+    "name": "Пи FM",
+    "url": "http://cdn.pifm.ru/mp3",
+    "url_resolved": "http://cdn.pifm.ru/mp3",
+    "favicon": "http://pifm.ru/img/ico/96%D1%8596.png",
+    "country": "Russia",
+    "tags": "dance",
+    "votes": 710
+  },
+  {
+    "stationuuid": "1977d750-ed56-4aff-8e66-3e422862fa54",
+    "name": "Модель для сборки",
+    "url": "http://mds-station.com:8000/mds",
+    "url_resolved": "http://mds-station.com:8000/mds",
+    "favicon": "https://cdn-profiles.tunein.com/s144846/images/logog.jpg",
+    "country": "Russia",
+    "tags": "fantastic,fantasy,mds,science fiction,аудиокниги,мдс,модель для сборки,рассказы,фантастика",
+    "votes": 704
+  },
+  {
+    "stationuuid": "05d4781a-0f67-11e9-a80b-52543be04c81",
+    "name": "Калина Красная",
+    "url": "http://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+    "url_resolved": "http://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+    "favicon": "https://kalina.fm/tg.png",
+    "country": "Russia",
+    "tags": "авторская песня,русский шансон",
+    "votes": 701
+  },
+  {
+    "stationuuid": "6b229191-627b-481a-8b3b-a2bd33d0085f",
+    "name": "Высоцкий",
+    "url": "https://rr-vysockij.hostingradio.ru/vysockij96.aacp",
+    "url_resolved": "https://rr-vysockij.hostingradio.ru/vysockij96.aacp",
+    "favicon": "https://radio-onliner.ru/assets/images/radio/radio-vysockij.png",
+    "country": "Russia",
+    "tags": "шансон",
+    "votes": 646
+  },
+  {
+    "stationuuid": "b7651e8c-87d1-4075-a5d8-6f7fbeb4f25b",
+    "name": "Радио Новая Россия",
+    "url": "http://91.194.120.107:8000/256",
+    "url_resolved": "http://91.194.120.107:8000/256",
+    "favicon": "https://static.tildacdn.com/tild3836-3136-4765-a261-373634646139/-/resize/504x/_11.png",
+    "country": "Russia",
+    "tags": "музыка",
+    "votes": 413
+  },
+  {
+    "stationuuid": "ff45c6e7-ca6c-4e72-82d3-3b438b48a0ef",
+    "name": "Relax FM",
+    "url": "http://ic4.101.ru:8000/stream/air/aac/64/200",
+    "url_resolved": "http://ic4.101.ru:8000/stream/air/aac/64/200",
+    "favicon": "https://relax-fm.ru/design/images/img_for_design/icons/new/apple-touch-icon-precomposed.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 336
+  },
+  {
+    "stationuuid": "e6badd2a-4021-41ff-8fe7-ea8c55609c66",
+    "name": "Dance FM Россия",
+    "url": "https://listen3.myradio24.com/dmfm",
+    "url_resolved": "https://listen3.myradio24.com/dmfm",
+    "favicon": "https://dance-radio.ru/images/736337.png",
+    "country": "Russia",
+    "tags": "танцевальная,электронная",
+    "votes": 316
+  },
+  {
+    "stationuuid": "6f755c28-b4ea-4749-99a2-e295cbdf7dcb",
+    "name": "Радио Орфей",
+    "url": "https://channels.fonotron.ru:8000/Chan_73_256.mp3",
+    "url_resolved": "https://channels.fonotron.ru:8000/Chan_73_256.mp3",
+    "favicon": "https://radio.orpheus.ru/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "classical,cultural",
+    "votes": 313
+  },
+  {
+    "stationuuid": "303e3d9b-0cf6-4d4d-a569-8e708b5fe732",
+    "name": "Старый портфель",
+    "url": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
+    "url_resolved": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
+    "favicon": "https://radiopotok.ru/apple-touch-icon.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 275
+  },
+  {
+    "stationuuid": "e0cdd6a5-8772-408a-894b-d66a2f65a20a",
+    "name": "Energy FM",
+    "url": "https://srv02.gpmradio.ru:8443/stream/air/aac/64/99",
+    "url_resolved": "https://srv02.gpmradio.ru:8443/stream/air/aac/64/99",
+    "favicon": "https://www.energyfm.ru/design/images/site-design/logo/Logo_180x180px.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 252
+  },
+  {
+    "stationuuid": "96201a86-0601-11e8-ae97-52543be04c81",
+    "name": "Verdure Station",
+    "url": "http://air.verdure.net:8881/stream",
+    "url_resolved": "http://air.verdure.net:8881/stream",
+    "favicon": "http://verdure.net/static/images/leaf_64.png",
+    "country": "Russia",
+    "tags": "deep ambient,idm",
+    "votes": 247
+  },
+  {
+    "stationuuid": "4c0506d6-a2de-44f7-9dc0-37bee8f04d2e",
+    "name": "Радио СИ",
+    "url": "https://online.radioc.ru/radioc",
+    "url_resolved": "https://online.radioc.ru/radioc",
+    "favicon": "https://www.radioc.ru/online/logo.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 202
+  },
+  {
+    "stationuuid": "b6e54fb5-b915-4471-a6ed-d4c2700baebe",
+    "name": "Studio 21",
+    "url": "http://icecast-studio21.cdnvideo.ru/S21cl_1r",
+    "url_resolved": "http://icecast-studio21.cdnvideo.ru/S21cl_1r",
+    "favicon": "https://studio21.ru/favicon.png",
+    "country": "Russia",
+    "tags": "hip-hop,rap,trap",
+    "votes": 173
+  },
+  {
+    "stationuuid": "08f50b7e-a7ca-40f7-b005-b80e29435193",
+    "name": "Такси FM",
+    "url": "https://stream2.n340.com/13_taxi_28?type=.aac&UID=4D9A64A113E478565B7443DA00E31A80",
+    "url_resolved": "https://stream2.n340.com/13_taxi_28?type=.aac&UID=4D9A64A113E478565B7443DA00E31A80",
+    "favicon": "http://img.taxifm.ru/images/logo.png",
+    "country": "Russia",
+    "tags": "",
+    "votes": 30
+  },
+  {
+    "stationuuid": "af96a136-3249-4686-9ab0-c0f7c86fc2d3",
+    "name": "Comedy Radio",
+    "url": "http://23.105.238.4/gpm-comedyradio495.aacp",
+    "url_resolved": "http://23.105.238.4/gpm-comedyradio495.aacp",
+    "favicon": "https://comedy-radio.ru/design/images/logo/apple-touch-icon-180.png?v=2",
+    "country": "Russia",
+    "tags": "",
+    "votes": 8
+  },
+  {
+    "stationuuid": "960969eb-0601-11e8-ae97-52543be04c81",
+    "name": "Virgin Radio Türkiye",
+    "url": "http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls",
+    "url_resolved": "http://25653.live.streamtheworld.com/VIRGIN_RADIO_SC",
+    "favicon": "https://mediacdns.karnaval.com/media/station_media/15/logos/meta_image.png?v=110924010456",
+    "country": "Turkey",
+    "tags": "pop rock",
+    "votes": 20498
+  },
+  {
+    "stationuuid": "fb1fd397-78fd-11ea-8a3b-52543be04c81",
+    "name": "Power Pop",
+    "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+    "url_resolved": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/powerapp/channels/medium/powerPop.png",
+    "country": "Turkey",
+    "tags": "00s,70s,80s,90s,pop,rock",
+    "votes": 11242
+  },
+  {
+    "stationuuid": "4e758ac3-15ad-11e9-a80b-52543be04c81",
+    "name": "Alem FM",
+    "url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
+    "url_resolved": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
+    "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 10136
+  },
+  {
+    "stationuuid": "1e3038cc-eafc-45d0-a2e5-ef4c5d40494a",
+    "name": "Baba Radyo",
+    "url": "http://46.20.7.116/",
+    "url_resolved": "http://46.20.7.116/",
+    "favicon": "https://www.babaradyo.com/wp-content/uploads/2025/02/cropped-baba-slider-180x180.png",
+    "country": "Turkey",
+    "tags": "folk",
+    "votes": 8506
+  },
+  {
+    "stationuuid": "de28a78a-6cee-453d-b9df-13557334dfdb",
+    "name": "Radyo Seymen",
+    "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+    "url_resolved": "https://yayin.radyoseymen.com.tr:1070/stream",
+    "favicon": "https://radyoseymen.com.tr/wp-content/uploads/2026/03/cropped-radyoseymen-favicon-180x180.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 5573
+  },
+  {
+    "stationuuid": "a31ff324-2ae1-11e9-a35e-52543be04c81",
+    "name": "Radyo Voyage",
+    "url": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+    "url_resolved": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+    "favicon": "https://radyovoyage.com/Content/Voyage/images/voyageFavicon.jpg",
+    "country": "Turkey",
+    "tags": "folk,mood,relaxing,world",
+    "votes": 4616
+  },
+  {
+    "stationuuid": "0edc51ea-fc6b-4ab8-a687-8dde4730007b",
+    "name": "Pal Station",
+    "url": "http://shoutcast.radyogrup.com:1020/",
+    "url_resolved": "http://shoutcast.radyogrup.com:1020/",
+    "favicon": "https://ik.imagekit.io/eywz9hvpg/pal/media/station/1/logo_square.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 3867
+  },
+  {
+    "stationuuid": "dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca",
+    "name": "TRT NAĞME",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "url_resolved": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "favicon": "https://cdn-i.pr.trt.com.tr/trtdinle//w768/q70/12467465.jpeg",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 1472
+  },
+  {
+    "stationuuid": "960e5bb2-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Spor",
+    "url": "http://46.20.4.5:8170/",
+    "url_resolved": "http://46.20.4.5:8170/",
+    "favicon": "http://www.radyospor.com/images/apple-icon-180x180.png",
+    "country": "Turkey",
+    "tags": "sport",
+    "votes": 1442
+  },
+  {
+    "stationuuid": "43061315-2893-46fa-ae1e-96e767d5bce3",
+    "name": "Power Türk",
+    "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+    "url_resolved": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/powerapp/channels/medium/powerTurk.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 1415
+  },
+  {
+    "stationuuid": "62402197-6bcd-4bba-8577-ef025800b453",
+    "name": "Vav Radyo",
+    "url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+    "url_resolved": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+    "favicon": "https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 1100
+  },
+  {
+    "stationuuid": "0a2c3506-a136-40f2-b008-38daf2b12fd6",
+    "name": "TRT FM",
+    "url": "https://trt.radyotvonline.net/trtfm",
+    "url_resolved": "https://trt.radyotvonline.net/trtfm",
+    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 1058
+  },
+  {
+    "stationuuid": "bfce025c-fb60-44a4-885e-011ec39d8f57",
+    "name": "TRT Radyo Haber",
+    "url": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+    "url_resolved": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+    "favicon": "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg",
+    "country": "Turkey",
+    "tags": "news",
+    "votes": 1036
+  },
+  {
+    "stationuuid": "1e090517-d381-49f4-bb54-9b18ea649b41",
+    "name": "Kral Pop",
+    "url": "https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
+    "url_resolved": "https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
+    "favicon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 923
+  },
+  {
+    "stationuuid": "f4121c74-9b1a-4051-8864-9db00eab2848",
+    "name": "Pal FM",
+    "url": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8",
+    "url_resolved": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8",
+    "favicon": "https://ik.imagekit.io/eywz9hvpg/pal/media/station/3/logo_square.png",
+    "country": "Turkey",
+    "tags": "pop",
+    "votes": 891
+  },
+  {
+    "stationuuid": "dd307ed2-052d-4373-85c6-24f15f96d89c",
+    "name": "Power FM",
+    "url": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
+    "url_resolved": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/powerapp/channels/medium/powerFM.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 875
+  },
+  {
+    "stationuuid": "2c0a7b55-c481-49e5-8b1a-9339bb132fd1",
+    "name": "Power Dance",
+    "url": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8",
+    "url_resolved": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/powerapp/channels/medium/powerDance.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 725
+  },
+  {
+    "stationuuid": "4533a6a3-0b8e-476b-b0ec-b4a56162caa6",
+    "name": "Pir Yolu",
+    "url": "http://radyopiryolu.canliyayinda.com:8165/",
+    "url_resolved": "http://radyopiryolu.canliyayinda.com:8165/",
+    "favicon": "http://radyopiryolu.canliyayinda.com:8165/favicon.ico",
+    "country": "Turkey",
+    "tags": "classical",
+    "votes": 708
+  },
+  {
+    "stationuuid": "203048eb-cb0c-4f34-b5e8-088ebac3adb1",
+    "name": "TRT3",
+    "url": "http://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+    "url_resolved": "http://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+    "favicon": "https://cdn-i.pr.trt.com.tr/trtdinle//w360/q70/12467462.jpeg",
+    "country": "Turkey",
+    "tags": "classical,culture,independent,jazz,oldies,opera,pop,turkish music",
+    "votes": 705
+  },
+  {
+    "stationuuid": "474b5f9f-6202-4928-a3c0-0a9068ce040e",
+    "name": "102.1 Arabeskin Merkezi Fm",
+    "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+    "url_resolved": "http://canli.arabeskinmerkezi.com:9180/stream",
+    "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+    "country": "Turkey",
+    "tags": "arabesk,arabesk fantazi,arabic,pop",
+    "votes": 641
+  },
+  {
+    "stationuuid": "306970f9-8063-481d-9f6b-00b99833d206",
+    "name": "Radyo Banko",
+    "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
+    "url_resolved": "http://yayin.netradyom.com:9910/RADYOBANKO",
+    "favicon": "https://radyobanko.com/wp-content/uploads/2024/11/favicon.png",
+    "country": "Turkey",
+    "tags": "folk",
+    "votes": 589
+  },
+  {
+    "stationuuid": "0352d949-cfe9-4c89-8540-00069791b5d6",
+    "name": "Karadeniz FM",
+    "url": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
+    "url_resolved": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
+    "favicon": "https://static.wixstatic.com/media/9477e9_88c8630d8926464eac285c1df9d8ce54~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/karadeniz-fm-logopng.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 574
+  },
+  {
+    "stationuuid": "e053f98a-e195-48f0-b07b-b2143c6e0964",
+    "name": "CNN Türk Radyo",
+    "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
+    "url_resolved": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
+    "favicon": "https://static.cnnturk.com/images/favicon/apple-cnn-favicon-180x180.png?v=azure-20260915.1",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 477
+  },
+  {
+    "stationuuid": "3dfe8d72-9ba4-47f2-9f57-a16cd5b273df",
+    "name": "Radyo Alaturka",
+    "url": "https://yayin.jumboserver.net:9100/stream",
+    "url_resolved": "https://yayin.jumboserver.net:9100/stream",
+    "favicon": "https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 443
+  },
+  {
+    "stationuuid": "960e285b-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Trafik 104.2 Ankara",
+    "url": "http://live2.radyotvonline.com:8000/",
+    "url_resolved": "http://live2.radyotvonline.com:8000/",
+    "favicon": "http://www.otomobil.com.tr/wp-content/uploads/2012/04/RADYO_TRAFIK_1.jpg",
+    "country": "Turkey",
+    "tags": "ankara,traffic,trafik",
+    "votes": 426
+  },
+  {
+    "stationuuid": "ff3b8372-1f59-4b18-a4fc-2240b8ab5417",
+    "name": "TGRT FM",
+    "url": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+    "url_resolved": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+    "favicon": "https://tgrtfm.com.tr/wp-content/uploads/2025/01/favicon_512.png",
+    "country": "Turkey",
+    "tags": "news talk music",
+    "votes": 369
+  },
+  {
+    "stationuuid": "961fbfc8-0601-11e8-ae97-52543be04c81",
+    "name": "Radyo Eksen",
+    "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
+    "url_resolved": "http://eksenwmp.radyotvonline.com/;stream.mp3",
+    "favicon": "https://www.radioeksen.com/Content/Eksen/images/eksenLogoIcon.png",
+    "country": "Turkey",
+    "tags": "alternative rock,indie,istanbul,rock",
+    "votes": 367
+  },
+  {
+    "stationuuid": "9ea7ed4e-d777-4e94-bd45-23abfaeaf2d6",
+    "name": "Kiss Türk",
+    "url": "https://kiss.radyotvonline.net/kissturk",
+    "url_resolved": "https://kiss.radyotvonline.net/kissturk",
+    "favicon": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 328
+  },
+  {
+    "stationuuid": "749c02c5-e596-4651-8e15-cfaec2d7680b",
+    "name": "Power Love",
+    "url": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+    "url_resolved": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/powerapp/channels/medium/powerLove.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 311
+  },
+  {
+    "stationuuid": "d220e7fc-cfc3-48c0-895a-ec109709936d",
+    "name": "Lig Radyo",
+    "url": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
+    "url_resolved": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
+    "favicon": "https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 246
+  },
+  {
+    "stationuuid": "2ddf08ec-21fb-4613-9cd4-ec11a9e47f90",
+    "name": "Kent FM",
+    "url": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
+    "url_resolved": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
+    "favicon": "https://static.wixstatic.com/media/9477e9_5d00a2e59e4d4bada251627401f75c91~mv2.png/v1/fill/w_150,h_114,al_c,q_85,usm_0.66_1.00_0.01/KENT_FM_LOGO.webp",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 236
+  },
+  {
+    "stationuuid": "28b60579-045a-4e06-89b6-e85bee30c228",
+    "name": "TürküRadyo",
+    "url": "https://yayin.turkhosted.com/4591/stream",
+    "url_resolved": "https://yayin.turkhosted.com/4591/stream",
+    "favicon": "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 212
+  },
+  {
+    "stationuuid": "bcf1eca1-d197-451b-bdd0-dde1e4bcaae1",
+    "name": "Radyo D",
+    "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
+    "url_resolved": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s14264d.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 196
+  },
+  {
+    "stationuuid": "14797ffb-2fdd-4a54-9748-e96486914dd2",
+    "name": "RADYO AKDENIZ",
+    "url": "https://yayin.radyoakdeniz.com/9470/stream",
+    "url_resolved": "https://yayin.radyoakdeniz.com/9470/stream",
+    "favicon": "https://www.radyoakdeniz.com/wp-content/uploads/2024/03/cropped-radyoakdeniz-180x180.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 180
+  },
+  {
+    "stationuuid": "a23881c5-8c90-11e9-ad01-52543be04c81",
+    "name": "Enderun FM",
+    "url": "http://yayin2.canliyayin.org:7052/;*.mp3",
+    "url_resolved": "http://yayin2.canliyayin.org:7052/;*.mp3",
+    "favicon": "https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png",
+    "country": "Turkey",
+    "tags": "islamic",
+    "votes": 165
+  },
+  {
+    "stationuuid": "728789a2-8938-4c40-890e-768208376fc0",
+    "name": "a PARA",
+    "url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
+    "url_resolved": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
+    "favicon": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 162
+  },
+  {
+    "stationuuid": "837f9f9d-dcae-44a9-acc8-9bd6be8de720",
+    "name": "Best FM",
+    "url": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
+    "url_resolved": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
+    "favicon": "https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 146
+  },
+  {
+    "stationuuid": "fcbf07d8-d3b3-4d9f-839a-3cfea3391b35",
+    "name": "Radyo 35",
+    "url": "https://yayin.turkhosted.com/6012/stream",
+    "url_resolved": "https://yayin.turkhosted.com/6012/stream",
+    "favicon": "https://www.radyo35.com/img/logo.png",
+    "country": "Turkey",
+    "tags": "pop,türkçe",
+    "votes": 141
+  },
+  {
+    "stationuuid": "59c37d82-9848-4f9a-8b4f-1aafce0fed86",
+    "name": "TRT Memleketim FM",
+    "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
+    "url_resolved": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
+    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
+    "country": "Turkey",
+    "tags": "national radio",
+    "votes": 103
+  },
+  {
+    "stationuuid": "25fba87c-ddc8-409a-8474-4ffbac809c59",
+    "name": "Radio Glamorize",
+    "url": "https://live.radioglamorize.com/stream1",
+    "url_resolved": "https://live.radioglamorize.com/stream1",
+    "favicon": "https://radioglamorize.com/wp-content/uploads/2020/05/cropped-sdiavatar2-180x180.png",
+    "country": "Turkey",
+    "tags": "electronic music,progressive house",
+    "votes": 92
+  },
+  {
+    "stationuuid": "9326344e-10e4-4902-b1cd-e5a729df3f2d",
+    "name": "TRT Diyarbakır",
+    "url": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
+    "url_resolved": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
+    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/41d20783-0d27-48af-a16b-d1df88610d70.png",
+    "country": "Turkey",
+    "tags": "local radio",
+    "votes": 87
+  },
+  {
+    "stationuuid": "106c740c-1852-4b7b-82e1-927656bdf465",
+    "name": "TRT Antalya",
+    "url": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
+    "url_resolved": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
+    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25a3f157-c5a0-4506-b513-5e63518173bb.png",
+    "country": "Turkey",
+    "tags": "local radio",
+    "votes": 82
+  },
+  {
+    "stationuuid": "ad387a99-2311-48ff-befd-346b6fa8a9ef",
+    "name": "The Rock Radio",
+    "url": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
+    "url_resolved": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
+    "favicon": "https://therock.com.tr/images/favicon.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 59
+  },
+  {
+    "stationuuid": "25cf80e1-ccae-4433-8cc3-50a685bae3e2",
+    "name": "Power R&B Hip-Hop",
+    "url": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
+    "url_resolved": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 59
+  },
+  {
+    "stationuuid": "7f1ef327-ff1c-4027-b679-59e5cf2739c6",
+    "name": "Show Radyo",
+    "url": "http://showradyo.radyotvonline.net/showradyoaac/",
+    "url_resolved": "http://showradyo.radyotvonline.net/showradyoaac/",
+    "favicon": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 40
+  },
+  {
+    "stationuuid": "ef2a39d8-7633-48cf-99ef-a1f00f07d8a7",
+    "name": "Moral FM",
+    "url": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
+    "url_resolved": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
+    "favicon": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 40
+  },
+  {
+    "stationuuid": "4dd16726-deed-45ed-afd5-c5c296a5dded",
+    "name": "İstanbul FM",
+    "url": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
+    "url_resolved": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
+    "favicon": "https://www.istanbulfm.com.tr/assets/logo.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 38
+  },
+  {
+    "stationuuid": "238b318c-0d7d-4f3b-98e6-b9f29bac7888",
+    "name": "Radyo Karadeniz",
+    "url": "https://radyomar.80.yayin.com.tr/;",
+    "url_resolved": "https://radyomar.80.yayin.com.tr/;",
+    "favicon": "https://radyokaradeniz.com/uploads/settings/logo_69fcfb84e4cd6.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 31
+  },
+  {
+    "stationuuid": "5ebff522-556b-4c1c-8699-e9f6eddafdcd",
+    "name": "Power Türk Taptaze",
+    "url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+    "url_resolved": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+    "favicon": "https://cdn.powergroup.com.tr/powerapp/channels/medium/powerTurkTaptaze.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 25
+  },
+  {
+    "stationuuid": "2072d084-1863-4c73-ad67-2b5a0ab5fe70",
+    "name": "Semerkand Radyo",
+    "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
+    "url_resolved": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
+    "favicon": "https://semerkandradyo.com.tr/Content/img/apple-touch-icon.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 0
+  },
+  {
+    "stationuuid": "96165755-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 1",
+    "url": "http://149.13.0.81/radio1.ogg",
+    "url_resolved": "http://149.13.0.81/radio1.ogg",
+    "favicon": "https://radio1.bg/theme_assets/radio1/images/logo.png",
+    "country": "Bulgaria",
+    "tags": "classic hits",
+    "votes": 14480
+  },
+  {
+    "stationuuid": "963559d7-0601-11e8-ae97-52543be04c81",
+    "name": "Energy NRJ Bulgaria",
+    "url": "http://play.global.audio/nrj128",
+    "url_resolved": "http://play.global.audio/nrj128",
+    "favicon": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+    "country": "Bulgaria",
+    "tags": "pop,dance,retro",
+    "votes": 11686
+  },
+  {
+    "stationuuid": "9615b6c8-0601-11e8-ae97-52543be04c81",
+    "name": "BG Radio",
+    "url": "http://stream.radioreklama.bg/bgradio128",
+    "url_resolved": "http://stream.radioreklama.bg/bgradio128",
+    "favicon": "https://bgradio.bg/theme_assets/bgradio/images/hb_bgradio_logo.png",
+    "country": "Bulgaria",
+    "tags": "local music",
+    "votes": 8262
+  },
+  {
+    "stationuuid": "96093243-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 1 Rock",
+    "url": "http://stream.metacast.eu/radio1rock.ogg",
+    "url_resolved": "http://stream.metacast.eu/radio1rock.ogg",
+    "favicon": "https://www.radio1rock.bg/theme_assets/radio1rock/images/logo.png",
+    "country": "Bulgaria",
+    "tags": "rock",
+    "votes": 7203
+  },
+  {
+    "stationuuid": "96163d8b-0601-11e8-ae97-52543be04c81",
+    "name": "BG Estrada",
+    "url": "https://play.global.audio/bgestrada",
+    "url_resolved": "https://play.global.audio/bgestrada",
+    "favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 6699
+  },
+  {
+    "stationuuid": "96285ac8-0601-11e8-ae97-52543be04c81",
+    "name": "Nova News",
+    "url": "http://stream.radioreklama.bg/novanews.aac",
+    "url_resolved": "http://stream.radioreklama.bg/novanews.aac",
+    "favicon": "https://nstatic.nova.bg/files/nova/images/apple-touch-icon.png?v=2026",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 5710
+  },
+  {
+    "stationuuid": "961658c6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Fresh",
+    "url": "http://193.108.24.21:8000/fresh",
+    "url_resolved": "http://193.108.24.21:8000/fresh",
+    "favicon": "https://radiofresh.bg/i/favicon.png",
+    "country": "Bulgaria",
+    "tags": "hits",
+    "votes": 4854
+  },
+  {
+    "stationuuid": "84c03be7-1197-4a6a-9705-9abbbdba1b28",
+    "name": "Avtoradio",
+    "url": "http://play.global.audio/avtoradio.opus",
+    "url_resolved": "http://play.global.audio/avtoradio.opus",
+    "favicon": "http://avtoradio.bg/icon.83aa3da3.png",
+    "country": "Bulgaria",
+    "tags": "dance,hits,opus,pop",
+    "votes": 3930
+  },
+  {
+    "stationuuid": "96409a24-0601-11e8-ae97-52543be04c81",
+    "name": "Maya Varna",
+    "url": "http://rnmediagroup.com:10000/;",
+    "url_resolved": "http://rnmediagroup.com:10000/;",
+    "favicon": "http://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png",
+    "country": "Bulgaria",
+    "tags": "contemporary hits,dance,hits,hot adult contemporary",
+    "votes": 3304
+  },
+  {
+    "stationuuid": "9618ac6b-0601-11e8-ae97-52543be04c81",
+    "name": "Tangra Mega Rock",
+    "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
+    "url_resolved": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
+    "favicon": "https://radiotangra.com/wp-content/themes/hello-elementor-child/tangra_ico.ico",
+    "country": "Bulgaria",
+    "tags": "hard rock heavy metal",
+    "votes": 2099
+  },
+  {
+    "stationuuid": "2091bc8a-ced6-43cd-8f38-5b05d62ce3c5",
+    "name": "BadRock Hard & Heavy",
+    "url": "https://play-radio0.jump.bg:7049/live",
+    "url_resolved": "https://play-radio0.jump.bg:7049/live",
+    "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
+    "country": "Bulgaria",
+    "tags": "hard rock,hardcore,heavy metal,heavy power metal,heavy rock,metal,power metal,rock",
+    "votes": 1708
+  },
+  {
+    "stationuuid": "3f107ac4-949c-4c65-8bea-d1cba3a7e728",
+    "name": "Vanilla",
+    "url": "https://play.global.audio/vanillahi.aac",
+    "url_resolved": "https://play.global.audio/vanillahi.aac",
+    "favicon": "https://www.radioplay.bg/assets/logos/vanilla.png",
+    "country": "Bulgaria",
+    "tags": "chill out",
+    "votes": 1415
+  },
+  {
+    "stationuuid": "5ecd2cab-8138-4023-ba47-c8c2d8308d5f",
+    "name": "MAGIC FM",
+    "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
+    "url_resolved": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
+    "favicon": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/Magic-FM-Bulgaria.jpg",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 1289
+  },
+  {
+    "stationuuid": "96163e36-0601-11e8-ae97-52543be04c81",
+    "name": "Katra FM",
+    "url": "http://www.katrafm.com:8000/live",
+    "url_resolved": "http://www.katrafm.com:8000/live",
+    "favicon": "https://katrafm.com/wp-content/uploads/2025/09/cropped-favicon-192x192.png",
+    "country": "Bulgaria",
+    "tags": "contemporary,hits",
+    "votes": 1225
+  },
+  {
+    "stationuuid": "8b700f14-99e7-4f77-84eb-3ff9d0ad69a0",
+    "name": "The Voice",
+    "url": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
+    "url_resolved": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
+    "favicon": "https://m.netinfo.bg/thevoice/resources/assets/images/favicon/apple-icon-180x180.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 1034
+  },
+  {
+    "stationuuid": "dacd257b-5478-4ed6-a588-c18f1bd7c27c",
+    "name": "Radio Vitosha",
+    "url": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
+    "url_resolved": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
+    "favicon": "https://www.radiovitosha.com/resources/assets/images/favicon/apple-touch-icon.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 815
+  },
+  {
+    "stationuuid": "9f5946d9-301f-4cf7-a1e8-7bdf7280d924",
+    "name": "City HipHop R&B",
+    "url": "https://play.global.audio/cityrabhi.aac",
+    "url_resolved": "https://play.global.audio/cityrabhi.aac",
+    "favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
+    "country": "Bulgaria",
+    "tags": "hiphop r&b",
+    "votes": 788
+  },
+  {
+    "stationuuid": "e6bc7ab4-f8da-405f-9b61-c8dbddfe9961",
+    "name": "Radio Veselina Bulgaria",
+    "url": "https://bss1.neterra.tv/veselina/veselina.m3u8",
+    "url_resolved": "https://bss1.neterra.tv/veselina/veselina.m3u8",
+    "favicon": "https://www.radioveselina.bg/resources/assets/images/favicon/apple-touch-icon.png",
+    "country": "Bulgaria",
+    "tags": "folk,narodna",
+    "votes": 612
+  },
+  {
+    "stationuuid": "d50058fc-fb71-4ba3-acd9-3a873c6bac26",
+    "name": "Radio Dance With Me",
+    "url": "http://g5.turbohost.eu:8002/stream128.m3u",
+    "url_resolved": "http://g5.turbohost.eu:8002/stream128",
+    "favicon": "http://www.dancewithme-bg.com/images/liveradio/logo.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 602
+  },
+  {
+    "stationuuid": "7b432a9d-8421-4cef-bf63-d24b11b6830b",
+    "name": "Radio Veronika",
+    "url": "http://play.global.audio/veronikahi.aac",
+    "url_resolved": "http://play.global.audio/veronikahi.aac",
+    "favicon": "https://www.radioplay.bg/assets/logos/radioveronika.png",
+    "country": "Bulgaria",
+    "tags": "etno,pop-folk,етно,поп-фолк",
+    "votes": 575
+  },
+  {
+    "stationuuid": "b3a8e73b-f079-4f5f-adc3-3f75d219a3a5",
+    "name": "Metro DANCE Radio",
+    "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
+    "url_resolved": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
+    "favicon": "https://metrocast.top/wp-content/uploads/2021/09/metrodance.png",
+    "country": "Bulgaria",
+    "tags": "club,dance,in the morning,news,talk show",
+    "votes": 508
+  },
+  {
+    "stationuuid": "d583dee6-92ce-4bbd-9ef5-5d020ce892d8",
+    "name": "Radioplay Cafe",
+    "url": "https://play.global.audio/cafehi.aac",
+    "url_resolved": "https://play.global.audio/cafehi.aac",
+    "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
+    "country": "Bulgaria",
+    "tags": "cafe",
+    "votes": 429
+  },
+  {
+    "stationuuid": "cdc70bdd-0050-4595-8be2-bf3ff7da6110",
+    "name": "Radio Horo",
+    "url": "http://g5.turbohost.eu:8020/stream256",
+    "url_resolved": "http://g5.turbohost.eu:8020/stream256",
+    "favicon": "http://www.radiohoro.com/images/logo.png",
+    "country": "Bulgaria",
+    "tags": "folk",
+    "votes": 418
+  },
+  {
+    "stationuuid": "3d836275-00e5-4df2-84ce-dea9957ea387",
+    "name": "FM+",
+    "url": "http://193.108.24.21:8000/fmplus",
+    "url_resolved": "http://193.108.24.21:8000/fmplus",
+    "favicon": "https://radiofmplus.bg/i/favicon.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 359
+  },
+  {
+    "stationuuid": "5b360510-c4fd-4c57-9875-36fcaabeca1e",
+    "name": "Hot Hits FM",
+    "url": "https://live.hothitsfm.com/stream",
+    "url_resolved": "https://live.hothitsfm.com/stream",
+    "favicon": "https://hothitsfm.com/hhfm-290.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 282
+  },
+  {
+    "stationuuid": "94f5fb25-b584-4ea9-be0a-6898d80128ed",
+    "name": "Radio Melody",
+    "url": "http://193.108.24.6:8000/melody?file=.mp3",
+    "url_resolved": "http://193.108.24.6:8000/melody?file=.mp3",
+    "favicon": "https://radiomelody.bg/i/logo.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 240
+  },
+  {
+    "stationuuid": "1c84a19e-99c4-47c9-8be4-6ce688881311",
+    "name": "Power FM 91.1",
+    "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
+    "url_resolved": "http://a1.virtualradio.eu:8000/powerfm.mp3",
+    "favicon": "https://www.powerfm.bg/assets/images/logo12.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 237
+  },
+  {
+    "stationuuid": "4c8949a8-529c-4edd-9725-f3173935b55a",
+    "name": "Z-Rock radio",
+    "url": "http://193.108.24.6:8000/zrock",
+    "url_resolved": "http://193.108.24.6:8000/zrock",
+    "favicon": "http://zrockradio.bg/wp-content/uploads/2017/08/zrock_logo.png",
+    "country": "Bulgaria",
+    "tags": "rock",
+    "votes": 153
+  },
+  {
+    "stationuuid": "d834a724-89c4-4ae6-8378-28ea8a75a82f",
+    "name": "Jazz FM",
+    "url": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
+    "url_resolved": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
+    "favicon": "https://jazzfm.bg/static/bg/microsites/jazzfm/img/favicon.ico",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 141
+  },
+  {
+    "stationuuid": "8fc1369b-c2fa-4cba-8563-548110540b12",
+    "name": "folk mix",
+    "url": "https://listen.radiofolkmix.com/folkmixios",
+    "url_resolved": "https://listen.radiofolkmix.com/folkmixios",
+    "favicon": "https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 136
+  },
+  {
+    "stationuuid": "5fbd494e-5350-4c9f-b6c9-4fbfc18dfc2d",
+    "name": "N-Joy",
+    "url": "https://cdn.bweb.bg/radio/njoy.mp3",
+    "url_resolved": "https://cdn.bweb.bg/radio/njoy.mp3",
+    "favicon": "https://njoy.bg/box/img//fav/apple-icon-180x180.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 102
+  },
+  {
+    "stationuuid": "685133a7-f3df-428c-aca7-e24ffd649049",
+    "name": "Darik Radio",
+    "url": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
+    "url_resolved": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
+    "favicon": "https://darikradio.bg/img/logo.new.png",
+    "country": "Bulgaria",
+    "tags": "news,politics,sport",
+    "votes": 93
+  },
+  {
+    "stationuuid": "3932d1ea-0aea-451f-9508-62a6d003f795",
+    "name": "Radio Ultra Pernik",
+    "url": "http://88.80.96.25:8020/;",
+    "url_resolved": "http://88.80.96.25:8020/;",
+    "favicon": "http://play.radioultra.bg/wp-content/uploads/2022/05/cropped-radio-ultra-150x150-1-192x192.jpg",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 93
+  },
+  {
+    "stationuuid": "d14b51b2-f045-4a10-a46b-86536e747963",
+    "name": "BadRock Golden Era",
+    "url": "https://streams.badrockradio.net/golden-era",
+    "url_resolved": "https://streams.badrockradio.net/golden-era",
+    "favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+    "country": "Bulgaria",
+    "tags": "classic rock,rock",
+    "votes": 80
+  },
+  {
+    "stationuuid": "5f689c90-58fe-48ab-8f5e-c931c84a5b39",
+    "name": "RADIO CITY",
+    "url": "http://play.global.audio/city64",
+    "url_resolved": "http://play.global.audio/city64",
+    "favicon": "https://www.city.bg/theme_assets/city/images/logo.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 66
+  },
+  {
+    "stationuuid": "e00ed8d4-5a16-4361-8142-0aad6b0326fd",
+    "name": "XRaydio 3",
+    "url": "https://xraydio.ddns.net/xraydio3",
+    "url_resolved": "https://xraydio.ddns.net/xraydio3",
+    "favicon": "https://xraydio.net/wp-content/uploads/2024/03/3.jpg",
+    "country": "Bulgaria",
+    "tags": "blues punk,garage rock,glam rock,outlaw country,power pop,psychobilly,pub rock,rock & roll,sludge,southern rock,space rock,stoner rock,surf,swamp rock",
+    "votes": 66
+  },
+  {
+    "stationuuid": "f8b18196-6a49-40ab-b1bc-63ad45b3da50",
+    "name": "Easy Radio",
+    "url": "https://live.easyradio.bg/aac?type=.mp3",
+    "url_resolved": "https://live.easyradio.bg/aac?type=.mp3",
+    "favicon": "https://easyradio.bg/apple-touch-icon.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 61
+  },
+  {
+    "stationuuid": "f659afac-bcf5-4122-9773-0c1c6e151893",
+    "name": "Classic FM",
+    "url": "https://cdn.bweb.bg/radio/classic-fm.mp3",
+    "url_resolved": "https://cdn.bweb.bg/radio/classic-fm.mp3",
+    "favicon": "https://classicfm.bg/static/bg/microsites/classicfm/img/logo_header.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 51
+  },
+  {
+    "stationuuid": "61f28b98-91ee-476b-9863-099b2aa58d10",
+    "name": "Balkan Radio",
+    "url": "https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl",
+    "url_resolved": "https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl",
+    "favicon": "https://balkanradio.com/img/Icon.png",
+    "country": "Bulgaria",
+    "tags": "america,balkan,balkansko,best,bulgarian,folk,gracko,greek,macedonian,narodna,north,pop folk,radio,zabavna",
+    "votes": 49
+  },
+  {
+    "stationuuid": "0d7f58db-2dd1-4842-a4e5-2e2aa7d3fded",
+    "name": "Radio Helikon",
+    "url": "http://87.121.90.229:9000/live_128",
+    "url_resolved": "http://87.121.90.229:9000/live_128",
+    "favicon": "http://radio.helikon.bg/images_v2/icons/android-icon-192x192.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 41
+  },
+  {
+    "stationuuid": "19f5080a-9a9b-463b-afa5-a659c8ed445a",
+    "name": "Bumerang FM",
+    "url": "http://185.20.88.1:8010/",
+    "url_resolved": "http://185.20.88.1:8010/",
+    "favicon": "https://www.bumerangfm.net/images/logo.jpg",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 29
+  },
+  {
+    "stationuuid": "d5fccd5d-0c7c-4f03-98cc-f873541e7dfd",
+    "name": "Radio K2",
+    "url": "http://stream.radiok2.bg:8000/rk2",
+    "url_resolved": "http://stream.radiok2.bg:8000/rk2",
+    "favicon": "http://www.radiok2.bg/blacklabel2.gif",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 16
+  },
+  {
+    "stationuuid": "4c26f1be-9a28-4967-bcfd-06afbbf97d13",
+    "name": "Fusion 7",
+    "url": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
+    "url_resolved": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
+    "favicon": "https://radio.palamarka.com/static/uploads/fusion7/album_art.1787387818.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 8
+  },
+  {
+    "stationuuid": "4316e3c1-2512-4b7b-ad2b-51947ab7056a",
+    "name": "Alma Mater",
+    "url": "http://a1.vizitec.com:8000/almamater",
+    "url_resolved": "http://a1.vizitec.com:8000/almamater",
+    "favicon": "https://i.ibb.co/TM3LMLN9/wp.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 7
+  },
+  {
+    "stationuuid": "00b25a94-7836-410c-8296-81376627833e",
+    "name": "FolkBG",
+    "url": "http://listen.folkbg.net:8002/folkbg.m3u?_gl=1*1x9ezt*_ga*Nzk5NDExODU4LjE3ODI1NzgyNzQ.*_ga_XVGBK9GZH5*czE3ODI1NzgyNzMkbzEkZzEkdDE3ODI1NzgzMDUkajI4JGwwJGgw",
+    "url_resolved": "http://listen.folkbg.net:8002/folkbg",
+    "favicon": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 5
+  },
+  {
+    "stationuuid": "19314d29-c6c6-47b1-a3fb-36dae1008a79",
+    "name": "Glarus Retro FM",
+    "url": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
+    "url_resolved": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
+    "favicon": "https://glarusretro.com/wp-content/uploads/2026/01/logo-white.webp",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 4
+  },
+  {
+    "stationuuid": "39b3b4eb-9a6a-4cab-9b84-141b519ea9d7",
+    "name": "Radio ZARA",
+    "url": "https://www.radiozara.bg/play",
+    "url_resolved": "https://www.radiozara.bg/play",
+    "favicon": "https://www.radiozara.bg/logo.png",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 3
+  },
+  {
+    "stationuuid": "8123fac5-890c-4dd1-b306-71f511d3fbf1",
+    "name": "Radio NRG",
+    "url": "https://home.radionrg.com/hls/live/live.m3u8",
+    "url_resolved": "https://home.radionrg.com/hls/live/live.m3u8",
+    "favicon": "https://radionrg.com/img/radionrg.png",
+    "country": "Bulgaria",
+    "tags": "best,dance,hip-hop,hit,hits,modern,music,nrg,nrj,party,party hits,party mix,pop,radio,rap,retro,urban",
+    "votes": 3
+  },
+  {
+    "stationuuid": "f10d046c-ca54-4df6-96d1-68b6597456b5",
+    "name": "Kiss Lounge Radio",
+    "url": "https://nova-radio.neterra.tv/kiss",
+    "url_resolved": "https://nova-radio.neterra.tv/kiss",
+    "favicon": "https://play.nova.bg/_next/image?url=https%3A%2F%2Fnbg-img.fite.tv%2Fimg%2F611102_460x260.jpg&w=1080&q=85",
+    "country": "Bulgaria",
+    "tags": "",
+    "votes": 1
+  },
+  {
+    "stationuuid": "7b4d8065-273d-4120-be34-23c0f4e57076",
+    "name": "Radio Ruse",
+    "url": "https://radio.ruse.bg:8010/radioruse",
+    "url_resolved": "https://radio.ruse.bg:8010/radioruse",
+    "favicon": "https://radioruse.com/site/images/logo7.png",
+    "country": "Bulgaria",
+    "tags": "local radio,music,news",
+    "votes": 1
+  },
+  {
+    "stationuuid": "960e71a1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio România Actualități",
+    "url": "http://89.238.227.6:8006/;",
+    "url_resolved": "http://89.238.227.6:8006/;",
+    "favicon": "https://www.romania-actualitati.ro/templates/favicon/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "folk,news,pop,talk",
+    "votes": 26746
+  },
+  {
+    "stationuuid": "9618ea0c-0601-11e8-ae97-52543be04c81",
+    "name": "Dance FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+    "url_resolved": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+    "favicon": "https://www.dancefm.ro/static/theme-repo/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "dance",
+    "votes": 21179
+  },
+  {
+    "stationuuid": "f65094f5-2cae-4d4e-ab4a-12f2e7d274bb",
+    "name": "Deep House Radio - Bucharest Romania",
+    "url": "http://live.dancemusic.ro:7000/listen.pls?sid=1",
+    "url_resolved": "http://live.dancemusic.ro:7000/radio.mp3",
+    "favicon": "http://www.dancemusic.ro/dancemusic-favicon.png",
+    "country": "Romania",
+    "tags": "deep house",
+    "votes": 18339
+  },
+  {
+    "stationuuid": "961d41f3-0601-11e8-ae97-52543be04c81",
+    "name": "Europa FM",
+    "url": "http://astreaming.europafm.ro:8000/europafm_aacp48k",
+    "url_resolved": "http://astreaming.europafm.ro:8000/europafm_aacp48k",
+    "favicon": "https://www.europafm.ro/icons/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "music,news,talkshow",
+    "votes": 14447
+  },
+  {
+    "stationuuid": "9618e0b5-0601-11e8-ae97-52543be04c81",
+    "name": "DIGI FM",
+    "url": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+    "url_resolved": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+    "favicon": "http://www.digi-fm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rls-2021111100-v9",
+    "country": "Romania",
+    "tags": "music,news",
+    "votes": 14255
+  },
+  {
+    "stationuuid": "99ac4423-0307-11ea-bbf2-52543be04c81",
+    "name": "Kiss FM",
+    "url": "https://live.kissfm.ro/kissfm.aacp",
+    "url_resolved": "https://live.kissfm.ro/kissfm.aacp",
+    "favicon": "https://www.kissfm.ro/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "romanian pop",
+    "votes": 13631
+  },
+  {
+    "stationuuid": "b162d016-5628-42cf-8fb1-22866ba5f065",
+    "name": "Play 90's",
+    "url": "http://live.playradio.org:9090/90HD",
+    "url_resolved": "http://live.playradio.org:9090/90HD",
+    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/b7/89/4a/b7894a1a-07c8-d9ae-fc50-5fcc33c59173/source/280x280.jpg",
+    "country": "Romania",
+    "tags": "90s,dance,euro hits,eurodance",
+    "votes": 13159
+  },
+  {
+    "stationuuid": "960ee76f-0601-11e8-ae97-52543be04c81",
+    "name": "Pro FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+    "url_resolved": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+    "favicon": "https://www.profm.ro/static/theme-repo/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "pop,top 40",
+    "votes": 10914
+  },
+  {
+    "stationuuid": "961ae516-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Guerrilla",
+    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+    "url_resolved": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+    "favicon": "http://guerrillaradio.ro/images/logo.png",
+    "country": "Romania",
+    "tags": "classic rock,indie,la unica radio con cojones,rock",
+    "votes": 9793
+  },
+  {
+    "stationuuid": "70d48cfd-eedd-400a-8b7a-881e7015fc3f",
+    "name": "Radio Zu",
+    "url": "http://zuicast.digitalag.ro:9420/zu",
+    "url_resolved": "http://zuicast.digitalag.ro:9420/zu",
+    "favicon": "https://radiozu.ro/favicon-96x96.png",
+    "country": "Romania",
+    "tags": "top 40",
+    "votes": 8311
+  },
+  {
+    "stationuuid": "961acccd-0601-11e8-ae97-52543be04c81",
+    "name": "Virgin Radio România",
+    "url": "http://astreaming.virginradio.ro:8000/virgin_aacp_64k",
+    "url_resolved": "http://astreaming.virginradio.ro:8000/virgin_aacp_64k",
+    "favicon": "https://virginradio.ro/icons/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "contemporary hits,pop,top 40",
+    "votes": 6719
+  },
+  {
+    "stationuuid": "960e6dcb-0601-11e8-ae97-52543be04c81",
+    "name": "Gold FM",
+    "url": "http://80.86.106.110:8002/",
+    "url_resolved": "http://80.86.106.110:8002/",
+    "favicon": "https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png",
+    "country": "Romania",
+    "tags": "oldies",
+    "votes": 6335
+  },
+  {
+    "stationuuid": "e9b4c510-73c5-4f81-a63f-ac916f15c8e3",
+    "name": "Romantic FM",
+    "url": "http://zuicast.digitalag.ro:9420/romanticfm",
+    "url_resolved": "http://zuicast.digitalag.ro:9420/romanticfm",
+    "favicon": "https://romanticfm.ro/img/favicon.png",
+    "country": "Romania",
+    "tags": "goldies,oldies,romantic",
+    "votes": 4972
+  },
+  {
+    "stationuuid": "e18ee1f1-7050-45e2-97bd-a5bd85ebb6f8",
+    "name": "Radio Tequila Dance Romania",
+    "url": "http://dance.radiotequila.ro:7000/;stream.nsv",
+    "url_resolved": "http://dance.radiotequila.ro:7000/;stream.nsv",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/0/87390.v8.png",
+    "country": "Romania",
+    "tags": "pop",
+    "votes": 4516
+  },
+  {
+    "stationuuid": "960e8eb0-0601-11e8-ae97-52543be04c81",
+    "name": "Antena Satelor",
+    "url": "http://89.238.227.6:8042/",
+    "url_resolved": "http://89.238.227.6:8042/",
+    "favicon": "https://www.antenasatelor.ro/templates/favicon/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "information,muzica,viata satului",
+    "votes": 4300
+  },
+  {
+    "stationuuid": "91f5bcf5-896b-46ca-afae-7c767b7ce0e2",
+    "name": "Smart FM",
+    "url": "http://live.smartradio.ro:9128/live",
+    "url_resolved": "http://live.smartradio.ro:9128/live",
+    "favicon": "https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png",
+    "country": "Romania",
+    "tags": "oldies",
+    "votes": 3794
+  },
+  {
+    "stationuuid": "3340862a-169e-4dd8-bc81-fa75c20d2e81",
+    "name": "Radio 1 Manele",
+    "url": "http://radio1manele.no-ip.org:8000/;",
+    "url_resolved": "http://radio1manele.no-ip.org:8000/;",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/5/65075.v6.png",
+    "country": "Romania",
+    "tags": "manele,manele și petrecere,muzică de petrecere",
+    "votes": 3205
+  },
+  {
+    "stationuuid": "6995bf61-f197-4b0e-9b07-60b612df3a46",
+    "name": "Radio Pro Manele",
+    "url": "http://radiopromanele.zapto.org:8000/;",
+    "url_resolved": "http://radiopromanele.zapto.org:8000/;",
+    "favicon": "http://www.radiopromanele.com/assets/images/logo.png",
+    "country": "Romania",
+    "tags": "manele,manele si petrecere,manele și petrecere,petrecere și manele",
+    "votes": 2984
+  },
+  {
+    "stationuuid": "0c7f9b48-f144-413c-a223-4758100d3e19",
+    "name": "One FM Dance",
+    "url": "https://live.onefm.ro/onefm.aacp",
+    "url_resolved": "https://live.onefm.ro/onefm.aacp",
+    "favicon": "https://www.onefm.ro/img/onefm-logo.png",
+    "country": "Romania",
+    "tags": "",
+    "votes": 2362
+  },
+  {
+    "stationuuid": "73ee836b-e9f2-4758-9cd6-2886da6db476",
+    "name": "Digi24FM",
+    "url": "https://edge76.rcs-rds.ro/digifm/digi24fm.mp3",
+    "url_resolved": "https://edge76.rcs-rds.ro/digifm/digi24fm.mp3",
+    "favicon": "https://www.digi24.ro/static/theme-repo/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "",
+    "votes": 2242
+  },
+  {
+    "stationuuid": "9615bc71-0601-11e8-ae97-52543be04c81",
+    "name": "Focus FM",
+    "url": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
+    "url_resolved": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
+    "favicon": "http://www.focusfm.ro/wp-content/uploads/2017/01/focus_fm_sigla_decembrie_2016.png",
+    "country": "Romania",
+    "tags": "regional",
+    "votes": 2232
+  },
+  {
+    "stationuuid": "fbf65b83-6883-4b09-8f8b-5205cdbd509d",
+    "name": "Realitatea FM",
+    "url": "https://shout.realitatea.net:8001/rfmweb",
+    "url_resolved": "https://shout.realitatea.net:8001/rfmweb",
+    "favicon": "https://radiorfm.ro/wp-content/uploads/2026/07/favicon.png",
+    "country": "Romania",
+    "tags": "news,talk",
+    "votes": 2200
+  },
+  {
+    "stationuuid": "96194ab6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio România Iași",
+    "url": "http://89.238.227.6:8202/listen.pls",
+    "url_resolved": "http://89.238.227.6:8202/",
+    "favicon": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/favicons/favicon-180.png",
+    "country": "Romania",
+    "tags": "local programming,news talk music",
+    "votes": 1818
+  },
+  {
+    "stationuuid": "f90ef2e5-4681-493a-bfa0-15627e3fb248",
+    "name": "Radio Cafe Romania",
+    "url": "http://live.radiocafe.ro:8048/live.aac",
+    "url_resolved": "http://live.radiocafe.ro:8048/live.aac",
+    "favicon": "https://radiocafe.ro/wp-content/uploads/2018/12/logo-fara-90fm-resize-e1546368131330.png",
+    "country": "Romania",
+    "tags": "muzica de poveste",
+    "votes": 1616
+  },
+  {
+    "stationuuid": "960e6f4f-0601-11e8-ae97-52543be04c81",
+    "name": "DeeaRadio",
+    "url": "http://live.radiodeea.ro:8090/listen.pls",
+    "url_resolved": "http://radiocdn.nxthost.com/radio-deea",
+    "favicon": "https://i0.wp.com/radiodeea.ro/wp-content/uploads/2017/07/cropped-fav2.jpg?fit=180%2c180&#038;ssl=1",
+    "country": "Romania",
+    "tags": "electro",
+    "votes": 1338
+  },
+  {
+    "stationuuid": "ecc988d8-94ff-11e8-a767-52543be04c81",
+    "name": "Dark Edge Radio",
+    "url": "http://stream.darkedge.ro:8000/",
+    "url_resolved": "http://stream.darkedge.ro:8000/",
+    "favicon": "https://darkedge.ro/images/dark-edge-radio-og.jpg",
+    "country": "Romania",
+    "tags": "",
+    "votes": 1201
+  },
+  {
+    "stationuuid": "52fec34e-b4fa-4a5a-96cf-e17ffa9bd76d",
+    "name": "Play Radio 91.6",
+    "url": "http://live.playradio.org:9090/FMHD",
+    "url_resolved": "http://live.playradio.org:9090/FMHD",
+    "favicon": "https://www.playradio.ro/wp-content/uploads/2023/02/Logo-PNG.png",
+    "country": "Romania",
+    "tags": "80s,90s,adult contemporary,dance,hot ac,news,pop,talks",
+    "votes": 1071
+  },
+  {
+    "stationuuid": "3c98d6c2-f370-4171-920a-883d938cb3f3",
+    "name": "Radio Oldies Romania",
+    "url": "http://listen.radiooldies.ro:9200/;",
+    "url_resolved": "http://listen.radiooldies.ro:9200/;",
+    "favicon": "https://www.radiooldies.ro/wp-content/uploads/2018/02/radiooldies-logo.png",
+    "country": "Romania",
+    "tags": "80's,80s,90's,90s,oldies",
+    "votes": 1064
+  },
+  {
+    "stationuuid": "00d1815f-8752-472b-8e1f-805431e96952",
+    "name": "Radio Impuls",
+    "url": "https://live.radio-impuls.ro/stream",
+    "url_resolved": "https://live.radio-impuls.ro/stream",
+    "favicon": "https://cdn.knd.ro/media/521/2942/static/favicons/apple-icon-180x180.png",
+    "country": "Romania",
+    "tags": "top40",
+    "votes": 757
+  },
+  {
+    "stationuuid": "5e7667bc-98db-4772-be99-cf6e2e10d73f",
+    "name": "Magic FM",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "url_resolved": "https://live.magicfm.ro/magicfm.aacp",
+    "favicon": "https://www.magicfm.ro/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "",
+    "votes": 746
+  },
+  {
+    "stationuuid": "140c9452-873f-4449-8d30-69ccd5a06943",
+    "name": "Rádió KoKo",
+    "url": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
+    "url_resolved": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
+    "favicon": "https://radiokokoms.ro/images/radiokoko-logo.png",
+    "country": "Romania",
+    "tags": "adult contemporary,classic hits,contemporary hits radio,pop music,pop rock",
+    "votes": 702
+  },
+  {
+    "stationuuid": "c49c0d0c-f611-41d6-b66d-6b5c9fdd7cc4",
+    "name": "Național FM",
+    "url": "http://live2.nationalfm.ro:8001/;",
+    "url_resolved": "http://live2.nationalfm.ro:8001/;",
+    "favicon": "https://www.nationalfm.ro/assets/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "romanian,romanian folk,romanian pop,talk",
+    "votes": 540
+  },
+  {
+    "stationuuid": "ceddaaf9-e322-4ceb-a3e9-d2025f9f9747",
+    "name": "itsy bitsy",
+    "url": "http://live.itsybitsy.ro:8000/itsybitsy",
+    "url_resolved": "http://live.itsybitsy.ro:8000/itsybitsy",
+    "favicon": "http://itsybitsy.ro/favicon.ico",
+    "country": "Romania",
+    "tags": "kids",
+    "votes": 442
+  },
+  {
+    "stationuuid": "db61d84c-620c-4e56-b262-cbbe0909c828",
+    "name": "EBS | Movie Soundtracks",
+    "url": "https://azura.ebsmedia.ro/listen/movies/movies128.mp3",
+    "url_resolved": "https://azura.ebsmedia.ro/listen/movies/movies128.mp3",
+    "favicon": "https://ebsradio.ro/stream/img/stream-movies-soundtrack.png",
+    "country": "Romania",
+    "tags": "movie scores,movie soundtracks,soundtracks",
+    "votes": 441
+  },
+  {
+    "stationuuid": "961d665b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio România Cluj",
+    "url": "http://89.238.227.6:8384/",
+    "url_resolved": "http://89.238.227.6:8384/",
+    "favicon": "https://www.radiocluj.ro/wp-content/themes/radiocluj/images/favicons/favicon-96x96.png",
+    "country": "Romania",
+    "tags": "romania",
+    "votes": 432
+  },
+  {
+    "stationuuid": "28130233-a8e1-4195-8c6e-a22ab41f576a",
+    "name": "Radio România Brașov",
+    "url": "http://stream2.srr.ro:8210/;",
+    "url_resolved": "http://stream2.srr.ro:8210/;",
+    "favicon": "https://www.radiobrasovfm.ro/templates/favicon/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "local news,music,talk",
+    "votes": 357
+  },
+  {
+    "stationuuid": "df0eedb3-6a8a-4077-93a0-b775aa72a7a8",
+    "name": "Radio Deep",
+    "url": "http://live.radiodeep.ro:7500/;",
+    "url_resolved": "http://live.radiodeep.ro:7500/;",
+    "favicon": "https://www.radiodeep.ro/wp-content/uploads/2015/08/logoRed.png",
+    "country": "Romania",
+    "tags": "deep,deep house,house",
+    "votes": 325
+  },
+  {
+    "stationuuid": "3e7745c9-ab52-4737-bce3-4f44198174bf",
+    "name": "Space Fm Dance",
+    "url": "https://spacefm.live/radio/8000/spacefm128",
+    "url_resolved": "https://spacefm.live/radio/8000/spacefm128",
+    "favicon": "https://spacefm.ro/wp-content/uploads/2022/04/Logo-alb.png",
+    "country": "Romania",
+    "tags": "dance,dj,edm,electronic,house",
+    "votes": 298
+  },
+  {
+    "stationuuid": "24139e55-a9d3-4c97-9516-1589a73ab29a",
+    "name": "radio SOMEȘ",
+    "url": "http://radio.mediacp.eu/stream/radiosomes",
+    "url_resolved": "http://radio.mediacp.eu/stream/radiosomes",
+    "favicon": "https://radiosomes.ro/favicon.ico",
+    "country": "Romania",
+    "tags": "populară",
+    "votes": 279
+  },
+  {
+    "stationuuid": "340f1262-9415-4147-927b-4c15d599d88b",
+    "name": "Radio Hot Style",
+    "url": "http://mp3.radiohot.ro:8000/stream",
+    "url_resolved": "http://mp3.radiohot.ro:8000/stream",
+    "favicon": "https://www.radiohot.ro/wp-content/uploads/2022/04/cropped-cropped-cropped-RadioHot250.jpg",
+    "country": "Romania",
+    "tags": "dance,dance pop,pop,pop music,romanian pop",
+    "votes": 232
+  },
+  {
+    "stationuuid": "fab8979f-a08c-11e9-a787-52543be04c81",
+    "name": "Radio Nebunya",
+    "url": "http://asculta.radionebunya.ro:7575/",
+    "url_resolved": "http://asculta.radionebunya.ro:7575/",
+    "favicon": "https://radionebunya.ro/wp-content/uploads/2024/04/cropped-favicon-180x180.gif",
+    "country": "Romania",
+    "tags": "",
+    "votes": 209
+  },
+  {
+    "stationuuid": "a84c4b0c-f039-4f2a-a381-018522632c96",
+    "name": "Radio Party București ",
+    "url": "http://asculta.radiopartybucuresti.ro:8050/;",
+    "url_resolved": "http://asculta.radiopartybucuresti.ro:8050/;",
+    "favicon": "http://radiopartybucuresti.ro/wp-content/uploads/2019/04/logoborder.png",
+    "country": "Romania",
+    "tags": "manele,manele si petrecere,manele și petrecere,petrecere și manele",
+    "votes": 207
+  },
+  {
+    "stationuuid": "205bee2a-b678-43e2-9c55-a47e78c9be48",
+    "name": "Play Urban",
+    "url": "http://live.playradio.org:9090/UrbanHD",
+    "url_resolved": "http://live.playradio.org:9090/UrbanHD",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/3/103533.v6.png",
+    "country": "Romania",
+    "tags": "explicit,hip hop,hip hop romanian,hip-hop,hiphop,rap,rap hiphop rnb,trap",
+    "votes": 201
+  },
+  {
+    "stationuuid": "960c3e01-0601-11e8-ae97-52543be04c81",
+    "name": "Vox FM",
+    "url": "http://stream.voxfm.ro:8000/listen.pls",
+    "url_resolved": "http://stream.voxfm.ro:8000/stream/1",
+    "favicon": "http://www.voxfm.ro/wp-content/themes/vox/dist/images/voxlogo.png",
+    "country": "Romania",
+    "tags": "pop",
+    "votes": 196
+  },
+  {
+    "stationuuid": "830086b4-8d1a-44b9-8610-792225db7f36",
+    "name": "Plusz FM",
+    "url": "https://stream2.radiotransilvania.ro/Nagyvarad",
+    "url_resolved": "https://stream2.radiotransilvania.ro/Nagyvarad",
+    "favicon": "https://pluszfm.ro/images/plusz/touch-icon.png",
+    "country": "Romania",
+    "tags": "local news,top hits",
+    "votes": 182
+  },
+  {
+    "stationuuid": "964c313e-0601-11e8-ae97-52543be04c81",
+    "name": "Kolozsvári Rádió",
+    "url": "http://89.238.227.6:8386/listen.pls",
+    "url_resolved": "http://89.238.227.6:8386/",
+    "favicon": "http://kolozsvariradio.ro/favicon.ico",
+    "country": "Romania",
+    "tags": "",
+    "votes": 179
+  },
+  {
+    "stationuuid": "83a18260-6d4f-4859-b7a0-30b41d0dc9e1",
+    "name": "Rock FM",
+    "url": "https://live.rockfm.ro/rockfm.aacp",
+    "url_resolved": "https://live.rockfm.ro/rockfm.aacp",
+    "favicon": "https://www.rockfm.ro/apple-touch-icon.png",
+    "country": "Romania",
+    "tags": "",
+    "votes": 173
+  },
+  {
+    "stationuuid": "213c4d3a-8b38-404b-81de-5b5f1e726a25",
+    "name": "Radio Folclor",
+    "url": "https://ssl.omegahost.ro/8092/stream",
+    "url_resolved": "https://ssl.omegahost.ro/8092/stream",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s152191g.png",
+    "country": "Romania",
+    "tags": "folclor,folk,muzică de petrecere,muzică populară,muzică românească,petrecere,populară,romanian,romanian music",
+    "votes": 169
+  },
+  {
+    "stationuuid": "6aa20383-4ee2-4e28-a42b-b20ecb6f7a0b",
+    "name": "FUN Radio",
+    "url": "http://online.webcastradio.ro/fun",
+    "url_resolved": "http://online.webcastradio.ro/fun",
+    "favicon": "http://funradio.ro/favicon.png",
+    "country": "Romania",
+    "tags": "2000s,90s,classic hits,classic hits 60s 70a 80s,oldies",
+    "votes": 153
+  },
+  {
+    "stationuuid": "99d3bb67-04ef-44c3-a2a3-998122746e45",
+    "name": "Radio Noise",
+    "url": "http://live.radionoise.ro:9100/;",
+    "url_resolved": "http://live.radionoise.ro:9100/;",
+    "favicon": "https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png",
+    "country": "Romania",
+    "tags": "dance,dj",
+    "votes": 130
   }
 ]

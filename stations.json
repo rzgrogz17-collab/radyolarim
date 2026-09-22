@@ -1144,8 +1144,8 @@
     "name": "AvtoRadio (Авторадио)",
     "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
     "url_resolved": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/main/Avtoradio.png",
-    "country": "Russian Federation",
+    "favicon": "https://images.seeklogo.com/logo-png/27/1/avto-radio-logo-png_seeklogo-271348.png",
+    "country": "",
     "tags": "pop,rock,80s,90s,russian,retro,dance",
     "votes": 0
   },
@@ -1155,7 +1155,7 @@
     "url": "https://stream.bigfm.de/russia/aac-64",
     "url_resolved": "https://stream.bigfm.de/russia/aac-64",
     "favicon": "https://www.radio.net/175/bigfmmuzyka.jpeg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "Russian Music,Dance,Pop",
     "votes": 0
   },
@@ -1165,17 +1165,17 @@
     "url": "https://a8.radioheart.ru:9003/sk-radio",
     "url_resolved": "https://a8.radioheart.ru:9003/sk-radio",
     "favicon": "https://pbs.twimg.com/profile_images/2018973010691002368/LZEexcx9_400x400.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "блюз,рок",
     "votes": 0
   },
   {
     "stationuuid": "c0f9deef-0892-5c26-80f0-7ed49e670480",
     "name": "101.ru Russia Top 50",
-    "url": "https://pub0301.101.ru:8443/stream/pro/aac/64/34",
-    "url_resolved": "https://pub0301.101.ru:8443/stream/pro/aac/64/34",
-    "favicon": "https://www.radio.net/100/101rurussiatop50.png",
-    "country": "Russian Federation",
+    "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/34",
+    "url_resolved": "https://srv01.gpmradio.ru/stream/pro/aac/64/34",
+    "favicon": "https://www.radio.net/175/101rueurohits.png",
+    "country": "",
     "tags": "Russian Music",
     "votes": 0
   },
@@ -1185,7 +1185,7 @@
     "url": "https://djin.amgradio.ru/djin.aacp",
     "url_resolved": "https://djin.amgradio.ru/djin.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/djin-fm.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "dj,club,hits",
     "votes": 0
   },
@@ -1195,7 +1195,7 @@
     "url": "https://rusongs.amgradio.ru/rusongs?radio_net=",
     "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net=",
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "Russian Music,Pop",
     "votes": 0
   },
@@ -1205,7 +1205,7 @@
     "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "47,music,nostalgie,region 47,vyborg",
     "votes": 0
   },
@@ -1215,7 +1215,7 @@
     "url": "https://stream.popfm-bir.ru:1085/stream",
     "url_resolved": "https://stream.popfm-bir.ru:1085/stream",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFMRU.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "Russian Music,Pop",
     "votes": 0
   },
@@ -1225,7 +1225,7 @@
     "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "favicon": "https://www.radio.net/175/russkoe.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "Russian Music",
     "votes": 0
   },
@@ -1235,7 +1235,7 @@
     "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
     "url_resolved": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
     "favicon": "https://www.radio.net/175/retrofmrussland.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "Oldies",
     "votes": 0
   },
@@ -1245,7 +1245,7 @@
     "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
     "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
     "favicon": "https://www.radio.net/175/retrofmrussland.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "News",
     "votes": 0
   },
@@ -1255,7 +1255,7 @@
     "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
     "url_resolved": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
     "favicon": "https://www.radio.net/175/retrofmrussland.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "",
     "votes": 0
   },
@@ -1265,7 +1265,7 @@
     "url": "http://listen.radiopassazh.ru/aac-48",
     "url_resolved": "http://listen.radiopassazh.ru/aac-48",
     "favicon": "https://top-radio.ru/assets/image/radio/100/passaj.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "french,hits,pop,russian,spanish,top40,world music",
     "votes": 0
   },
@@ -1275,7 +1275,7 @@
     "url": "http://79.120.77.11:8002/guitarjazz",
     "url_resolved": "http://79.120.77.11:8002/guitarjazz",
     "favicon": "https://www.radio.net/175/capriceinstrumental.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "guitar jazz,jazz",
     "votes": 0
   },
@@ -1285,7 +1285,7 @@
     "url": "https://listen6.myradio24.com/angels_low.aac",
     "url_resolved": "https://listen6.myradio24.com/angels_low.aac",
     "favicon": "https://top-radio.ru/assets/image/radio/180/angels-radio.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "",
     "votes": 0
   },
@@ -1295,7 +1295,7 @@
     "url": "http://jfm1.hostingradio.ru:14536/rock00.mp3",
     "url_resolved": "http://jfm1.hostingradio.ru:14536/rock00.mp3",
     "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "rock",
     "votes": 0
   },
@@ -1305,7 +1305,7 @@
     "url": "https://revolutionradio.ru:8443/live.mp3",
     "url_resolved": "https://revolutionradio.ru:8443/live.mp3",
     "favicon": "https://radio-onliner.ru/assets/images/radio/revolution-radio.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "клубная,электронная музыка",
     "votes": 0
   },
@@ -1315,7 +1315,7 @@
     "url": "http://91.202.68.50:8000/;stream.mp3",
     "url_resolved": "http://91.202.68.50:8000/;stream.mp3",
     "favicon": "https://top-radio.ru/assets/image/radio/180/54.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "pop-music",
     "votes": 0
   },
@@ -1324,8 +1324,8 @@
     "name": "DFM - Club",
     "url": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
     "url_resolved": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
-    "favicon": "https://www.radio.net/175/dfmclub.png",
-    "country": "Russian Federation",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMCR.jpg",
+    "country": "",
     "tags": "club,dance,dancefloor,house",
     "votes": 0
   },
@@ -6725,7 +6725,7 @@
     "url": "https://pub0201.101.ru/stream/trust/mp3/128/24",
     "url_resolved": "https://pub0201.101.ru/stream/trust/mp3/128/24",
     "favicon": "https://www.radiobells.com/stations/relaxfmchillout.webp",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "chill,chillout,chillout+lounge",
     "votes": 142
   },
@@ -6735,7 +6735,7 @@
     "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "url_resolved": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "favicon": "http://liveam.tv/img/2494.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "dance,house,pop",
     "votes": 99
   },
@@ -6745,7 +6745,7 @@
     "url": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
     "url_resolved": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
     "favicon": "https://www.radio.net/175/dfmchillout.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "Chillout",
     "votes": 100
   },
@@ -6755,7 +6755,7 @@
     "url": "https://stream1.radiord.ru:8000/live128.mp3",
     "url_resolved": "https://stream1.radiord.ru:8000/live128.mp3",
     "favicon": "https://top-radio.ru/assets/image/radio/180/Rodnyix-doroG.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "dance,house,pop",
     "votes": 599
   },
@@ -6764,8 +6764,8 @@
     "name": "DFM Russian Dance",
     "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
     "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-    "favicon": "https://www.radio.net/175/dfmrussiandance.png",
-    "country": "Russian Federation",
+    "favicon": "https://www.radio.net/300/dfmrussiandance.png",
+    "country": "",
     "tags": "Electro",
     "votes": 101
   },
@@ -6775,7 +6775,7 @@
     "url": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
     "url_resolved": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "dance,house,pop",
     "votes": 7
   },
@@ -6784,8 +6784,8 @@
     "name": "РАДИО ВАНЯ",
     "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
     "url_resolved": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-vanya.png",
-    "country": "Russian Federation",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RBH.png",
+    "country": "",
     "tags": "pop",
     "votes": 95
   },
@@ -6795,7 +6795,7 @@
     "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
     "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
     "favicon": "https://cdn.smotrim.ru/photobank/prod/large/901/590/7.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "politics,world news",
     "votes": 70
   },
@@ -6805,7 +6805,7 @@
     "url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
     "url_resolved": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
     "favicon": "https://radiogenerator.ru/upload/iblock/3a9/komsomolskaya_pravda_moskva.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "moscow,music,news,russia,talk",
     "votes": 65
   },
@@ -6815,7 +6815,7 @@
     "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274=",
     "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274=",
     "favicon": "https://www.radio.net/175/dfmrussiandance.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "dance",
     "votes": 63
   },
@@ -6824,8 +6824,8 @@
     "name": "Шансон Радио",
     "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/shanson.png",
-    "country": "Russian Federation",
+    "favicon": "https://moscow.rekradio.ru/thumb/2/kFCS4kwoI9SIiqCO1XJvHw/r/d/reklama-na-radio-shanson.jpg",
+    "country": "",
     "tags": "chanson",
     "votes": 58
   },
@@ -6834,8 +6834,8 @@
     "name": "Радио Маяк (Radio Mayak)",
     "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
     "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radiomayak.png",
-    "country": "Russian Federation",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MARKFM.jpg",
+    "country": "",
     "tags": "music,news,talk",
     "votes": 55
   },
@@ -6845,7 +6845,7 @@
     "url": "https://icecast-rian.cdnvideo.ru/voicerus",
     "url_resolved": "https://icecast-rian.cdnvideo.ru/voicerus",
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio-sputnik.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "news,talk",
     "votes": 50
   },
@@ -6855,7 +6855,7 @@
     "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/144",
     "url_resolved": "http://pub0302.101.ru:8000/stream/pro/aac/64/144",
     "favicon": "https://m.the-radio.ru/ava/2024/07/780_the_radio_ru_b80f58.webp",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "80s,90s,russian",
     "votes": 45
   },
@@ -6865,7 +6865,7 @@
     "url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
     "url_resolved": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/diskach-90s-dfm.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "90-е,eurodance,nostalgia",
     "votes": 43
   },
@@ -6875,7 +6875,7 @@
     "url": "http://listen.rusongs.ru/ru-mp3-128",
     "url_resolved": "http://listen.rusongs.ru/ru-mp3-128",
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "russian pop",
     "votes": 40
   },
@@ -6885,7 +6885,7 @@
     "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "news,politics,talk",
     "votes": 38
   },
@@ -6895,7 +6895,7 @@
     "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
     "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
     "favicon": "https://radiopotok.ru/f/station_webp/512/644.webp",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "news,talk",
     "votes": 37
   },
@@ -6904,8 +6904,8 @@
     "name": "Дорожное радио",
     "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/dorojnoe.png",
-    "country": "Russian Federation",
+    "favicon": "https://www.radiobells.com/stations/dorognoe.webp",
+    "country": "",
     "tags": "dorojnoe",
     "votes": 37
   },
@@ -6915,7 +6915,7 @@
     "url": "http://bookradio.hostingradio.ru:8069/fm",
     "url_resolved": "http://bookradio.hostingradio.ru:8069/fm",
     "favicon": "https://top-radio.ru/assets/image/radio/180/kniga.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "audiobooks,literature,talk,аудиокниги,литература",
     "votes": 37
   },
@@ -6925,7 +6925,7 @@
     "url": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
     "url_resolved": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
     "favicon": "https://top-radio.ru/assets/image/radio/180/novoe-v2.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "",
     "votes": 38
   },
@@ -6935,7 +6935,7 @@
     "url": "https://abs.zaycev.fm/rus256k",
     "url_resolved": "https://abs.zaycev.fm/rus256k",
     "favicon": "https://top-radio.ru/assets/image/radio/180/zaycevrus.jpg",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "",
     "votes": 39
   },
@@ -6945,7 +6945,7 @@
     "url": "https://msk13.radio-holding.ru/marusya_default",
     "url_resolved": "https://msk13.radio-holding.ru/marusya_default",
     "favicon": "https://top-radio.ru/assets/image/radio/180/marusyafm.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "",
     "votes": 40
   },
@@ -6955,7 +6955,7 @@
     "url": "https://ru1.amgradio.ru/ruwave.aacp",
     "url_resolved": "https://ru1.amgradio.ru/ruwave.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/russkaya-volna.png",
-    "country": "Russian Federation",
+    "country": "",
     "tags": "",
     "votes": 41
   },

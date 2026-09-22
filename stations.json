@@ -7114,7 +7114,7 @@
     "name": "MAGIC FM",
     "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
     "url_resolved": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
-    "favicon": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/Magic-FM-Bulgaria.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MFM.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 1289
@@ -7214,7 +7214,7 @@
     "name": "Radio Horo",
     "url": "http://g5.turbohost.eu:8020/stream256",
     "url_resolved": "http://g5.turbohost.eu:8020/stream256",
-    "favicon": "http://www.radiohoro.com/images/logo.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RHRFM.jpg",
     "country": "Bulgaria",
     "tags": "folk",
     "votes": 418
@@ -7434,7 +7434,7 @@
     "name": "FolkBG",
     "url": "http://listen.folkbg.net:8002/folkbg.m3u?_gl=1*1x9ezt*_ga*Nzk5NDExODU4LjE3ODI1NzgyNzQ.*_ga_XVGBK9GZH5*czE3ODI1NzgyNzMkbzEkZzEkdDE3ODI1NzgzMDUkajI4JGwwJGgw",
     "url_resolved": "http://listen.folkbg.net:8002/folkbg",
-    "favicon": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/FfQyGZhnq4.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 5
@@ -7474,7 +7474,7 @@
     "name": "Kiss Lounge Radio",
     "url": "https://nova-radio.neterra.tv/kiss",
     "url_resolved": "https://nova-radio.neterra.tv/kiss",
-    "favicon": "https://play.nova.bg/_next/image?url=https%3A%2F%2Fnbg-img.fite.tv%2Fimg%2F611102_460x260.jpg&w=1080&q=85",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KLR.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 1
@@ -7624,7 +7624,7 @@
     "name": "Radio Tequila Dance Romania",
     "url": "http://dance.radiotequila.ro:7000/;stream.nsv",
     "url_resolved": "http://dance.radiotequila.ro:7000/;stream.nsv",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/0/87390.v8.png",
+    "favicon": "https://www.radio.it/175/radiotequilaro.png",
     "country": "Romania",
     "tags": "pop",
     "votes": 4516
@@ -7654,7 +7654,7 @@
     "name": "Radio 1 Manele",
     "url": "http://radio1manele.no-ip.org:8000/;",
     "url_resolved": "http://radio1manele.no-ip.org:8000/;",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/5/65075.v6.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/709/radio-1-manele.190143ff.jpg",
     "country": "Romania",
     "tags": "manele,manele și petrecere,muzică de petrecere",
     "votes": 3205
@@ -7814,7 +7814,7 @@
     "name": "itsy bitsy",
     "url": "http://live.itsybitsy.ro:8000/itsybitsy",
     "url_resolved": "http://live.itsybitsy.ro:8000/itsybitsy",
-    "favicon": "http://itsybitsy.ro/favicon.ico",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/ZypK2q9qmB.png",
     "country": "Romania",
     "tags": "kids",
     "votes": 442
@@ -7864,7 +7864,7 @@
     "name": "Space Fm Dance",
     "url": "https://spacefm.live/radio/8000/spacefm128",
     "url_resolved": "https://spacefm.live/radio/8000/spacefm128",
-    "favicon": "https://spacefm.ro/wp-content/uploads/2022/04/Logo-alb.png",
+    "favicon": "https://app.radio.com.ro/images/59768_radio.webp",
     "country": "Romania",
     "tags": "dance,dj,edm,electronic,house",
     "votes": 298
@@ -7894,7 +7894,7 @@
     "name": "Radio Nebunya",
     "url": "http://asculta.radionebunya.ro:7575/",
     "url_resolved": "http://asculta.radionebunya.ro:7575/",
-    "favicon": "https://radionebunya.ro/wp-content/uploads/2024/04/cropped-favicon-180x180.gif",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNFM.jpg",
     "country": "Romania",
     "tags": "",
     "votes": 209
@@ -7914,7 +7914,7 @@
     "name": "Play Urban",
     "url": "http://live.playradio.org:9090/UrbanHD",
     "url_resolved": "http://live.playradio.org:9090/UrbanHD",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/3/103533.v6.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/z4KqyTeAQa.png",
     "country": "Romania",
     "tags": "explicit,hip hop,hip hop romanian,hip-hop,hiphop,rap,rap hiphop rnb,trap",
     "votes": 201
@@ -7961,12 +7961,12 @@
   },
   {
     "stationuuid": "213c4d3a-8b38-404b-81de-5b5f1e726a25",
-    "name": "Radio Folclor",
-    "url": "https://ssl.omegahost.ro/8092/stream",
-    "url_resolved": "https://ssl.omegahost.ro/8092/stream",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s152191g.png",
+    "name": "Radio ZUM",
+    "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+    "url_resolved": "https://streams.radiozum.md/listen/zum1/ZUM1",
+    "favicon": "https://www.radio.net/175/radiozum.jpeg",
     "country": "Romania",
-    "tags": "folclor,folk,muzică de petrecere,muzică populară,muzică românească,petrecere,populară,romanian,romanian music",
+    "tags": "romanian,music",
     "votes": 169
   },
   {

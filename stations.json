@@ -1224,7 +1224,17 @@
     "name": "Radio Chanson",
     "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "favicon": "https://www.radio.net/175/russkoe.png",
+    "favicon": "https://radiopotok.ru/f/station_webp/512/2.webp",
+    "country": "Russia",
+    "tags": "Russian Music",
+    "votes": 0
+  },
+    {
+    "stationuuid": "c2a7b8c4-1004-4234-8abc-100000003445",
+    "name": "Радио ГУСЬ.Транс",
+    "url": "https://stream5.radiogoose.ru/listen/trance/play",
+    "url_resolved": "https://stream5.radiogoose.ru/listen/trance/play",
+    "favicon": "https://o-radio.ru/media/images/stations/midtempo.png",
     "country": "Russia",
     "tags": "Russian Music",
     "votes": 0
@@ -1244,7 +1254,7 @@
     "name": "Vesti FM Вести.RU",
     "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
     "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-    "favicon": "https://www.radio.net/175/retrofmrussland.png",
+    "favicon": "https://www.radio.net/300/vestifm.png",
     "country": "Russia",
     "tags": "News",
     "votes": 0

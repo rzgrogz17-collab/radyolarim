@@ -80,7 +80,7 @@
     "votes": 0
   },
     {
-    "stationuuid": "1b18ec67-9641-4c02-92b4-cfc9f3dd85d8",
+    "stationuuid": "2b119ec78-9752-5c02-93b5-cfc9f4dd96d9",
     "name": "Yeni Pop",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
@@ -6934,7 +6934,7 @@
     "name": "Power R&B Hip-Hop",
     "url": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
     "url_resolved": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
-    "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
+    "favicon": "https://cdn.powergroup.com.tr/powerfm/u/wysiwyg/2018/10/05/rb.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 59
@@ -6944,7 +6944,7 @@
     "name": "Show Radyo",
     "url": "http://showradyo.radyotvonline.net/showradyoaac/",
     "url_resolved": "http://showradyo.radyotvonline.net/showradyoaac/",
-    "favicon": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SHWRDY.png",
     "country": "Turkey",
     "tags": "",
     "votes": 40

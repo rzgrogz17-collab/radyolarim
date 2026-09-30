@@ -5214,7 +5214,7 @@
     "name": "2GB Sydney",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3",
     "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3",
-    "favicon": "https://www.2gb.com/wp-content/themes/2gb/assets/img/favicon/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/2GBSYDNYFM.png",
     "country": "Australia",
     "tags": "",
     "votes": 19
@@ -5272,9 +5272,9 @@
   {
     "stationuuid": "96099dca-0601-11e8-ae97-52543be04c81",
     "name": "ABC Classic FM (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3",
-    "favicon": "http://www.abc.net.au/core-assets/classic/favicon-32x32.png",
+    "url": "https://streaming.abc-cdn.net.au/audio/hls/classicnsw.m3u8",
+    "url_resolved": "http://abc.streamguys1.com/live/classicfmnsw/icecast.audio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/nZMWqFYHb8.png",
     "country": "Australia",
     "tags": "abc,classical,public radio",
     "votes": 12

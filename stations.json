@@ -5949,7 +5949,7 @@
     "tags": "classic country",
     "votes": 27
   },
-    {
+  {
     "stationuuid": "108f07c3-21f0-5309-11e8-f46525f0d02d",
     "name": "Radio 2000",
     "url": "https://27863.live.streamtheworld.com/RADIO2000AAC_SC?dist=sabc-web-app&pname=tdwidgets",
@@ -5968,6 +5968,16 @@
     "country": "South Africa",
     "tags": "",
     "votes": 57
+  },
+   {
+    "stationuuid": "123f07c3-17f0-4009-91e8-f12453f0d35d",
+    "name": "Radio 702",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/702/radio-702.267ed6b5.jpg",
+    "country": "South Africa",
+    "tags": "talk,news",
+    "votes": 153
   },
   {
     "stationuuid": "119f07c3-81f0-4309-91e8-f46525f0d35d",

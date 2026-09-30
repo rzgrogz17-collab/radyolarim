@@ -5949,6 +5949,16 @@
     "tags": "classic country",
     "votes": 27
   },
+    {
+    "stationuuid": "108f07c3-21f0-5309-11e8-f46525f0d02d",
+    "name": "Radio 2000",
+    "url": "https://27863.live.streamtheworld.com/RADIO2000AAC_SC?dist=sabc-web-app&pname=tdwidgets",
+    "url_resolved": "https://27863.live.streamtheworld.com/RADIO2000AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/784/radio-2000.9559406c.png",
+    "country": "South Africa",
+    "tags": "sports,talk",
+    "votes": 150
+  },
   {
     "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
     "name": "Radio Sonder Grense",

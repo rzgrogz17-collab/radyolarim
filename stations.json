@@ -1224,7 +1224,7 @@
     "name": "Radio Chanson",
     "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "favicon": "https://radiopotok.ru/f/station_webp/512/2.webp",
+    "favicon": "https://www.radio.fr/175/chansonru.png",
     "country": "Russia",
     "tags": "Russian Music",
     "votes": 0
@@ -5630,6 +5630,26 @@
     "votes": 177
   },
   {
+    "stationuuid": "499b7c2a-7780-22e9-b16b-53543be05c82",
+    "name": "ESKA2 Warszawa",
+    "url": "https://liveradio.timesa.pl/1980-1.aac/playlist.m3u8",
+    "url_resolved": "https://liveradio.timesa.pl/1980-1.aac/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/894/radio-wawa.e24f3457.png",
+    "country": "Poland",
+    "tags": "Pop / Top 40",
+    "votes": 178
+  },
+   {
+    "stationuuid": "500b7c2a-8880-33e9-b17b-64654be05c93",
+    "name": "Polskie Radio Program II (PR2) Dwójka",
+    "url": "http://stream3.polskieradio.pl:8902/;",
+    "url_resolved": "http://stream3.polskieradio.pl:8902/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/259/polskie-radio-program-ii-pr2-dwojka.f001dc78.png",
+    "country": "Poland",
+    "tags": "Klasyczna,Kultura & Edukacja",
+    "votes": 179
+  },
+  {
     "stationuuid": "d377fdb9-9136-47de-a1f4-6b02a1bc7f72",
     "name": "Radio 357",
     "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
@@ -6244,7 +6264,7 @@
     "name": "Musical Decadence",
     "url": "https://stream.musicaldecadence.ru/live",
     "url_resolved": "https://stream.musicaldecadence.ru/live",
-    "favicon": "https://www.musicaldecadence.ru/conf/img/apple-touch-icon.png",
+    "favicon": "https://www.radio.fr/podcast-images/175/musical-decadence-radio.png",
     "country": "Russia",
     "tags": "#electro,#electronic-radio,#house,#techno",
     "votes": 1761
@@ -6434,7 +6454,7 @@
     "name": "Радио Орфей",
     "url": "https://channels.fonotron.ru:8000/Chan_73_256.mp3",
     "url_resolved": "https://channels.fonotron.ru:8000/Chan_73_256.mp3",
-    "favicon": "https://radio.orpheus.ru/apple-touch-icon.png",
+    "favicon": "http://static2.mytuner.mobi/media/tvos_radios/j7W3zxgj3Q.png",
     "country": "Russia",
     "tags": "classical,cultural",
     "votes": 313
@@ -6444,7 +6464,7 @@
     "name": "Старый портфель",
     "url": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
     "url_resolved": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
-    "favicon": "https://radiopotok.ru/apple-touch-icon.png",
+    "favicon": "https://media.pcradio.app/media/logos/180/1005566/logo_Qd4Vb4Fzse.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 275
@@ -6454,7 +6474,7 @@
     "name": "Energy FM",
     "url": "https://srv02.gpmradio.ru:8443/stream/air/aac/64/99",
     "url_resolved": "https://srv02.gpmradio.ru:8443/stream/air/aac/64/99",
-    "favicon": "https://www.energyfm.ru/design/images/site-design/logo/Logo_180x180px.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ENRGYFM.png",
     "country": "Russia",
     "tags": "",
     "votes": 252
@@ -7044,7 +7064,7 @@
     "name": "Radio 1 Rock",
     "url": "http://stream.metacast.eu/radio1rock.ogg",
     "url_resolved": "http://stream.metacast.eu/radio1rock.ogg",
-    "favicon": "https://www.radio1rock.bg/theme_assets/radio1rock/images/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/4gz3JFFrDK.jpg",
     "country": "Bulgaria",
     "tags": "rock",
     "votes": 7203
@@ -7094,7 +7114,7 @@
     "name": "Maya Varna",
     "url": "http://rnmediagroup.com:10000/;",
     "url_resolved": "http://rnmediagroup.com:10000/;",
-    "favicon": "http://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/frgucwuc7usx.png",
     "country": "Bulgaria",
     "tags": "contemporary hits,dance,hits,hot adult contemporary",
     "votes": 3304
@@ -7104,7 +7124,7 @@
     "name": "Tangra Mega Rock",
     "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
     "url_resolved": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
-    "favicon": "https://radiotangra.com/wp-content/themes/hello-elementor-child/tangra_ico.ico",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/xm5vlsccaprq.png",
     "country": "Bulgaria",
     "tags": "hard rock heavy metal",
     "votes": 2099
@@ -7114,7 +7134,7 @@
     "name": "BadRock Hard & Heavy",
     "url": "https://play-radio0.jump.bg:7049/live",
     "url_resolved": "https://play-radio0.jump.bg:7049/live",
-    "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/988/badrock-hard-heavy.0f08b443.png",
     "country": "Bulgaria",
     "tags": "hard rock,hardcore,heavy metal,heavy power metal,heavy rock,metal,power metal,rock",
     "votes": 1708
@@ -7144,7 +7164,7 @@
     "name": "Katra FM",
     "url": "http://www.katrafm.com:8000/live",
     "url_resolved": "http://www.katrafm.com:8000/live",
-    "favicon": "https://katrafm.com/wp-content/uploads/2025/09/cropped-favicon-192x192.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zq9vtmmnth7h.jpg",
     "country": "Bulgaria",
     "tags": "contemporary,hits",
     "votes": 1225
@@ -7154,7 +7174,7 @@
     "name": "The Voice",
     "url": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
     "url_resolved": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
-    "favicon": "https://m.netinfo.bg/thevoice/resources/assets/images/favicon/apple-icon-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/anbjwfjgrbzx.png",
     "country": "Bulgaria",
     "tags": "pop",
     "votes": 1034
@@ -7164,7 +7184,7 @@
     "name": "Radio Vitosha",
     "url": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
     "url_resolved": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
-    "favicon": "https://www.radiovitosha.com/resources/assets/images/favicon/apple-touch-icon.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/NCLZNxN6Xg.jpg",
     "country": "Bulgaria",
     "tags": "pop",
     "votes": 815
@@ -7194,7 +7214,7 @@
     "name": "Radio Dance With Me",
     "url": "http://g5.turbohost.eu:8002/stream128.m3u",
     "url_resolved": "http://g5.turbohost.eu:8002/stream128",
-    "favicon": "http://www.dancewithme-bg.com/images/liveradio/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/uluvue86dn8a.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 602
@@ -7264,7 +7284,7 @@
     "name": "Radio Melody",
     "url": "http://193.108.24.6:8000/melody?file=.mp3",
     "url_resolved": "http://193.108.24.6:8000/melody?file=.mp3",
-    "favicon": "https://radiomelody.bg/i/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/vkb7z4sucpy3.png",
     "country": "Bulgaria",
     "tags": "pop",
     "votes": 240
@@ -7274,7 +7294,7 @@
     "name": "Power FM 91.1",
     "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
     "url_resolved": "http://a1.virtualradio.eu:8000/powerfm.mp3",
-    "favicon": "https://www.powerfm.bg/assets/images/logo12.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/387/power-fm-911.8201f314.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 237
@@ -7284,7 +7304,7 @@
     "name": "Z-Rock radio",
     "url": "http://193.108.24.6:8000/zrock",
     "url_resolved": "http://193.108.24.6:8000/zrock",
-    "favicon": "http://zrockradio.bg/wp-content/uploads/2017/08/zrock_logo.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/RhygvU7xbX.png",
     "country": "Bulgaria",
     "tags": "rock",
     "votes": 153
@@ -7324,7 +7344,7 @@
     "name": "Darik Radio",
     "url": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
     "url_resolved": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
-    "favicon": "https://darikradio.bg/img/logo.new.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/112/darik-radio-darik-radio-bulgaria.a78f117e.png",
     "country": "Bulgaria",
     "tags": "news,politics,sport",
     "votes": 93
@@ -7334,7 +7354,7 @@
     "name": "Radio Ultra Pernik",
     "url": "http://88.80.96.25:8020/;",
     "url_resolved": "http://88.80.96.25:8020/;",
-    "favicon": "http://play.radioultra.bg/wp-content/uploads/2022/05/cropped-radio-ultra-150x150-1-192x192.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zbgjcbrktrke.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 93
@@ -7344,7 +7364,7 @@
     "name": "BadRock Golden Era",
     "url": "https://streams.badrockradio.net/golden-era",
     "url_resolved": "https://streams.badrockradio.net/golden-era",
-    "favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/494/badrock-golden-era.8fa86d4e.jpg",
     "country": "Bulgaria",
     "tags": "classic rock,rock",
     "votes": 80
@@ -7354,7 +7374,7 @@
     "name": "RADIO CITY",
     "url": "http://play.global.audio/city64",
     "url_resolved": "http://play.global.audio/city64",
-    "favicon": "https://www.city.bg/theme_assets/city/images/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/nsHYXWwQUf.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 66
@@ -7374,7 +7394,7 @@
     "name": "Easy Radio",
     "url": "https://live.easyradio.bg/aac?type=.mp3",
     "url_resolved": "https://live.easyradio.bg/aac?type=.mp3",
-    "favicon": "https://easyradio.bg/apple-touch-icon.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/f9jsul5qqm3u.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 61
@@ -7384,7 +7404,7 @@
     "name": "Classic FM",
     "url": "https://cdn.bweb.bg/radio/classic-fm.mp3",
     "url_resolved": "https://cdn.bweb.bg/radio/classic-fm.mp3",
-    "favicon": "https://classicfm.bg/static/bg/microsites/classicfm/img/logo_header.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/GS9rvGzdUd.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 51
@@ -7414,7 +7434,7 @@
     "name": "Bumerang FM",
     "url": "http://185.20.88.1:8010/",
     "url_resolved": "http://185.20.88.1:8010/",
-    "favicon": "https://www.bumerangfm.net/images/logo.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/Fg7hwD2qqn.jpg",
     "country": "Bulgaria",
     "tags": "",
     "votes": 29
@@ -7424,7 +7444,7 @@
     "name": "Radio K2",
     "url": "http://stream.radiok2.bg:8000/rk2",
     "url_resolved": "http://stream.radiok2.bg:8000/rk2",
-    "favicon": "http://www.radiok2.bg/blacklabel2.gif",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/atxuyj2pkzxn.png",
     "country": "Bulgaria",
     "tags": "",
     "votes": 16
@@ -7464,7 +7484,7 @@
     "name": "Glarus Retro FM",
     "url": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
     "url_resolved": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
-    "favicon": "https://glarusretro.com/wp-content/uploads/2026/01/logo-white.webp",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/4cWW4hTQLd.jpg",
     "country": "Bulgaria",
     "tags": "",
     "votes": 4
@@ -7514,7 +7534,7 @@
     "name": "Radio România Actualități",
     "url": "http://89.238.227.6:8006/;",
     "url_resolved": "http://89.238.227.6:8006/;",
-    "favicon": "https://www.romania-actualitati.ro/templates/favicon/apple-touch-icon.png",
+    "favicon": "https://www.Radio deep-actualitati.ro/templates/favicon/apple-touch-icon.png",
     "country": "Romania",
     "tags": "folk,news,pop,talk",
     "votes": 26746
@@ -7714,7 +7734,7 @@
     "name": "Focus FM",
     "url": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
     "url_resolved": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
-    "favicon": "http://www.focusfm.ro/wp-content/uploads/2017/01/focus_fm_sigla_decembrie_2016.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/951/focus-fm.e7175758.png",
     "country": "Romania",
     "tags": "regional",
     "votes": 2232
@@ -7874,7 +7894,7 @@
     "name": "Radio Deep",
     "url": "http://live.radiodeep.ro:7500/;",
     "url_resolved": "http://live.radiodeep.ro:7500/;",
-    "favicon": "https://www.radiodeep.ro/wp-content/uploads/2015/08/logoRed.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDR.jpg",
     "country": "Romania",
     "tags": "deep,deep house,house",
     "votes": 325
@@ -8004,7 +8024,7 @@
     "name": "Radio Noise",
     "url": "http://live.radionoise.ro:9100/;",
     "url_resolved": "http://live.radionoise.ro:9100/;",
-    "favicon": "https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/nfju74ywzucb.jpg",
     "country": "Romania",
     "tags": "dance,dj",
     "votes": 130

@@ -3522,9 +3522,9 @@
   {
     "stationuuid": "2dffb353-5341-4438-b67b-83de8c3efbab",
     "name": "RFM",
-    "url": "http://stream.rfm.fr/rfm.mp3",
-    "url_resolved": "http://stream.rfm.fr/rfm.mp3",
-    "favicon": "http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png",
+    "url": "https://rfm.lmn.fm/rfm.mp3",
+    "url_resolved": "https://rfm.lmn.fm/rfm.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/802/rfm-radio.d7a93827.png",
     "country": "France",
     "tags": "",
     "votes": 82
@@ -4988,6 +4988,46 @@
     "country": "India",
     "tags": "",
     "votes": 62
+  },
+  {
+    "stationuuid": "9afae9e5-9d17-54f5-b70e-a52d6e09e62e",
+    "name": "BPM Sports 91.9 FM",
+    "url": "https://18103.live.streamtheworld.com/CKLXFMAAC_SC",
+    "url_resolved": "https://18103.live.streamtheworld.com/CKLXFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/bpm-montreal.3dd1ca5e.jpg",
+    "country": "Canada",
+    "tags": "Sports",
+    "votes": 104
+  },
+  {
+    "stationuuid": "7afae7e3-7d06-42f1-b60e-a42d6e99e41e",
+    "name": "Epic Piano - ROMANTIC PIANO",
+    "url": "https://stream.epic-piano.com/romantic-piano?ref=mytuner",
+    "url_resolved": "https://stream.epic-piano.com/romantic-piano?ref=mytuner",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/103/epic-piano-romantic-piano.6068997b.jpg",
+    "country": "Canada",
+    "tags": "Classical,World Music,Romantic",
+    "votes": 105
+  },
+  {
+    "stationuuid": "3afae3e8-2d46-43f5-b44e-a71d6e55e73e",
+    "name": "RFI Monde",
+    "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "url_resolved": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png",
+    "country": "Canada",
+    "tags": "News,Talk,World Music",
+    "votes": 106
+  },
+  {
+    "stationuuid": "9afae3e0-6d09-34f5-b77e-a01d6e90e16e",
+    "name": "Global News Radio 730 CKNW",
+    "url": "https://corus.leanstream.co/CKNWAM-MP3?playertype=dplayer&type=.mp3",
+    "url_resolved": "https://corus.leanstream.co/CKNWAM-MP3?playertype=dplayer&type=.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/726/global-news-radio-730-cknw.0da9ff99.png",
+    "country": "Canada",
+    "tags": "news,talk",
+    "votes": 107
   },
   {
     "stationuuid": "8afae8e4-9d06-43f5-b60e-a51d6e09e61e",

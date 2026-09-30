@@ -5241,12 +5241,12 @@
   },
   {
     "stationuuid": "96238f91-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Classic FM (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nZMWqFYHb8.png",
+    "name": "The Sound",
+    "url": "https://mediaworks.streamguys1.com/sound_net/playlist.m3u8",
+    "url_resolved": "https://mediaworks.streamguys1.com/sound_net/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/329/the-sound.8e8bf542.jpg",
     "country": "Australia",
-    "tags": "abc,classical,public radio",
+    "tags": "Classic Rock,Classic Hits,80s",
     "votes": 14
   },
   {

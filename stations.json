@@ -1434,7 +1434,7 @@
     "name": "Patchwork Archive - VTuber Songs and Covers",
     "url": "https://a4.asurahosting.com:6930/radio.mp3",
     "url_resolved": "https://a4.asurahosting.com:6930/radio.mp3",
-    "favicon": "https://files.catbox.moe/rq3d0t.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PTCFM.png",
     "country": "Japan",
     "tags": "anime,japan,japanese music,vtuber",
     "votes": 0
@@ -1454,7 +1454,7 @@
     "name": "R/a/dio",
     "url": "https://relay0.r-a-d.io/main.mp3",
     "url_resolved": "https://relay0.r-a-d.io/main.mp3",
-    "favicon": "http://r-a-d.io/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RAJPN.png",
     "country": "Japan",
     "tags": "",
     "votes": 0
@@ -1464,7 +1464,7 @@
     "name": "FMりべーる",
     "url": "http://mtist.as.smartstream.ne.jp/30074/livestream/playlist.m3u8",
     "url_resolved": "http://mtist.as.smartstream.ne.jp/30074/livestream/playlist.m3u8",
-    "favicon": "https://fm837.com/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FMJPN.jpg",
     "country": "Japan",
     "tags": "",
     "votes": 0
@@ -1564,7 +1564,7 @@
     "name": "Ottava",
     "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
     "url_resolved": "http://ottava2.out.airtime.pro:8000/ottava2_a",
-    "favicon": "https://ottava.jp/img/common/touch_icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/oOFMJPN.png",
     "country": "Japan",
     "tags": "classical",
     "votes": 0
@@ -1574,7 +1574,7 @@
     "name": "Chofu FM",
     "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
     "url_resolved": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
-    "favicon": "https://www.chofu-fm.com/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CHFM.png",
     "country": "Japan",
     "tags": "",
     "votes": 0
@@ -1614,7 +1614,7 @@
     "name": "ALR Jazz Radio",
     "url": "http://195.154.79.204:8638/stream",
     "url_resolved": "http://195.154.79.204:8638/stream",
-    "favicon": "https://www.alrjazz.com/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ALRJZZ.png",
     "country": "Japan",
     "tags": "",
     "votes": 0
@@ -1644,7 +1644,7 @@
     "name": "FM那覇 (FM Naha)",
     "url": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
     "url_resolved": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
-    "favicon": "http://www.fmnaha.jp/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/NHFMJPN.jpg",
     "country": "Japan",
     "tags": "",
     "votes": 0
@@ -3964,7 +3964,7 @@
     "name": "Radio 105 Network",
     "url": "http://icecast.unitedradio.it/Radio105.mp3",
     "url_resolved": "http://icecast.unitedradio.it/Radio105.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDO105.jpg",
     "country": "Italy",
     "tags": "hits,mediaset,pop,top 40",
     "votes": 54
@@ -5404,7 +5404,7 @@
     "name": "Aspen 102.3",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
-    "favicon": "https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ASPN102.jpg",
     "country": "Argentina",
     "tags": "",
     "votes": 59

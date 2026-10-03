@@ -949,6 +949,27 @@
     "tags": "",
     "votes": 0
   },
+    {
+    "stationuuid": "d5fa92f2-9884-632b-88fa-45d967862e0e",
+    "name": "EsRadio",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3",
+    "url_resolved": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ESRDSP.jpg",
+    "country": "Spain",
+    "tags": "Deportes,Noticias,Radio hablada",
+    "votes": 0
+  },
+    {
+    "stationuuid": "d5fa87f2-7394-531b-88fa-44d123658e0e",
+    "name": "Radio Marca Nacional",
+    "url": "https://27863.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC",
+    "url_resolved": "https://27863.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.04f5691c.png",
+    "country": "Spain",
+    "tags": "Deportes",
+    "votes": 0
+  },
+  
   {
     "stationuuid": "7a4c78ee-9a86-410d-97bf-83b99f59bc02",
     "name": "IBIZA LIVE RADIO",
@@ -4123,8 +4144,8 @@
     "stationuuid": "84c6f3cc-3c66-415d-aff5-050b5f330adc",
     "name": "Cadena Dial",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-    "favicon": "https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png",
+    "url_resolved": "https://28033.live.streamtheworld.com/CADENADIALAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/511/cadena-dial-directo.02aaa529.png",
     "country": "Spain",
     "tags": "música en español",
     "votes": 33

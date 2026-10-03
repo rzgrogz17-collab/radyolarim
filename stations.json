@@ -3862,8 +3862,8 @@
   {
     "stationuuid": "d1b0b82d-aa27-49e5-a98e-716ceff7e2f7",
     "name": "Times Radio UK",
-    "url": "http://timesradio.wireless.radio/stream",
-    "url_resolved": "http://timesradio.wireless.radio/stream",
+    "url": "https://timesradio.wireless.radio/stream",
+    "url_resolved": "https://timesradio.wireless.radio/stream",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/248/times-radio.20b98e5e.png",
     "country": "United Kingdom",
     "tags": "information,news,talk",
@@ -3872,8 +3872,8 @@
   {
     "stationuuid": "dba206f9-bf7e-11e9-8502-52543be04c81",
     "name": "talkRADIO",
-    "url": "http://radio.talkradio.co.uk/stream",
-    "url_resolved": "http://radio.talkradio.co.uk/stream",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "url_resolved": "https://radio.talkradio.co.uk/stream",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/hjpjegwqyac2.png",
     "country": "United Kingdom",
     "tags": "talk",

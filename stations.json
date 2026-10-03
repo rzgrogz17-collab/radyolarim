@@ -764,7 +764,7 @@
     "name": "RAM FM Eighties Hit Radio",
     "url": "https://usa1-vn.mixstream.net/8084/listen.mp3",
     "url_resolved": "https://usa1-vn.mixstream.net/8084/listen.mp3",
-    "favicon": "https://ramfm.org/favicon.ico",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/z7HgcY76qE.jpg",
     "country": "United Kingdom",
     "tags": "",
     "votes": 0
@@ -3824,7 +3824,7 @@
     "name": "Heart 80s",
     "url": "https://media-ssl.musicradio.com/Heart80sMP3",
     "url_resolved": "https://media-ssl.musicradio.com/Heart80sMP3",
-    "favicon": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/874/heart-80s.82605d89.png",
     "country": "United Kingdom",
     "tags": "80s,national,pop,public radio,variety",
     "votes": 126
@@ -3862,8 +3862,8 @@
   {
     "stationuuid": "d1b0b82d-aa27-49e5-a98e-716ceff7e2f7",
     "name": "Times Radio UK",
-    "url": "https://timesradio.wireless.radio/stream",
-    "url_resolved": "https://timesradio.wireless.radio/stream",
+    "url": "https://times.live.stream.broadcasting.news/stream",
+    "url_resolved": "https://times.live.stream.broadcasting.news/stream",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/248/times-radio.20b98e5e.png",
     "country": "United Kingdom",
     "tags": "information,news,talk",
@@ -3872,12 +3872,22 @@
   {
     "stationuuid": "dba206f9-bf7e-11e9-8502-52543be04c81",
     "name": "talkRADIO",
-    "url": "https://radio.talkradio.co.uk/stream",
-    "url_resolved": "https://radio.talkradio.co.uk/stream",
+    "url": "https://talk.live.stream.broadcasting.news/stream",
+    "url_resolved": "https://talk.live.stream.broadcasting.news/stream",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/hjpjegwqyac2.png",
     "country": "United Kingdom",
     "tags": "talk",
     "votes": 56
+  },
+    {
+    "stationuuid": "dba307f9-bf7e-22e9-9603-62654be04c88",
+    "name": "Gold Radio UK",
+    "url": "https://media-ssl.musicradio.com/Gold",
+    "url_resolved": "https://media-ssl.musicradio.com/Gold",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/943/gold-radio-uk.86c3d0d3.jpg",
+    "country": "United Kingdom",
+    "tags": "classic hits,oldies",
+    "votes": 57
   },
   {
     "stationuuid": "9606ceae-0601-11e8-ae97-52543be04c81",

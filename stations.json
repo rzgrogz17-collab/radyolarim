@@ -13554,7 +13554,7 @@
     "name": "Radio Record Ambient",
     "url": "http://radiorecord.hostingradio.ru/ambient96.aacp",
     "url_resolved": "http://radiorecord.hostingradio.ru/ambient96.aacp",
-    "favicon": "https://cdn-profiles.tunein.com/s309967/images/logod.jpg?t=1",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RRAMTRU.jpg",
     "country": "Russia",
     "tags": "ambient",
     "votes": 1113
@@ -16374,7 +16374,7 @@
     "name": "Radio Eska Kraków",
     "url": "http://ic1.smcdn.pl/2070-1.mp3",
     "url_resolved": "http://ic1.smcdn.pl/2070-1.mp3",
-    "favicon": "https://cdn-profiles.tunein.com/s87779/images/logod.png?t=637867737470000000",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/168/eska-krakow.5fe77e51.jpg",
     "country": "Poland",
     "tags": "pop dance",
     "votes": 2738
@@ -16424,7 +16424,7 @@
     "name": "DISCOPARTY.PL - Kanał Club",
     "url": "https://s3.slotex.pl:7354/stream/1/",
     "url_resolved": "https://s3.slotex.pl:7354/stream/1/",
-    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/666/discopartypl-club-mix.8139ea9b.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 756
@@ -16494,7 +16494,7 @@
     "name": "Radio Ostrowiec 95.2 FM",
     "url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
     "url_resolved": "http://s1.slotex.pl:7050/stream/1/;?type=http",
-    "favicon": "https://radioostrowiec.pl/wp-content/uploads/2017/05/cropped-ikona-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/radio-ostrowiec.b1403f6e.jpg",
     "country": "Poland",
     "tags": "public radio",
     "votes": 233
@@ -16504,7 +16504,7 @@
     "name": "Radio Zet Love -om",
     "url": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
     "url_resolved": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
-    "favicon": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-love/684881-14-pol-PL/Radio-ZET-Love_social_share.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/833/radio-zet-love.86a11759.png",
     "country": "Poland",
     "tags": "lovesongs",
     "votes": 133
@@ -16514,7 +16514,7 @@
     "name": "Polskie Radio Czwórka",
     "url": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
     "url_resolved": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/79/Czw%C3%B3rka_Polskie_Radio.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PRCFMOL.jpg",
     "country": "Poland",
     "tags": "polish,public radio",
     "votes": 98
@@ -16534,7 +16534,7 @@
     "name": "Polskie Radio Dzieciom",
     "url": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
     "url_resolved": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7cjFZEQL8Ap_j7lrlhjKvVWrUxrEAXdPlQ&s",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/783/polskie-radio-dzieciom.dc0ae949.png",
     "country": "Poland",
     "tags": "kids",
     "votes": 85
@@ -16554,7 +16554,7 @@
     "name": "Radio ZET 128",
     "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
     "url_resolved": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
-    "favicon": "https://i.postimg.cc/BQmzGmPR/radio-zet-8fe59cd4.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/608/radio-zet.8fe59cd4.jpg",
     "country": "Poland",
     "tags": "top hits",
     "votes": 79
@@ -16564,7 +16564,7 @@
     "name": "RMF MAXX Podlasie",
     "url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
     "url_resolved": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
-    "favicon": "https://i.ytimg.com/vi/Jr7C7LQYssM/maxresdefault.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/108/rmf-maxx-wloclawek.d620ed37.jpg",
     "country": "Poland",
     "tags": "pop music",
     "votes": 74
@@ -16584,7 +16584,7 @@
     "name": "RMF Maxx Włocławek",
     "url": "http://31.192.216.4/rmf_maxxx_wlc",
     "url_resolved": "http://31.192.216.4/rmf_maxxx_wlc",
-    "favicon": "https://www.rmfmaxx.pl/assets-22/images/logo-pink.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/108/rmf-maxx-wloclawek.d620ed37.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 65
@@ -16594,7 +16594,7 @@
     "name": "VibeFM",
     "url": "https://ic2.smcdn.pl/6490-1.aac",
     "url_resolved": "https://ic2.smcdn.pl/6490-1.aac",
-    "favicon": "https://radioplayer.myradioonline.pl/public/uploads/radio_img/vibe-fm/play_250_250.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ndNqnwZ4kn.png",
     "country": "Poland",
     "tags": "hip-hop,pop,rap",
     "votes": 64
@@ -16604,7 +16604,7 @@
     "name": "Mega Radio",
     "url": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
     "url_resolved": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
-    "favicon": "https://www.radiomega.pl/wp-content/uploads/2024/09/Radio-MEGA-LOGO.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/343/mega-radio2.5d8a7bd9.jpg",
     "country": "Poland",
     "tags": "2000s,90's,dance,pop",
     "votes": 59
@@ -16614,7 +16614,7 @@
     "name": "Zamek Nadaje",
     "url": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
     "url_resolved": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
-    "favicon": "https://radio.zameknadaje.pl/wp-content/uploads/2021/12/logo-zameknadaje-rev2-black1024px-transparent.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/nHRWpNX26b.png",
     "country": "Poland",
     "tags": "electronic,punk,rock,word",
     "votes": 54
@@ -16624,7 +16624,7 @@
     "name": "Akademickie Radio LUZ",
     "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
     "url_resolved": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
-    "favicon": "https://radioluz.pl/wp-content/themes/radio-luz/assets/icons/AppIcon_1024x1024.png?v=1",
+    "favicon": "https://radioluz.pl/wp-content/themes/radio-luz/assets/icons/AppIcon_1024x1024.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 54
@@ -16644,7 +16644,7 @@
     "name": "Antyradio Unplugged",
     "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
     "url_resolved": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
-    "favicon": "https://gfx-player.antyradio.pl/var/player/storage/images/player-antyradio/kanaly-muzyczne/antyradio-unplugged/753017-11-pol-PL/Antyradio-Unplugged_social_share.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/721/antyradio-unplugged.f3d8aca4.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 44
@@ -16654,7 +16654,7 @@
     "name": "Radio Kolor",
     "url": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
     "url_resolved": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
-    "favicon": "https://radiokolor.pl/wp-content/uploads/2023/11/Logo_poziom-kolor-e1700132634498-1024x438.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/311/radio-kolor-103-fm.d63616c3.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 40
@@ -16674,7 +16674,7 @@
     "name": "Radio Jasna Gora",
     "url": "http://online.radiojasnagora.pl:8000/rjg",
     "url_resolved": "http://online.radiojasnagora.pl:8000/rjg",
-    "favicon": "https://www.radiojasnagora.pl/images/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/635/radio-jasna-gora-1006.c3384e02.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 36
@@ -16691,12 +16691,12 @@
   },
   {
     "stationuuid": "e49f5776-8aea-4db8-ba6e-4b12b262d4ab",
-    "name": "Radio Macabrismix",
-    "url": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
-    "url_resolved": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
-    "favicon": "https://panel.macabrismix.com.pl/static/uploads/macabris_mix_radio_station_1-2c6_ghz/album_art.1787481138.jpg",
+    "name": "Polskie Radio 24",
+    "url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+    "url_resolved": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/776/polskie-radio-24.1499c208.png",
     "country": "Poland",
-    "tags": "dancehall,dub reggae,hip hop,rap,reggae",
+    "tags": "Wiadomości",
     "votes": 23
   },
   {
@@ -16721,10 +16721,10 @@
   },
   {
     "stationuuid": "55b0217d-e799-4e6b-a313-9db5f522c228",
-    "name": "Radio Opole 1 96 kbps",
+    "name": "Radio Opole 1",
     "url": "https://audio.radio.opole.pl/ro1aac",
     "url_resolved": "https://audio.radio.opole.pl/ro1aac",
-    "favicon": "https://i.postimg.cc/XqMBQWMd/zalvf5mnczj9.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/134/pr-radio-opole.10a77d26.png",
     "country": "Poland",
     "tags": "information",
     "votes": 20
@@ -16734,7 +16734,7 @@
     "name": "Life 4 Club",
     "url": "https://life4club.online/listen/live/l4c.mp3",
     "url_resolved": "https://life4club.online/listen/live/l4c.mp3",
-    "favicon": "https://life4club.online/static/uploads/live/album_art.1734215277.jpg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/539/life-4-club.01499837.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 19
@@ -16744,7 +16744,7 @@
     "name": "Red7 - Kanał EDM",
     "url": "https://s.red7.pl/edm256",
     "url_resolved": "https://s.red7.pl/edm256",
-    "favicon": "https://red7.pl/img/edmdj-app.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/109/red7pl-kanal-glowny-main.63854391.png",
     "country": "Poland",
     "tags": "deep house,dj,house,muzyka klubowa,polskie radio,techno",
     "votes": 16
@@ -16764,7 +16764,7 @@
     "name": "Radio Aktywne",
     "url": "https://listen.radioaktywne.pl/ramp3",
     "url_resolved": "https://listen.radioaktywne.pl/ramp3",
-    "favicon": "https://radioaktywne.pl/static/images/ra_banner-b3198ed95c743c1739835454f4d52637.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RAFMPL.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 14
@@ -16794,7 +16794,7 @@
     "name": "Radio Kielce",
     "url": "https://streaming.g-news.pl:8030/rk2",
     "url_resolved": "https://streaming.g-news.pl:8030/rk2",
-    "favicon": "https://radiokielce.pl/wp-content/uploads/2022/04/cropped-rk-192x192.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/467/pr-radio-kielce-1014.109ad233.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 10
@@ -16804,7 +16804,7 @@
     "name": "Twoja Polska Stacja",
     "url": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
     "url_resolved": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
-    "favicon": "https://twojapolskastacja.pl/tps-logo.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/933/twoja-poska-stacja.d583df2f.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 10
@@ -16834,7 +16834,7 @@
     "name": "Radio Fraszka",
     "url": "https://s3.slotex.pl:7132/;",
     "url_resolved": "https://s3.slotex.pl:7132/;",
-    "favicon": "https://files.catbox.moe/u8jz0y.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SPLFM.png",
     "country": "Poland",
     "tags": "fm,university radio",
     "votes": 4
@@ -16844,7 +16844,7 @@
     "name": "Radio Stacja Impreza",
     "url": "https://stacjaimpreza.katowice.pl:8002/stream",
     "url_resolved": "https://stacjaimpreza.katowice.pl:8002/stream",
-    "favicon": "https://stacjaimpreza.pl/wp-content/uploads/2024/04/logo_stacja_impreza-768x331.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/257/stacja-impreza.44abeb22.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 3
@@ -16914,7 +16914,7 @@
     "name": "Radioparty.pl House Party",
     "url": "http://house.radioparty.pl:8010/",
     "url_resolved": "http://house.radioparty.pl:8010/",
-    "favicon": "http://radioparty.pl/images/radioparty2017.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/125/radio-party.6f97f269.jpg",
     "country": "Poland",
     "tags": "house",
     "votes": 5712
@@ -16974,7 +16974,7 @@
     "name": "RadioBEST.pl",
     "url": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
     "url_resolved": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
-    "favicon": "https://radiobest.pl/images/max_400_400/langs/pl/logo/logo_www-1.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDBSTPL.jpg",
     "country": "Poland",
     "tags": "country",
     "votes": 5

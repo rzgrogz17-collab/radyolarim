@@ -8310,16 +8310,6 @@
     "votes": 91
   },
   {
-    "stationuuid": "348dfc58-ce8c-413b-b264-0384f816344b",
-    "name": "WALM HD",
-    "url": "https://icecast.walmradio.com:8443/walm",
-    "url_resolved": "https://icecast.walmradio.com:8443/walm",
-    "favicon": "https://icecast.walmradio.com:8443/walm.jpg",
-    "country": "The United States Of America",
-    "tags": "christian,christian music,contemporary christian,jesus",
-    "votes": 166430
-  },
-  {
     "stationuuid": "960cc332-0601-11e8-ae97-52543be04c81",
     "name": "Bassdrive",
     "url": "http://www.bassdrive.com/bassdrive.m3u",
@@ -8430,16 +8420,6 @@
     "votes": 1844
   },
   {
-    "stationuuid": "dee09ddb-8e41-11e8-aa66-52543be04c81",
-    "name": "Abiding Radio - Instrumental",
-    "url": "https://streams.abidingradio.com/instrumental",
-    "url_resolved": "https://streams.abidingradio.com/instrumental",
-    "favicon": "https://www.abidingradio.org/wp-content/uploads/2022/05/cropped-new_icon.png",
-    "country": "The United States Of America",
-    "tags": "christian",
-    "votes": 1656
-  },
-  {
     "stationuuid": "0de271e3-7a23-4641-9b91-c93dffeede41",
     "name": "Nu Metal Radio",
     "url": "http://n34b-e2.revma.ihrhls.com/zc9483/hls.m3u8?rj-ttl=5&rj-tok=AAABoQy3fPoAN2MbZQbEEUffBQ",
@@ -8510,16 +8490,6 @@
     "votes": 1002
   },
   {
-    "stationuuid": "ee79421b-497f-430f-9f94-5d8dd0f944fa",
-    "name": "Radio Visión Cristiana Internacional",
-    "url": "https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/",
-    "url_resolved": "https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/",
-    "favicon": "https://static.wixstatic.com/media/6ddfc3_fba02465eaf5460d8452b49c8a599888~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/6ddfc3_fba02465eaf5460d8452b49c8a599888~mv2.png",
-    "country": "The United States Of America",
-    "tags": "christian,cristiana,gospel",
-    "votes": 864
-  },
-  {
     "stationuuid": "faec63bd-b626-4a31-8dff-7ef63e4a0f3c",
     "name": "Indiana Public Radio WBST",
     "url": "http://ipr.streamguys1.com/aac",
@@ -8558,16 +8528,6 @@
     "country": "The United States Of America",
     "tags": "classical,new york city,new york public radio",
     "votes": 730
-  },
-  {
-    "stationuuid": "e60f3c40-7402-4cfc-a729-a1605cda5440",
-    "name": "Country Gospel Radio",
-    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia1?mp=/1",
-    "url_resolved": "https://usa18.fastcast4u.com/proxy/loudcrymedia1?mp=/1",
-    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xfme9rznysxa.jpg",
-    "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 708
   },
   {
     "stationuuid": "a64d61e0-48b9-4bfc-a57c-0117f58b9ea4",
@@ -8740,16 +8700,6 @@
     "votes": 388
   },
   {
-    "stationuuid": "54867e97-1294-47bc-82c1-7d2e8fe26b51",
-    "name": "Power of Worship Radio",
-    "url": "https://stream-01.aiir.com/rwvbhh4xsgpuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyd3ZiaGg0eHNncHV2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTTBodFhBM3BTaXlKd0tNeDdGdGxkQSIsImlhdCI6MTc5MTIxNDExNywiZXhwIjoxNzkxMjE0MTc3fQ.0v8On_mRMfoMHukXBI0zJliuNCfm16jwlZvkbPTtb-I",
-    "url_resolved": "https://stream-01.aiir.com/rwvbhh4xsgpuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyd3ZiaGg0eHNncHV2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTTBodFhBM3BTaXlKd0tNeDdGdGxkQSIsImlhdCI6MTc5MTIxNDExNywiZXhwIjoxNzkxMjE0MTc3fQ.0v8On_mRMfoMHukXBI0zJliuNCfm16jwlZvkbPTtb-I",
-    "favicon": "https://mmo.aiircdn.com/177/61e36614722ca.png",
-    "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 381
-  },
-  {
     "stationuuid": "cacd1a66-67b8-11ea-be63-52543be04c81",
     "name": "90.5 WICN Public Radio - Jazz+ for New England",
     "url": "https://wicn-ice.streamguys1.com/live-mp3",
@@ -8890,16 +8840,6 @@
     "votes": 286
   },
   {
-    "stationuuid": "d2dcbe53-1e31-4db0-afec-ad4abd36a4f6",
-    "name": "Moody Radio WMBI 90.1 FM",
-    "url": "https://14123.live.streamtheworld.com/WMBIFM.mp3",
-    "url_resolved": "https://14123.live.streamtheworld.com/WMBIFM.mp3",
-    "favicon": "https://impact.moodybible.org/contentassets/a6a563d3318a44e783d8810875b5ad06/moody-radio-chicago_230px.png",
-    "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 270
-  },
-  {
     "stationuuid": "aee84a80-f2a6-11e8-a471-52543be04c81",
     "name": "King FM 98.1",
     "url": "http://classicalking.streamguys1.com/king-fm-mp3",
@@ -8948,16 +8888,6 @@
     "country": "The United States Of America",
     "tags": "radio",
     "votes": 257
-  },
-  {
-    "stationuuid": "7881e52f-9f8e-4fc3-ae1a-c6c3cb97d61d",
-    "name": "American Family Radio: Talk",
-    "url": "https://mediaserver3.afa.net:8443/talk.mp3",
-    "url_resolved": "https://mediaserver3.afa.net:8443/talk.mp3",
-    "favicon": "https://afr.net/media/nxrpxumw/afr-logo-800x500.png",
-    "country": "The United States Of America",
-    "tags": "christian talk,conservative talk,talk radio",
-    "votes": 256
   },
   {
     "stationuuid": "d9c4d259-dda5-4157-98e8-0f95a3ae643a",
@@ -9100,16 +9030,6 @@
     "votes": 219
   },
   {
-    "stationuuid": "3051eab7-193a-4437-9954-5f57be889b2b",
-    "name": "Power of Praise Gospel Radio",
-    "url": "http://18213.live.streamtheworld.com/SP_R2688940_SC",
-    "url_resolved": "http://18213.live.streamtheworld.com/SP_R2688940_SC",
-    "favicon": "https://static.wixstatic.com/media/f18613_9fb12799c1254cce82f5824cb00c9b25~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/f18613_9fb12799c1254cce82f5824cb00c9b25~mv2.png",
-    "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 206
-  },
-  {
     "stationuuid": "f81ad802-dc88-4571-bc76-8467e6777e6b",
     "name": "YourClassical Guitar Stream",
     "url": "https://guitar.stream.publicradio.org/guitar.mp3",
@@ -9120,16 +9040,6 @@
     "votes": 205
   },
   {
-    "stationuuid": "01685993-6bb3-440d-8946-ff728f66e802",
-    "name": "生命之光广播电台",
-    "url": "http://n06.radiojar.com/z3ctv2zxm2zuv.m4a?rj-ttl=5&rj-tok=AAABoQy3lncAmodCS7AEbr4bQA",
-    "url_resolved": "http://n06.radiojar.com/z3ctv2zxm2zuv.m4a?rj-ttl=5&rj-tok=AAABoQy3lncAmodCS7AEbr4bQA",
-    "favicon": "https://www.smzg.org/home/wp-content/uploads/2015/09/cropped-smzg1201-180x180.png",
-    "country": "The United States Of America",
-    "tags": "christianity,religion",
-    "votes": 201
-  },
-  {
     "stationuuid": "6a8abf6c-762c-42a0-be99-516539cb36d6",
     "name": "Folk Alley Irish Music",
     "url": "https://freshgrass.streamguys1.com/irish-128mp3",
@@ -9138,16 +9048,6 @@
     "country": "The United States Of America",
     "tags": "128 kbps,irish folk,mp3",
     "votes": 198
-  },
-  {
-    "stationuuid": "2866dd80-dfeb-442d-8f27-a6c98de13709",
-    "name": "SDA Radio",
-    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1",
-    "url_resolved": "https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1",
-    "favicon": "https://loudcrymedia.com/wp-content/uploads/2018/06/cropped-logo-web-icon22-180x180.png",
-    "country": "The United States Of America",
-    "tags": "ccm,gospel",
-    "votes": 190
   },
   {
     "stationuuid": "9e65f8df-6abd-4f35-b79d-3e5d602a75b1",
@@ -9178,16 +9078,6 @@
     "country": "The United States Of America",
     "tags": "rock",
     "votes": 184
-  },
-  {
-    "stationuuid": "1de75d39-b273-43e4-8e0d-5b9780403661",
-    "name": "Classical Catholic Radio",
-    "url": "https://das-edge13-live365-dal02.cdnstream.com/a64105",
-    "url_resolved": "https://das-edge13-live365-dal02.cdnstream.com/a64105",
-    "favicon": "https://classicalliberalarts.com/wp-content/uploads/classical-catholic-radio.png",
-    "country": "The United States Of America",
-    "tags": "catholic,choral,classical,liturgical,religious,sacred",
-    "votes": 181
   },
   {
     "stationuuid": "3030c8d2-64e8-4bb0-b710-dca382d28da7",
@@ -9468,16 +9358,6 @@
     "country": "The United States Of America",
     "tags": "jazz",
     "votes": 122
-  },
-  {
-    "stationuuid": "36ae4390-a4c1-4572-be11-72fe618fc0a5",
-    "name": "AIR1",
-    "url": "https://emf-seg001030.cdnstream1.com/seg001030-i64.aac?platform=airable&city=boardman&country=united-states&geo_api=abstract_ip&latitude=45.839855&longitude=-119.700583&opawg_browser_name=chrome&opawg_device_category=computer&opawg_device_name=windows-computer&region=oregon&segment=001030&t=1&k=PqNexPO4r4KCgBOY7K-sZW5X8CHJU1cOweIoeE_5ud5oi0fR08mLCsRpDeqlN8OlPiVFWkNVwc8V-69BqprR3XRIT7IxyV9avK7cmHP48vVPYp8fx3aTMCnXCT8vwqEQ",
-    "url_resolved": "https://emf-seg001030.cdnstream1.com/seg001030-i64.aac?platform=airable&city=boardman&country=united-states&geo_api=abstract_ip&latitude=45.839855&longitude=-119.700583&opawg_browser_name=chrome&opawg_device_category=computer&opawg_device_name=windows-computer&region=oregon&segment=001030&t=1&k=PqNexPO4r4KCgBOY7K-sZW5X8CHJU1cOweIoeE_5ud5oi0fR08mLCsRpDeqlN8OlPiVFWkNVwc8V-69BqprR3XRIT7IxyV9avK7cmHP48vVPYp8fx3aTMCnXCT8vwqEQ",
-    "favicon": "https://cdn.corpemf.com/www/waf/air1/logo.png",
-    "country": "The United States Of America",
-    "tags": "christian,worship",
-    "votes": 119
   },
   {
     "stationuuid": "434e9a4b-018a-4557-8ca1-8c328bb1e09d",
@@ -11960,16 +11840,6 @@
     "votes": 107
   },
   {
-    "stationuuid": "59752462-1c9f-448a-988c-96b11b2b177c",
-    "name": "Radio Faro de Gracia",
-    "url": "https://radiorfg.com/listen/radio_faro_de_gracia/radio.mp3",
-    "url_resolved": "https://radiorfg.com/listen/radio_faro_de_gracia/radio.mp3",
-    "favicon": "https://i.imgur.com/I8bkVTI.png",
-    "country": "Spain",
-    "tags": "christian,evangelical,music,protestant,reformed,speech",
-    "votes": 106
-  },
-  {
     "stationuuid": "6402f2ea-50a5-455b-9dec-80854cee12bd",
     "name": "BikiniFM",
     "url": "https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm.mp3",
@@ -12350,16 +12220,6 @@
     "votes": 184
   },
   {
-    "stationuuid": "f1a5857f-9825-4eba-b48e-e345e82e9f5f",
-    "name": "Εκκλησία της Ελλάδας 89.5",
-    "url": "https://loki.mental-media.gr:8038/index.html",
-    "url_resolved": "https://loki.mental-media.gr:8038/index.html",
-    "favicon": "http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",
-    "country": "Greece",
-    "tags": "orthodox christian,religion",
-    "votes": 174
-  },
-  {
     "stationuuid": "feb9cb24-46a1-487f-ac9b-fc7790b01cc0",
     "name": "Home 89.1",
     "url": "http://185.14.203.115:8004/stream?type=http&nocache=109",
@@ -12530,16 +12390,6 @@
     "votes": 98
   },
   {
-    "stationuuid": "c919b0d8-74f9-445e-8049-b0e4797a2ed8",
-    "name": "Orthodoxia kai Paradosi",
-    "url": "http://radio.lts-group.eu:52390/ANS",
-    "url_resolved": "http://radio.lts-group.eu:52390/ANS",
-    "favicon": "https://siatistaagiosnikolaos.gr/wp-content/uploads/2011/10/orthodo.jpg",
-    "country": "Greece",
-    "tags": "christian,greek traditional",
-    "votes": 95
-  },
-  {
     "stationuuid": "abc5ccc3-562b-4bad-a5c4-f7b30f5a76ff",
     "name": "99 Ράδιο 1",
     "url": "http://n05.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABoQy72s0AFDA8i834RuMNZA",
@@ -12680,16 +12530,6 @@
     "votes": 65
   },
   {
-    "stationuuid": "f2f21ce6-e1b3-4615-a8e2-52c819ed8bd9",
-    "name": "Ι. Μ. Λαρίσης και Τυρνάβου 96.3",
-    "url": "http://in.icss.com.gr:8000/stream_007",
-    "url_resolved": "http://in.icss.com.gr:8000/stream_007",
-    "favicon": "https://imlarisis.gr/wp-content/uploads/2016/02/cropped-cropped-logo-all-3-1-1-300x300-192x192.png",
-    "country": "Greece",
-    "tags": "christian,orthodox",
-    "votes": 64
-  },
-  {
     "stationuuid": "9d3c78a0-4bfe-4093-8193-bc3835cd8cff",
     "name": "Kiss 91.1",
     "url": "https://rdst.win:59110/stream",
@@ -12768,16 +12608,6 @@
     "country": "Greece",
     "tags": "radio",
     "votes": 59
-  },
-  {
-    "stationuuid": "4fa876f9-823e-4cf9-9829-fa64ec899846",
-    "name": "Ιερά Μητροπόλη Φθιώτιδος 89.4",
-    "url": "http://eco.onestreaming.com:8264/stream?type=http&nocache=234686",
-    "url_resolved": "http://eco.onestreaming.com:8264/stream?type=http&nocache=234686",
-    "favicon": "http://resources.live24.gr/resources/images/stations/19b6c508-b19e-4760-914e-6b25c6d15450.png",
-    "country": "Greece",
-    "tags": "orthodox christian,religion",
-    "votes": 58
   },
   {
     "stationuuid": "1fcd6315-becc-4ffd-8216-f0eb63130bd4",
@@ -13490,16 +13320,6 @@
     "votes": 17239
   },
   {
-    "stationuuid": "9617fe3b-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Maria",
-    "url": "http://dreamsiteradiocp.com:8092/;",
-    "url_resolved": "http://dreamsiteradiocp.com:8092/;",
-    "favicon": "https://upload.wikimedia.org/wikipedia/it/2/2a/Radiomaria.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "country": "Italy",
-    "tags": "catholic,christian,erba,talk",
-    "votes": 7522
-  },
-  {
     "stationuuid": "962766ef-0601-11e8-ae97-52543be04c81",
     "name": "R101 Made in Italy",
     "url": "http://icy.unitedradio.it/R101MadeInItaly.aac",
@@ -13760,16 +13580,6 @@
     "votes": 968
   },
   {
-    "stationuuid": "961c19d4-0601-11e8-ae97-52543be04c81",
-    "name": "Радонеж",
-    "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad",
-    "url_resolved": "http://icecast.radonezh.cdnvideo.ru:8000/rad",
-    "favicon": "https://lh3.ggpht.com/mbSvb2pszUx49gNzpgO6kE_U9xmG1gCm5s6ZiVBdiaTTo0v4r2kkQNXoAuJ7wJ-c8w=w300",
-    "country": "Russia",
-    "tags": "christian,talk",
-    "votes": 822
-  },
-  {
     "stationuuid": "873c2351-6166-4324-9ac5-200a0565ccf3",
     "name": "Radio Record - Summer Dance",
     "url": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
@@ -13988,26 +13798,6 @@
     "country": "Russia",
     "tags": "16bit,8 bit,8bit,gamemusic,retro games,video game",
     "votes": 141
-  },
-  {
-    "stationuuid": "efb36d12-e145-4caf-9c7e-1283e00d8b96",
-    "name": "RadioMv.com | Russian Old Testament (128Kbps)",
-    "url": "http://dfw1.radiomv.live/slavic-ot.mp3",
-    "url_resolved": "http://dfw1.radiomv.live/slavic-ot.mp3",
-    "favicon": "https://de.radiomv.com/wp-content/uploads/2023/02/android-chrome-192x192-1.png",
-    "country": "Russia",
-    "tags": "bible,christian",
-    "votes": 135
-  },
-  {
-    "stationuuid": "28b6841b-21a9-43f3-bfd2-9d95a113374c",
-    "name": "Радио Новая Жизнь",
-    "url": "https://nlradio.stream/hifi",
-    "url_resolved": "https://nlradio.stream/hifi",
-    "favicon": "https://nlradio.net/wp-content/uploads/2022/07/cropped-cfqn-180x180.png",
-    "country": "Russia",
-    "tags": "christian",
-    "votes": 123
   },
   {
     "stationuuid": "ed348816-c563-4f99-b33a-10b9f0b25bf4",
@@ -14250,16 +14040,6 @@
     "votes": 148
   },
   {
-    "stationuuid": "963791b5-0601-11e8-ae97-52543be04c81",
-    "name": "SW-Radio Russisch",
-    "url": "http://www.segenswelle.de:8000/russisch",
-    "url_resolved": "http://www.segenswelle.de:8000/russisch",
-    "favicon": "https://www.sw-radio.com/apple-touch-icon.png",
-    "country": "Russia",
-    "tags": "christian",
-    "votes": 141
-  },
-  {
     "stationuuid": "ad039169-2969-4a7a-be83-86f079f4a55e",
     "name": "Rádio Bandeirantes - São Paulo",
     "url": "https://23243.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8",
@@ -14338,16 +14118,6 @@
     "country": "Brazil",
     "tags": "news,sports",
     "votes": 3106
-  },
-  {
-    "stationuuid": "18f4b8c4-0907-4edc-adf6-a6580844739b",
-    "name": "Rádio Nacional da Memória Adventista",
-    "url": "https://stream-178.surfernetwork.com/m3ytuubv0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtM3l0dXVidjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InNybmhUNHA1U0xTVXRUTFA3bHlTVXciLCJpYXQiOjE3OTEyMTQ5MzMsImV4cCI6MTc5MTIxNDk5M30.AXtjjeX1rJqbOStz7ADFNN35IkX4XTrmB0fOSOF2NdY",
-    "url_resolved": "https://stream-178.surfernetwork.com/m3ytuubv0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtM3l0dXVidjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InNybmhUNHA1U0xTVXRUTFA3bHlTVXciLCJpYXQiOjE3OTEyMTQ5MzMsImV4cCI6MTc5MTIxNDk5M30.AXtjjeX1rJqbOStz7ADFNN35IkX4XTrmB0fOSOF2NdY",
-    "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FIOCvpX-OlhsD6ZzpgXuF_2eu3sBF67ZBeEy_vAlzxC0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURJN01XNTRBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJdE5QSHN3a01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE1NDc1ODYwMDA_dT01NzYyODU4.webp&w=750&q=100",
-    "country": "Brazil",
-    "tags": "religious",
-    "votes": 24
   },
   {
     "stationuuid": "1eaf6810-41de-4a43-827b-dcf8070748e5",
@@ -14530,16 +14300,6 @@
     "votes": 70
   },
   {
-    "stationuuid": "d7aa98a3-072a-4336-be1a-6dc1cac59777",
-    "name": "RTM Brasil",
-    "url": "https://17653.live.streamtheworld.com:443/RADIOTRANSMUNDIALAAC_SC",
-    "url_resolved": "https://17653.live.streamtheworld.com:443/RADIOTRANSMUNDIALAAC_SC",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/sM6aed4N56.jpg",
-    "country": "Brazil",
-    "tags": "gospel",
-    "votes": 56
-  },
-  {
     "stationuuid": "ba051cb9-29f3-47db-b66e-6dfc263232c4",
     "name": "Manchester FM 93.3",
     "url": "https://ssl1.transmissaodigital.com:20440/stream",
@@ -14558,16 +14318,6 @@
     "country": "Brazil",
     "tags": "radio",
     "votes": 47
-  },
-  {
-    "stationuuid": "6f850954-dc06-4952-a785-dab3dd1e387f",
-    "name": "Rádio Bíblia SBB",
-    "url": "https://servidor30-4.brlogic.com:7398/live",
-    "url_resolved": "https://servidor30-4.brlogic.com:7398/live",
-    "favicon": "https://public-rf-upload.minhawebradio.net/198355/logo/4c4cbe5adabe83df1f78061bf9ec01d1.png",
-    "country": "Brazil",
-    "tags": "evangelical,missionary",
-    "votes": 41
   },
   {
     "stationuuid": "24378572-cb36-4bb2-bcd7-15c097b2f1b9",
@@ -15020,16 +14770,6 @@
     "votes": 1
   },
   {
-    "stationuuid": "ae938ded-ad1b-11e8-aa67-52543be04c81",
-    "name": "Радио Канон - Radio Kanon",
-    "url": "http://79.98.108.170:8059/stream",
-    "url_resolved": "http://79.98.108.170:8059/stream",
-    "favicon": "https://www.radiokanon.com/images/favicon.png",
-    "country": "Bulgaria",
-    "tags": "christian,orthodox,religion",
-    "votes": 235
-  },
-  {
     "stationuuid": "d112f1ff-0501-4449-82c9-3d5935fc1a90",
     "name": "Dark Wave Radomir",
     "url": "https://dwrstream.eu/",
@@ -15370,16 +15110,6 @@
     "votes": 28
   },
   {
-    "stationuuid": "23b2209c-ea10-4703-9660-c3eb595e8122",
-    "name": "Radio Filadelfia Romania",
-    "url": "https://live.radiofiladelfia.ro/filadelfia_128.aac",
-    "url_resolved": "https://live.radiofiladelfia.ro/filadelfia_128.aac",
-    "favicon": "https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg",
-    "country": "Romania",
-    "tags": "christian",
-    "votes": 25
-  },
-  {
     "stationuuid": "cb170184-1976-40da-865f-142c7268ee7f",
     "name": "Clasic Radio_Vivaldi -București",
     "url": "https://live.radioclasic.com/listen/radio_clasic_vivaldi/live.mp3",
@@ -15428,16 +15158,6 @@
     "country": "Romania",
     "tags": "top hits",
     "votes": 17
-  },
-  {
-    "stationuuid": "43a56ab6-d0a8-48ca-ac98-22184bf79371",
-    "name": "Radio Renasterea",
-    "url": "https://cast1.asurahosting.com/proxy/arhiepis/stream",
-    "url_resolved": "https://cast1.asurahosting.com/proxy/arhiepis/stream",
-    "favicon": "https://radiorenasterea.ro/wp-content/uploads/2020/07/RR-rotund-Recovered-480x482.png",
-    "country": "Romania",
-    "tags": "info,religion",
-    "votes": 16
   },
   {
     "stationuuid": "68b70677-1030-4307-8c4b-8dc0a75b7cff",
@@ -15497,16 +15217,6 @@
     "favicon": "https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",
     "country": "Romania",
     "tags": "petrecere,populară",
-    "votes": 12
-  },
-  {
-    "stationuuid": "5fbe8fca-ddca-4ed2-9cc6-19efaa079f78",
-    "name": "Agape Radio",
-    "url": "https://stream-177.surfernetwork.com/s38pdt9h268uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMzhwZHQ5aDI2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBIbVpZaGM2VHhlMENPVHpDb1UweVEiLCJpYXQiOjE3OTEyMTUwMDksImV4cCI6MTc5MTIxNTA2OX0.dwVa_klBt40ruzw9fxT2qcubvQsznO-bPQIHBKOb-ns",
-    "url_resolved": "https://stream-177.surfernetwork.com/s38pdt9h268uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMzhwZHQ5aDI2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBIbVpZaGM2VHhlMENPVHpDb1UweVEiLCJpYXQiOjE3OTEyMTUwMDksImV4cCI6MTc5MTIxNTA2OX0.dwVa_klBt40ruzw9fxT2qcubvQsznO-bPQIHBKOb-ns",
-    "favicon": "https://play-lh.googleusercontent.com/yCMkdTRoHWSzBqqdl1eQ6TJv6XZhQ84S92HN4lsp5UbeXOm3Omn679IkYcA5efVGafc",
-    "country": "Romania",
-    "tags": "crestin,religios",
     "votes": 12
   },
   {
@@ -15890,16 +15600,6 @@
     "votes": 100
   },
   {
-    "stationuuid": "466c6af1-bb23-4d42-8509-3fb73d872a14",
-    "name": "Groot Nieuws Radio Non-Stop",
-    "url": "https://27783.live.streamtheworld.com:443/GNRNONSTOP.mp3",
-    "url_resolved": "https://27783.live.streamtheworld.com:443/GNRNONSTOP.mp3",
-    "favicon": "https://images.cvandaag.nl/artikel-foto/0fdee9961e3678d8bd55c560ea6f0384/groot-nieuws-radio.png",
-    "country": "The Netherlands",
-    "tags": "non-stop,worship",
-    "votes": 97
-  },
-  {
     "stationuuid": "30a753f1-1205-49bc-bd0d-61b3b7a7c11f",
     "name": "Kick Radio - 80s & 90s Hits",
     "url": "https://live.onlineradiostreaming.nl/kick",
@@ -16260,16 +15960,6 @@
     "votes": 26
   },
   {
-    "stationuuid": "a1e87420-0cb9-4f39-80a7-a5d952032f00",
-    "name": "88.9 Shine FM",
-    "url": "https://shinefm.streamguys1.com/cjsi",
-    "url_resolved": "https://shinefm.streamguys1.com/cjsi",
-    "favicon": "https://player.streamguys.com/shinefm/sgplayer/include/image/shinefm-512x512.jpg",
-    "country": "Canada",
-    "tags": "christian",
-    "votes": 25
-  },
-  {
     "stationuuid": "217ca605-f7fb-4f77-a30a-843f750d0d16",
     "name": "CJNB 1050 \"Saskatchewan Country\" North Battleford, SK",
     "url": "https://stream.jpbgdigital.com/CJNB.m3u8?device_id=cookie:a4e9fb98-c0d3-11f1-83a5-9a1a4b115a3f",
@@ -16407,16 +16097,6 @@
     "favicon": "https://media.socastsrm.com/uploads/station/587/hero_logo-5884738348110.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 15
-  },
-  {
-    "stationuuid": "1e01c7d1-9ce7-468c-810f-8e63416e2b93",
-    "name": "CJLI am700 The Light",
-    "url": "https://shinefm.streamguys1.com/cjli",
-    "url_resolved": "https://shinefm.streamguys1.com/cjli",
-    "favicon": "https://i.imgur.com/2WqKUYE.png",
-    "country": "Canada",
-    "tags": "christian,rock,talk,worship",
     "votes": 15
   },
   {
@@ -16630,16 +16310,6 @@
     "votes": 6597
   },
   {
-    "stationuuid": "52768156-3f43-11e8-b74d-52543be04c81",
-    "name": "Radio Maryja",
-    "url": "http://198.50.238.178:5946/stream",
-    "url_resolved": "http://198.50.238.178:5946/stream",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Radio_maryja_torun.jpg/500px-Radio_maryja_torun.jpg?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Poland",
-    "tags": "radio",
-    "votes": 5541
-  },
-  {
     "stationuuid": "960f4b0b-0601-11e8-ae97-52543be04c81",
     "name": "Radio Gdansk",
     "url": "http://stream.task.gda.pl:8000/rg1",
@@ -16828,16 +16498,6 @@
     "country": "Poland",
     "tags": "public radio",
     "votes": 233
-  },
-  {
-    "stationuuid": "eb1321f0-39cd-11e9-9b4e-52543be04c81",
-    "name": "Radio Emaus",
-    "url": "http://stream.radioemaus.pl:8000/oggstream",
-    "url_resolved": "http://stream.radioemaus.pl:8000/oggstream",
-    "favicon": "https://radioemaus.pl/app/uploads/2019/11/cropped-avatar-180x180.png",
-    "country": "Poland",
-    "tags": "christian",
-    "votes": 219
   },
   {
     "stationuuid": "5bd945b9-ee44-41f5-bd39-88a9d92282ce",
@@ -18050,16 +17710,6 @@
     "votes": 73
   },
   {
-    "stationuuid": "373a9d4a-c528-11e9-8502-52543be04c81",
-    "name": "Radio R",
-    "url": "http://radior.ice.infomaniak.ch/radior-128.mp3",
-    "url_resolved": "http://radior.ice.infomaniak.ch/radior-128.mp3",
-    "favicon": "https://radio-r.ch/wp-content/uploads/2020/04/cropped-radio-r-180x180.png",
-    "country": "Switzerland",
-    "tags": "christian contemporary,christian praise&worship,christmas music",
-    "votes": 65
-  },
-  {
     "stationuuid": "1afd93f4-2061-48e2-ae13-df204c17c24c",
     "name": "Radio Melody Schweiz",
     "url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=6np3p72q%230%2396s1091o2pno738srps6n7122o64q497%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1791215405",
@@ -18108,16 +17758,6 @@
     "country": "Switzerland",
     "tags": "radio",
     "votes": 29
-  },
-  {
-    "stationuuid": "5b884101-b14c-4377-8b96-7593ade7a2d1",
-    "name": "Radio R Louange",
-    "url": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
-    "url_resolved": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
-    "favicon": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px-170x170.png",
-    "country": "Switzerland",
-    "tags": "radio",
-    "votes": 26
   },
   {
     "stationuuid": "88b21d4f-529f-4adc-93f4-9d34622fc76c",
@@ -18260,26 +17900,6 @@
     "votes": 178
   },
   {
-    "stationuuid": "23606a1e-a4a2-472f-90dc-775d4b2dbbe3",
-    "name": "Rainbow FM",
-    "url": "https://edge.iono.fm/xice/237_low.aac",
-    "url_resolved": "https://edge.iono.fm/xice/237_low.aac",
-    "favicon": "https://rainbowfm.co.za/wp-content/uploads/2024/08/cropped-rainbowfmicon-180x180.png",
-    "country": "South Africa",
-    "tags": "gospel",
-    "votes": 160
-  },
-  {
-    "stationuuid": "c29a8ef0-f80c-4263-a371-061e503d34b7",
-    "name": "Express-FM Digital",
-    "url": "http://198.7.59.28:34235/stream",
-    "url_resolved": "http://198.7.59.28:34235/stream",
-    "favicon": "https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png",
-    "country": "South Africa",
-    "tags": "christian,christian blues,christian contemporary,christian country,christian dance,christian edm",
-    "votes": 126
-  },
-  {
     "stationuuid": "b981e0c8-37f4-475d-9e09-9045731cbd7c",
     "name": "RISE FM",
     "url": "https://edge.iono.fm/xice/73_medium.aac?ref=https%3A%2F%2Frisefm.co.za%2F&adToken=",
@@ -18368,16 +17988,6 @@
     "country": "South Africa",
     "tags": "radio",
     "votes": 16
-  },
-  {
-    "stationuuid": "dcaa4c6c-c4c0-4048-ac6b-52f2432db952",
-    "name": "World Gospel Radio",
-    "url": "https://www.dn-radio.co.za/listen/world_gospel_radio/radio.mp3",
-    "url_resolved": "https://www.dn-radio.co.za/listen/world_gospel_radio/radio.mp3",
-    "favicon": "https://www.worldgospelradio.co.za/wp-content/uploads/2026/05/cropped-Logo_Square.png",
-    "country": "South Africa",
-    "tags": "christian,gospel,praise,worship",
-    "votes": 12
   },
   {
     "stationuuid": "bfefe2ec-00a4-484d-adb4-0337e27bb33d",
@@ -18524,7 +18134,7 @@
     "name": "Los 40 Principales México",
     "url": "http://29306.live.streamtheworld.com/LOS40_MEXICO_SC",
     "url_resolved": "http://29306.live.streamtheworld.com/LOS40_MEXICO_SC",
-    "favicon": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/L40FM.png",
     "country": "Mexico",
     "tags": "hits,latin pop,top 40",
     "votes": 14930
@@ -18532,9 +18142,9 @@
   {
     "stationuuid": "3e50c7de-ce7c-45e3-9e6f-288d3fca0699",
     "name": "Radio Fórmula - 104.1 FM - XERFR-FM - Grupo Fórmula - Ciudad de México",
-    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/61e1dfd2658baf082814e25d/playlist.m3u8?aid=602140ecd1277a077ef81b34&pid=nTKPBtcQZdvgzRaGhYpHRxOdo1HTYQG3&sid=ecrIoKc30cQADYXQ5zibnauZ4JBozfqH&uid=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1791301914584&ot=_mALqb6dXxFJqogchPbgTQ&proto=https&pz=us&cP=128000&awCollectionId=602140ecd1277a077ef81b34&aw_0_1st.playerId=website&liveId=61e1dfd2658baf082814e25d&propertyName=website&listenerId=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3",
-    "url_resolved": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/61e1dfd2658baf082814e25d/playlist.m3u8?aid=602140ecd1277a077ef81b34&pid=nTKPBtcQZdvgzRaGhYpHRxOdo1HTYQG3&sid=ecrIoKc30cQADYXQ5zibnauZ4JBozfqH&uid=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1791301914584&ot=_mALqb6dXxFJqogchPbgTQ&proto=https&pz=us&cP=128000&awCollectionId=602140ecd1277a077ef81b34&aw_0_1st.playerId=website&liveId=61e1dfd2658baf082814e25d&propertyName=website&listenerId=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Oficinas_de_Radio_F%C3%B3rmula%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.JPG/500px-Oficinas_de_Radio_F%C3%B3rmula%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
+    "url_resolved": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
+    "favicon": "https://mx.radio.net/175/radio-formula-1041-fm.jpeg",
     "country": "Mexico",
     "tags": "104.1,104.1 fm,acustic,cdmx,ciudad de mexico,ciudad de méxico",
     "votes": 3707
@@ -18544,7 +18154,7 @@
     "name": "Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
     "url": "https://tv.radiohosting.online:9484/stream",
     "url_resolved": "https://tv.radiohosting.online:9484/stream",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Instalaciones_de_Radio_UNAM%2C_Ciudad_de_M%C3%A9xico.jpg/500px-Instalaciones_de_Radio_UNAM%2C_Ciudad_de_M%C3%A9xico.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/783/radio-unam-961-fm.e71c66a7.png",
     "country": "Mexico",
     "tags": "96.1,96.1 fm,ciudad de méxico,college,college radio,cultura",
     "votes": 357
@@ -18554,7 +18164,7 @@
     "name": "CULTURA 96.5 (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México",
     "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
     "url_resolved": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
-    "favicon": "https://i.postimg.cc/4d5tgGsH/cultura965.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/443/tremenda-durango-965-fm.6bec9bc8.jpg",
     "country": "Mexico",
     "tags": "96.5 fm,américa,ciudad de méxico,concesión pública,cultura,cultura 96.5",
     "votes": 6
@@ -18564,7 +18174,7 @@
     "name": "La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México",
     "url": "https://26313.live.streamtheworld.com:443/XERCFM_SC",
     "url_resolved": "https://26313.live.streamtheworld.com:443/XERCFM_SC",
-    "favicon": "https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2",
+    "favicon": "https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png",
     "country": "Mexico",
     "tags": "97.7,97.7 fm,aquí nomás,banda,cdmx,ciudad de méxico",
     "votes": 4183
@@ -18594,7 +18204,7 @@
     "name": "90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
     "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5c769b2fe7770a23546c3d7f",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/90DNCMX.png",
     "country": "Mexico",
     "tags": "acir,acir online,cdmx,ciudad de méxico,club dance,clásicos",
     "votes": 3324
@@ -18714,7 +18324,7 @@
     "name": "Romántica (Culiacán) - 89.5 FM / 750 AM - XHCSI-FM / XECSI-AM - Radiorama Sinaloa - Culiacán, Sinaloa",
     "url": "https://stream-284.surfernetwork.com/3195h8s3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMTk1aDhzM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkwxT1lRVlZkUUZtX2lzY21hMDVSTkEiLCJpYXQiOjE3OTEyMTU1MTcsImV4cCI6MTc5MTIxNTU3N30.bm1MhJx0LgHkeop4IKhhTX0nGgDuWvae5xeTtKN9w-M",
     "url_resolved": "https://stream-284.surfernetwork.com/3195h8s3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMTk1aDhzM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkwxT1lRVlZkUUZtX2lzY21hMDVSTkEiLCJpYXQiOjE3OTEyMTU1MTcsImV4cCI6MTc5MTIxNTU3N30.bm1MhJx0LgHkeop4IKhhTX0nGgDuWvae5xeTtKN9w-M",
-    "favicon": "https://www.radioramasinaloa.mx/Logo%20Romantica.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ROMFM89.jpg",
     "country": "Mexico",
     "tags": "89.5 fm,balada,balada pop,baladas,baladas en español,culiacán",
     "votes": 226
@@ -18724,7 +18334,7 @@
     "name": "Sounds Of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
     "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5ed68bfa0eb90d6134a362ef",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SOFYFM.png",
     "country": "Mexico",
     "tags": "acir,acir online,américa,cdmx,ciudad de mexico,ciudad de méxico",
     "votes": 201
@@ -18734,7 +18344,7 @@
     "name": "Fusión Veracruz - 90.1 FM - XHLL-FM - Grupo Pazos - Veracruz, VE",
     "url": "https://sgaudio.centrocibernetico.com/fusion",
     "url_resolved": "https://sgaudio.centrocibernetico.com/fusion",
-    "favicon": "https://cdn-profiles.tunein.com/s88120/images/logog.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FSONFM.png",
     "country": "Mexico",
     "tags": "90.1,90.1 fm,boca del río,fm,grupo pazos,mex",
     "votes": 196
@@ -18744,7 +18354,7 @@
     "name": "DK 1250 (GDL) - 1250 AM - XEDK-AM - Radiorama de Occidente - Guadalajara, Jalisco",
     "url": "https://sp2.servidorrprivado.com:10947/;",
     "url_resolved": "https://sp2.servidorrprivado.com:10947/;",
-    "favicon": "https://cdn-profiles.tunein.com/s87941/images/logod.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TDELFM.jpg",
     "country": "Mexico",
     "tags": "1250 am,am,américa,dk,entretenimiento,español",
     "votes": 183
@@ -18754,7 +18364,7 @@
     "name": "Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco",
     "url": "https://ss1.audiorama.com.mx:6574/vibefm",
     "url_resolved": "https://ss1.audiorama.com.mx:6574/vibefm",
-    "favicon": "https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RTRO107.png",
     "country": "Mexico",
     "tags": "107.5 fm,américa,clásicos,clásicos en español,entretenimiento,español",
     "votes": 181
@@ -19470,16 +19080,6 @@
     "votes": 680
   },
   {
-    "stationuuid": "caf06089-a877-4ac4-8e59-693037bfd50a",
-    "name": "702 Dzas",
-    "url": "http://sg-icecast.eradioportal.com:8000/febc_dzas",
-    "url_resolved": "http://sg-icecast.eradioportal.com:8000/febc_dzas",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8LA27R8OyUlSDhzday5uJJot-LNiQXZ9aw&s",
-    "country": "Philippines",
-    "tags": "religion,religious",
-    "votes": 473
-  },
-  {
     "stationuuid": "ce5a4a02-88bb-4e79-809e-63f971059bfe",
     "name": "DepEd Radio Learning English 89.1 FM - HD3",
     "url": "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8",
@@ -20021,20 +19621,20 @@
   },
   {
     "stationuuid": "f1c094b9-319d-4b58-a00f-20a4e5304098",
-    "name": "Amor Solo Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
+    "name": "Amor Solo Pop",
     "url": "https://24153.live.streamtheworld.com:443/ACIR03_S01AAC.aac",
     "url_resolved": "https://24153.live.streamtheworld.com:443/ACIR03_S01AAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5c9bef57a47b1251f8a34e45",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ASPOPFM.png",
     "country": "Mexico",
     "tags": "acir,acir online,amor,amor sólo música romántica,balada,balada en español",
     "votes": 2651
   },
   {
     "stationuuid": "76d877f9-f259-4bd3-b9c1-eb14e2359fdc",
-    "name": "Radiorama 1340 Frecuencia Deportiva (Guadalajara) - 1340 AM - XEDKT-AM - Radiorama de Occidente - Guadalajara, Jalisco",
+    "name": "Radiorama 1340 Frecuencia Deportiva",
     "url": "https://stream-287.surfernetwork.com/r1540b8e408uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMTU0MGI4ZTQwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlpdldKNUxzUkRtMUJkbVhuSFEtNWciLCJpYXQiOjE3OTEyMTY0NTcsImV4cCI6MTc5MTIxNjUxN30.yd7W6dByn2ayQnnOPsbQiqJsvxRUFLsEYDDtj4UJS-8",
     "url_resolved": "https://stream-287.surfernetwork.com/r1540b8e408uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMTU0MGI4ZTQwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlpdldKNUxzUkRtMUJkbVhuSFEtNWciLCJpYXQiOjE3OTEyMTY0NTcsImV4cCI6MTc5MTIxNjUxN30.yd7W6dByn2ayQnnOPsbQiqJsvxRUFLsEYDDtj4UJS-8",
-    "favicon": "https://frecuenciadeportiva1340am.com/img/logo.png?ver3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/R1340FM.jpg",
     "country": "Mexico",
     "tags": "1340 am,am,américa,clásicos,clásicos en inglés,deporte",
     "votes": 1882
@@ -20044,7 +19644,7 @@
     "name": "XWave Radio",
     "url": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
     "url_resolved": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10",
+    "favicon": "https://www.radio.net/300/xwave.png",
     "country": "Japan",
     "tags": "darkwave,ebm,gothic,industrial,post-punk",
     "votes": 13

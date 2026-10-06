@@ -3361,7 +3361,7 @@
   },
   {
     "stationuuid": "9605739a-0601-11e8-ae97-52543be04c81",
-    "name": "",
+    "name": "Antenne Bayern",
     "url": "http://mp3channels.webradio.antenne.de/antenne",
     "url_resolved": "http://mp3channels.webradio.antenne.de/antenne",
     "favicon": "https://www.phonostar.de/images/auto_created/antenne_bayern3184x184.png",
@@ -13554,7 +13554,7 @@
     "name": "Radio Record Ambient",
     "url": "http://radiorecord.hostingradio.ru/ambient96.aacp",
     "url_resolved": "http://radiorecord.hostingradio.ru/ambient96.aacp",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RRAMTRU.jpg",
+    "favicon": "https://cdn-profiles.tunein.com/s309967/images/logod.jpg?t=1",
     "country": "Russia",
     "tags": "ambient",
     "votes": 1113
@@ -16374,7 +16374,7 @@
     "name": "Radio Eska Kraków",
     "url": "http://ic1.smcdn.pl/2070-1.mp3",
     "url_resolved": "http://ic1.smcdn.pl/2070-1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/168/eska-krakow.5fe77e51.jpg",
+    "favicon": "https://cdn-profiles.tunein.com/s87779/images/logod.png?t=637867737470000000",
     "country": "Poland",
     "tags": "pop dance",
     "votes": 2738
@@ -16424,7 +16424,7 @@
     "name": "DISCOPARTY.PL - Kanał Club",
     "url": "https://s3.slotex.pl:7354/stream/1/",
     "url_resolved": "https://s3.slotex.pl:7354/stream/1/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/666/discopartypl-club-mix.8139ea9b.png",
+    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 756
@@ -16494,7 +16494,7 @@
     "name": "Radio Ostrowiec 95.2 FM",
     "url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
     "url_resolved": "http://s1.slotex.pl:7050/stream/1/;?type=http",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/radio-ostrowiec.b1403f6e.jpg",
+    "favicon": "https://radioostrowiec.pl/wp-content/uploads/2017/05/cropped-ikona-180x180.png",
     "country": "Poland",
     "tags": "public radio",
     "votes": 233
@@ -16504,7 +16504,7 @@
     "name": "Radio Zet Love -om",
     "url": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
     "url_resolved": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/833/radio-zet-love.86a11759.png",
+    "favicon": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-love/684881-14-pol-PL/Radio-ZET-Love_social_share.png",
     "country": "Poland",
     "tags": "lovesongs",
     "votes": 133
@@ -16514,7 +16514,7 @@
     "name": "Polskie Radio Czwórka",
     "url": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
     "url_resolved": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PRCFMOL.jpg",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/79/Czw%C3%B3rka_Polskie_Radio.jpg",
     "country": "Poland",
     "tags": "polish,public radio",
     "votes": 98
@@ -16534,7 +16534,7 @@
     "name": "Polskie Radio Dzieciom",
     "url": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
     "url_resolved": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/783/polskie-radio-dzieciom.dc0ae949.png",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7cjFZEQL8Ap_j7lrlhjKvVWrUxrEAXdPlQ&s",
     "country": "Poland",
     "tags": "kids",
     "votes": 85
@@ -16554,7 +16554,7 @@
     "name": "Radio ZET 128",
     "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
     "url_resolved": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/608/radio-zet.8fe59cd4.jpg",
+    "favicon": "https://i.postimg.cc/BQmzGmPR/radio-zet-8fe59cd4.jpg",
     "country": "Poland",
     "tags": "top hits",
     "votes": 79
@@ -16564,7 +16564,7 @@
     "name": "RMF MAXX Podlasie",
     "url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
     "url_resolved": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/108/rmf-maxx-wloclawek.d620ed37.jpg",
+    "favicon": "https://i.ytimg.com/vi/Jr7C7LQYssM/maxresdefault.jpg",
     "country": "Poland",
     "tags": "pop music",
     "votes": 74
@@ -16584,7 +16584,7 @@
     "name": "RMF Maxx Włocławek",
     "url": "http://31.192.216.4/rmf_maxxx_wlc",
     "url_resolved": "http://31.192.216.4/rmf_maxxx_wlc",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/108/rmf-maxx-wloclawek.d620ed37.jpg",
+    "favicon": "https://www.rmfmaxx.pl/assets-22/images/logo-pink.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 65
@@ -16594,7 +16594,7 @@
     "name": "VibeFM",
     "url": "https://ic2.smcdn.pl/6490-1.aac",
     "url_resolved": "https://ic2.smcdn.pl/6490-1.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ndNqnwZ4kn.png",
+    "favicon": "https://radioplayer.myradioonline.pl/public/uploads/radio_img/vibe-fm/play_250_250.jpg",
     "country": "Poland",
     "tags": "hip-hop,pop,rap",
     "votes": 64
@@ -16604,7 +16604,7 @@
     "name": "Mega Radio",
     "url": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
     "url_resolved": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/343/mega-radio2.5d8a7bd9.jpg",
+    "favicon": "https://www.radiomega.pl/wp-content/uploads/2024/09/Radio-MEGA-LOGO.png",
     "country": "Poland",
     "tags": "2000s,90's,dance,pop",
     "votes": 59
@@ -16614,7 +16614,7 @@
     "name": "Zamek Nadaje",
     "url": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
     "url_resolved": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nHRWpNX26b.png",
+    "favicon": "https://radio.zameknadaje.pl/wp-content/uploads/2021/12/logo-zameknadaje-rev2-black1024px-transparent.png",
     "country": "Poland",
     "tags": "electronic,punk,rock,word",
     "votes": 54
@@ -16624,7 +16624,7 @@
     "name": "Akademickie Radio LUZ",
     "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
     "url_resolved": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
-    "favicon": "https://radioluz.pl/wp-content/themes/radio-luz/assets/icons/AppIcon_1024x1024.png",
+    "favicon": "https://radioluz.pl/wp-content/themes/radio-luz/assets/icons/AppIcon_1024x1024.png?v=1",
     "country": "Poland",
     "tags": "radio",
     "votes": 54
@@ -16644,7 +16644,7 @@
     "name": "Antyradio Unplugged",
     "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
     "url_resolved": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/721/antyradio-unplugged.f3d8aca4.png",
+    "favicon": "https://gfx-player.antyradio.pl/var/player/storage/images/player-antyradio/kanaly-muzyczne/antyradio-unplugged/753017-11-pol-PL/Antyradio-Unplugged_social_share.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 44
@@ -16654,7 +16654,7 @@
     "name": "Radio Kolor",
     "url": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
     "url_resolved": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/311/radio-kolor-103-fm.d63616c3.png",
+    "favicon": "https://radiokolor.pl/wp-content/uploads/2023/11/Logo_poziom-kolor-e1700132634498-1024x438.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 40
@@ -16674,7 +16674,7 @@
     "name": "Radio Jasna Gora",
     "url": "http://online.radiojasnagora.pl:8000/rjg",
     "url_resolved": "http://online.radiojasnagora.pl:8000/rjg",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/635/radio-jasna-gora-1006.c3384e02.png",
+    "favicon": "https://www.radiojasnagora.pl/images/logo.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 36
@@ -16691,12 +16691,12 @@
   },
   {
     "stationuuid": "e49f5776-8aea-4db8-ba6e-4b12b262d4ab",
-    "name": "Polskie Radio 24",
-    "url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
-    "url_resolved": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/776/polskie-radio-24.1499c208.png",
+    "name": "Radio Macabrismix",
+    "url": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+    "url_resolved": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+    "favicon": "https://panel.macabrismix.com.pl/static/uploads/macabris_mix_radio_station_1-2c6_ghz/album_art.1787481138.jpg",
     "country": "Poland",
-    "tags": "Wiadomości",
+    "tags": "dancehall,dub reggae,hip hop,rap,reggae",
     "votes": 23
   },
   {
@@ -16721,10 +16721,10 @@
   },
   {
     "stationuuid": "55b0217d-e799-4e6b-a313-9db5f522c228",
-    "name": "Radio Opole 1",
+    "name": "Radio Opole 1 96 kbps",
     "url": "https://audio.radio.opole.pl/ro1aac",
     "url_resolved": "https://audio.radio.opole.pl/ro1aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/134/pr-radio-opole.10a77d26.png",
+    "favicon": "https://i.postimg.cc/XqMBQWMd/zalvf5mnczj9.png",
     "country": "Poland",
     "tags": "information",
     "votes": 20
@@ -16734,7 +16734,7 @@
     "name": "Life 4 Club",
     "url": "https://life4club.online/listen/live/l4c.mp3",
     "url_resolved": "https://life4club.online/listen/live/l4c.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/539/life-4-club.01499837.jpg",
+    "favicon": "https://life4club.online/static/uploads/live/album_art.1734215277.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 19
@@ -16744,7 +16744,7 @@
     "name": "Red7 - Kanał EDM",
     "url": "https://s.red7.pl/edm256",
     "url_resolved": "https://s.red7.pl/edm256",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/109/red7pl-kanal-glowny-main.63854391.png",
+    "favicon": "https://red7.pl/img/edmdj-app.png",
     "country": "Poland",
     "tags": "deep house,dj,house,muzyka klubowa,polskie radio,techno",
     "votes": 16
@@ -16764,7 +16764,7 @@
     "name": "Radio Aktywne",
     "url": "https://listen.radioaktywne.pl/ramp3",
     "url_resolved": "https://listen.radioaktywne.pl/ramp3",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RAFMPL.png",
+    "favicon": "https://radioaktywne.pl/static/images/ra_banner-b3198ed95c743c1739835454f4d52637.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 14
@@ -16794,7 +16794,7 @@
     "name": "Radio Kielce",
     "url": "https://streaming.g-news.pl:8030/rk2",
     "url_resolved": "https://streaming.g-news.pl:8030/rk2",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/467/pr-radio-kielce-1014.109ad233.jpg",
+    "favicon": "https://radiokielce.pl/wp-content/uploads/2022/04/cropped-rk-192x192.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 10
@@ -16804,7 +16804,7 @@
     "name": "Twoja Polska Stacja",
     "url": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
     "url_resolved": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/933/twoja-poska-stacja.d583df2f.png",
+    "favicon": "https://twojapolskastacja.pl/tps-logo.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 10
@@ -16834,7 +16834,7 @@
     "name": "Radio Fraszka",
     "url": "https://s3.slotex.pl:7132/;",
     "url_resolved": "https://s3.slotex.pl:7132/;",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SPLFM.png",
+    "favicon": "https://files.catbox.moe/u8jz0y.png",
     "country": "Poland",
     "tags": "fm,university radio",
     "votes": 4
@@ -16844,7 +16844,7 @@
     "name": "Radio Stacja Impreza",
     "url": "https://stacjaimpreza.katowice.pl:8002/stream",
     "url_resolved": "https://stacjaimpreza.katowice.pl:8002/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/257/stacja-impreza.44abeb22.png",
+    "favicon": "https://stacjaimpreza.pl/wp-content/uploads/2024/04/logo_stacja_impreza-768x331.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 3
@@ -16914,7 +16914,7 @@
     "name": "Radioparty.pl House Party",
     "url": "http://house.radioparty.pl:8010/",
     "url_resolved": "http://house.radioparty.pl:8010/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/125/radio-party.6f97f269.jpg",
+    "favicon": "http://radioparty.pl/images/radioparty2017.png",
     "country": "Poland",
     "tags": "house",
     "votes": 5712
@@ -16974,7 +16974,7 @@
     "name": "RadioBEST.pl",
     "url": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
     "url_resolved": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDBSTPL.jpg",
+    "favicon": "https://radiobest.pl/images/max_400_400/langs/pl/logo/logo_www-1.png",
     "country": "Poland",
     "tags": "country",
     "votes": 5
@@ -18134,7 +18134,7 @@
     "name": "Los 40 Principales México",
     "url": "http://29306.live.streamtheworld.com/LOS40_MEXICO_SC",
     "url_resolved": "http://29306.live.streamtheworld.com/LOS40_MEXICO_SC",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/L40FM.png",
+    "favicon": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
     "country": "Mexico",
     "tags": "hits,latin pop,top 40",
     "votes": 14930
@@ -18142,9 +18142,9 @@
   {
     "stationuuid": "3e50c7de-ce7c-45e3-9e6f-288d3fca0699",
     "name": "Radio Fórmula - 104.1 FM - XERFR-FM - Grupo Fórmula - Ciudad de México",
-    "url": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
-    "url_resolved": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
-    "favicon": "https://mx.radio.net/175/radio-formula-1041-fm.jpeg",
+    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/61e1dfd2658baf082814e25d/playlist.m3u8?aid=602140ecd1277a077ef81b34&pid=nTKPBtcQZdvgzRaGhYpHRxOdo1HTYQG3&sid=ecrIoKc30cQADYXQ5zibnauZ4JBozfqH&uid=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1791301914584&ot=_mALqb6dXxFJqogchPbgTQ&proto=https&pz=us&cP=128000&awCollectionId=602140ecd1277a077ef81b34&aw_0_1st.playerId=website&liveId=61e1dfd2658baf082814e25d&propertyName=website&listenerId=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3",
+    "url_resolved": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/61e1dfd2658baf082814e25d/playlist.m3u8?aid=602140ecd1277a077ef81b34&pid=nTKPBtcQZdvgzRaGhYpHRxOdo1HTYQG3&sid=ecrIoKc30cQADYXQ5zibnauZ4JBozfqH&uid=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1791301914584&ot=_mALqb6dXxFJqogchPbgTQ&proto=https&pz=us&cP=128000&awCollectionId=602140ecd1277a077ef81b34&aw_0_1st.playerId=website&liveId=61e1dfd2658baf082814e25d&propertyName=website&listenerId=vx9xF8QV300FxpXXFB4tV4C0CzHVyiE3",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Oficinas_de_Radio_F%C3%B3rmula%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.JPG/500px-Oficinas_de_Radio_F%C3%B3rmula%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2801%29.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "country": "Mexico",
     "tags": "104.1,104.1 fm,acustic,cdmx,ciudad de mexico,ciudad de méxico",
     "votes": 3707
@@ -18154,7 +18154,7 @@
     "name": "Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
     "url": "https://tv.radiohosting.online:9484/stream",
     "url_resolved": "https://tv.radiohosting.online:9484/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/783/radio-unam-961-fm.e71c66a7.png",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Instalaciones_de_Radio_UNAM%2C_Ciudad_de_M%C3%A9xico.jpg/500px-Instalaciones_de_Radio_UNAM%2C_Ciudad_de_M%C3%A9xico.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "country": "Mexico",
     "tags": "96.1,96.1 fm,ciudad de méxico,college,college radio,cultura",
     "votes": 357
@@ -18164,7 +18164,7 @@
     "name": "CULTURA 96.5 (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México",
     "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
     "url_resolved": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/443/tremenda-durango-965-fm.6bec9bc8.jpg",
+    "favicon": "https://i.postimg.cc/4d5tgGsH/cultura965.png",
     "country": "Mexico",
     "tags": "96.5 fm,américa,ciudad de méxico,concesión pública,cultura,cultura 96.5",
     "votes": 6
@@ -18174,27 +18174,27 @@
     "name": "La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México",
     "url": "https://26313.live.streamtheworld.com:443/XERCFM_SC",
     "url_resolved": "https://26313.live.streamtheworld.com:443/XERCFM_SC",
-    "favicon": "https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png",
+    "favicon": "https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2",
     "country": "Mexico",
     "tags": "97.7,97.7 fm,aquí nomás,banda,cdmx,ciudad de méxico",
     "votes": 4183
   },
   {
     "stationuuid": "431b426b-e654-4b7d-8f42-230a6fa65fc9",
-    "name": "UNIVERSAL STEREO ONLINE",
+    "name": "UNIVERSAL STEREO ONLINE (CDMX) - Online - www.universalstereoonline.com - Grupo Radio Centro - Ciudad de México",
     "url": "https://27063.live.streamtheworld.com:443/XERC_FMAAC.aac",
     "url_resolved": "https://27063.live.streamtheworld.com:443/XERC_FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/514/universal-stereo-colombia.e408f144.jpg",
+    "favicon": "https://cdn-profiles.tunein.com/s309342/images/logod.jpg",
     "country": "Mexico",
     "tags": "1970s,1980's,1980s,70 80 hits,70's,70s",
     "votes": 113
   },
   {
     "stationuuid": "960c154f-0601-11e8-ae97-52543be04c81",
-    "name": "XHEXA \"Exa FM\104.9 FM",
+    "name": "XHEXA \"Exa FM\" 104.9 FM Mexico City, DF",
     "url": "http://18213.live.streamtheworld.com:3690/XHEXA_SC",
     "url_resolved": "http://18213.live.streamtheworld.com:3690/XHEXA_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/038/exa-1049.9ba498b0.png",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s87554q.png",
     "country": "Mexico",
     "tags": "electronica,latin pop,mexico city,pop,top 40",
     "votes": 7064
@@ -18204,7 +18204,7 @@
     "name": "90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
     "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/90DNCMX.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5c769b2fe7770a23546c3d7f",
     "country": "Mexico",
     "tags": "acir,acir online,cdmx,ciudad de méxico,club dance,clásicos",
     "votes": 3324
@@ -18221,10 +18221,10 @@
   },
   {
     "stationuuid": "082080f5-09e1-4727-b973-584a84e5560a",
-    "name": "SIEMPRE GRUPEROS de LA COMADRE",
+    "name": "SIEMPRE GRUPEROS de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://23263.live.streamtheworld.com:443/ACIR07_S01AAC.aac",
     "url_resolved": "https://23263.live.streamtheworld.com:443/ACIR07_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SFMMX.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ced3f5677b0f30f02bf3386",
     "country": "Mexico",
     "tags": "acir,acir online,américa,cdmx,ciudad de méxico,entretenimiento",
     "votes": 943
@@ -18241,30 +18241,30 @@
   },
   {
     "stationuuid": "77f3af0c-eb5b-4644-9188-c67cf1881838",
-    "name": "El Patrón (Xalapa) - 104.9 FM",
+    "name": "El Patrón (Xalapa) - 104.9 FM - XHBD-FM - Oliva Radio - Xalapa, Veracruz",
     "url": "http://ssc.cnwks.ws:8365/;",
     "url_resolved": "http://ssc.cnwks.ws:8365/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/230/el-patron-1049-fm.21698617.jpg",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/2/2e/XHBD_ElPatron104.9_logo.jpg",
     "country": "Mexico",
     "tags": "104.9 fm,banda,el patrón,entretenimiento,español,estación",
     "votes": 755
   },
   {
     "stationuuid": "aff0c386-9338-4467-826e-37e121861a68",
-    "name": "Llegó el Mariachi",
+    "name": "Llegó el Mariachi (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://17633.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
     "url_resolved": "https://17633.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LEMFMMX.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ca66e34b930967c4e70c62f",
     "country": "Mexico",
     "tags": "acir,acir online,cdmx,ciudad de méxico,entretenimiento,español",
     "votes": 668
   },
   {
     "stationuuid": "d1956bb5-d76f-4027-ba61-dc57f991b195",
-    "name": "La Mejor Guadalajara-95.5 FM",
+    "name": "La Mejor Guadalajara - 95.5 FM - XHRO-FM - MVS Radio - Guadalajara, JC",
     "url": "https://17573.live.streamtheworld.com:443/XHRO_SC",
     "url_resolved": "https://17573.live.streamtheworld.com:443/XHRO_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/143/la-mejor-guadalajara.df40a6df.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9895d4debd729d19d20457",
     "country": "Mexico",
     "tags": "95.5,95.5 fm,aquí nomás,banda,banda norteña,banda tradicional",
     "votes": 491
@@ -18281,40 +18281,40 @@
   },
   {
     "stationuuid": "0a607b94-b95b-4b4a-b2ef-6c2613793535",
-    "name": "La Mejor León-99.9 FM",
+    "name": "La Mejor León - 99.9 FM - XHSO-FM - MVS Radio - León, GT",
     "url": "https://14223.live.streamtheworld.com:443/XHSOFM_SC",
     "url_resolved": "https://14223.live.streamtheworld.com:443/XHSOFM_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/158/la-mejor-puerto-vallarta.7853cec3.jpg",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5f988467cde5eff19e6eabb0",
     "country": "Mexico",
     "tags": "99.9,99.9 fm,aquí nomás,banda,banda norteña,banda tradicional",
     "votes": 349
   },
   {
     "stationuuid": "d7e4cbb9-2f57-4f0b-a359-148d25b80108",
-    "name": "La Mejor Cuernavaca - 97.3 FM",
+    "name": "La Mejor Cuernavaca - 97.3 FM - XHVZ-FM - MVS Radio - Cuernavaca, MO",
     "url": "https://18303.live.streamtheworld.com:443/XHVZ_SC",
     "url_resolved": "https://18303.live.streamtheworld.com:443/XHVZ_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/139/la-mejor-cuernavaca.e49c13b4.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5f985ab48c6781b794265f7e",
     "country": "Mexico",
     "tags": "97.3,97.3 fm,aquí nomás,banda,banda norteña,banda tradicional",
     "votes": 304
   },
   {
     "stationuuid": "a2e3a2a1-1eab-4a51-b9a5-2316ef9ca2c0",
-    "name": "Mega FM (Tenosique) -102.9 FM",
+    "name": "Mega FM (Tenosique) -102.9 FM - XHTQE-FM - CORAT (Comisión de Radio y Televisión de Tabasco) - Tenosique, TB",
     "url": "http://streamingcwsradio30.com:8262/mega",
     "url_resolved": "http://streamingcwsradio30.com:8262/mega",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/585/la-mega-949-fm.2ca3966f.png",
+    "favicon": "https://static-media.streema.com/media/cache/03/72/03722bba72157438bb61d223df99a1ad.jpg",
     "country": "Mexico",
     "tags": "#90s,102.9,102.9 fm,1980's,1980s,1990s",
     "votes": 262
   },
   {
     "stationuuid": "b6809aff-5118-408f-bb65-8405837b9382",
-    "name": "JOYA 93.7 - Ciudad de México",
+    "name": "JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México",
     "url": "https://26223.live.streamtheworld.com:443/XEJP_FMAAC.aac",
     "url_resolved": "https://26223.live.streamtheworld.com:443/XEJP_FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/332/stereo-joya.f116b7a0.jpg",
+    "favicon": "https://cdn-profiles.tunein.com/s24508/images/logod.jpg",
     "country": "Mexico",
     "tags": "93.7 fm,américa,balada en español,balada pop,balada romántica,cdmx",
     "votes": 241
@@ -18324,7 +18324,7 @@
     "name": "Romántica (Culiacán) - 89.5 FM / 750 AM - XHCSI-FM / XECSI-AM - Radiorama Sinaloa - Culiacán, Sinaloa",
     "url": "https://stream-284.surfernetwork.com/3195h8s3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMTk1aDhzM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkwxT1lRVlZkUUZtX2lzY21hMDVSTkEiLCJpYXQiOjE3OTEyMTU1MTcsImV4cCI6MTc5MTIxNTU3N30.bm1MhJx0LgHkeop4IKhhTX0nGgDuWvae5xeTtKN9w-M",
     "url_resolved": "https://stream-284.surfernetwork.com/3195h8s3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMTk1aDhzM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkwxT1lRVlZkUUZtX2lzY21hMDVSTkEiLCJpYXQiOjE3OTEyMTU1MTcsImV4cCI6MTc5MTIxNTU3N30.bm1MhJx0LgHkeop4IKhhTX0nGgDuWvae5xeTtKN9w-M",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ROMFM89.jpg",
+    "favicon": "https://www.radioramasinaloa.mx/Logo%20Romantica.png",
     "country": "Mexico",
     "tags": "89.5 fm,balada,balada pop,baladas,baladas en español,culiacán",
     "votes": 226
@@ -18334,7 +18334,7 @@
     "name": "Sounds Of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
     "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SOFYFM.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ed68bfa0eb90d6134a362ef",
     "country": "Mexico",
     "tags": "acir,acir online,américa,cdmx,ciudad de mexico,ciudad de méxico",
     "votes": 201
@@ -18344,7 +18344,7 @@
     "name": "Fusión Veracruz - 90.1 FM - XHLL-FM - Grupo Pazos - Veracruz, VE",
     "url": "https://sgaudio.centrocibernetico.com/fusion",
     "url_resolved": "https://sgaudio.centrocibernetico.com/fusion",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FSONFM.png",
+    "favicon": "https://cdn-profiles.tunein.com/s88120/images/logog.png",
     "country": "Mexico",
     "tags": "90.1,90.1 fm,boca del río,fm,grupo pazos,mex",
     "votes": 196
@@ -18354,7 +18354,7 @@
     "name": "DK 1250 (GDL) - 1250 AM - XEDK-AM - Radiorama de Occidente - Guadalajara, Jalisco",
     "url": "https://sp2.servidorrprivado.com:10947/;",
     "url_resolved": "https://sp2.servidorrprivado.com:10947/;",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TDELFM.jpg",
+    "favicon": "https://cdn-profiles.tunein.com/s87941/images/logod.png",
     "country": "Mexico",
     "tags": "1250 am,am,américa,dk,entretenimiento,español",
     "votes": 183
@@ -18364,57 +18364,57 @@
     "name": "Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco",
     "url": "https://ss1.audiorama.com.mx:6574/vibefm",
     "url_resolved": "https://ss1.audiorama.com.mx:6574/vibefm",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RTRO107.png",
+    "favicon": "https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg",
     "country": "Mexico",
     "tags": "107.5 fm,américa,clásicos,clásicos en español,entretenimiento,español",
     "votes": 181
   },
   {
     "stationuuid": "c5875b34-2648-41df-b679-b6e2a8be6964",
-    "name": "RADAR 107.5",
+    "name": "RADAR 107.5 (Querétaro) - 107.5 FM - XHQRO-FM - Grupo Radar - Querétaro, Querétaro",
     "url": "https://radios.radiohd.com.mx/8268/stream",
     "url_resolved": "https://radios.radiohd.com.mx/8268/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/912/radar-fm.8115903d.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/624f52a70315729495f3b4ff",
     "country": "Mexico",
     "tags": "107.5 fm,contemporary hits radio,entretenimiento,español,estación,fm",
     "votes": 175
   },
   {
     "stationuuid": "e9c2ca34-4c1f-403a-9145-8c5cc0207684",
-    "name": "AMOR 93.1",
+    "name": "AMOR 93.1 (Guadalajara) - 93.1 FM - XHPI-FM - Grupo ACIR - Guadalajara, Jalisco",
     "url": "https://15313.live.streamtheworld.com:443/XHPIFMAAC.aac",
     "url_resolved": "https://15313.live.streamtheworld.com:443/XHPIFMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/020/amor-931-fm.25ddd855.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/3cf4fe27-805c-417a-94b8-5e15f6e5894e",
     "country": "Mexico",
     "tags": "93.1 fm,acir,amor,amor sólo música romántica,balada,balada en español",
     "votes": 153
   },
   {
     "stationuuid": "f3f99261-7b53-4c2b-86a9-b71eba41202a",
-    "name": "LUPE 93.3",
+    "name": "LUPE 93.3 (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, Zacatecas",
     "url": "https://cast.zuperdns.net/8010/stream/",
     "url_resolved": "https://cast.zuperdns.net/8010/stream/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/511/lupe-933-fm.280cac62.png",
+    "favicon": "https://grupozer.mx/images/portada/logos/803.png",
     "country": "Mexico",
     "tags": "93.3 fm,américa,banda,banda norteña,banda tradicional,entretenimiento",
     "votes": 145
   },
   {
     "stationuuid": "c18ca205-f8fe-4dac-b765-5858a3db1623",
-    "name": "EL FONÓGRAFO, Música las 24 horas",
+    "name": "EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad de México",
     "url": "https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac",
-    "url_resolved": "https://26443.live.streamtheworld.com/XEJP_AMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/343/el-fonografo.93859ddd.png",
+    "url_resolved": "https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ef0cb167ec97a064f3322d1",
     "country": "Mexico",
     "tags": "américa,balada pop,cdmx,ciudad de méxico,clásicos,clásicos en español",
     "votes": 127
   },
   {
     "stationuuid": "232ca184-6303-4289-97c9-73d46cb87830",
-    "name": "XEU 98.1",
+    "name": "XEU 98.1 (Veracruz) - 98.1 FM - XHU-FM - Grupo Pazos Radio - Veracruz, Veracruz",
     "url": "http://sgaudio.centrocibernetico.com/xeu",
     "url_resolved": "http://sgaudio.centrocibernetico.com/xeu",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/675/xeu-981-fm.170de65a.png",
+    "favicon": "https://cdn-profiles.tunein.com/s87588/images/logog.jpg",
     "country": "Mexico",
     "tags": "98.1 fm,boca del río,deporte,deportes,entretenimiento,estación",
     "votes": 122
@@ -18441,10 +18441,10 @@
   },
   {
     "stationuuid": "5cf785ae-1a67-4b74-bc37-61f6596fe4fd",
-    "name": "LOS40 Ciudad de México - 101.7 FM",
+    "name": "LOS40 Ciudad de México - 101.7 FM - XEX-FM - Radiópolis - Ciudad de México",
     "url": "https://26353.live.streamtheworld.com:443/LOS40_MEXICOAAC.aac",
     "url_resolved": "https://26353.live.streamtheworld.com:443/LOS40_MEXICOAAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LS4C.jpg",
+    "favicon": "http://cdn-profiles.tunein.com/s47704/images/logoq.png?t=155784",
     "country": "Mexico",
     "tags": "101.7,101.7 fm,cdmx,ciudad de méxico,entretenimiento,estación",
     "votes": 1828
@@ -18481,10 +18481,10 @@
   },
   {
     "stationuuid": "5766fc5b-ce3e-4f46-a5b3-c274ea46d8e6",
-    "name": "ALFA 91.3 (Ciudad de México)",
+    "name": "ALFA 91.3 (Ciudad de México) - 91.3 FM - XHFAJ-FM - Grupo Radio Centro - Ciudad de México",
     "url": "https://15123.live.streamtheworld.com:443/XHFAJ_FMAAC.aac",
     "url_resolved": "https://15123.live.streamtheworld.com:443/XHFAJ_FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/329/alfa-913.163928d9.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ef0ca067ec97a064f3322c9",
     "country": "Mexico",
     "tags": "91.3,91.3 fm,alfa,cdmx,ciudad de mexico,ciudad de méxico",
     "votes": 6738
@@ -19621,20 +19621,20 @@
   },
   {
     "stationuuid": "f1c094b9-319d-4b58-a00f-20a4e5304098",
-    "name": "Amor Solo Pop",
+    "name": "Amor Solo Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://24153.live.streamtheworld.com:443/ACIR03_S01AAC.aac",
     "url_resolved": "https://24153.live.streamtheworld.com:443/ACIR03_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ASPOPFM.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5c9bef57a47b1251f8a34e45",
     "country": "Mexico",
     "tags": "acir,acir online,amor,amor sólo música romántica,balada,balada en español",
     "votes": 2651
   },
   {
     "stationuuid": "76d877f9-f259-4bd3-b9c1-eb14e2359fdc",
-    "name": "Radiorama 1340 Frecuencia Deportiva",
+    "name": "Radiorama 1340 Frecuencia Deportiva (Guadalajara) - 1340 AM - XEDKT-AM - Radiorama de Occidente - Guadalajara, Jalisco",
     "url": "https://stream-287.surfernetwork.com/r1540b8e408uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMTU0MGI4ZTQwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlpdldKNUxzUkRtMUJkbVhuSFEtNWciLCJpYXQiOjE3OTEyMTY0NTcsImV4cCI6MTc5MTIxNjUxN30.yd7W6dByn2ayQnnOPsbQiqJsvxRUFLsEYDDtj4UJS-8",
     "url_resolved": "https://stream-287.surfernetwork.com/r1540b8e408uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMTU0MGI4ZTQwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlpdldKNUxzUkRtMUJkbVhuSFEtNWciLCJpYXQiOjE3OTEyMTY0NTcsImV4cCI6MTc5MTIxNjUxN30.yd7W6dByn2ayQnnOPsbQiqJsvxRUFLsEYDDtj4UJS-8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/R1340FM.jpg",
+    "favicon": "https://frecuenciadeportiva1340am.com/img/logo.png?ver3",
     "country": "Mexico",
     "tags": "1340 am,am,américa,clásicos,clásicos en inglés,deporte",
     "votes": 1882
@@ -19644,7 +19644,7 @@
     "name": "XWave Radio",
     "url": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
     "url_resolved": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
-    "favicon": "https://www.radio.net/300/xwave.png",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10",
     "country": "Japan",
     "tags": "darkwave,ebm,gothic,industrial,post-punk",
     "votes": 13

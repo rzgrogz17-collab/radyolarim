@@ -4,7 +4,7 @@
     "name": "Süper Fm",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/WjbuzKEJwE.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SPRFM.jpg",
     "country": "Turkey",
     "tags": "hits,pop,turkish music",
     "votes": 0
@@ -34,7 +34,7 @@
     "name": "NTV Radyo",
     "url": "http://ntvrdwmp.radyotvonline.com/",
     "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ttsx5djrkbzk.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ntvradyo.png",
     "country": "Turkey",
     "tags": "news",
     "votes": 0
@@ -54,7 +54,7 @@
     "name": "Erkam Radyo",
     "url": "https://api-tv5.yayin.com.tr:8002/mp3",
     "url_resolved": "https://api-tv5.yayin.com.tr:8002/mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/301/erkam-radyo.2356bfbf.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/erkamradyo.png",
     "country": "Turkey",
     "tags": "islam",
     "votes": 0
@@ -64,7 +64,7 @@
     "name": "A HABER Radyo",
     "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
     "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/F5krdzPwdW.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ahaberradyo.png",
     "country": "Turkey",
     "tags": "news",
     "votes": 0
@@ -74,7 +74,7 @@
     "name": "JoyTürk Rock",
     "url": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
     "url_resolved": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/tnaagqcrtbyk.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JOYTURKFM.jpg",
     "country": "Turkey",
     "tags": "alternative,classic rock,rock,turkish rock",
     "votes": 0
@@ -94,7 +94,7 @@
     "name": "Küpe FM",
     "url": "https://icecast.netmedya.net/kupefm",
     "url_resolved": "https://icecast.netmedya.net/kupefm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/BKmYqfhxtR.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KPFM.jpg",
     "country": "Turkey",
     "tags": "Pop",
     "votes": 5
@@ -124,7 +124,7 @@
     "name": "POP LAND",
     "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
     "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/m4zygem7dwnw.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
     "country": "Turkey",
     "tags": "pop",
     "votes": 0
@@ -134,7 +134,7 @@
     "name": "Habertürk Radyo",
     "url": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
     "url_resolved": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/cp9zced8hknv.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/htradyo.png",
     "country": "Turkey",
     "tags": "news",
     "votes": 0
@@ -144,7 +144,7 @@
     "name": "Kafa Radyo",
     "url": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
     "url_resolved": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/056/kafa-radyo.b3a3a53d.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kafaradyo.png",
     "country": "Turkey",
     "tags": "Pop",
     "votes": 0
@@ -154,7 +154,7 @@
     "name": "KRAL FM",
     "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
     "url_resolved": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/675/kral-fm.777b51b7.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KRALFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 0
@@ -164,7 +164,7 @@
     "name": "Slow Türk",
     "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
     "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/894/slow-turk.9de11193.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SLOWTURKFM.jpg",
     "country": "Turkey",
     "tags": "Slow",
     "votes": 0
@@ -174,7 +174,7 @@
     "name": "Radyo 7",
     "url": "http://46.20.3.250/;stream",
     "url_resolved": "http://46.20.3.250/;stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/987/radyo-7-fm.ff135b1e.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/radyo7.png",
     "country": "Turkey",
     "tags": "",
     "votes": 0
@@ -194,7 +194,7 @@
     "name": "1 Live",
     "url": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
     "url_resolved": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/155/1live.767bf04d.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/1LIVE.png",
     "country": "Germany",
     "tags": "pop,hits,youth,wdr",
     "votes": 0
@@ -204,7 +204,7 @@
     "name": "Antenne Bayern",
     "url": "http://mp3channels.webradio.antenne.de/antenne",
     "url_resolved": "http://mp3channels.webradio.antenne.de/antenne",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/283/antenne-bayern.6a703787.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AntenneBayern.png",
     "country": "Germany",
     "tags": "pop,hits,bayern",
     "votes": 0
@@ -214,7 +214,7 @@
     "name": "bigFM",
     "url": "https://stream.bigfm.de/deutschland/mp3-128/radiode",
     "url_resolved": "https://stream.bigfm.de/deutschland/mp3-128/radiode",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/865/bigfm.a5d50a10.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/bigFM.jpg",
     "country": "Germany",
     "tags": "Top 40,Electro,Charts,Hip Hop",
     "votes": 0
@@ -6624,7 +6624,7 @@
     "name": "Virgin Radio Türkiye",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO128AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO128AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/674/virgin-radio-turkiye.fc9409e5.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VIRGINRADYOTURKIYE.jpg",
     "country": "Turkey",
     "tags": "pop rock",
     "votes": 20498
@@ -6644,7 +6644,7 @@
     "name": "Alem FM",
     "url": "https://alemfm.radyotvonline.net/alemfmaac",
     "url_resolved": "https://alemfm.radyotvonline.net/alemfmaac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/799/alem-fm.f21d01ea.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ALEMFM.png",
     "country": "Turkey",
     "tags": "",
     "votes": 10136
@@ -6654,7 +6654,7 @@
     "name": "Baba Radyo",
     "url": "http://46.20.7.116/",
     "url_resolved": "http://46.20.7.116/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/arhgwf43vb9e.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BABAFM.png",
     "country": "Turkey",
     "tags": "folk",
     "votes": 8506
@@ -6664,7 +6664,7 @@
     "name": "Radyo Seymen",
     "url": "https://yayin.radyoseymen.com.tr:1070/stream",
     "url_resolved": "https://yayin.radyoseymen.com.tr:1070/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/602/radyo-seymen.38d92b15.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SETMENFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 5573
@@ -6674,7 +6674,7 @@
     "name": "Radyo Voyage",
     "url": "http://voyagewmp.radyotvonline.com/;stream.mp3",
     "url_resolved": "http://voyagewmp.radyotvonline.com/;stream.mp3",
-    "favicon": "https://radyovoyage.com/Content/Voyage/images/voyageFavicon.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VOYAGE107.png",
     "country": "Turkey",
     "tags": "folk,mood,relaxing,world",
     "votes": 4616
@@ -6694,7 +6694,7 @@
     "name": "TRT NAĞME",
     "url": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
     "url_resolved": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/528/trt-nagme.f8b368b1.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTNGM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 1472
@@ -6704,7 +6704,7 @@
     "name": "Radyo Spor",
     "url": "http://46.20.4.5:8170/",
     "url_resolved": "http://46.20.4.5:8170/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/7zpdaSBuaU.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOSPOR.png",
     "country": "Turkey",
     "tags": "sport",
     "votes": 1442
@@ -6714,7 +6714,7 @@
     "name": "Power Türk",
     "url": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
     "url_resolved": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/5aLbQbmcLs.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWERTURK.png",
     "country": "Turkey",
     "tags": "",
     "votes": 1415
@@ -6724,7 +6724,7 @@
     "name": "Vav Radyo",
     "url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
     "url_resolved": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/wmcysakmwdmm.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VAVRADYO.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 1100
@@ -6734,7 +6734,7 @@
     "name": "TRT FM",
     "url": "https://trt.radyotvonline.net/trtfm",
     "url_resolved": "https://trt.radyotvonline.net/trtfm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/511/trt-fm.b2c0467d.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 1058
@@ -6744,7 +6744,7 @@
     "name": "TRT Radyo Haber",
     "url": "https://trt.radyotvonline.net/trthaber",
     "url_resolved": "https://trt.radyotvonline.net/trthaber",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/049/trt-radyo-haber.6af11e70.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/trthaberradyo.jpg",
     "country": "Turkey",
     "tags": "news",
     "votes": 1036
@@ -6754,7 +6754,7 @@
     "name": "Kral Pop",
     "url": "https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
     "url_resolved": "https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
-    "favicon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KRALPOP.png",
     "country": "Turkey",
     "tags": "",
     "votes": 923
@@ -6774,7 +6774,7 @@
     "name": "Power FM",
     "url": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
     "url_resolved": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/026/power-fm.24a3ad24.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWER100.png",
     "country": "Turkey",
     "tags": "",
     "votes": 875
@@ -6784,7 +6784,7 @@
     "name": "Power Dance",
     "url": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
     "url_resolved": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/DTdXaqteZ9.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWERDANCE.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 725
@@ -6834,7 +6834,7 @@
     "name": "Karadeniz FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KARADENIZ128AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KARADENIZ128AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/040/karadeniz.53cfb059.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KARADEN%C4%B0ZFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 574
@@ -6854,7 +6854,7 @@
     "name": "Radyo Alaturka",
     "url": "https://yayin.jumboserver.net:9100/stream",
     "url_resolved": "https://yayin.jumboserver.net:9100/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/aZcTszGMks.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOALATURKA.png",
     "country": "Turkey",
     "tags": "",
     "votes": 443
@@ -6884,7 +6884,7 @@
     "name": "Radyo Eksen",
     "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
     "url_resolved": "http://eksenwmp.radyotvonline.com/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/UjGPyqWWVz.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/EKSEN92.jpg",
     "country": "Turkey",
     "tags": "alternative rock,indie,istanbul,rock",
     "votes": 367
@@ -6894,7 +6894,7 @@
     "name": "Kiss Türk",
     "url": "https://kiss.radyotvonline.net/kissturk",
     "url_resolved": "https://kiss.radyotvonline.net/kissturk",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/3aky4zjyg9wt.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KISSTURK.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 328
@@ -6914,7 +6914,7 @@
     "name": "Lig Radyo",
     "url": "https://ligradyo.radyotvonline.net/ligradyo",
     "url_resolved": "https://ligradyo.radyotvonline.net/ligradyo",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nEFNVYFhek.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LIGRADYO.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 246
@@ -6924,17 +6924,17 @@
     "name": "Polis Radyosu",
     "url": "https://m.egm.gov.tr:8093/stream?/;stream.mp3",
     "url_resolved": "https://m.egm.gov.tr:8093/stream?/;stream.mp3",
-    "favicon": "https://www.onlineradyo.org/img/onl-rsm/polis-radyosu.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POL%C4%B0SRADYO.png",
     "country": "Turkey",
     "tags": "",
     "votes": 236
   },
   {
     "stationuuid": "28b60579-045a-4e06-89b6-e85bee30c228",
-    "name": "TürküRadyo",
+    "name": "Türkü Radyo",
     "url": "https://yayin.turkhosted.com/4591/stream",
     "url_resolved": "https://yayin.turkhosted.com/4591/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/mvsjxvqtk5bg.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOTURKU.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 212
@@ -6944,17 +6944,17 @@
     "name": "Radyo D",
     "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
     "url_resolved": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/444/radyo-d.29dd1547.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOD.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 196
   },
   {
     "stationuuid": "14797ffb-2fdd-4a54-9748-e96486914dd2",
-    "name": "RADYO AKDENIZ",
+    "name": "RADYO Akdeniz",
     "url": "https://yayin.radyoakdeniz.com/9470/stream",
     "url_resolved": "https://yayin.radyoakdeniz.com/9470/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/d8xjxgtv2utq.png",
+    "favicon": "hhttps://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOAKDENIZ.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 180
@@ -6964,7 +6964,7 @@
     "name": "Enderun FM",
     "url": "http://yayin2.canliyayin.org:7052/;*.mp3",
     "url_resolved": "http://yayin2.canliyayin.org:7052/;*.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/cmadsesfl8vc.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ENDRUNFM.png",
     "country": "Turkey",
     "tags": "islamic",
     "votes": 165
@@ -6974,7 +6974,7 @@
     "name": "a PARA",
     "url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
     "url_resolved": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
-    "favicon": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/APARAFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 162
@@ -6984,7 +6984,7 @@
     "name": "Best FM",
     "url": "http://officialbestfm.radyotvonline.net/bestfmofficial",
     "url_resolved": "http://officialbestfm.radyotvonline.net/bestfmofficial",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/855/best-fm.5c47c073.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BESTFM.png",
     "country": "Turkey",
     "tags": "",
     "votes": 146
@@ -6994,7 +6994,7 @@
     "name": "Radyo 35",
     "url": "https://yayin.turkhosted.com/6012/stream",
     "url_resolved": "https://yayin.turkhosted.com/6012/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/7jq6ch69enby.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYO35.png",
     "country": "Turkey",
     "tags": "pop,türkçe",
     "votes": 141
@@ -7004,7 +7004,7 @@
     "name": "TRT Memleketim FM",
     "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
     "url_resolved": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
-    "favicon": "https://cdn.radoxo.com/images/turkey/trt-memleketim-fm.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTMEMLEKETIM.png",
     "country": "Turkey",
     "tags": "national radio",
     "votes": 103
@@ -7014,7 +7014,7 @@
     "name": "Radio Glamorize",
     "url": "https://live.radioglamorize.com/stream1",
     "url_resolved": "https://live.radioglamorize.com/stream1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/6anan8tbmfxa.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADIOGLAMORIZE.jpg",
     "country": "Turkey",
     "tags": "electronic music,progressive house",
     "votes": 92
@@ -7024,19 +7024,19 @@
     "name": "TRT Diyarbakır",
     "url": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
     "url_resolved": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
-    "favicon": "https://cdn.radoxo.com/images/turkey/trt-gap-diyarbakir-radyosu.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADIODIYARBAKIR.jpg",
     "country": "Turkey",
     "tags": "local radio",
     "votes": 87
   },
   {
     "stationuuid": "106c740c-1852-4b7b-82e1-927656bdf465",
-    "name": "TRT Antalya",
-    "url": "https://radio-trtantalya.live.trt.com.tr/master.m3u8",
-    "url_resolved": "https://radio-trtantalya.live.trt.com.tr/master.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/5jyLa3eqDj.png",
+    "name": "Boğaz FM",
+    "url": "https://radyo.yayin.com.tr:5938/stream?",
+    "url_resolved": "https://radyo.yayin.com.tr:5938/stream?",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BOGAZFM.jpg",
     "country": "Turkey",
-    "tags": "local radio",
+    "tags": "Yerel",
     "votes": 82
   },
   {
@@ -7044,7 +7044,7 @@
     "name": "Radyo Viva",
     "url": "https://radyoviva.radyotvonline.net/;",
     "url_resolved": "https://radyoviva.radyotvonline.net/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/024/radyo-viva.d661afdd.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOV%C4%B0VA.png",
     "country": "Turkey",
     "tags": "",
     "votes": 59
@@ -7064,7 +7064,7 @@
     "name": "Show Radyo",
     "url": "http://showradyo.radyotvonline.net/showradyoaac/",
     "url_resolved": "http://showradyo.radyotvonline.net/showradyoaac/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/023/show-radyo.dc541106.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SHWRDY.png",
     "country": "Turkey",
     "tags": "",
     "votes": 40
@@ -7074,7 +7074,7 @@
     "name": "Moral FM",
     "url": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
     "url_resolved": "https://stream.zeno.fm/0cfiqwdkobavv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/dl9j4fjgfuqr.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MORALFM.png",
     "country": "Turkey",
     "tags": "",
     "votes": 40
@@ -7084,7 +7084,7 @@
     "name": "İstanbul FM",
     "url": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
     "url_resolved": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
-    "favicon": "https://cdn.radoxo.com/images/turkey/istanbul-fm.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/%C4%B0STANBULFM.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 38
@@ -7104,7 +7104,7 @@
     "name": "Power Türk Taptaze",
     "url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
     "url_resolved": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/cNehszHVqf.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POERTURKTAPTEZE.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 25
@@ -7114,7 +7114,7 @@
     "name": "Semerkand Radyo",
     "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
     "url_resolved": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
-    "favicon": "https://semerkandradyo.com.tr/Content/img/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/semerkand.png",
     "country": "Turkey",
     "tags": "",
     "votes": 0

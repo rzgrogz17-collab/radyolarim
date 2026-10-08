@@ -14,7 +14,7 @@
     "name": "Metro FM",
     "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
     "url_resolved": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/wtWeSZWM4L.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/METROFM.png",
     "country": "Turkey",
     "tags": "pop,hit",
     "votes": 0
@@ -24,7 +24,7 @@
     "name": "Joy Fm",
     "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
     "url_resolved": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/pPWhBey97x.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JOYFM.png",
     "country": "Turkey",
     "tags": "international",
     "votes": 0
@@ -44,7 +44,7 @@
     "name": "Radyo Fenomen",
     "url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
     "url_resolved": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/Mq4SYL3N7E.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FENOMENRADYO.jpg",
     "country": "Turkey",
     "tags": "hit",
     "votes": 0
@@ -104,7 +104,7 @@
     "name": "Tempo FM Çorlu",
     "url": "https://stream2.rtvtakip.com:7016/;",
     "url_resolved": "https://stream2.rtvtakip.com:7016/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ybrb3uy8dj37.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TEMPOFM102.jpeg",
     "country": "Turkey",
     "tags": "Pop",
     "votes": 6
@@ -114,7 +114,7 @@
     "name": "İTÜ Klasik",
     "url": "http://160.75.86.29:8088/ituklasikmp3",
     "url_resolved": "http://160.75.86.29:8088/ituklasikmp3",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ITURADYO.jpg",
     "country": "Turkey",
     "tags": "classical,klasik",
     "votes": 2
@@ -174,7 +174,7 @@
     "name": "Radyo 7",
     "url": "http://46.20.3.250/;stream",
     "url_resolved": "http://46.20.3.250/;stream",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/radyo7.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYO7NEW.png",
     "country": "Turkey",
     "tags": "",
     "votes": 0
@@ -5844,7 +5844,7 @@
     "name": "Electroradio.fm",
     "url": "http://stream.electroradio.fm/listen.aac",
     "url_resolved": "http://stream.electroradio.fm/listen.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/127/electro-radio.aab80190.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ELECTRODIOFM.png",
     "country": "Switzerland",
     "tags": "electronic,dance,house,trance,club",
     "votes": 0
@@ -6224,7 +6224,7 @@
     "name": "Юмор FM",
     "url": "http://pub0101.101.ru:8000/stream/air/aac/64/102",
     "url_resolved": "http://pub0101.101.ru:8000/stream/air/aac/64/102",
-    "favicon": "https://www.veseloeradio.ru/design/images/assets/img/icons/touch-icon-ipad.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KOMOPFMRU.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 8840
@@ -6364,7 +6364,7 @@
     "name": "Radio Fantastika",
     "url": "http://fantasyradioru.no-ip.biz:8002/live",
     "url_resolved": "http://fantasyradioru.no-ip.biz:8002/live",
-    "favicon": "",
+    "favicon": "https://www.radio.net/300/fantastica.png",
     "country": "Russia",
     "tags": "fantasy,talk",
     "votes": 1486
@@ -6374,7 +6374,7 @@
     "name": "Радио Шоколад",
     "url": "https://choco.hostingradio.ru:10010/fm",
     "url_resolved": "https://choco.hostingradio.ru:10010/fm",
-    "favicon": "https://chocoradio.ru/favicon.ico",
+    "favicon": "https://radiobitva.ru/images/artists/radio-shokolad.jpg",
     "country": "Russia",
     "tags": "covers,hits,remake",
     "votes": 1366
@@ -6384,7 +6384,7 @@
     "name": "Питер FM (Piter FM)",
     "url": "https://icecast-piterfm.cdnvideo.ru/piterfm",
     "url_resolved": "https://icecast-piterfm.cdnvideo.ru/piterfm",
-    "favicon": "https://vote.mediastata.com/logos/16/pfm.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PIPERFMRU.png",
     "country": "Russia",
     "tags": "",
     "votes": 1318
@@ -6404,7 +6404,7 @@
     "name": "Серебряный Дождь",
     "url": "http://213.59.4.27:8000/silver128.mp3",
     "url_resolved": "http://213.59.4.27:8000/silver128.mp3",
-    "favicon": "https://silver.ru/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/101FMRU.jpg",
     "country": "Russia",
     "tags": "news talk music",
     "votes": 1166
@@ -6444,7 +6444,7 @@
     "name": "Радио Ретроклуб",
     "url": "http://retroclub.hostingradio.ru/retroclub128.aacp",
     "url_resolved": "http://retroclub.hostingradio.ru/retroclub128.aacp",
-    "favicon": "http://retroclub.online/images/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%A0%D0%B5%D1%82%D1%80%D0%BE%D0%BA%D0%BB%D1%83%D0%B1.jpg",
     "country": "Russia",
     "tags": "retro,talk",
     "votes": 807
@@ -6684,7 +6684,7 @@
     "name": "Pal Station",
     "url": "http://shoutcast.radyogrup.com:1020/",
     "url_resolved": "http://shoutcast.radyogrup.com:1020/",
-    "favicon": "https://ik.imagekit.io/eywz9hvpg/pal/media/station/1/logo_square.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/pal%20station106.png",
     "country": "Turkey",
     "tags": "",
     "votes": 3867
@@ -6744,7 +6744,7 @@
     "name": "TRT Radyo Haber",
     "url": "https://trt.radyotvonline.net/trthaber",
     "url_resolved": "https://trt.radyotvonline.net/trthaber",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/trthaberradyo.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTRADYOHABER.jpeg",
     "country": "Turkey",
     "tags": "news",
     "votes": 1036
@@ -6824,7 +6824,7 @@
     "name": "Radyo Banko",
     "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
     "url_resolved": "http://yayin.netradyom.com:9910/RADYOBANKO",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/taQQYVB6KU.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOBANKO.jpg",
     "country": "Turkey",
     "tags": "folk",
     "votes": 589
@@ -7044,7 +7044,7 @@
     "name": "Radyo Viva",
     "url": "https://radyoviva.radyotvonline.net/;",
     "url_resolved": "https://radyoviva.radyotvonline.net/;",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOV%C4%B0VA.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOViVA.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 59
@@ -7064,7 +7064,7 @@
     "name": "Show Radyo",
     "url": "http://showradyo.radyotvonline.net/showradyoaac/",
     "url_resolved": "http://showradyo.radyotvonline.net/showradyoaac/",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SHWRDY.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/showradyo.png",
     "country": "Turkey",
     "tags": "",
     "votes": 40
@@ -13504,7 +13504,7 @@
     "name": "Европа плюс",
     "url": "http://ep128server.streamr.ru:8030/ep128",
     "url_resolved": "http://ep128server.streamr.ru:8030/ep128",
-    "favicon": "https://radiomap.eu/2015/images/icon-120.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/EUROPAPLUS.jpg",
     "country": "Russia",
     "tags": "поп",
     "votes": 51895
@@ -13964,7 +13964,7 @@
     "name": "вести фм (Кузбасс)",
     "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps",
     "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps",
-    "favicon": "https://vesti42.ru/wp-content/uploads/2021/02/cropped-favicon-180x180.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BECTNFMRU.png",
     "country": "Russia",
     "tags": "новости",
     "votes": 275

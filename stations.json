@@ -50,6 +50,16 @@
     "votes": 0
   },
   {
+    "stationuuid": "26cf81e2-ccae-5423-8cc1-42a688bae3e1",
+    "name": "RADYO TRİO",
+    "url": "https://radyotrio.radyotvonline.net/radyotrio",
+    "url_resolved": "https://radyotrio.radyotvonline.net/radyotrio",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOTRIO.png",
+    "country": "Turkey",
+    "tags": "pop",
+    "votes": 0
+  },
+  {
     "stationuuid": "1eaa11aa-8bff-48c4-9336-02a0d76389aa",
     "name": "Erkam Radyo",
     "url": "https://api-tv5.yayin.com.tr:8002/mp3",
@@ -4394,8 +4404,8 @@
     "name": "Радио Русские Песни",
     "url": "http://listen.rusongs.ru/ru-mp3-128",
     "url_resolved": "http://listen.rusongs.ru/ru-mp3-128",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
-    "country": "Russian",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AMGRU.png",
+    "country": "Russia",
     "tags": "russian pop",
     "votes": 40
   },
@@ -4405,7 +4415,7 @@
     "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "news,politics,talk",
     "votes": 38
   },
@@ -4415,7 +4425,7 @@
     "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
     "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
     "favicon": "https://radiopotok.ru/f/station_webp/512/644.webp",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "news,talk",
     "votes": 37
   },
@@ -4425,7 +4435,7 @@
     "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "favicon": "https://www.radiobells.com/stations/dorognoe.webp",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "dorojnoe",
     "votes": 37
   },
@@ -4435,7 +4445,7 @@
     "url": "http://bookradio.hostingradio.ru:8069/fm",
     "url_resolved": "http://bookradio.hostingradio.ru:8069/fm",
     "favicon": "https://top-radio.ru/assets/image/radio/180/kniga.jpg",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "audiobooks,literature,talk,аудиокниги,литература",
     "votes": 37
   },
@@ -4445,7 +4455,7 @@
     "url": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
     "url_resolved": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE.png",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "",
     "votes": 38
   },
@@ -4455,7 +4465,7 @@
     "url": "https://abs.zaycev.fm/rus256k",
     "url_resolved": "https://abs.zaycev.fm/rus256k",
     "favicon": "https://top-radio.ru/assets/image/radio/180/zaycevrus.jpg",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "",
     "votes": 39
   },
@@ -4465,7 +4475,7 @@
     "url": "https://msk13.radio-holding.ru/marusya_default",
     "url_resolved": "https://msk13.radio-holding.ru/marusya_default",
     "favicon": "https://top-radio.ru/assets/image/radio/180/marusyafm.png",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "",
     "votes": 40
   },
@@ -4475,7 +4485,7 @@
     "url": "https://ru1.amgradio.ru/ruwave.aacp",
     "url_resolved": "https://ru1.amgradio.ru/ruwave.aacp",
     "favicon": "https://top-radio.ru/assets/image/radio/180/russkaya-volna.png",
-    "country": "Russian",
+    "country": "Russia",
     "tags": "",
     "votes": 41
   },
@@ -6780,6 +6790,16 @@
     "votes": 875
   },
   {
+    "stationuuid": "2b212ec70-9052-5c02-43b5-cfc9f4dd55d9",
+    "name": "DANCE MUSIC OF THE CITY",
+    "url": "https://stream.netradyom.com/radio/9300/radio.mp3",
+    "url_resolved": "https://stream.netradyom.com/radio/9300/radio.mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DANCEMUSICOFTHECITY.png",
+    "country": "Turkey",
+    "tags": "pop,müzik",
+    "votes": 0
+  },
+  {
     "stationuuid": "2c0a7b55-c481-49e5-8b1a-9339bb132fd1",
     "name": "Power Dance",
     "url": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
@@ -7128,6 +7148,16 @@
     "country": "Bulgaria",
     "tags": "classic hits",
     "votes": 14480
+  },
+    {
+    "stationuuid": "96165756-0602-12e8-ae98-53544be05c92",
+    "name": "DFM JUST DANCE",
+    "url": "http://b8e00b2e5592.sn.mynetname.net:8000/onefm",
+    "url_resolved": "http://b8e00b2e5592.sn.mynetname.net:8000/onefm",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMAZ.png",
+    "country": "Azerbaijan",
+    "tags": "Dance,Disco,Pop",
+    "votes": 14481
   },
   {
     "stationuuid": "963559d7-0601-11e8-ae97-52543be04c81",
@@ -7694,7 +7724,7 @@
     "name": "Pro FM",
     "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
     "url_resolved": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/jHxkEzUcwg.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ProFM.png",
     "country": "Romania",
     "tags": "pop,top 40",
     "votes": 10914
@@ -9669,6 +9699,26 @@
     "tags": "pop,top 40",
     "votes": 6832
   },
+    {
+    "stationuuid": "98986147-0691-16e8-ae57-54523be04c51",
+    "name": "MINIMAL RADIO",
+    "url": "https://minimalradio.online:8030/128.mp3",
+    "url_resolved": "https://minimalradio.online:8030/128.mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MINIMALRADIO.png",
+    "country": "Germany",
+    "tags": "Electro,House,Minimal,Techno",
+    "votes": 6838
+  },
+    {
+    "stationuuid": "94756147-06051-10e8-ae97-52243be04c44",
+    "name": "Sunshine Live",
+    "url": "https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495",
+    "url_resolved": "https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SLIVE.jpg",
+    "country": "Germany",
+    "tags": "",
+    "votes": 6832
+  },
   {
     "stationuuid": "960b364a-0601-11e8-ae97-52543be04c81",
     "name": "98.8 Kiss FM",
@@ -9754,7 +9804,7 @@
     "name": "N-JOY",
     "url": "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
     "url_resolved": "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/550/n-joy-radio.4de9599d.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADION-JOY.jpg",
     "country": "Germany",
     "tags": "pop",
     "votes": 702
@@ -13184,7 +13234,7 @@
     "name": "LBC News",
     "url": "https://media-ssl.musicradio.com/LBCNewsUK",
     "url_resolved": "https://media-ssl.musicradio.com/LBCNewsUK",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/919/lbc-news.78e78932.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LBCNEWS.jpeg",
     "country": "United Kingdom",
     "tags": "london,news,uk",
     "votes": 1524

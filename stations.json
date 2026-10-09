@@ -6464,7 +6464,7 @@
     "name": "Спутник ФМ",
     "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
     "url_resolved": "https://radio.mediacdn.ru/sputnik_fm.mp3",
-    "favicon": "https://bash.news/images/favicon/apple-touch-icon-120x120-precomposed.png",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/sputnikfm-ufa.png",
     "country": "Russia",
     "tags": "107,music,news,pop,ufa,уфа",
     "votes": 743
@@ -9904,7 +9904,7 @@
     "name": "MDR Sputnik",
     "url": "https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
     "url_resolved": "https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/086/mdr-sputnik.4c5cae05.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MDRSPUTNIK.jpg",
     "country": "Germany",
     "tags": "radio",
     "votes": 1972
@@ -9914,7 +9914,7 @@
     "name": "bigFM Tomorrowland One World Radio",
     "url": "https://stream.bigfm.de/tomorrowland/aac-64/mytuner",
     "url_resolved": "https://stream.bigfm.de/tomorrowland/aac-64/mytuner",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/628/bigfm-tomorrowland-one-world-radio.2d492d07.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ONEWORLDRADIOT.jpg",
     "country": "Germany",
     "tags": "radio",
     "votes": 1941
@@ -9924,7 +9924,7 @@
     "name": "NDR Blue",
     "url": "http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3",
     "url_resolved": "http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/198/ndr-blue.cffa2585.png",
+    "favicon": "https://www.radio.net/300/ndrblue.png",
     "country": "Germany",
     "tags": "jazz,live concert,pop,rock,soul",
     "votes": 1485
@@ -13984,7 +13984,7 @@
     "name": "Радио Sputnik (Россия) 256 кбит/с",
     "url": "https://icecast-rian.cdnvideo.ru/voicerushi",
     "url_resolved": "https://icecast-rian.cdnvideo.ru/voicerushi",
-    "favicon": "https://cdnn21.img.ria.ru/i/favicons/radiosputnik/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SPUTNIKRADIO.jpg",
     "country": "Russia",
     "tags": "radio",
     "votes": 1284

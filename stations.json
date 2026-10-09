@@ -234,7 +234,7 @@
     "name": "bigFM Sunset Lounge",
     "url": "https://stream.bigfm.de/russia/aac-64",
     "url_resolved": "https://stream.bigfm.de/russia/aac-64",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/687/bigfm-sunset-lounge.e3515c6d.jpg",
+    "favicon": "https://image.atsw.de/atsw/production/2024-06/bigfm_stream_cover_sunsetlounge.jpg",
     "country": "Germany",
     "tags": "Lounge,Easy Listening,Ambient,Chillout",
     "votes": 0
@@ -1224,7 +1224,7 @@
     "name": "Русские Песни (AMG Radio)",
     "url": "https://rusongs.amgradio.ru/rusongs?radio_net=",
     "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net=",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-russkie-pesni.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AMGRU.png",
     "country": "Russia",
     "tags": "Russian Music,Pop",
     "votes": 0
@@ -1254,7 +1254,7 @@
     "name": "Radio Chanson",
     "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "favicon": "https://www.radio.fr/175/chansonru.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADIOCHANSON.jpg",
     "country": "Russia",
     "tags": "Russian Music",
     "votes": 0
@@ -1274,7 +1274,7 @@
     "name": "Retro FM Russia Петро FM",
     "url": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
     "url_resolved": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
-    "favicon": "https://www.radio.net/175/retrofmrussland.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RetroFMRussia.jpg",
     "country": "Russia",
     "tags": "Oldies",
     "votes": 0
@@ -1284,7 +1284,7 @@
     "name": "Vesti FM Вести.RU",
     "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
     "url_resolved": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-    "favicon": "https://www.radio.net/300/vestifm.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VESTIFM.jpg",
     "country": "Russia",
     "tags": "News",
     "votes": 0
@@ -1294,7 +1294,7 @@
     "name": "Dorojnoe Radio",
     "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
     "url_resolved": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
-    "favicon": "https://www.radio.net/175/retrofmrussland.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DorojnoeRadio.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 0
@@ -1376,7 +1376,7 @@
     "url_resolved": "https://stream01.a1lounge.com/radio",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/axmafmdwbbjt.png",
     "country": "The Netherlands",
-    "tags": "Russia",
+    "tags": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/1ALANGUE.png",
     "votes": 0
   },
   {
@@ -1384,7 +1384,7 @@
     "name": "SRC FM",
     "url": "http://stream.src.fm:8335/stream",
     "url_resolved": "http://stream.src.fm:8335/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/097/src-fm.5fdc5bb5.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SRCFM.jpg",
     "country": "The Netherlands",
     "tags": "",
     "votes": 0
@@ -4274,7 +4274,7 @@
     "name": "DFM Chill-out",
     "url": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
     "url_resolved": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
-    "favicon": "https://www.radio.net/175/dfmchillout.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMChillout.jpg",
     "country": "Russia",
     "tags": "Chillout",
     "votes": 100
@@ -4294,7 +4294,7 @@
     "name": "DFM Russian Dance",
     "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
     "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-    "favicon": "https://www.radio.net/300/dfmrussiandance.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMRussianDance.jpg",
     "country": "Russia",
     "tags": "Electro",
     "votes": 101
@@ -4354,7 +4354,7 @@
     "name": "Шансон Радио",
     "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
     "url_resolved": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "favicon": "https://moscow.rekradio.ru/thumb/2/kFCS4kwoI9SIiqCO1XJvHw/r/d/reklama-na-radio-shanson.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CHANSONRU.png",
     "country": "Russia",
     "tags": "chanson",
     "votes": 58
@@ -6134,7 +6134,7 @@
     "name": "ROCK FM",
     "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
     "url_resolved": "http://nashe1.hostingradio.ru/rock-128.mp3",
-    "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ROCKFM.jpg",
     "country": "Russia",
     "tags": "classic rock,pop rock,rock",
     "votes": 58982
@@ -6164,7 +6164,7 @@
     "name": "Radio Ultra",
     "url": "http://nashe1.hostingradio.ru/ultra-192.mp3",
     "url_resolved": "http://nashe1.hostingradio.ru/ultra-192.mp3",
-    "favicon": "https://radioultra.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RadioUltra.jpg",
     "country": "Russia",
     "tags": "alternative,alternative rock,rock",
     "votes": 22058
@@ -6174,7 +6174,7 @@
     "name": "Радио Рекорд",
     "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
     "url_resolved": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
-    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RECORDDANCING.jpg",
     "country": "Russia",
     "tags": "music,news",
     "votes": 19975
@@ -6184,7 +6184,7 @@
     "name": "Радио Maximum",
     "url": "https://maximum.hostingradio.ru/maximum128.mp3",
     "url_resolved": "https://maximum.hostingradio.ru/maximum128.mp3",
-    "favicon": "https://maximum.ru/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PMaximum.png",
     "country": "Russia",
     "tags": "rock",
     "votes": 17577
@@ -6194,7 +6194,7 @@
     "name": "Mixadance FM",
     "url": "https://stream.mixadance.fm/mixadance",
     "url_resolved": "https://stream.mixadance.fm/mixadance",
-    "favicon": "http://www.mixadance.fm/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MixadanceFM.jpg",
     "country": "Russia",
     "tags": "dance,electro,electronic,house,music",
     "votes": 15972
@@ -6204,7 +6204,7 @@
     "name": "Коммерсантъ FM",
     "url": "http://kommersant77.hostingradio.ru:8016/kommersant64.mp3",
     "url_resolved": "http://kommersant77.hostingradio.ru:8016/kommersant64.mp3",
-    "favicon": "https://im.kommersant.ru/contentflex/images/favicons2020/apple-touch-icon-120.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RUBFM.jpg",
     "country": "Russia",
     "tags": "news",
     "votes": 15780
@@ -6214,7 +6214,7 @@
     "name": "Говорит Москва",
     "url": "http://media.govoritmoskva.ru:8880/ru64.mp3",
     "url_resolved": "http://media.govoritmoskva.ru:8880/ru64.mp3",
-    "favicon": "http://govoritmoskva.ru/static/images/logoGM_400x400.jpeg",
+    "favicon": "https://radiopotok.ru/f/station_webp/512/677.webp",
     "country": "Russia",
     "tags": "dorenko,moscow,news,talk",
     "votes": 14842
@@ -6244,7 +6244,7 @@
     "name": "HIT FM",
     "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
     "url_resolved": "https://hitfm.hostingradio.ru/hitfm96.aacp",
-    "favicon": "http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/XITFM.png",
     "country": "Russia",
     "tags": "dance,pop",
     "votes": 5469
@@ -6254,7 +6254,7 @@
     "name": "Business FM",
     "url": "https://bfm.hostingradio.ru:9075/fm",
     "url_resolved": "https://bfm.hostingradio.ru:9075/fm",
-    "favicon": "https://www.bfm.ru/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BFM.png",
     "country": "Russia",
     "tags": "business,business news,business programs",
     "votes": 4707
@@ -6284,7 +6284,7 @@
     "name": "Luxury Lounge",
     "url": "http://188.40.109.122:8000/ices3",
     "url_resolved": "http://188.40.109.122:8000/ices3",
-    "favicon": "https://lounge.luxury/img/apple-touch-icon.png?1",
+    "favicon": "https://lounge.luxury/img/apple-touch-icon.png",
     "country": "Russia",
     "tags": "chillout,lounge,meditation",
     "votes": 2787
@@ -6304,7 +6304,7 @@
     "name": "Радио Jazz",
     "url": "http://jfm1.hostingradio.ru:14536/jvstream.mp3",
     "url_resolved": "http://jfm1.hostingradio.ru:14536/jvstream.mp3",
-    "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://radiopotok.ru/f/station/256/308.png",
     "country": "Russia",
     "tags": "jazz vocal",
     "votes": 2218
@@ -6314,7 +6314,7 @@
     "name": "Известия",
     "url": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
     "url_resolved": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
-    "favicon": "https://cdn.iz.ru/profiles/portal/themes/purple/images/favicons/apple-icon.png",
+    "favicon": "https://radiopotok.ru/f/station/512/2288.png",
     "country": "Russia",
     "tags": "news,talk,новости,разговорное",
     "votes": 2202
@@ -6324,7 +6324,7 @@
     "name": "Пилот FM",
     "url": "https://online.pilotfm.ru/pilot",
     "url_resolved": "https://online.pilotfm.ru/pilot",
-    "favicon": "https://pilotfm.ru/apple-touch-icon-114x114.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/104FMRU.jpg",
     "country": "Russia",
     "tags": "pop music",
     "votes": 2040
@@ -6334,7 +6334,7 @@
     "name": "PromoDJ Too Deep",
     "url": "http://radio.promodj.com:8000/toodeep-192",
     "url_resolved": "http://radio.promodj.com:8000/toodeep-192",
-    "favicon": "https://cdn.promodj.com/legacy/i/favicon/favicon_180.png",
+    "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_49932.png",
     "country": "Russia",
     "tags": "deep house,too deep",
     "votes": 1944
@@ -6354,7 +6354,7 @@
     "name": "Русский Рок",
     "url": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
     "url_resolved": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
-    "favicon": "https://topradio.mobi/screen/1630414047_russkii_rok_moskva_rossiya.jpg",
+    "favicon": "https://radiopotok.ru/f/station_webp/512/1594.webp",
     "country": "Russia",
     "tags": "рок",
     "votes": 1772
@@ -6364,7 +6364,7 @@
     "name": "Musical Decadence",
     "url": "https://stream.musicaldecadence.ru/live",
     "url_resolved": "https://stream.musicaldecadence.ru/live",
-    "favicon": "https://www.radio.fr/podcast-images/175/musical-decadence-radio.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MDFPOTCAST.png",
     "country": "Russia",
     "tags": "#electro,#electronic-radio,#house,#techno",
     "votes": 1761
@@ -6471,10 +6471,10 @@
   },
   {
     "stationuuid": "fb9fdebb-73c9-450c-bd6d-18157738bef8",
-    "name": "Союз ФМ",
-    "url": "http://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633",
-    "url_resolved": "http://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633",
-    "favicon": "https://castnow.bigtunesradio.com/account/upload/stations/704150499.jpg",
+    "name": "SOUNDPARK DEEP",
+    "url": "https://h.getradio.me/spdeep/hls.m3u8",
+    "url_resolved": "https://h.getradio.me/spdeep/hls.m3u8",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/spdeep.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 723
@@ -6484,7 +6484,7 @@
     "name": "Пи FM",
     "url": "https://cdn.pifm.ru/mp3",
     "url_resolved": "https://cdn.pifm.ru/mp3",
-    "favicon": "http://pifm.ru/img/ico/96%D1%8596.png",
+    "favicon": "https://pi.fm/img/logonew.png",
     "country": "Russia",
     "tags": "dance",
     "votes": 710
@@ -6514,7 +6514,7 @@
     "name": "Высоцкий",
     "url": "https://rr-vysockij.hostingradio.ru/vysockij96.aacp",
     "url_resolved": "https://rr-vysockij.hostingradio.ru/vysockij96.aacp",
-    "favicon": "https://radio-onliner.ru/assets/images/radio/radio-vysockij.png",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/vyisoczkij-rusradio.webp",
     "country": "Russia",
     "tags": "шансон",
     "votes": 646
@@ -6534,7 +6534,7 @@
     "name": "Relax FM",
     "url": "http://ic4.101.ru:8000/stream/air/aac/64/200",
     "url_resolved": "http://ic4.101.ru:8000/stream/air/aac/64/200",
-    "favicon": "https://relax-fm.ru/design/images/img_for_design/icons/new/apple-touch-icon-precomposed.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RELAXFM.png",
     "country": "Russia",
     "tags": "",
     "votes": 336
@@ -6544,7 +6544,7 @@
     "name": "Dance FM Россия",
     "url": "https://listen3.myradio24.com/dmfm",
     "url_resolved": "https://listen3.myradio24.com/dmfm",
-    "favicon": "https://dance-radio.ru/images/736337.png",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/dance-fm-rossiya.png",
     "country": "Russia",
     "tags": "танцевальная,электронная",
     "votes": 316
@@ -6594,7 +6594,7 @@
     "name": "Радио СИ",
     "url": "https://online.radioc.ru/radioc",
     "url_resolved": "https://online.radioc.ru/radioc",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-si.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/103PCRU.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 202
@@ -6624,7 +6624,7 @@
     "name": "Comedy Radio",
     "url": "http://23.105.238.4/gpm-comedyradio495.aacp",
     "url_resolved": "http://23.105.238.4/gpm-comedyradio495.aacp",
-    "favicon": "https://comedy-radio.ru/design/images/logo/apple-touch-icon-180.png?v=2",
+    "favicon": "https://comedy-radio.ru/design/images/logo/apple-touch-icon-180.png",
     "country": "Russia",
     "tags": "",
     "votes": 8
@@ -6634,7 +6634,7 @@
     "name": "Virgin Radio Türkiye",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO128AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO128AAC_SC",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VIRGINRADYOTURKIYE.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/virginradyot%C3%BCrkiye.jpg",
     "country": "Turkey",
     "tags": "pop rock",
     "votes": 20498
@@ -13544,7 +13544,7 @@
     "name": "Ретро FM",
     "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
     "url_resolved": "http://retroserver.streamr.ru:8043/retro256.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/ru/c/cb/RetroFM.png?utm_source=ru.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "favicon": "https://upload.wikimedia.org/wikipedia/ru/c/cb/RetroFM.png",
     "country": "Russia",
     "tags": "classic hits,moscow,music,pop,retro,russia",
     "votes": 55486

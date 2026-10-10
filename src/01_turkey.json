@@ -551,10 +551,10 @@
   },
   {
     "stationuuid": "14797ffb-2fdd-4a54-9748-e96486914dd2",
-    "name": "RADYO Akdeniz",
+    "name": "Radyo Akdeniz",
     "url": "https://yayin.radyoakdeniz.com/9470/stream",
     "url_resolved": "https://yayin.radyoakdeniz.com/9470/stream",
-    "favicon": "hhttps://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOAKDENIZ.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOAKDENIZ.jpg",
     "country": "Turkey",
     "tags": "",
     "votes": 180

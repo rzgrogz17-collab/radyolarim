@@ -1,0 +1,1002 @@
+[
+  {
+    "stationuuid": "850723b8-24a6-4dca-add8-b0da39db7d39",
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "url_resolved": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/327/cool-fahrenheit-93-fm.2ff81618.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 4108
+  },
+  {
+    "stationuuid": "d8f5ee23-374a-42a3-8ba2-cb96450b27af",
+    "name": "Top News (Live1 - Low 240p)",
+    "url": "https://live.topnews.co.th/hls/topnews_a_240.m3u8",
+    "url_resolved": "https://live.topnews.co.th/hls/topnews_a_240.m3u8",
+    "favicon": "https://images.topnews.co.th/2024/05/k1LkuFWT-logo.png",
+    "country": "Thailand",
+    "tags": "hls video,news,political,politics,politics & current affairs,tv",
+    "votes": 875
+  },
+  {
+    "stationuuid": "f221453e-e44d-4dbb-8409-298d65907aff",
+    "name": "KRB Radio 1",
+    "url": "https://radio1.ohmi-design.com/8086/;",
+    "url_resolved": "https://radio1.ohmi-design.com/8086/;",
+    "favicon": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+    "country": "Thailand",
+    "tags": "blind radio,country music,news",
+    "votes": 26
+  },
+  {
+    "stationuuid": "00635b1c-49b1-4b38-88f6-f924e8f45af8",
+    "name": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (FM 92.5 MHz)",
+    "url": "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8",
+    "url_resolved": "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8",
+    "favicon": "https://nbtplus.prd.go.th/assets/image/logo.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 5
+  },
+  {
+    "stationuuid": "f2765c5d-4236-4b85-98aa-fcd1d8964a42",
+    "name": "NBT2HD",
+    "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+    "url_resolved": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+    "favicon": "https://nbt2hd.prd.go.th/th/file/get/file/20250426cd13a0bc7debcb7df74d2f8c3d183858103515.jpg",
+    "country": "Thailand",
+    "tags": "government,news,thailand",
+    "votes": 3
+  },
+  {
+    "stationuuid": "9cd8439a-00ec-44ec-9172-eed18e86d8a2",
+    "name": "RequestRadio เพื่อชีวิต (Alt)",
+    "url": "https://ozone2.javmemory.com/Forlife.mp3",
+    "url_resolved": "https://ozone2.javmemory.com/Forlife.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/457/sthaaniiephlngstring-request-radio.10c639f4.jpg",
+    "country": "Thailand",
+    "tags": "country music,folk music",
+    "votes": 3
+  },
+  {
+    "stationuuid": "08675eea-4c22-486d-920d-1bb997ed819e",
+    "name": "106 Family News Radio",
+    "url": "https://radio11.plathong.net/7138/;stream.mp3",
+    "url_resolved": "https://radio11.plathong.net/7138/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 1235
+  },
+  {
+    "stationuuid": "d54c5fa1-b129-410a-8eac-c76ec6daa734",
+    "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3",
+    "url_resolved": "https://radio10.plathong.net/7590/;stream.mp3",
+    "favicon": "https://banmairadio.com/images/logo.png",
+    "country": "Thailand",
+    "tags": "music",
+    "votes": 272
+  },
+  {
+    "stationuuid": "6b4b72d2-151a-4bf5-abd1-0f137a4465dd",
+    "name": "City Radio Pattaya",
+    "url": "https://media.onair.one:8200/stream/1/?v=1769497160087",
+    "url_resolved": "https://media.onair.one:8200/stream/1/?v=1769497160087",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/156/city-radio-pattaya.ea03ead4.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 107
+  },
+  {
+    "stationuuid": "a3fa76c9-30d4-4abc-bd2f-fda28281bbee",
+    "name": "Radio Samui",
+    "url": "https://stream.mixadance.fm/radiosamui",
+    "url_resolved": "https://stream.mixadance.fm/radiosamui",
+    "favicon": "https://radiosamui.online/assets/favicon.png",
+    "country": "Thailand",
+    "tags": "dj sets,hits,world music",
+    "votes": 6
+  },
+  {
+    "stationuuid": "fc9e4e8a-b636-4268-96d1-150a82c840f0",
+    "name": "Green Wave 106.5 FM",
+    "url": "https://atimeonline2.smartclick.co.th/green",
+    "url_resolved": "https://atimeonline2.smartclick.co.th/green",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/815/green-wave-1065-fm.72ebc608.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4007a4c3-0abb-4f86-a126-30b253ef4f39",
+    "name": "FLEX 104.5 FM",
+    "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "url_resolved": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/198/flex-1045-fm.aede0a20.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "10101d90-b758-4561-a54d-ee9aaf9ef32b",
+    "name": "EFM 94.0",
+    "url": "https://atimeonline3.smartclick.co.th/efm",
+    "url_resolved": "https://atimeonline3.smartclick.co.th/efm",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/814/efm-1045.917de03a.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "83f1d19b-5c49-4523-b325-209858c76b84",
+    "name": "90 ลูกทุ่ง รักไทย",
+    "url": "https://radio11.plathong.net/8896/;stream.mp3",
+    "url_resolved": "https://radio11.plathong.net/8896/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/172/90-luukthung-rakaithy.db0b0052.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "23683d4a-4b12-4ec2-9d21-4cd980a78280",
+    "name": "93.5 Top Radio FM",
+    "url": "https://a10.asurahosting.com:8250/radio.mp3",
+    "url_resolved": "https://a10.asurahosting.com:8250/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/178/935-top-radio-fm.80355d64.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8d6882b4-87cc-4631-8d0a-33fa4d499cb5",
+    "name": "FM 96.5 คลื่นความคิด Thinking Radio",
+    "url": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+    "url_resolved": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/367/fm-965-khluuenkhwaamkhid-thinking-radio.c01e225c.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4ac29e54-37b6-4945-a7e9-d0d20a7dcc94",
+    "name": "GREAT 93 | ONLINE",
+    "url": "https://radio.vpsthai.net/proxy/qndrbfic/stream2",
+    "url_resolved": "https://radio.vpsthai.net/proxy/qndrbfic/stream2",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/662/great-93.ba949606.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4c7d59e7-f212-46cc-85dc-91cb2fb7ae25",
+    "name": "FM 95 ลูกทุ่งมหานคร อสมท",
+    "url": "https://play-fm95.mcot.net/fm95/fm95.m3u8",
+    "url_resolved": "https://play-fm95.mcot.net/fm95/fm95.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/379/fm-95-luukthungmhaankhr-smth.fce400b5.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "55e5efcc-12a5-4dbc-854b-7613ee0600b3",
+    "name": "สวพ FM 91",
+    "url": "http://122.155.16.48:8955/;stream.mp3",
+    "url_resolved": "http://122.155.16.48:8955/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/174/swph-fm-91.ef2d88ca.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bffb7cb7-20a8-4298-8555-4d8794902f18",
+    "name": "ลูกทุ่งเน็ตเวิร์  (Looktung Network)",
+    "url": "http://media.login.in.th:8200/;stream.mp3",
+    "url_resolved": "http://media.login.in.th:8200/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/796/luukthungentewir-looktung-network.c0cfedaf.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c5a6e42c-595d-4064-ad31-693aede6a533",
+    "name": "BP สตริง 90",
+    "url": "http://103.22.182.105:8244/;",
+    "url_resolved": "http://103.22.182.105:8244/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/228/bp-radio-hd.859c367d.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "42d8e123-819e-472b-90da-62cacbd784d0",
+    "name": "Yesterday Radio",
+    "url": "http://radio4.thzhost.com:4122/;",
+    "url_resolved": "http://radio4.thzhost.com:4122/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/615/yesterday-1065-fm.3cb43bf3.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4ed16a16-4cf0-4839-88ee-11ea5c4e3c54",
+    "name": "สถานีเพลงเพื่อชีวิต Request Radio For Life",
+    "url": "https://ozone2.javmemory.com/Forlife.mp3",
+    "url_resolved": "https://ozone2.javmemory.com/Forlife.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/613/sthaaniiephlngephuuechiiwit-request-radio-for-life.8dc0c581.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "661f9e86-5cbe-4c29-afc2-5326c51489cf",
+    "name": "สถานีเพลงลูกทุ่ง Request Radio Country Music",
+    "url": "https://ozone2.javmemory.com/Looktung.mp3",
+    "url_resolved": "https://ozone2.javmemory.com/Looktung.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/456/sthaaniiephlngluukthung-request-radio-country-music.8dc0c581.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6d864258-1990-4c7f-8859-7a8fd77cb502",
+    "name": "Ondio New",
+    "url": "http://112.121.150.133:8020/stream",
+    "url_resolved": "http://112.121.150.133:8020/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/158/ondio-new.1725b193.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a032ec47-044a-4d23-ae6c-4b9c18843020",
+    "name": "YES Radio (TH Only)",
+    "url": "http://27.254.65.244:8000/;",
+    "url_resolved": "http://27.254.65.244:8000/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/396/yes-radio-thai-family.cd482f69.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "451eae04-fe53-4b6c-81f3-3e4c40ee4a6c",
+    "name": "FM 100.5 News",
+    "url": "https://play-fm1005.mcot.net/fm1005/fm1005.m3u8",
+    "url_resolved": "https://play-fm1005.mcot.net/fm1005/fm1005.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/381/fm-1005-news.6efa9833.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b4fa498f-90d2-4ef0-b4d9-ccce23908a0e",
+    "name": "Smooth FM 105.5",
+    "url": "https://play-fm1055.mcot.net/fm1055/fm1055.m3u8",
+    "url_resolved": "https://play-fm1055.mcot.net/fm1055/fm1055.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/345/smooth-fm-1055.3931f0a7.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3b018602-e155-4181-b9fe-a4b572e48336",
+    "name": "บุญมา พันดวง (Boonma FM)",
+    "url": "http://radio10.plathong.net:7030/;stream.mp3",
+    "url_resolved": "http://radio10.plathong.net:7030/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/178/buymaa-phandwng.f0bc4fa2.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a92f87d1-9ac0-4a8a-a103-d2beb3b239f6",
+    "name": "onairPLUS | PattayaMundee.com FM91 - พัทยามันดี",
+    "url": "https://media.onair.one:8100/OBdirect",
+    "url_resolved": "https://media.onair.one:8100/OBdirect",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/260/fm91-pattaya-mun-d.3630640c.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "70a98461-f406-4325-bd59-bea375687fcd",
+    "name": "MUNforward",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8730",
+    "url_resolved": "https://cdn-th2.livestreaming.in.th/shoutcast/8730",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/370/munfoward.4cdee177.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7cd57c53-5ba6-40ac-b102-7078cd654d6c",
+    "name": "Hotwave Online",
+    "url": "https://atimeonline3.smartclick.co.th/hotwave",
+    "url_resolved": "https://atimeonline3.smartclick.co.th/hotwave",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/179/hotwave-online.1fdd400e.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4027d32b-4607-46a7-9f8e-49d49ac142f7",
+    "name": "90.5 Smart News มิติข่าว",
+    "url": "https://live1.smartbomb.co.th/live",
+    "url_resolved": "https://live1.smartbomb.co.th/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/328/905-smart-news-mitikhaaw.b742cb9c.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "46ce1b7c-8b55-4855-8ce8-5395f7c146c2",
+    "name": "เดอะช็อค The Shock 101",
+    "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "url_resolved": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/169/the-shock-fm101.d8f9571b.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4892fbd0-4b55-43b9-b77b-2aece48acae6",
+    "name": "MUNforward Xtra",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+    "url_resolved": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/870/munforward-xtra.e50bd44b.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7b258d49-0bf8-4ab0-9515-7b0b757e8784",
+    "name": "Rad Radio 89.5 FM",
+    "url": "http://radio1.serverradio.net:8592/;",
+    "url_resolved": "http://radio1.serverradio.net:8592/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/972/rad-radio-895.c8df5d1a.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e6646626-5ac2-4715-811a-1e8f6c6954d1",
+    "name": "Huahin Radio Thailand เพลงลูกทุ่ง",
+    "url": "https://radio10.plathong.net/7008/;stream.mp3",
+    "url_resolved": "https://radio10.plathong.net/7008/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/043/ephlngluukthung-huahin-radio.c6db6f26.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "be0094d5-119a-4620-9bf2-eec36b50b71e",
+    "name": "Thai Music",
+    "url": "https://listen.thai-radio.net/trlq",
+    "url_resolved": "https://listen.thai-radio.net/trlq",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/637/thai-music.7b855e88.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "080ff70c-18ad-4dee-b48e-726d0542cfc1",
+    "name": "เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ",
+    "url": "http://43.229.135.187:8040/;",
+    "url_resolved": "http://43.229.135.187:8040/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/894/ephlngluukthunghmlam-kantruem-aithylaannaaerdio.123895e8.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e01740cf-2d94-4002-b9f2-118578f2d5fb",
+    "name": "Chula Radio Plus",
+    "url": "https://radiolive.car.chula.ac.th/hls/live_aac.m3u8",
+    "url_resolved": "https://radiolive.car.chula.ac.th/hls/live_aac.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/308/chula-radio-plus.75abd027.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7d2044ed-c499-408d-aca1-6ffec90cb4ca",
+    "name": "Surf Radio",
+    "url": "https://stream.surf.radio/surf1025",
+    "url_resolved": "https://stream.surf.radio/surf1025",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/452/surf-1025-fm.f2a7db1b.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e1bf2943-a971-4085-836b-3e1af160e265",
+    "name": "PassionFM by ONAIR PLUS Thailand",
+    "url": "https://media.onair.one:8170/my",
+    "url_resolved": "https://media.onair.one:8170/my",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/841/passion-fm-pattaya.c73d5f2c.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d7f7c09c-6751-4ee9-9b38-a2b70d9b1a3c",
+    "name": "NBT - Radio Thailand 88 FM",
+    "url": "https://a8.asurahosting.com:7250/radio.mp3",
+    "url_resolved": "https://a8.asurahosting.com:7250/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/256/nbt-radio-thailand-88-fm.a24ab2eb.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b595e02d-8c9a-4f8c-8a20-3fb07f54a637",
+    "name": "GREAT 93 | ONAIR",
+    "url": "https://radio.vpsthai.net/proxy/fbpiaobw/stream",
+    "url_resolved": "https://radio.vpsthai.net/proxy/fbpiaobw/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/682/great-online-thailand.5a600f1b.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8a6c3db4-2ddf-46b7-a099-c1972fb1ec63",
+    "name": "เพลงลูกทุ่ง ล้านนาเรดิโอ",
+    "url": "http://43.229.135.187:8000/;",
+    "url_resolved": "http://43.229.135.187:8000/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/610/ephlngluukthung-laannaaerdio.6289398a.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3eea341d-57d8-47c5-bcf0-17200a4fa621",
+    "name": "Friends Bangkok",
+    "url": "https://c14.radioboss.fm:8369/stream",
+    "url_resolved": "https://c14.radioboss.fm:8369/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/226/friends-bangkok.47f2124f.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cc67bd55-e51a-4ade-8ba2-a01a81368763",
+    "name": "Love FM 107",
+    "url": "http://radio10.plathong.net:7296/;",
+    "url_resolved": "http://radio10.plathong.net:7296/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/491/love-fm-107.3b7b5b7f.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f22995d3-6362-42f9-8c9c-ec46e5b5f8bf",
+    "name": "XFM 91.0",
+    "url": "https://radio12.plathong.net/7360/;stream.mp3",
+    "url_resolved": "https://radio12.plathong.net/7360/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/956/xfm-945.fd646c2e.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "97aed340-8ee3-4505-8ea8-2ff0d508c8dd",
+    "name": "98 อีสาน เอฟเอ็ม",
+    "url": "http://radio11.plathong.net:8900/;stream.mp3",
+    "url_resolved": "http://radio11.plathong.net:8900/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/697/98-iisaan-efem.61e86d89.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f3276c79-626c-4748-8780-bf265099904b",
+    "name": "Musichitz Station Thailand",
+    "url": "https://hp2.hostpleng.cloud/8122/live",
+    "url_resolved": "https://hp2.hostpleng.cloud/8122/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/241/radio-music-hitz.930c481b.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2c8aa3f0-fd29-4498-8d20-1d3f9895a712",
+    "name": "รักษ์ปักษ์ใต้เรดิโอ",
+    "url": "https://radio10.plathong.net/7100/;stream.mp3",
+    "url_resolved": "https://radio10.plathong.net/7100/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/406/rakspaksait-erdio.a2e89035.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "acb3249c-ff21-48b7-9d56-318a15fda20a",
+    "name": "เพลงลูกทุ่ง Looktung Eingdoi Station",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/816/ephlngluukthung-looktung-eingdoi-station.28ce6084.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dfb34c7f-b8d3-4837-a6a8-ccf20197faad",
+    "name": "Musichitz Radio Looktung ฟังเพลงลูกทุ่งออนไลน์ 24 ชั่วโมง",
+    "url": "https://hp2.hostpleng.cloud/9386/live",
+    "url_resolved": "https://hp2.hostpleng.cloud/9386/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/188/musichitz-radio-looktug.ac692616.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "20131cac-7983-4b3e-bf7c-650ff2834efb",
+    "name": "Good. 95.5 Hatyai",
+    "url": "https://a.hostpleng.cloud/8062/live",
+    "url_resolved": "https://a.hostpleng.cloud/8062/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/784/good-955-hatyai.b9f2096f.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "99e300f4-d4eb-4fa6-8ad0-86864d1cb45c",
+    "name": "Musichitz Radio Inter",
+    "url": "https://hp2.hostpleng.cloud/8006/live",
+    "url_resolved": "https://hp2.hostpleng.cloud/8006/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/187/musichitz-radio-inter.1312996b.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "007e92cf-632c-411d-a2d9-f025200c3e5d",
+    "name": "Wat",
+    "url": "http://radio1.siamlivehost.com:8001/;",
+    "url_resolved": "http://radio1.siamlivehost.com:8001/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/094/wat.ea59a8ed.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "23022593-6c2a-4a79-90d3-92500cacdbd2",
+    "name": "CH19 FM",
+    "url": "http://103.22.182.104:7000/;stream.mp3",
+    "url_resolved": "http://103.22.182.104:7000/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/996/ch19-fm.94817783.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "febb334e-e34a-436f-94ab-678ba82149e1",
+    "name": "onairPLUS | PassionFM Hatyai Songkhla",
+    "url": "https://media.onair.one/8170/my/;",
+    "url_resolved": "https://media.onair.one/8170/my/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/499/onair-plus-hatyai-songkhla.59dffa1b.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "53537aac-b2ec-4511-8c18-15ac9b580d35",
+    "name": "102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ",
+    "url": "http://media.login.in.th:1100/;stream.mp3",
+    "url_resolved": "http://media.login.in.th:1100/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/344/102-radio-sthaaniiwithyukracchaayesiiyng-khsthb.33a0c429.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a175e5ae-929e-43c4-9abd-d14f75a3e563",
+    "name": "104 GREEN FM",
+    "url": "https://radio14.plathong.net/7072/;stream.mp3",
+    "url_resolved": "https://radio14.plathong.net/7072/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/342/104-green-fm.d3d8dfee.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a6c988f7-fe31-4179-a2aa-a48848a4777c",
+    "name": "onairPLUS | 106.25 FM สถานีวิทยุอำเภอสะเดา จังหวัดสงขลา",
+    "url": "https://media.onair.one:8010/10625",
+    "url_resolved": "https://media.onair.one:8010/10625",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/262/onairplus-10625-fm-hatyai.b8d9d906.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c0a05410-dd56-4363-ac67-f3e7ebbc97ce",
+    "name": "8090 Music",
+    "url": "https://8090music.duckdns.org/listen/8090_music/radio.mp3",
+    "url_resolved": "https://8090music.duckdns.org/listen/8090_music/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/504/8090-radio.6feb889d.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b11417b6-e178-46dc-b18b-04b19afc8397",
+    "name": "onairPLUS | 93 MASS FM Hatyai",
+    "url": "https://media.onair.one:8008/mass",
+    "url_resolved": "https://media.onair.one:8008/mass",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/305/93-mass-fm-amephhaadaihy.3e25ab03.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4fcc6490-1b3d-43bf-a937-ea9dc0a0b9d9",
+    "name": "94FMCLUB HATYAI",
+    "url": "https://media.onair.one:8130/94fmclub",
+    "url_resolved": "https://media.onair.one:8130/94fmclub",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/718/94fmclub-hatyai.bc4ac534.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f4aae8fd-66c0-43d6-abd0-7b21b0a060e9",
+    "name": "95.5 Mhz สวท.สุราษฎร์ธานี Surat Thani",
+    "url": "https://radio-org-01-ott.prd.go.th/sni_fm95_50",
+    "url_resolved": "https://radio-org-01-ott.prd.go.th/sni_fm95_50",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/326/955-mhz-swthsuraasdrthaanii-surat-thani.2cb59bfa.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0ae884b2-0620-4fc9-98bf-b6c5e4b04324",
+    "name": "YES Radio 106 FM Phuket",
+    "url": "http://radio1.comgig.com:4096/;stream.m4a",
+    "url_resolved": "http://radio1.comgig.com:4096/;stream.m4a",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/926/97-mazz-radio.86892454.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "14e22e10-ba3f-402c-9a30-a78ce294de6d",
+    "name": "97 Tourist Station",
+    "url": "https://a.hostpleng.cloud/8062/live.mp3",
+    "url_resolved": "https://a.hostpleng.cloud/8062/live.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/593/97-tourist-station.ca54bc66.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "072bcb70-c4bd-4974-9e3b-610953bc2d5d",
+    "name": "แม่คำมี FM 88.75 MHZ. แพร่",
+    "url": "https://radio1.ohmi-design.com/9056/stream1",
+    "url_resolved": "https://radio1.ohmi-design.com/9056/stream1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/682/aemkhammii-fm-8875-mhz-aephr.2388b096.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "55b32f66-9dc2-4833-8380-d0a70786b4ca",
+    "name": "onairPLUS | AM City Radio Pattaya",
+    "url": "https://media.onair.one:8200/stream/3/;",
+    "url_resolved": "https://media.onair.one:8200/stream/3/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/465/am-city-radio-pattaya-radio-pattaya.88b29437.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4bcd2b27-e485-42ff-9920-7f83c3b282c5",
+    "name": "onairPLUS | AM Passion Radio Thailand",
+    "url": "https://media.onair.one:8170/am",
+    "url_resolved": "https://media.onair.one:8170/am",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/466/am-passion.42eef415.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2d75a70d-a77d-41df-8054-707c6fe76ea2",
+    "name": "Anurak Radio คลื่นเพื่อการอนุรักษ์",
+    "url": "https://radio14.plathong.net/7306/;stream.mp3",
+    "url_resolved": "https://radio14.plathong.net/7306/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/506/anurak-radio.c56ffdcf.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b872aaae-6be4-43c0-8f8b-6b286b99e06c",
+    "name": "Beats FM",
+    "url": "https://radio14.plathong.net/7208/;stream.mp3",
+    "url_resolved": "https://radio14.plathong.net/7208/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/791/beats-fm2.e9b3865d.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2444dbd5-208b-4b15-8c0b-58a03f462dd7",
+    "name": "Bestradio 89.0 FM",
+    "url": "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;",
+    "url_resolved": "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/yyjt8zesmlt7.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "452d0124-4409-471c-8715-cda162ef6f03",
+    "name": "BKK.FM",
+    "url": "https://rsas.bkk.fm/radio",
+    "url_resolved": "https://rsas.bkk.fm/radio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ftnqxpw4uzeh.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c09f50ee-1796-4282-adf9-1b8037eab1aa",
+    "name": "BTU Radio",
+    "url": "https://stream.zeno.fm/knt9oytxsluuv",
+    "url_resolved": "https://stream.zeno.fm/knt9oytxsluuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/337/bturadio.99bb3504.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1428480d-3280-45ca-8f2f-550be60d2f1f",
+    "name": "Capitol FM",
+    "url": "http://atlanticthai.primcast.com:5898/;",
+    "url_resolved": "http://atlanticthai.primcast.com:5898/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/NvUAj9bf8W.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "13f6dd19-60e8-438c-8e19-6ee5fa9f6499",
+    "name": "Chili Classics Thailand",
+    "url": "https://stream.chiliradio.app/chiliclassics",
+    "url_resolved": "https://stream.chiliradio.app/chiliclassics",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gzj7ykju83b3.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d851baea-0c6f-4f95-9ddc-397a47859bd4",
+    "name": "Chili Radio Thailand",
+    "url": "https://stream.chiliradio.app/chilipop",
+    "url_resolved": "https://stream.chiliradio.app/chilipop",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/359/chili-pop-thailand.7e26fc7c.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4a26e6df-51c2-4ce3-a196-38cab4f35d63",
+    "name": "CITY PATTAYA FLAC RADIO",
+    "url": "https://media.onair.one:8030/CTFLAC",
+    "url_resolved": "https://media.onair.one:8030/CTFLAC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/490/city-pattaya-flac-radio.8f2a5df1.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7254bead-6431-4349-89c2-a67f48b89361",
+    "name": "CityLife Radio Si Racha",
+    "url": "https://radio14.plathong.net/8076/;stream.mp3",
+    "url_resolved": "https://radio14.plathong.net/8076/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/205/citylife-fm.19a6baf5.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b434255e-5862-4744-a29d-15670be78e9d",
+    "name": "ดนตรีสีสัน 98.75 เชียงใหม่",
+    "url": "https://hp2.hostpleng.cloud/8203/stream",
+    "url_resolved": "https://hp2.hostpleng.cloud/8203/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/562/dntriisiisan-9875-echiiyngaihm.ae3df35e.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a43693d7-7d37-4a4f-8763-a13c315e4c98",
+    "name": "DOH Radio Online",
+    "url": "https://listen.radioking.com/radio/914961/stream/985876",
+    "url_resolved": "https://listen.radioking.com/radio/914961/stream/985876",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/157/doh-radio-online.5f36b931.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0f0fb14b-356f-4b9e-aabf-e56ffc0aef32",
+    "name": "เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ",
+    "url": "https://radio10.plathong.net/7100/;stream.mp3",
+    "url_resolved": "https://radio10.plathong.net/7100/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/519/ephlngluukthung-cchakkacchiierdio.eb567791.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4e0d913c-626c-43ea-b827-d529b2339b30",
+    "name": "เพื่อนเพลงสเตชั่น",
+    "url": "http://server1.lannaradio.com:8000/;",
+    "url_resolved": "http://server1.lannaradio.com:8000/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/738/ephuuenephlngsetchan.516708ad.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cded48d4-fe98-4391-a97d-f1437e297d9e",
+    "name": "Ê¶Ò¹ÕÇÔ·ÂØàÊÕÂ§¨Ò¡·ËÒÃàÃ×Í15",
+    "url": "http://radio12.plathong.net:9934/;",
+    "url_resolved": "http://radio12.plathong.net:9934/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/957/nova.39989907.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8b207d13-341c-4d74-b2c3-0693ad5f6594",
+    "name": "Fab Radio",
+    "url": "https://4146.radio2.thzhost.com/;",
+    "url_resolved": "https://4146.radio2.thzhost.com/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ZWf6QKX5Pc.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8e790af7-66b9-403c-9810-32816f11b73b",
+    "name": "Farclubradio",
+    "url": "https://radio14.plathong.net/7030/;stream.mp3",
+    "url_resolved": "https://radio14.plathong.net/7030/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/NSqcBWyWsA.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4804bfad-91e4-4437-be5a-abb13bc96bb4",
+    "name": "Fat 93 Radio เชียงราย",
+    "url": "https://hp1.hostpleng.cloud/8272/stream",
+    "url_resolved": "https://hp1.hostpleng.cloud/8272/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/246/fat-93-radio-echiiyngraay.2f9f2388.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fe63af79-d0f4-4971-9160-fe330e1b37b5",
+    "name": "FM 103.0 Pramong Chiang Rai",
+    "url": "http://lnwradio.hostsevenplus.com:9568/;",
+    "url_resolved": "http://lnwradio.hostsevenplus.com:9568/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/taywtutbuvas.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f6b6b049-c883-48f6-9bc4-ab97cc8df141",
+    "name": "FM 107.75 - วิทยุกองทัพภาคที่ 4 หาดใหญ่ สงขลา",
+    "url": "https://plus.onair.network:8010/STUINDY.mp3",
+    "url_resolved": "https://plus.onair.network:8010/STUINDY.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/052/fm-10775-withyukngthaphphaakhthii-4-haadaihy-sngkhlaa.d9af49c1.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3be7b494-12d5-481b-904a-aab7b2b06f67",
+    "name": "FM 88.7",
+    "url": "http://radio12.plathong.net:8206/;",
+    "url_resolved": "http://radio12.plathong.net:8206/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wyapnat8rfcc.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "29f6ae78-c143-48d0-9111-d51a22146919",
+    "name": "onairPLUS | ดนตรีสีสัน หาดใหญ่ สงขลา ฟังเพลง 24 ชั่วโมง",
+    "url": "https://media.onair.one:8170/radio.mp3",
+    "url_resolved": "https://media.onair.one:8170/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/509/fm895-onair-hatyai-radio-thailand-nbt-songkhla.a48893bf.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c5677353-8551-4872-8ee0-b276b4ff4506",
+    "name": "FM 97.25 Techno Radio",
+    "url": "http://media.login.in.th:8080/;stream.mp3",
+    "url_resolved": "http://media.login.in.th:8080/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/839/miami-beach-radio.d8d9642a.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "597ba389-968b-4a9b-a0e8-42409bf82c40",
+    "name": "FM 101 Talk",
+    "url": "http://media.login.in.th:8135/;stream.mp3",
+    "url_resolved": "http://media.login.in.th:8135/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/383/fm-101-talk.76f9fe55.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "162eedda-9a19-4d20-9ef9-b8aed282d117",
+    "name": "FM88 Nongkhai Radio",
+    "url": "https://radio14.plathong.net/7114/;stream.mp3",
+    "url_resolved": "https://radio14.plathong.net/7114/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/403/fm88-nongkhai-radio.3c1396af.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1b121fb8-246a-42c2-9f97-7137e1c0e313",
+    "name": "onairPLUS | FM 89 ไอแอมเรดิโอ วิทยุ ลพบุรี  I'm Radio 89FM Lopburi.",
+    "url": "https://media.onair.one:8030/fm89",
+    "url_resolved": "https://media.onair.one:8030/fm89",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/507/fm89-i-am-radio-lop-buri.e5c7dc80.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "10186042-9424-4f1c-b716-9c9fc5f58729",
+    "name": "onairPLUS | LoveRadio Pattani เลิฟเรดิโอ ปัตตานี",
+    "url": "https://media.onair.one:8090/onair",
+    "url_resolved": "https://media.onair.one:8090/onair",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/508/fm93-love-radio-pattani.ad55aeb7.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cda847d1-69ec-4afa-9a99-d7b117a33fbc",
+    "name": "Fung Fung Fung Bangkok",
+    "url": "https://media.onair.one:8170/my",
+    "url_resolved": "https://media.onair.one:8170/my",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/492/fung-fung-fung-bangkok.57342413.jpg",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "60bf4f8e-9a3d-4da1-8465-2347c854fdd2",
+    "name": "GBN US Channel",
+    "url": "https://us.gbnus.com/live/th_sound.stream/playlist.m3u8",
+    "url_resolved": "https://us.gbnus.com/live/th_sound.stream/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/qy52ezxawspc.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "740115f3-7152-4a36-86ea-2d0295b51c51",
+    "name": "Gift Angel Radio",
+    "url": "https://streaming1.zimple.cloud/stream/4022/;",
+    "url_resolved": "https://streaming1.zimple.cloud/stream/4022/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/428/gift-angel-radio.eac0f94a.png",
+    "country": "Thailand",
+    "tags": "radio",
+    "votes": 0
+  }
+]

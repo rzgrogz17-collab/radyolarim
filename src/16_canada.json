@@ -1,0 +1,782 @@
+[
+  {
+    "stationuuid": "9afae9e5-9d17-54f5-b70e-a52d6e09e62e",
+    "name": "BPM Sports 91.9 FM",
+    "url": "https://18103.live.streamtheworld.com/CKLXFMAAC_SC",
+    "url_resolved": "https://18103.live.streamtheworld.com/CKLXFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/953/bpm-montreal.3dd1ca5e.jpg",
+    "country": "Canada",
+    "tags": "Sports",
+    "votes": 104
+  },
+  {
+    "stationuuid": "7afae7e3-7d06-42f1-b60e-a42d6e99e41e",
+    "name": "Epic Piano - ROMANTIC PIANO",
+    "url": "https://stream.epic-piano.com/romantic-piano?ref=mytuner",
+    "url_resolved": "https://stream.epic-piano.com/romantic-piano?ref=mytuner",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/103/epic-piano-romantic-piano.6068997b.jpg",
+    "country": "Canada",
+    "tags": "Classical,World Music,Romantic",
+    "votes": 105
+  },
+  {
+    "stationuuid": "3afae3e8-2d46-43f5-b44e-a71d6e55e73e",
+    "name": "RFI Monde",
+    "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "url_resolved": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png",
+    "country": "Canada",
+    "tags": "News,Talk,World Music",
+    "votes": 106
+  },
+  {
+    "stationuuid": "9afae3e0-6d09-34f5-b77e-a01d6e90e16e",
+    "name": "Global News Radio 730 CKNW",
+    "url": "https://live.leanstream.co/CKNWAM-MP3",
+    "url_resolved": "https://live.leanstream.co/CKNWAM-MP3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/726/global-news-radio-730-cknw.0da9ff99.png",
+    "country": "Canada",
+    "tags": "news,talk",
+    "votes": 107
+  },
+  {
+    "stationuuid": "8afae8e4-9d06-43f5-b60e-a51d6e09e61e",
+    "name": "VOCM",
+    "url": "https://newcap.leanstream.co/VOCMAM",
+    "url_resolved": "https://newcap.leanstream.co/VOCMAM",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/cb3kqe5xAa.png",
+    "country": "Canada",
+    "tags": "",
+    "votes": 103
+  },
+  {
+    "stationuuid": "7afae7e3-8d06-42f5-b59e-a52d6e09e60e",
+    "name": "# RdMix Classic Rock 70s 80s 90s",
+    "url": "https://cast1.torontocast.com:4610/stream",
+    "url_resolved": "https://cast1.torontocast.com:4610/stream",
+    "favicon": "https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg",
+    "country": "Canada",
+    "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
+    "votes": 113
+  },
+  {
+    "stationuuid": "64d74c72-025e-4cea-8a32-906812691731",
+    "name": "#100 BEST IBIZA DEEP HOUSE",
+    "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
+    "url_resolved": "https://stream.zeno.fm/lwv6zqgtv1dtv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/586/100-best-ibiza-deep-house.87944a11.jpg",
+    "country": "Canada",
+    "tags": "chill,chill house,chillout,chillout+lounge,club dance,club house,community radio,dance,deep,deep house,electronic,fm,high quality audio,hits,house,music,news,public radio,radio,soulful house",
+    "votes": 51
+  },
+  {
+    "stationuuid": "02569932-0b3c-4938-9d3e-b00b2158d40b",
+    "name": "AIRPORT LOUNGE RADIO",
+    "url": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+    "url_resolved": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/CTdkgWbVEs.png",
+    "country": "Canada",
+    "tags": "aereoporto,airport,ambient,chill,chillout,easy listening,house,lounge,smooth,smooth jazz",
+    "votes": 45
+  },
+  {
+    "stationuuid": "6cb69b95-72d9-4ea6-859f-52546a85c1fe",
+    "name": "# RdMix DJSET 70s 80s 90s",
+    "url": "https://cast1.torontocast.com:4560/stream",
+    "url_resolved": "https://cast1.torontocast.com:4560/stream",
+    "favicon": "https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png",
+    "country": "Canada",
+    "tags": "1970s,1980s,1990s,70's,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,anni 70,anni 80,anni 90,classic hip hop,classic hits,classic hits 60s 70a 80s,club house,dance,dance music,dance pop,dancefloor,disco,disco funk,discomusic 70,discomusic 80,dj,dj mix,dj mixes,dj remix,dj sets,electronic,euro disco,eurodance,fm,funky,funky 70,goldies,high quality audio,hip-hop and rap oldies,hits,house,italo disco,music,music 70s 80s 90s,musica,musica anni 70,musica anni 80,oldies,oldschool,pop,pop music,public radio,radio,rap,studio 54,techno,vintage music,vintage radio",
+    "votes": 36
+  },
+  {
+    "stationuuid": "e9577c10-e299-4bb8-9313-c6cc2070c1f3",
+    "name": "# RdMix Italo Disco 80s",
+    "url": "https://cast1.torontocast.com:2130/stream",
+    "url_resolved": "https://cast1.torontocast.com:2130/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/336/rdmix-italo-disco-80s.6a486a9b.jpg",
+    "country": "Canada",
+    "tags": "1980,1980s,1980s hits,80's,80er,80s,anni 80,classic hits,club dance,club hits,dance,dance music,dance pop,disco,dj,dj mix,dj mixes,dj remix,electronic,fm,hits,italo dance,italo disco,italo-disco,italy,local radio,mixed,music,musica,musica anni 80,oldies,pop,pop dance,pop music,public radio,radio,radio anni 80,the best of 80's",
+    "votes": 33
+  },
+  {
+    "stationuuid": "d0df2a51-9cd3-4f3e-977d-aab92ddef7a3",
+    "name": "# 100 GREATEST HEAVY METAL",
+    "url": "https://cast1.torontocast.com:4660/stream",
+    "url_resolved": "https://cast1.torontocast.com:4660/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/475/100-greatest-heavy-metal.743b3af8.jpg",
+    "country": "Canada",
+    "tags": "60's,60s,70's,70er,70s,80's,80er,80s,90's,90er,90s,black metal,classic hits,classic metal,classic rock,entretenimiento,fm,hard rock,heavy metal,local radio,metal,music,musica,oldies,public radio,radio,rock",
+    "votes": 32
+  },
+  {
+    "stationuuid": "147a830e-fbc3-4260-9504-6dcc62530923",
+    "name": "CBC Radio 1 Toronto",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "favicon": "https://ie.radio.net/175/cbctoronto.png",
+    "country": "Canada",
+    "tags": "public radio",
+    "votes": 32
+  },
+  {
+    "stationuuid": "a2b92b15-ce28-4007-a756-b431abeb1059",
+    "name": "A MISSISSIPPI BLUES",
+    "url": "https://cast1.torontocast.com:4450/;?type=http",
+    "url_resolved": "https://cast1.torontocast.com:4450/;?type=http",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/602/a-mississippi-blues.e9218bd8.jpg",
+    "country": "Canada",
+    "tags": "blues,bluesrock,canada,country,delta blues,guitar,guitarist,jazz,mississippi,rock,rock and blues,soft blues",
+    "votes": 30
+  },
+  {
+    "stationuuid": "cf14b5ee-f03e-4468-8ce1-379f171fd8c4",
+    "name": "# 70s 80s 90s RdMix Network",
+    "url": "https://cast1.torontocast.com:1830/stream",
+    "url_resolved": "https://cast1.torontocast.com:1830/stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/6789FM.jpg",
+    "country": "Canada",
+    "tags": "00's,00s,192kbps,1970s,1980s,1990s,70's,70s,80's,80s,90's,90s,charts,classic hits,classic rock,dance,entretenimiento,fm,high quality audio,hits,local news,local radio,misc,music,musica,news,oldies,ontario,pop,pop music,pop rock,public radio,radio,rock,talk,top 100,top hits,top40,toronto,webradio",
+    "votes": 30
+  },
+  {
+    "stationuuid": "4cc3e959-b572-4285-99e2-069151d03b5e",
+    "name": "# 100 GREATEST JAZZ LOUNGE BAR",
+    "url": "https://cast1.torontocast.com:4640/stream",
+    "url_resolved": "https://cast1.torontocast.com:4640/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/562/100-greatest-jazz-lounge-bar.43e63dec.jpg",
+    "country": "Canada",
+    "tags": "192kbps,chillout,chillout+lounge,classic hits,club,cool jazz,cool music seduction,fm,high quality audio,jazz,jazz fusion,jazz lounge,local radio,lounge,lounge music,lounge radio,music,musica,oldies,public radio,radio,relax,relax music,relaxation,relaxing,smooth,smooth jazz,smooth lounge,vocal jazz,vocal lounge",
+    "votes": 30
+  },
+  {
+    "stationuuid": "a3253a96-a1ba-4cf5-bf4b-ec7988afcfd3",
+    "name": "REGGAE CHILL CAFE",
+    "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+    "url_resolved": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/962/reggae-chill-cafe.1ed501c1.png",
+    "country": "Canada",
+    "tags": "chill,chillout,dancehall,reggae,relax,relaxation,relaxing,tropical",
+    "votes": 27
+  },
+  {
+    "stationuuid": "9620b36f-0601-11e8-ae97-52543be04c81",
+    "name": "CFRB News/Talk 1010 (Toronto, ON)",
+    "url": "http://14223.live.streamtheworld.com:3690/CFRBAMAAC_SC",
+    "url_resolved": "http://14223.live.streamtheworld.com:3690/CFRBAMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/512/cfrb-newstalk-1010.fc6cd746.jpg",
+    "country": "Canada",
+    "tags": "commercial,local news,news,news talk",
+    "votes": 5424
+  },
+  {
+    "stationuuid": "95c2beb2-7c97-435c-b2e8-0cafcbae1d37",
+    "name": "CBC Radio One Montréal",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CBC_Radio_Logo.svg/500px-CBC_Radio_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "local news,public radio,talk",
+    "votes": 442
+  },
+  {
+    "stationuuid": "b6aa8287-0e8c-4780-b882-d7a7e4b1226d",
+    "name": "ICI Musique - Montreal, QC",
+    "url": "http://26443.live.streamtheworld.com:80/CBFXFM_SRC.mp3",
+    "url_resolved": "http://26443.live.streamtheworld.com:80/CBFXFM_SRC.mp3",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Montreal%2C_Quebec_skyline.jpg/500px-Montreal%2C_Quebec_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "blues,classical,jazz,montreal,pop,rock",
+    "votes": 229
+  },
+  {
+    "stationuuid": "b4bbf2be-d132-43d8-a094-d6fabf82a966",
+    "name": "CBC Music Eastern (formerly CBC Radio 2 Toronto)",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/120/cbc-music-eastern.e3910f3a.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 191
+  },
+  {
+    "stationuuid": "53291f37-699a-11e9-af37-52543be04c81",
+    "name": "CKUA Radio Network",
+    "url": "https://ais-sa1.streamon.fm/7000_48k.aac",
+    "url_resolved": "https://ais-sa1.streamon.fm/7000_48k.aac",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/CKUA_logo_with_tagline.svg/500px-CKUA_logo_with_tagline.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "community radio,eclectic programming",
+    "votes": 153
+  },
+  {
+    "stationuuid": "768a27cc-bb26-11e9-acb2-52543be04c81",
+    "name": "Crucial Velocity Radio",
+    "url": "http://ais-sa2.cdnstream1.com/1369_128",
+    "url_resolved": "http://ais-sa2.cdnstream1.com/1369_128",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/357/crucial-velocity-radio.b82015f0.jpg",
+    "country": "Canada",
+    "tags": "classic metal,hard rock,hardcore,heavy metal,metal,thrash",
+    "votes": 2350
+  },
+  {
+    "stationuuid": "281573ae-410a-480c-9963-b9e0e25efc6b",
+    "name": "CBC Radio 1 Ottawa (CBO-FM)",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/500px-CBC_Logo_1992-Present.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "information,news,talk",
+    "votes": 275
+  },
+  {
+    "stationuuid": "3cef0992-3437-484a-814c-9c73ab483a91",
+    "name": "CIWW CityNews Ottawa",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8",
+    "url_resolved": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8",
+    "favicon": "https://www.vmcdn.ca/files/ui/rogers/citynews/at.png",
+    "country": "Canada",
+    "tags": "news,sport,talk",
+    "votes": 198
+  },
+  {
+    "stationuuid": "c2b8aa3e-99fe-453b-ad23-81f900205e9d",
+    "name": "CJRQ-FM \"92.7 Rock\" Sudbury, ON",
+    "url": "https://rogers-hls.leanstream.co/rogers/sud927.stream/playlist.m3u8",
+    "url_resolved": "https://rogers-hls.leanstream.co/rogers/sud927.stream/playlist.m3u8",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e4/927Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "country": "Canada",
+    "tags": "mainstream rock,rogers media",
+    "votes": 192
+  },
+  {
+    "stationuuid": "345caf58-58d0-43da-8903-5b3af45b5f9d",
+    "name": "CJJR 93.7 \"JR Country\" Vancouver, BC",
+    "url": "https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CJJR-FM-COLOUR.jpg/250px-CJJR-FM-COLOUR.jpg",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 132
+  },
+  {
+    "stationuuid": "0b4b5555-2525-4c1d-9854-51fa9e6e95a5",
+    "name": "630 CHED",
+    "url": "https://corus.leanstream.co/CHEDAM-MP3",
+    "url_resolved": "https://corus.leanstream.co/CHEDAM-MP3",
+    "favicon": "https://globalnews.ca/wp-content/uploads/2021/01/630-CHED-Oilers-Radio-300x300-Tile-CLEAN.jpg",
+    "country": "Canada",
+    "tags": "hockey,news,sports,talk",
+    "votes": 104
+  },
+  {
+    "stationuuid": "f31b8dba-6992-47ed-8b71-33d5a87157cb",
+    "name": "CJUK-FM \"99.9 The Bay\" Thunder Bay, ON",
+    "url": "https://ais-sa1.streamon.fm/7237_128k.aac/playlist.m3u8",
+    "url_resolved": "https://ais-sa1.streamon.fm/7237_128k.aac/playlist.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/1645/site_header_logo-61b73d6424a64.png",
+    "country": "Canada",
+    "tags": "70s,80s,90s,classic hits",
+    "votes": 87
+  },
+  {
+    "stationuuid": "94b13f16-ed31-4f98-874c-df9f42e23f77",
+    "name": "Squirrel FM",
+    "url": "http://s25.myradiostream.com:10092/stream",
+    "url_resolved": "http://s25.myradiostream.com:10092/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/861/squirrel-fm.0428f9ec.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 86
+  },
+  {
+    "stationuuid": "05820b49-d707-47c6-b789-f1e877bdcbbe",
+    "name": "TSN 1200",
+    "url": "http://27033.live.streamtheworld.com:3690/CFGOAMAAC_SC",
+    "url_resolved": "http://27033.live.streamtheworld.com:3690/CFGOAMAAC_SC",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/60748c32dd472088ec4bc4fc?ops=fit(960%2C960)%2Cresize(0%2C390)",
+    "country": "Canada",
+    "tags": "live sports,sports,tsn",
+    "votes": 86
+  },
+  {
+    "stationuuid": "6951a500-c7f4-435e-a4ee-e250431db94d",
+    "name": "CKUT-FM 90.3 McGill University - Montreal, QC",
+    "url": "https://delray.ckut.ca:8001/ckut-live-128",
+    "url_resolved": "https://delray.ckut.ca:8001/ckut-live-128",
+    "favicon": "https://ckut.ca/logo.jpg",
+    "country": "Canada",
+    "tags": "campus radio,community radio,student radio,university radio",
+    "votes": 74
+  },
+  {
+    "stationuuid": "e03db9c8-dc8f-4334-97c1-56e94a4abaae",
+    "name": "CBC North - Iqaluit, NU",
+    "url": "https://22983.live.streamtheworld.com/CFFBAM_CBC_SC",
+    "url_resolved": "https://22983.live.streamtheworld.com/CFFBAM_CBC_SC",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cbc_radio_one_iqaluit.svg/500px-Cbc_radio_one_iqaluit.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "features,indigenous,news,public radio",
+    "votes": 68
+  },
+  {
+    "stationuuid": "20c2d803-b952-46ef-aab8-05313b1e286a",
+    "name": "CBFM.ca Gaelic College - St. Ann's, NS",
+    "url": "https://s4.radio.co/s6f58ddb4f/listen",
+    "url_resolved": "https://s4.radio.co/s6f58ddb4f/listen",
+    "favicon": "https://static.wixstatic.com/media/6580fb_efe28fd1b5774572912bdf764664b9d6~mv2.png/v1/crop/x_46,y_18,w_1420,h_493/fill/w_1314,h_461,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/240897452_143291668001987_3110387522172709500_n.png",
+    "country": "Canada",
+    "tags": "community radio,folk music",
+    "votes": 57
+  },
+  {
+    "stationuuid": "7893b26d-11d0-4b72-959e-633f72c473c5",
+    "name": "CityNews 95.7 Halifax",
+    "url": "http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01",
+    "url_resolved": "http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01",
+    "favicon": "https://radioadminassets.rogersdigitalmedia.com/uploads/CityNews_957_Vertical_Secondary_RGB.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 57
+  },
+  {
+    "stationuuid": "c9c4cf3b-7ac6-458f-b0bb-3936b69886ca",
+    "name": "CHOO-FM \"Boom 99.5\" Drumheller, AB",
+    "url": "https://newcap.leanstream.co/CHOOFM",
+    "url_resolved": "https://newcap.leanstream.co/CHOOFM",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2379/files/2019/08/boom995herologo.png",
+    "country": "Canada",
+    "tags": "classic hits,stingray network",
+    "votes": 55
+  },
+  {
+    "stationuuid": "f664f63c-6713-11e9-af37-52543be04c81",
+    "name": "CHFX \"FX 101.9\" Halifax, NS",
+    "url": "http://mbsradio.leanstream.co/CHFXFM-MP3",
+    "url_resolved": "http://mbsradio.leanstream.co/CHFXFM-MP3",
+    "favicon": "https://fx1019.ca/wp-content/uploads/sites/3/2019/12/cropped-fx-1-192x192.png",
+    "country": "Canada",
+    "tags": "country,halifax",
+    "votes": 55
+  },
+  {
+    "stationuuid": "89444c43-7d79-4211-9c4f-11c029739101",
+    "name": "CKGL \"City News 570\" Kitchener, ON",
+    "url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
+    "url_resolved": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/500px-CityNews_570_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "news talk",
+    "votes": 51
+  },
+  {
+    "stationuuid": "ae30b2bb-1b3f-4478-82b4-0cb1f33a7d5f",
+    "name": "CKHZ-FM \"Hot Country 103.5\" Halifax, NS",
+    "url": "https://ais-sa1.streamon.fm/7738_128k.aac/playlist.m3u8",
+    "url_resolved": "https://ais-sa1.streamon.fm/7738_128k.aac/playlist.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/1842/hero_logo-5fad3641133eb.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 50
+  },
+  {
+    "stationuuid": "953bd0d5-0485-43fa-8f3d-0468bcb940cd",
+    "name": "CityNews 101.1 Ottawa",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01",
+    "url_resolved": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01",
+    "favicon": "https://radioadminassets.rogersdigitalmedia.com/uploads/ciww-600x600.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 49
+  },
+  {
+    "stationuuid": "104ad650-6795-4c73-a30a-7f84bcd0e6b5",
+    "name": "CFGO \"TSN 1200\" Ottawa, ON",
+    "url": "http://14133.live.streamtheworld.com/CFGOAMAAC_SC",
+    "url_resolved": "http://14133.live.streamtheworld.com/CFGOAMAAC_SC",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/TSN_1200_Ottawa.svg/500px-TSN_1200_Ottawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "bell media,sports news,tsn",
+    "votes": 47
+  },
+  {
+    "stationuuid": "43827580-c292-4245-ac8d-2ae1c97c29c3",
+    "name": "Magic FM Montreal",
+    "url": "https://s7.yesstreaming.net/stream/8024",
+    "url_resolved": "https://s7.yesstreaming.net/stream/8024",
+    "favicon": "https://img1.wsimg.com/isteam/ip/2db48ff4-62cf-4bff-a49b-9dacca2b70a1/MAGICFM.jpg/:/rs=w:200,h:200,cg:true,m/cr=w:200,h:200/qt=q:95",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 47
+  },
+  {
+    "stationuuid": "dc48087d-69af-4a2f-88ea-dde3d34b04f0",
+    "name": "CFLZ-FM 101.1 \"More FM 101\" Fort Erie, ON",
+    "url": "http://ais-sa1.streamon.fm/7133_48k.aac",
+    "url_resolved": "http://ais-sa1.streamon.fm/7133_48k.aac",
+    "favicon": "https://mm.aiircdn.com/471/5b88fe0b4fc9f.png",
+    "country": "Canada",
+    "tags": "music 70s 80s 90s",
+    "votes": 46
+  },
+  {
+    "stationuuid": "1bb4abb2-f9ab-47a7-996d-8109884b4ee4",
+    "name": "Greatest Hits Of All Time",
+    "url": "http://160.153.184.146:8018/mp3",
+    "url_resolved": "http://160.153.184.146:8018/mp3",
+    "favicon": "https://thekiputerstore.ca/FINAL-TheGhoat-logo-blue-side-yrs-TB-icon-180x180.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 44
+  },
+  {
+    "stationuuid": "ba9353b1-eed5-4eb0-8034-dbbbe18c72c1",
+    "name": "CKMS-FM Radio Waterloo DI",
+    "url": "https://studio.radiowaterloo.ca:8443/radiowaterloo",
+    "url_resolved": "https://studio.radiowaterloo.ca:8443/radiowaterloo",
+    "favicon": "https://storage.radiowaterloo.ca/cropped-ckmsLogoSquare-1-e1550119984139.png",
+    "country": "Canada",
+    "tags": "community alternative",
+    "votes": 34
+  },
+  {
+    "stationuuid": "56d2e7c0-fca6-472e-974c-07b2ad3e2928",
+    "name": "92.5FM The X - CFBX, Kamloops, B.C. Canada",
+    "url": "http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1",
+    "url_resolved": "http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1",
+    "favicon": "https://thex.ca/wp-content/uploads/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm.png?w=723&h=849",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 29
+  },
+  {
+    "stationuuid": "39d6e63e-9f1a-4bdf-8eb1-ab3c73087e00",
+    "name": "CIAT-FM 98.1 \"Cat Country 98\" Assiniboia, SK",
+    "url": "https://cat-country-98.streamb.live/SB00148",
+    "url_resolved": "https://cat-country-98.streamb.live/SB00148",
+    "favicon": "https://mmo.aiircdn.com/302/6080aa5a3aec2.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 26
+  },
+  {
+    "stationuuid": "217ca605-f7fb-4f77-a30a-843f750d0d16",
+    "name": "CJNB 1050 \"Saskatchewan Country\" North Battleford, SK",
+    "url": "https://stream.jpbgdigital.com/CJNB.m3u8?device_id=cookie:a4e9fb98-c0d3-11f1-83a5-9a1a4b115a3f",
+    "url_resolved": "https://stream.jpbgdigital.com/CJNB.m3u8?device_id=cookie:a4e9fb98-c0d3-11f1-83a5-9a1a4b115a3f",
+    "favicon": "https://media.socastsrm.com/uploads/station/718/site_header_logo-5b6f4a6d6156f.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 25
+  },
+  {
+    "stationuuid": "a1dacd30-2ce2-4c61-86dd-91e4978b9673",
+    "name": "CJXL \"New Country 96.9\" Moncton, NB",
+    "url": "http://newcap.leanstream.co/CJXLFM",
+    "url_resolved": "http://newcap.leanstream.co/CJXLFM",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1460/files/2017/11/nc969hero_logo_v003.png",
+    "country": "Canada",
+    "tags": "country,rebranding,stingray network",
+    "votes": 24
+  },
+  {
+    "stationuuid": "db4c4317-9acc-4712-9f0a-552c757beea2",
+    "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (MP3 Stream)",
+    "url": "https://newcap.leanstream.co/CKJRAM-MP3",
+    "url_resolved": "https://newcap.leanstream.co/CKJRAM-MP3",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sports1440-splash-logo.png/500px-Sports1440-splash-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "new format rebranding,sports news,sports talk",
+    "votes": 23
+  },
+  {
+    "stationuuid": "5ed9b39c-3118-47ab-b857-646c7a7655c4",
+    "name": "CKLZ-FM 104.7 \"The Lizard\" Kelowna, BC",
+    "url": "https://stream.jpbgdigital.com/CKLZ.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CKLZ.m3u8",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2921/files/2021/07/thelizard104-logofiles-rgb-primary-colour-whitetext-1.png",
+    "country": "Canada",
+    "tags": "mainstream rock",
+    "votes": 21
+  },
+  {
+    "stationuuid": "0a70fdca-a57c-4fe3-b750-7f6449c67db9",
+    "name": "CJNY-FM 106.3 \"The Journey\" Vancouver, BC",
+    "url": "https://torres-media.streamb.live/SB00168",
+    "url_resolved": "https://torres-media.streamb.live/SB00168",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2299/files/2023/03/website-hero-journeyfm-b-03.jpg",
+    "country": "Canada",
+    "tags": "classic hits,community radio,indigenous,urban indigenous",
+    "votes": 20
+  },
+  {
+    "stationuuid": "3e81a753-0331-4e91-a8a9-d2e70e8124ed",
+    "name": "CFQX-FM 104.1 \"QX104 Country\" Winnipeg, MB",
+    "url": "https://stream.jpbgdigital.com/CFQX.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CFQX.m3u8",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/671/files/2019/11/QX_Logo_Colour_Tag_2020-FANCY_temp_sm.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 20
+  },
+  {
+    "stationuuid": "7dc3b69f-ffa2-4390-8fa4-f6d9a1ed2d9d",
+    "name": "CKFX-FM \"101.9 Rock\" North Bay, ON",
+    "url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8",
+    "url_resolved": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/77/1019Rock.jpg",
+    "country": "Canada",
+    "tags": "classic rock,mainstream rock,rogers media",
+    "votes": 19
+  },
+  {
+    "stationuuid": "13f18035-dc5b-4348-a6fe-6a312525290e",
+    "name": "CISM 89.3",
+    "url": "http://stream03.ustream.ca:8000/cism128.mp3",
+    "url_resolved": "http://stream03.ustream.ca:8000/cism128.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/401/cism-893-fm.9dc46280.jpg",
+    "country": "Canada",
+    "tags": "commercial,montréal,pop,québec",
+    "votes": 18
+  },
+  {
+    "stationuuid": "9340d938-3dc6-4e4f-be8e-475af0c642c3",
+    "name": "Country 102",
+    "url": "https://bayshore-ais.leanstream.co/CJMUFM-MP3",
+    "url_resolved": "https://bayshore-ais.leanstream.co/CJMUFM-MP3",
+    "favicon": "https://media.socastsrm.com/uploads/station/2129/hero_logo-5e1e2f9955847.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 17
+  },
+  {
+    "stationuuid": "b4a3105d-85d3-4315-b59e-f94bc37e9ba8",
+    "name": "CHCQ-FM 100.1 \"Cool 100\" Belleville, ON",
+    "url": "https://torres-media.streamb.live/SB00159",
+    "url_resolved": "https://torres-media.streamb.live/SB00159",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2011/files/2018/09/728x300-CoolLOGO.png",
+    "country": "Canada",
+    "tags": "new country",
+    "votes": 17
+  },
+  {
+    "stationuuid": "2e92fb60-679a-4d32-b965-aab28e9fa6c8",
+    "name": "CJXX-FM \"Big Country 93.1\" Grand Prairie, AB",
+    "url": "https://stream.jpbgdigital.com/CJXX.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CJXX.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/726/hero_logo-5f4ff9e20c9fb.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 17
+  },
+  {
+    "stationuuid": "74b330e8-b085-4bc2-8dbb-2e826d36dc8c",
+    "name": "CHAT-FM 94.5 Medicine Hat, AB",
+    "url": "https://stream.jpbgdigital.com/CHAT.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CHAT.m3u8",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3072/files/2022/09/webpage-header.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 16
+  },
+  {
+    "stationuuid": "a7a8cb08-bedb-449c-96b9-7e0672e6d3c2",
+    "name": "95.5 Hits FM",
+    "url": "https://starboard.streamb.live/SB00160",
+    "url_resolved": "https://starboard.streamb.live/SB00160",
+    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2013/files/2019/09/LOGO-955-728x300.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 16
+  },
+  {
+    "stationuuid": "c442c5d5-344d-4fd0-a7e2-80b01e905372",
+    "name": "CIBW-FM \"Big West Country 92.9\" Drayton Valley, AB",
+    "url": "https://stream.jpbgdigital.com/CIBW.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CIBW.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/587/hero_logo-5884738348110.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 15
+  },
+  {
+    "stationuuid": "086126e6-76a1-445c-b710-ce65e8ffdcea",
+    "name": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
+    "url": "http://newcap.leanstream.co/CHHIFM",
+    "url_resolved": "http://newcap.leanstream.co/CHHIFM",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2302/files/2021/02/rewind-959-herologo.png",
+    "country": "Canada",
+    "tags": "classic hits,re-branding new format,stingray network",
+    "votes": 14
+  },
+  {
+    "stationuuid": "74f92612-750f-47c0-85dc-398e6234683c",
+    "name": "CJHD \"93.3 Beach Radio\" North Battleford, SK",
+    "url": "https://stream.jpbgdigital.com/CJHD.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CJHD.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/2829/hero_logo-644025d6af6e7.png",
+    "country": "Canada",
+    "tags": "classic hits",
+    "votes": 14
+  },
+  {
+    "stationuuid": "42b62c7d-006f-4586-bc5c-c899885ea737",
+    "name": "CKTG-FM 105.3 \"Country 105\" Thunder Bay, ON",
+    "url": "https://ais-sa1.streamon.fm/7238_128k.aac/playlist.m3u8",
+    "url_resolved": "https://ais-sa1.streamon.fm/7238_128k.aac/playlist.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/1642/hero_logo-635a7bdb599f1.png",
+    "country": "Canada",
+    "tags": "country",
+    "votes": 14
+  },
+  {
+    "stationuuid": "1139346a-c2d9-4927-8482-933333ab086e",
+    "name": "CKHY-FM 105.1 \"Surge 105\" Dartmouth, NS",
+    "url": "https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8",
+    "url_resolved": "https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2908/files/2021/07/surge-1051-colour5.png",
+    "country": "Canada",
+    "tags": "active rock",
+    "votes": 14
+  },
+  {
+    "stationuuid": "d1460f05-6e73-44e8-9691-e18997eb075a",
+    "name": "CHQX-FM \"Beach Radio 101.5\" Prince Albert, SK",
+    "url": "https://stream.jpbgdigital.com/CHQX/HEAAC/48k/playlist.m3u8",
+    "url_resolved": "https://stream.jpbgdigital.com/CHQX/HEAAC/48k/playlist.m3u8",
+    "favicon": "https://media.socastsrm.com/uploads/station/631/hero_logo-5f52505ea508d.png",
+    "country": "Canada",
+    "tags": "classic hits",
+    "votes": 13
+  },
+  {
+    "stationuuid": "d0be75e3-cfc9-4249-8937-62ed1069f125",
+    "name": "CIJK-FM \"Rewind 89.3\" - New Minas, NS",
+    "url": "http://newcap.leanstream.co/CIJKFM",
+    "url_resolved": "http://newcap.leanstream.co/CIJKFM",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2306/files/2021/02/rewind-893-herologo.png",
+    "country": "Canada",
+    "tags": "classic hits,new format rebranding,stingray network",
+    "votes": 13
+  },
+  {
+    "stationuuid": "54c53b2e-2dff-43d1-b4bb-25727419aebf",
+    "name": "Radio BluesFlac",
+    "url": "http://audio-edge-qse4n.yyz.g.radiomast.io/radioblues-flac",
+    "url_resolved": "http://audio-edge-qse4n.yyz.g.radiomast.io/radioblues-flac",
+    "favicon": "https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png",
+    "country": "Canada",
+    "tags": "jazz",
+    "votes": 3319
+  },
+  {
+    "stationuuid": "7c84ac30-1a0f-42f7-8b0d-40b5c6548abf",
+    "name": "DKFM Shoegaze Radio",
+    "url": "https://kathy.torontocast.com:2005/stream",
+    "url_resolved": "https://kathy.torontocast.com:2005/stream",
+    "favicon": "https://i0.wp.com/decayfm.com/wp-content/uploads/2018/12/cropped-512-1.jpg?fit=180%2C180&#038;ssl=1",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 1166
+  },
+  {
+    "stationuuid": "5a056387-0cf9-11e8-ae97-52543be04c81",
+    "name": "Calm Radio - Flute",
+    "url": "http://streams.calmradio.com:4828/;",
+    "url_resolved": "http://streams.calmradio.com:4828/;",
+    "favicon": "https://calmradio.com/images/logo/Calm-LOGO%202015.png",
+    "country": "Canada",
+    "tags": "baroque,classical",
+    "votes": 814
+  },
+  {
+    "stationuuid": "403b6475-cb7b-4a94-97df-1b10c141aef9",
+    "name": "Eurodance Classic ... Pure - Classic - Addictive",
+    "url": "http://quincy.torontocast.com:2380/stream",
+    "url_resolved": "http://quincy.torontocast.com:2380/stream",
+    "favicon": "https://www.radio-eurodance-classic.eu/images/logo_rec_kdj_300.jpg",
+    "country": "Canada",
+    "tags": "90's,90s,eurodance",
+    "votes": 793
+  },
+  {
+    "stationuuid": "a2fa1a45-616d-48cd-8fe2-a866b205c4f8",
+    "name": "80s New Wave Radio",
+    "url": "https://puma.streemlion.com:2910/stream",
+    "url_resolved": "https://puma.streemlion.com:2910/stream",
+    "favicon": "https://dams.cdn.unippm.com/AlbumImages/370x370/4a0a42ec365e45eab376d200883e7094.jpg",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 705
+  },
+  {
+    "stationuuid": "e4d9cbf4-29c8-49f1-a642-e2be978a7e83",
+    "name": "Addictive-50s - Golden oldies",
+    "url": "http://quincy.torontocast.com:2920/stream",
+    "url_resolved": "http://quincy.torontocast.com:2920/stream",
+    "favicon": "https://www.radio-addictive-50s.eu/images/logo175.jpg",
+    "country": "Canada",
+    "tags": "50's,50s,oldies",
+    "votes": 596
+  },
+  {
+    "stationuuid": "9623da57-0601-11e8-ae97-52543be04c81",
+    "name": "CKOM News/Talk 650 (Saskatoon, SK)",
+    "url": "http://rawlco.leanstream.co/CKOMAM",
+    "url_resolved": "http://rawlco.leanstream.co/CKOMAM",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/XattXZ3sKM.jpeg",
+    "country": "Canada",
+    "tags": "news,news talk,sport,talk",
+    "votes": 449
+  },
+  {
+    "stationuuid": "aa7c6fe8-a287-11e9-a787-52543be04c81",
+    "name": "Cladrite Radio at Live365",
+    "url": "http://das-edge93-live365-dal05.cdnstream.com/a43564",
+    "url_resolved": "http://das-edge93-live365-dal05.cdnstream.com/a43564",
+    "favicon": "https://cladriteradio.com/wp-content/uploads/2018/07/cr_radio_thumb.jpg",
+    "country": "Canada",
+    "tags": "20's,30's,40's",
+    "votes": 257
+  },
+  {
+    "stationuuid": "35fa9c1c-4f62-4cdc-93fc-b895f6f91b73",
+    "name": "加拿大中文电台FM94.7",
+    "url": "https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8",
+    "url_resolved": "https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8",
+    "favicon": "https://zuiai.tv/zb_users/upload/2025/3/2025032078290297.jpg",
+    "country": "Canada",
+    "tags": "full service",
+    "votes": 221
+  },
+  {
+    "stationuuid": "402018c3-5a5f-4c63-a40d-197aba67d322",
+    "name": "Labgate Radio Clasic Rock",
+    "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
+    "url_resolved": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
+    "favicon": "http://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png",
+    "country": "Canada",
+    "tags": "radio",
+    "votes": 172
+  },
+  {
+    "stationuuid": "628e41f5-abea-4ead-ba84-72c6d9bdd391",
+    "name": "CHKG-FM 96.1 \"Fairchild Radio\" Vancouver, BC",
+    "url": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
+    "url_resolved": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/500px-Fairchild_Radio_FM96.1_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Canada",
+    "tags": "multicultural,multilingual,world music",
+    "votes": 152
+  },
+  {
+    "stationuuid": "ff0d0aa7-6738-41e5-a968-ea5435c665b4",
+    "name": "CJMO-FM 103.1 \"Q103\" - Moncton, NB",
+    "url": "http://newcap.leanstream.co/CJMOFM",
+    "url_resolved": "http://newcap.leanstream.co/CJMOFM",
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/907/files/2021/01/q-103-herologo-609x300-1.png",
+    "country": "Canada",
+    "tags": "active rock,classic rock,new format rebranding,stingray network",
+    "votes": 139
+  }
+]

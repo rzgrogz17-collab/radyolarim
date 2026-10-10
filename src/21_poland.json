@@ -1,0 +1,982 @@
+[
+  {
+    "stationuuid": "399b7c2a-6680-11e8-b15b-52543be04c81",
+    "name": "RMF FM",
+    "url": "http://195.150.20.242:8000/rmf_fm",
+    "url_resolved": "http://195.150.20.242:8000/rmf_fm",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "country": "Poland",
+    "tags": "fm,rmf,rmffm",
+    "votes": 177
+  },
+  {
+    "stationuuid": "499b7c2a-7780-22e9-b16b-53543be05c82",
+    "name": "ESKA2 Warszawa",
+    "url": "https://waw.ic.smcdn.pl/2380-1.aac",
+    "url_resolved": "https://waw.ic.smcdn.pl/2380-1.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/894/radio-wawa.e24f3457.png",
+    "country": "Poland",
+    "tags": "Pop / Top 40",
+    "votes": 178
+  },
+  {
+    "stationuuid": "500b7c2a-8880-33e9-b17b-64654be05c93",
+    "name": "Polskie Radio Program II (PR2) Dwójka",
+    "url": "http://stream3.polskieradio.pl:8902/;",
+    "url_resolved": "http://stream3.polskieradio.pl:8902/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/259/polskie-radio-program-ii-pr2-dwojka.f001dc78.png",
+    "country": "Poland",
+    "tags": "Klasyczna,Kultura & Edukacja",
+    "votes": 179
+  },
+  {
+    "stationuuid": "d377fdb9-9136-47de-a1f4-6b02a1bc7f72",
+    "name": "Radio 357",
+    "url": "https://stream.radio357.pl/",
+    "url_resolved": "https://stream.radio357.pl/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/188/radio-357.6648c6a0.jpg",
+    "country": "Poland",
+    "tags": "adult contemporary",
+    "votes": 146
+  },
+  {
+    "stationuuid": "65cd1362-71ab-4829-8a4a-f530caf3a465",
+    "name": "Radio RMF MAXXX",
+    "url": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+    "url_resolved": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/891/rmf-maxxx.8bab39cf.png",
+    "country": "Poland",
+    "tags": "misc",
+    "votes": 64
+  },
+  {
+    "stationuuid": "bf487b2b-503c-42c3-b088-9b5d679fdf29",
+    "name": "ESKA ROCK",
+    "url": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+    "url_resolved": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/927/radio-muzofm.29c0cbd0.png",
+    "country": "Poland",
+    "tags": "",
+    "votes": 62
+  },
+  {
+    "stationuuid": "d81fd5d3-4c24-4768-88b3-57954e77c0e7",
+    "name": "Radio Nowy Świat",
+    "url": "https://go-audio.toya.net.pl/63214",
+    "url_resolved": "https://go-audio.toya.net.pl/63214",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/460/radio-nowy-swiat.1e8810ed.jpg",
+    "country": "Poland",
+    "tags": "soft adult contemporary",
+    "votes": 57
+  },
+  {
+    "stationuuid": "f56fc0e0-8d6e-43df-9253-bfa03cb9a067",
+    "name": "Radio Eska Wrocław",
+    "url": "https://ic1.smcdn.pl/2180-1.mp3",
+    "url_resolved": "https://ic1.smcdn.pl/2180-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/192/eska-wroclaw.5fe77e51.jpg",
+    "country": "Poland",
+    "tags": "dance,pop,pop music,rock",
+    "votes": 55
+  },
+  {
+    "stationuuid": "0013eb82-2dea-41f7-9534-936d0b2721b7",
+    "name": "TokFM",
+    "url": "https://radiostream.pl/tuba10-1.mp3",
+    "url_resolved": "https://radiostream.pl/tuba10-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/893/tok-fm.23f26493.png",
+    "country": "Poland",
+    "tags": "News",
+    "votes": 54
+  },
+  {
+    "stationuuid": "97b1aec1-dad3-4551-8cc5-07965bbcb93f",
+    "name": "Radio RMF FM",
+    "url": "http://31.192.216.8:8000/rmf_fm",
+    "url_resolved": "http://31.192.216.8:8000/rmf_fm",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "country": "Poland",
+    "tags": "classical",
+    "votes": 50
+  },
+  {
+    "stationuuid": "592947b7-c949-4e9f-8797-1e93b2158a19",
+    "name": "ESKA GORĄCA 100",
+    "url": "http://ic1.smcdn.pl/6120-1.mp3",
+    "url_resolved": "http://ic1.smcdn.pl/6120-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/783/eska-summer-city.0e6451e6.jpg",
+    "country": "Poland",
+    "tags": "trance",
+    "votes": 47
+  },
+  {
+    "stationuuid": "14b795df-4210-49e2-b491-189523b49f4d",
+    "name": "Radio ZET Chilli",
+    "url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+    "url_resolved": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/888/zet-chilli.9bfde6ae.jpg",
+    "country": "Poland",
+    "tags": "",
+    "votes": 45
+  },
+  {
+    "stationuuid": "c101cf0d-9385-452f-96f8-ad46425f89d3",
+    "name": "VOX Dance",
+    "url": "https://waw.ic.smcdn.pl/6180-2.aac",
+    "url_resolved": "https://waw.ic.smcdn.pl/6180-2.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/630/vox-disco-party.7b17b2e4.jpg",
+    "country": "Poland",
+    "tags": "",
+    "votes": 40
+  },
+  {
+    "stationuuid": "c62a050f-cfd4-4fc5-8c93-ebaf0bc84738",
+    "name": "VOX FM 128",
+    "url": "https://ic2.smcdn.pl/3990-1.mp3",
+    "url_resolved": "https://ic2.smcdn.pl/3990-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/255/radio-vox-fm-933.26c4e4f3.png",
+    "country": "Poland",
+    "tags": "Pop / Top 40",
+    "votes": 33
+  },
+  {
+    "stationuuid": "c63a051f-cfd5-5fc6-9c94-ebef10bc85844",
+    "name": "VOX DJ Mix",
+    "url": "https://waw.ic.smcdn.pl/6020-1.aac",
+    "url_resolved": "https://waw.ic.smcdn.pl/6020-1.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/629/vox-roztanczony-pge-narodowy.8798854e.jpg",
+    "country": "Poland",
+    "tags": "dj,mix",
+    "votes": 32
+  },
+  {
+    "stationuuid": "9617d67b-0601-11e8-ae97-52543be04c81",
+    "name": "Antyradio",
+    "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+    "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/789/antyradio.7bbc4249.png",
+    "country": "Poland",
+    "tags": "metal,rock",
+    "votes": 27547
+  },
+  {
+    "stationuuid": "960dc513-0601-11e8-ae97-52543be04c81",
+    "name": "RMF Classic",
+    "url": "http://31.192.216.8/RMFCLASSIC48",
+    "url_resolved": "http://31.192.216.8/RMFCLASSIC48",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/872/rmf-classic.1a0c50f0.png",
+    "country": "Poland",
+    "tags": "classical",
+    "votes": 14354
+  },
+  {
+    "stationuuid": "58d7e326-66ff-47c3-ae6e-98075b8377b9",
+    "name": "VOX FM",
+    "url": "http://ic2.smcdn.pl/3990-1.mp3",
+    "url_resolved": "http://ic2.smcdn.pl/3990-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/255/radio-vox-fm-933.26c4e4f3.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 6597
+  },
+  {
+    "stationuuid": "960f4b0b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Gdansk",
+    "url": "http://stream.task.gda.pl:8000/rg1",
+    "url_resolved": "http://stream.task.gda.pl:8000/rg1",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Collage_of_views_of_Gdansk.jpg/500px-Collage_of_views_of_Gdansk.jpg?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Poland",
+    "tags": "pop",
+    "votes": 5302
+  },
+  {
+    "stationuuid": "d6a5c066-62c8-4f88-bd72-2b9b03330f2a",
+    "name": "Radio Plus",
+    "url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+    "url_resolved": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/185/radio-plus-polska.8e5f5d63.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 4273
+  },
+  {
+    "stationuuid": "960ff089-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Krakow",
+    "url": "http://stream3.nadaje.com:9116/radiokrakow",
+    "url_resolved": "http://stream3.nadaje.com:9116/radiokrakow",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Kola%C5%BC_Krakowa.JPG/500px-Kola%C5%BC_Krakowa.JPG?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Poland",
+    "tags": "local news",
+    "votes": 3267
+  },
+  {
+    "stationuuid": "4dbb2cc1-3d4a-48e6-9519-7067b87df160",
+    "name": "Meloradio Wrocław",
+    "url": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
+    "url_resolved": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Wroc%C5%82aw_Collage.png/500px-Wroc%C5%82aw_Collage.png?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Poland",
+    "tags": "dance,pop,pop dance",
+    "votes": 296
+  },
+  {
+    "stationuuid": "5a957520-9218-491a-a68f-e52de17496b3",
+    "name": "Chillizet Ladies -om",
+    "url": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
+    "url_resolved": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
+    "favicon": "https://gfx-player.chillizet.pl/var/player/storage/images/player-chillizet/kanaly-muzyczne/chillizet-ladies/710371-2-pol-PL/Chillizet-Ladies_social_share.jpg",
+    "country": "Poland",
+    "tags": "chill,hits,relax,singer-songwriter,smooth jazz",
+    "votes": 137
+  },
+  {
+    "stationuuid": "691b86e8-39cc-11e9-9b4e-52543be04c81",
+    "name": "Polskie Radio Poznań",
+    "url": "http://stream4.nadaje.com:8578/poznan",
+    "url_resolved": "http://stream4.nadaje.com:8578/poznan",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Polskie_Radio_al._Niepodleg%C5%82o%C5%9Bci_2017.jpg/500px-Polskie_Radio_al._Niepodleg%C5%82o%C5%9Bci_2017.jpg?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 919
+  },
+  {
+    "stationuuid": "257d0088-3b8d-4b9c-9092-4507bef630fd",
+    "name": "Radio Eska Kraków",
+    "url": "http://ic1.smcdn.pl/2070-1.mp3",
+    "url_resolved": "http://ic1.smcdn.pl/2070-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/168/eska-krakow.5fe77e51.jpg",
+    "country": "Poland",
+    "tags": "pop dance",
+    "votes": 2738
+  },
+  {
+    "stationuuid": "53241c38-4a74-4beb-9514-1033913d1ede",
+    "name": "SmoothJazz.com.pl",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "url_resolved": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/352/smoothjazzcompl.fa0d883a.png",
+    "country": "Poland",
+    "tags": "jazz,smooth jazz",
+    "votes": 2319
+  },
+  {
+    "stationuuid": "383945c6-6ca0-4da6-8d1e-c231bc7809f7",
+    "name": "Radio 7",
+    "url": "http://stream.radio7.pl:443/radio7.mp3",
+    "url_resolved": "http://stream.radio7.pl:443/radio7.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/109/radio-72.60d43859.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 1614
+  },
+  {
+    "stationuuid": "e8c27cc3-e6e8-40b4-aca1-5e293a548c63",
+    "name": "Radio Disco Party - Disco Polo",
+    "url": "https://s1.slotex.pl:7432/stream/1/",
+    "url_resolved": "https://s1.slotex.pl:7432/stream/1/",
+    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
+    "country": "Poland",
+    "tags": "dance,disco polo",
+    "votes": 1323
+  },
+  {
+    "stationuuid": "c64f60f5-594a-43ab-bf7b-02c883ca2ab5",
+    "name": "Polskie Radio 24 (NEW STREAM)",
+    "url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+    "url_resolved": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/776/polskie-radio-24.1499c208.png",
+    "country": "Poland",
+    "tags": "information,news,polskie radio,public radio",
+    "votes": 827
+  },
+  {
+    "stationuuid": "2feb2001-ac7b-45d6-8c71-c12079f72e0e",
+    "name": "DISCOPARTY.PL - Kanał Club",
+    "url": "https://s3.slotex.pl:7354/stream/1/",
+    "url_resolved": "https://s3.slotex.pl:7354/stream/1/",
+    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 756
+  },
+  {
+    "stationuuid": "8bfd74c2-c254-4e9b-ba58-94248ddd767e",
+    "name": "Radio SAR - Studencka Agencja Radiowa",
+    "url": "https://stream.radiosar.pl/hdmain.mp3",
+    "url_resolved": "https://stream.radiosar.pl/hdmain.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/761/radio-sar-studencka-agencja-radiowa.7a6c3695.png",
+    "country": "Poland",
+    "tags": "blues,gdansk,jazz,metal,poland,polish",
+    "votes": 656
+  },
+  {
+    "stationuuid": "86329383-66ef-4156-ba8d-6ac8d3778cc5",
+    "name": "Rmf Fm Polska",
+    "url": "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48",
+    "url_resolved": "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48",
+    "favicon": "https://www.gruparmf.pl/_files/Upload/Files/Presspack/GRUPA_RMF.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 487
+  },
+  {
+    "stationuuid": "737299d9-6583-4103-aacf-9576b60baa82",
+    "name": "DiscoParty.pl - Disco Impreza",
+    "url": "https://s3.slotex.pl:7046/stream/1/?sid=1",
+    "url_resolved": "https://s3.slotex.pl:7046/stream/1/?sid=1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/667/discopartypl-disco-impreza.3afe219c.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 479
+  },
+  {
+    "stationuuid": "95b16c08-729f-42a3-bcfa-57f1df9a562a",
+    "name": "Radio Poland",
+    "url": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8",
+    "url_resolved": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/263/radio-poland.a0d6650e.png",
+    "country": "Poland",
+    "tags": "news,poland,talk,world news",
+    "votes": 466
+  },
+  {
+    "stationuuid": "9ba3e8dd-0f33-4553-89c7-97580eea12e3",
+    "name": "Radio Zet na Rower -om",
+    "url": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06",
+    "url_resolved": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06",
+    "favicon": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-na-rower/2014099-20-pol-PL/Radio-ZET-na-Rower_social_share.png",
+    "country": "Poland",
+    "tags": "dance,hits,pop,top40",
+    "votes": 449
+  },
+  {
+    "stationuuid": "c52a1932-bb22-4927-9d47-62147e26d908",
+    "name": "Radio ESKA Warszawa",
+    "url": "http://ic1.smcdn.pl/2380-2.aac",
+    "url_resolved": "http://ic1.smcdn.pl/2380-2.aac",
+    "favicon": "https://cdn.music.smcloud.net/t/cover/602854b3-a955-4737-9588-ea963676f73c_ESKA_radio_500x500_500x500.jpg",
+    "country": "Poland",
+    "tags": "pop",
+    "votes": 318
+  },
+  {
+    "stationuuid": "962c1f25-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Ostrowiec 95.2 FM",
+    "url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
+    "url_resolved": "http://s1.slotex.pl:7050/stream/1/;?type=http",
+    "favicon": "https://radioostrowiec.pl/wp-content/uploads/2017/05/cropped-ikona-180x180.png",
+    "country": "Poland",
+    "tags": "public radio",
+    "votes": 233
+  },
+  {
+    "stationuuid": "5bd945b9-ee44-41f5-bd39-88a9d92282ce",
+    "name": "Radio Zet Love -om",
+    "url": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
+    "url_resolved": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
+    "favicon": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-love/684881-14-pol-PL/Radio-ZET-Love_social_share.png",
+    "country": "Poland",
+    "tags": "lovesongs",
+    "votes": 133
+  },
+  {
+    "stationuuid": "3f965c9b-8f1e-47a8-b0c9-b51b00b711f7",
+    "name": "Polskie Radio Czwórka",
+    "url": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
+    "url_resolved": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/261/polskie-radio-czworka.a7062b22.png",
+    "country": "Poland",
+    "tags": "polish,public radio",
+    "votes": 98
+  },
+  {
+    "stationuuid": "83c0f221-4436-44e1-9f95-6320fa9fddcb",
+    "name": "DiscoParty.pl - Lata 90s",
+    "url": "https://s3.slotex.pl:7170/stream/1/?sid=1",
+    "url_resolved": "https://s3.slotex.pl:7170/stream/1/?sid=1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jCjjVFfjE5.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 94
+  },
+  {
+    "stationuuid": "e8d66981-99a5-4149-b34e-8d4924422cb5",
+    "name": "Polskie Radio Dzieciom",
+    "url": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
+    "url_resolved": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/783/polskie-radio-dzieciom.dc0ae949.png",
+    "country": "Poland",
+    "tags": "kids",
+    "votes": 85
+  },
+  {
+    "stationuuid": "dedffd6c-7d6f-4751-8f51-db1b9753c605",
+    "name": "VOX FM BEST LISTA",
+    "url": "https://ic1.smcdn.pl/6100-1.mp3",
+    "url_resolved": "https://ic1.smcdn.pl/6100-1.mp3",
+    "favicon": "https://cdn.music.smcloud.net/t/cover/ab3cb926-3607-48f0-8cab-8a0cf2ec3461_BL_500x500_500x500.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 84
+  },
+  {
+    "stationuuid": "4d06407d-0e1c-4407-a6e8-b0c81c3d2659",
+    "name": "Radio ZET 128",
+    "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+    "url_resolved": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+    "favicon": "https://i.postimg.cc/BQmzGmPR/radio-zet-8fe59cd4.jpg",
+    "country": "Poland",
+    "tags": "top hits",
+    "votes": 79
+  },
+  {
+    "stationuuid": "d2666286-0af9-4e40-886a-05f18a82821e",
+    "name": "RMF MAXX Podlasie",
+    "url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+    "url_resolved": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+    "favicon": "https://i.ytimg.com/vi/Jr7C7LQYssM/maxresdefault.jpg",
+    "country": "Poland",
+    "tags": "pop music",
+    "votes": 74
+  },
+  {
+    "stationuuid": "620a43eb-9c11-447e-b68c-33bb74018af0",
+    "name": "Radio 40plus Forty Plus",
+    "url": "https://s1.slotex.pl:7178/stream/1/",
+    "url_resolved": "https://s1.slotex.pl:7178/stream/1/",
+    "favicon": "https://radio40plus.pl/wp-content/uploads/2023/04/Logo-RFZielone230x230small.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 68
+  },
+  {
+    "stationuuid": "197f14e8-000c-43c1-b056-bb46e91d8abf",
+    "name": "RMF Maxx Włocławek",
+    "url": "http://31.192.216.4/rmf_maxxx_wlc",
+    "url_resolved": "http://31.192.216.4/rmf_maxxx_wlc",
+    "favicon": "https://www.rmfmaxx.pl/assets-22/images/logo-pink.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 65
+  },
+  {
+    "stationuuid": "65d9b254-f0ef-43f8-aaf0-93f1832b56fb",
+    "name": "VibeFM",
+    "url": "https://ic2.smcdn.pl/6490-1.aac",
+    "url_resolved": "https://ic2.smcdn.pl/6490-1.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ndNqnwZ4kn.png",
+    "country": "Poland",
+    "tags": "hip-hop,pop,rap",
+    "votes": 64
+  },
+  {
+    "stationuuid": "a7a9392d-f6a1-418a-aff3-58381fe9525f",
+    "name": "Mega Radio",
+    "url": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
+    "url_resolved": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/343/mega-radio2.5d8a7bd9.jpg",
+    "country": "Poland",
+    "tags": "2000s,90's,dance,pop",
+    "votes": 59
+  },
+  {
+    "stationuuid": "2199c9e0-c2e9-4368-ac41-0d748e3dc90c",
+    "name": "Zamek Nadaje",
+    "url": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
+    "url_resolved": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/nHRWpNX26b.png",
+    "country": "Poland",
+    "tags": "electronic,punk,rock,word",
+    "votes": 54
+  },
+  {
+    "stationuuid": "50bb6818-2c35-4956-a28c-25f4a0884ce7",
+    "name": "Akademickie Radio LUZ",
+    "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
+    "url_resolved": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/989/akademickie-radio-luz.be08fb44.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 54
+  },
+  {
+    "stationuuid": "7eb13e53-ddc3-46a6-8b42-fa71c84c5954",
+    "name": "Polskie Radio Trójka",
+    "url": "https://stream13.polskieradio.pl/pr3/pr3.sdp/chunklist_w476233979.m3u8",
+    "url_resolved": "https://stream13.polskieradio.pl/pr3/pr3.sdp/chunklist_w476233979.m3u8",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/260/polskie-radio-program-iii-pr3-trojka.00c2edf5.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 53
+  },
+  {
+    "stationuuid": "c06ca505-ce48-4897-8202-e9608c491835",
+    "name": "Antyradio Unplugged",
+    "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
+    "url_resolved": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/721/antyradio-unplugged.f3d8aca4.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 44
+  },
+  {
+    "stationuuid": "33d69452-3417-4e90-92b9-c1f2e0aced66",
+    "name": "Radio Kolor",
+    "url": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
+    "url_resolved": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
+    "favicon": "https://radiokolor.pl/wp-content/uploads/2023/11/Logo_poziom-kolor-e1700132634498-1024x438.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 40
+  },
+  {
+    "stationuuid": "882d3fa4-ef24-4be0-876a-93ff08f18f67",
+    "name": "Radio Sierpc",
+    "url": "https://ssl-1.radiohost.pl:10700/stream",
+    "url_resolved": "https://ssl-1.radiohost.pl:10700/stream",
+    "favicon": "https://radio.sierpc.pl/wp-content/uploads/2024/02/cropped-logo-1-180x180.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 37
+  },
+  {
+    "stationuuid": "279f9156-6b11-4488-a6f5-4df568394458",
+    "name": "Radio Jasna Gora",
+    "url": "http://online.radiojasnagora.pl:8000/rjg",
+    "url_resolved": "http://online.radiojasnagora.pl:8000/rjg",
+    "favicon": "https://www.radiojasnagora.pl/images/logo.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 36
+  },
+  {
+    "stationuuid": "1da3514f-0a3e-499a-ba26-9b5227e7f6e7",
+    "name": "Radio Yanosik",
+    "url": "https://n07-us.rcs.revma.com/7vhveccrnquvv?rj-ttl=5&rj-tok=AAABoQzG-AUABTCyTtxfdN5trg",
+    "url_resolved": "https://n07-us.rcs.revma.com/7vhveccrnquvv?rj-ttl=5&rj-tok=AAABoQzG-AUABTCyTtxfdN5trg",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/995/radio-yanosik.a146e99c.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 28
+  },
+  {
+    "stationuuid": "e49f5776-8aea-4db8-ba6e-4b12b262d4ab",
+    "name": "Radio Macabrismix",
+    "url": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+    "url_resolved": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+    "favicon": "https://panel.macabrismix.com.pl/static/uploads/macabris_mix_radio_station_1-2c6_ghz/album_art.1787481138.jpg",
+    "country": "Poland",
+    "tags": "dancehall,dub reggae,hip hop,rap,reggae",
+    "votes": 23
+  },
+  {
+    "stationuuid": "88562f33-3bed-40b5-8106-0cfb42294d19",
+    "name": "RMF K-Pop",
+    "url": "https://rs8-krk2-cyfronet.rmfstream.pl/GAMEMUSIC",
+    "url_resolved": "https://rs8-krk2-cyfronet.rmfstream.pl/GAMEMUSIC",
+    "favicon": "https://static.rmf.pl/portal/stations/covers/rmf-gamemusic/20251008132246_rmf-gamemusic_600.jpg",
+    "country": "Poland",
+    "tags": "k-pop",
+    "votes": 23
+  },
+  {
+    "stationuuid": "9ee3d66a-bce4-494f-be16-1e7c219a44bd",
+    "name": "Tail FM Poland",
+    "url": "http://play.ogon.ovh:8810/tail-fm",
+    "url_resolved": "http://play.ogon.ovh:8810/tail-fm",
+    "favicon": "https://tail.5v.pl/kita.jpg",
+    "country": "Poland",
+    "tags": "#90s,00's,2000s,alternative,poland,pop rock",
+    "votes": 21
+  },
+  {
+    "stationuuid": "55b0217d-e799-4e6b-a313-9db5f522c228",
+    "name": "Radio Opole 1 96 kbps",
+    "url": "https://audio.radio.opole.pl/ro1aac",
+    "url_resolved": "https://audio.radio.opole.pl/ro1aac",
+    "favicon": "https://i.postimg.cc/XqMBQWMd/zalvf5mnczj9.png",
+    "country": "Poland",
+    "tags": "information",
+    "votes": 20
+  },
+  {
+    "stationuuid": "54a7ac26-e836-42cd-95a5-750509c70406",
+    "name": "Life 4 Club",
+    "url": "https://life4club.online/listen/live/l4c.mp3",
+    "url_resolved": "https://life4club.online/listen/live/l4c.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/539/life-4-club.01499837.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 19
+  },
+  {
+    "stationuuid": "badb4f61-ebcc-4b1f-bc7d-f56993083f98",
+    "name": "Red7 - Kanał EDM",
+    "url": "https://s.red7.pl/edm256",
+    "url_resolved": "https://s.red7.pl/edm256",
+    "favicon": "https://red7.pl/img/edmdj-app.png",
+    "country": "Poland",
+    "tags": "deep house,dj,house,muzyka klubowa,polskie radio,techno",
+    "votes": 16
+  },
+  {
+    "stationuuid": "ddcc5b96-282b-4ab0-81ed-4a5a366b5686",
+    "name": "Red7.pl - Kanał Główny",
+    "url": "https://s.red7.pl/stream256",
+    "url_resolved": "https://s.red7.pl/stream256",
+    "favicon": "https://red7.pl/img/clubdj-app.png",
+    "country": "Poland",
+    "tags": "club,dance,disco,dj,electro,electronic",
+    "votes": 14
+  },
+  {
+    "stationuuid": "8a33b187-c233-4415-b1aa-f09696fc5290",
+    "name": "Radio Aktywne",
+    "url": "https://listen.radioaktywne.pl/ramp3",
+    "url_resolved": "https://listen.radioaktywne.pl/ramp3",
+    "favicon": "https://radioaktywne.pl/static/images/ra_banner-b3198ed95c743c1739835454f4d52637.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 14
+  },
+  {
+    "stationuuid": "254a19c7-d037-441d-a1bc-5669fdf8a1ef",
+    "name": "ESKA Ostrzeszów",
+    "url": "https://ic2.smcdn.pl/2500-1.mp3",
+    "url_resolved": "https://ic2.smcdn.pl/2500-1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/177/eska-ostrzeszow.5fe77e51.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 14
+  },
+  {
+    "stationuuid": "1a65e79f-e63e-4edf-a9e5-6a919e4610d9",
+    "name": "RMF Maxx Kielce",
+    "url": "https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "url_resolved": "https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "favicon": "https://static.rmf.pl/portal/stations/covers/rmf_maxxx_kie/20241108100608_rmf_maxxx_kie_600.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 13
+  },
+  {
+    "stationuuid": "144327a4-ec3c-4508-8a7d-d8fcb5db6149",
+    "name": "Radio Kielce",
+    "url": "https://streaming.g-news.pl:8030/rk2",
+    "url_resolved": "https://streaming.g-news.pl:8030/rk2",
+    "favicon": "https://radiokielce.pl/wp-content/uploads/2022/04/cropped-rk-192x192.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 10
+  },
+  {
+    "stationuuid": "8c111711-f7d5-42e6-907d-1b5f9a4402df",
+    "name": "Twoja Polska Stacja",
+    "url": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
+    "url_resolved": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
+    "favicon": "https://twojapolskastacja.pl/tps-logo.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 10
+  },
+  {
+    "stationuuid": "523dba1f-7802-496e-a9e6-d63269e372b1",
+    "name": "Radio Synteza",
+    "url": "https://stream.radio-synteza.pl/synteza",
+    "url_resolved": "https://stream.radio-synteza.pl/synteza",
+    "favicon": "https://radio-synteza.pl/og-image.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 9
+  },
+  {
+    "stationuuid": "733f1af4-09c3-4b83-84c6-faddbf42b4d1",
+    "name": "Radio RSC",
+    "url": "https://n07-us.rcs.revma.com/94fud6a6z72vv?rj-ttl=5&rj-tok=AAABoQzG_nMAFzjz6Y-xpls1tQ",
+    "url_resolved": "https://n07-us.rcs.revma.com/94fud6a6z72vv?rj-ttl=5&rj-tok=AAABoQzG_nMAFzjz6Y-xpls1tQ",
+    "favicon": "https://radiorsc.pl/wp-content/uploads/2023/10/icon-radio-rsc-skierniewice.png",
+    "country": "Poland",
+    "tags": "local news,music,pop,skierniewice",
+    "votes": 5
+  },
+  {
+    "stationuuid": "c892aba2-2c34-4913-baa1-22acec459e47",
+    "name": "Radio Fraszka",
+    "url": "https://s3.slotex.pl:7132/;",
+    "url_resolved": "https://s3.slotex.pl:7132/;",
+    "favicon": "https://files.catbox.moe/u8jz0y.png",
+    "country": "Poland",
+    "tags": "fm,university radio",
+    "votes": 4
+  },
+  {
+    "stationuuid": "332aaa3e-af8e-49cd-9f85-b0d6838db6b5",
+    "name": "Radio Stacja Impreza",
+    "url": "https://stacjaimpreza.katowice.pl:8002/stream",
+    "url_resolved": "https://stacjaimpreza.katowice.pl:8002/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/257/stacja-impreza.44abeb22.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 3
+  },
+  {
+    "stationuuid": "5e65fe58-70c2-4856-be38-06245586e06e",
+    "name": "Beat City Kraków",
+    "url": "https://radio.beatcity.pl/listen/beat_city_krakow/radio.mp3",
+    "url_resolved": "https://radio.beatcity.pl/listen/beat_city_krakow/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/811/beat-city-krakow.b786e4b2.jpg",
+    "country": "Poland",
+    "tags": "city radio,kraków,local news,polska,pop",
+    "votes": 1
+  },
+  {
+    "stationuuid": "85038219-3b4b-480f-b404-9cbc5f0a32cc",
+    "name": "Beat City Warszawa",
+    "url": "https://radio.beatcity.pl/listen/beat_city_warszawa/radio.mp3",
+    "url_resolved": "https://radio.beatcity.pl/listen/beat_city_warszawa/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/804/beat-city-warszawa.0ba9ba12.jpg",
+    "country": "Poland",
+    "tags": "city radio,local news,polska,pop,warszawa",
+    "votes": 0
+  },
+  {
+    "stationuuid": "22e7a865-854b-4769-8a66-4f16a05e9580",
+    "name": "Beat City Wrocław",
+    "url": "https://radio.beatcity.pl/listen/beat_city_wroclaw/radio.mp3",
+    "url_resolved": "https://radio.beatcity.pl/listen/beat_city_wroclaw/radio.mp3",
+    "favicon": "https://wroclaw.beatcity.pl/logo-512.png",
+    "country": "Poland",
+    "tags": "city radio,local news,polska,pop,wrocław",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f9268d2d-16c7-4613-90bf-01e86c906834",
+    "name": "Beat City Oleśnica",
+    "url": "https://olesnica.beatcity.pl/listen/radio/radio.mp3",
+    "url_resolved": "https://olesnica.beatcity.pl/listen/radio/radio.mp3",
+    "favicon": "https://olesnica.beatcity.pl/logo-512.png",
+    "country": "Poland",
+    "tags": "city radio,local news,oleśnica,polska,pop",
+    "votes": 0
+  },
+  {
+    "stationuuid": "380c7c1f-ad28-4920-9c86-2753731625e1",
+    "name": "PolNexus Radio",
+    "url": "https://polnexus.pl/listen.mp3",
+    "url_resolved": "https://polnexus.pl/listen.mp3",
+    "favicon": "https://www.polnexus.pl/branding/polnexus-logo-full.png",
+    "country": "Poland",
+    "tags": "news,polish,polonia,polskie radio,pop,radio online",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9610ee68-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Wnet",
+    "url": "http://audio.radiownet.pl:8000/stream",
+    "url_resolved": "http://audio.radiownet.pl:8000/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/924/radio-wnet.e3c37448.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 7308
+  },
+  {
+    "stationuuid": "963a8960-0601-11e8-ae97-52543be04c81",
+    "name": "Radioparty.pl House Party",
+    "url": "http://house.radioparty.pl:8010/",
+    "url_resolved": "http://house.radioparty.pl:8010/",
+    "favicon": "http://radioparty.pl/images/radioparty2017.png",
+    "country": "Poland",
+    "tags": "house",
+    "votes": 5712
+  },
+  {
+    "stationuuid": "92681851-39cd-11e9-9b4e-52543be04c81",
+    "name": "MC Radio",
+    "url": "http://stream4.nadaje.com:8624/mcradio",
+    "url_resolved": "http://stream4.nadaje.com:8624/mcradio",
+    "favicon": "https://cdn-profiles.tunein.com/s103210/images/logoq.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 185
+  },
+  {
+    "stationuuid": "238188f2-242f-11ea-aa0c-52543be04c81",
+    "name": "Norda FM",
+    "url": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8",
+    "url_resolved": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/493/norda-fm.8285c8da.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 178
+  },
+  {
+    "stationuuid": "2f450db4-a8b7-4778-bfa9-26704b620662",
+    "name": "MaxPlay FM",
+    "url": "https://s1.slotex.pl:8880/stream/1/",
+    "url_resolved": "https://s1.slotex.pl:8880/stream/1/",
+    "favicon": "https://panelradiowy.pl/images/playfacebook.png",
+    "country": "Poland",
+    "tags": "pop",
+    "votes": 34
+  },
+  {
+    "stationuuid": "315877c9-372b-462e-a568-2bed665482cb",
+    "name": "EL-Stacja",
+    "url": "http://radio.el-stacja.pl:8000/elstacja320.ogg",
+    "url_resolved": "http://radio.el-stacja.pl:8000/elstacja320.ogg",
+    "favicon": "https://el-stacja.pl/logo.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 15
+  },
+  {
+    "stationuuid": "e70ca294-1422-4e4e-96d2-d98903271de3",
+    "name": "Radio Elbląg",
+    "url": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
+    "url_resolved": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
+    "favicon": "https://polskieradioelblag.pl/posluchaj/img/nowy/re.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 11
+  },
+  {
+    "stationuuid": "126c9b63-9c07-4e68-bbad-412604c035b2",
+    "name": "RadioBEST.pl",
+    "url": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
+    "url_resolved": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
+    "favicon": "https://radiobest.pl/images/max_400_400/langs/pl/logo/logo_www-1.png",
+    "country": "Poland",
+    "tags": "country",
+    "votes": 5
+  },
+  {
+    "stationuuid": "34cfdee6-4df4-4fd4-b215-71b7bde4a209",
+    "name": "FSSPX Radio Internetowe",
+    "url": "http://radio.fsspx.pl:8000/radio.mp3",
+    "url_resolved": "http://radio.fsspx.pl:8000/radio.mp3",
+    "favicon": "https://radio.fsspx.pl/wp-content/themes/atahualpa/images/logo-fsspx-150.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 3
+  },
+  {
+    "stationuuid": "59c4407c-b284-4dac-90c3-6d0672d6cf03",
+    "name": "Radio Lemko.pl",
+    "url": "http://stream3.nadaje.com:8060/radio",
+    "url_resolved": "http://stream3.nadaje.com:8060/radio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/101/radio-lemko.a601863c.jpg",
+    "country": "Poland",
+    "tags": "carpatho rusyn,ethnic,folk music,lemko",
+    "votes": 2
+  },
+  {
+    "stationuuid": "4021b06a-5787-44ca-9621-4dc63bf371c7",
+    "name": "Radio Kampus 97,1 FM",
+    "url": "https://stream.radiokampus.fm/kampus",
+    "url_resolved": "https://stream.radiokampus.fm/kampus",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/959/radio-kampus-971.de35fd6a.jpg",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 707
+  },
+  {
+    "stationuuid": "e32ec32a-6315-11e9-a622-52543be04c81",
+    "name": "Radio Centrum Lublin",
+    "url": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+    "url_resolved": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+    "favicon": "https://i1.wp.com/centrum.fm/wp-content/uploads/2012/12/radio_centrum_logo_czarne_01.jpg?fit=1121%2C771&ssl=1",
+    "country": "Poland",
+    "tags": "poland,polish,rock",
+    "votes": 701
+  },
+  {
+    "stationuuid": "c1694afe-e4fb-4a91-83da-5cec323bd082",
+    "name": "Radio Italo4you",
+    "url": "https://ssl-1.radiohost.pl:8018/stream",
+    "url_resolved": "https://ssl-1.radiohost.pl:8018/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/710/radio-italo4you.017fc8b5.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 562
+  },
+  {
+    "stationuuid": "960fb82c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Malbork",
+    "url": "http://stream3.nadaje.com:9022/",
+    "url_resolved": "http://stream3.nadaje.com:9022/",
+    "favicon": "https://static2.radiomalbork.fm/data/wysiwig/532169_492610320769907_254398773_n.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 205
+  },
+  {
+    "stationuuid": "ba8d1ba4-3640-4ab3-b20c-816fbe47a369",
+    "name": "BEST Radio (192Kbps)",
+    "url": "http://stream.radiobest.eu:8000/192",
+    "url_resolved": "http://stream.radiobest.eu:8000/192",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/747/best-radio.71af5cb0.png",
+    "country": "Poland",
+    "tags": "edm,progressive,trance,uplifting,vocal",
+    "votes": 186
+  },
+  {
+    "stationuuid": "4ef16823-5fd2-450c-a3d7-c955803c7525",
+    "name": "Polmax Kolędy",
+    "url": "https://stream-177.surfernetwork.com/vorzdeodup8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2b3J6ZGVvZHVwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlYyam80OVQzUnJxTXp1OXZhYU9DZkEiLCJpYXQiOjE3OTEyMTUxMjUsImV4cCI6MTc5MTIxNTE4NX0.Tctwv97VZCzTr75Ts_XmpnseGXhSzOTU1851hw5StxE",
+    "url_resolved": "https://stream-177.surfernetwork.com/vorzdeodup8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2b3J6ZGVvZHVwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlYyam80OVQzUnJxTXp1OXZhYU9DZkEiLCJpYXQiOjE3OTEyMTUxMjUsImV4cCI6MTc5MTIxNTE4NX0.Tctwv97VZCzTr75Ts_XmpnseGXhSzOTU1851hw5StxE",
+    "favicon": "https://polmaxfm.github.io/images/logo-zima.png",
+    "country": "Poland",
+    "tags": "christmas",
+    "votes": 169
+  },
+  {
+    "stationuuid": "3a301466-ef46-4112-866e-d90af34a1d7b",
+    "name": "Wesołe Slonzoki",
+    "url": "http://51.255.8.139:8380/stream",
+    "url_resolved": "http://51.255.8.139:8380/stream",
+    "favicon": "https://wesole-slonzoki.eu/wp-content/uploads/2020/09/cropped-herb-2-180x180.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 147
+  },
+  {
+    "stationuuid": "890e70d8-15e1-44fb-8475-1558961e8353",
+    "name": "4fun tv",
+    "url": "https://stream.4fun.tv:8888/sd/4fun.m3u8",
+    "url_resolved": "https://stream.4fun.tv:8888/sd/4fun.m3u8",
+    "favicon": "https://brandingmonitor.pl/wp-content/uploads/2014/02/nowe-logo-4fun-tv-telewizji.jpg",
+    "country": "Poland",
+    "tags": "tv",
+    "votes": 105
+  },
+  {
+    "stationuuid": "d8919ddf-efad-4cde-9ce9-6c61bcb9abcc",
+    "name": "neural radio",
+    "url": "http://cast.magicstreams.gr:9111/stream",
+    "url_resolved": "http://cast.magicstreams.gr:9111/stream",
+    "favicon": "https://th.bing.com/th/id/R.049bbf550058ec35de7ccb539a923013?rik=7QNgO%2FBxGu7fcg&riu=http%3A%2F%2F2.bp.blogspot.com%2F-WM6SNnOsoYI%2FVKKMFCsTQVI%2FAAAAAAAABig%2FJ8FxMS2_JJ0%2Fs1600%2Fgoa%2Btrance%2B4.jpg&ehk=qtrc56f%2BnA6AQ9n53Y%2Fta1dMCYXNM1QCNiPsrgRMuXM%3D&risl=&pid=ImgRaw&r=0",
+    "country": "Poland",
+    "tags": "trance",
+    "votes": 84
+  },
+  {
+    "stationuuid": "85479a6a-29c3-446b-9885-7416deacbcd1",
+    "name": "Punk Radio Underground",
+    "url": "https://s1.slotex.pl:7604/stream/1/?sid=1;",
+    "url_resolved": "https://s1.slotex.pl:7604/stream/1/?sid=1;",
+    "favicon": "https://www.radiounderground.org/Grafika/title.png",
+    "country": "Poland",
+    "tags": "radio",
+    "votes": 84
+  },
+  {
+    "stationuuid": "b71aeb1c-0cd1-473c-a122-f06eff2abd0d",
+    "name": "Cmp3",
+    "url": "http://s.radiocmp3.eu/edm256",
+    "url_resolved": "http://s.radiocmp3.eu/edm256",
+    "favicon": "https://cmp3.eu/img/cmp3-av.png",
+    "country": "Poland",
+    "tags": "electronic",
+    "votes": 72
+  }
+]

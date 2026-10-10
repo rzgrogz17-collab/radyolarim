@@ -1,0 +1,1002 @@
+[
+  {
+    "stationuuid": "108f07c3-21f0-5309-11e8-f46525f0d02d",
+    "name": "Radio 2000",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO2000AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/784/radio-2000.9559406c.png",
+    "country": "South Africa",
+    "tags": "sports,talk",
+    "votes": 150
+  },
+  {
+    "stationuuid": "1680e92f-c3b2-451c-9d76-f1a9708daecb",
+    "name": "Radio Sonder Grense",
+    "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&pname=tdwidgets",
+    "url_resolved": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&pname=tdwidgets",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/785/rsg-radio-sonder-grense.56113c70.png",
+    "country": "South Africa",
+    "tags": "",
+    "votes": 57
+  },
+  {
+    "stationuuid": "123f07c3-17f0-4009-91e8-f12453f0d35d",
+    "name": "Radio 702",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/702/radio-702.267ed6b5.jpg",
+    "country": "South Africa",
+    "tags": "talk,news",
+    "votes": 153
+  },
+  {
+    "stationuuid": "119f07c3-81f0-4309-91e8-f46525f0d35d",
+    "name": "KAYA FM 95.9",
+    "url": "http://edge.iono.fm/xhls/82_high.m3u8",
+    "url_resolved": "http://edge.iono.fm/xhls/82_high.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KAYAFM.jpg",
+    "country": "South Africa",
+    "tags": "african,alternative,pop",
+    "votes": 152
+  },
+  {
+    "stationuuid": "9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
+    "name": "Metro FM South Africa",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/781/metro-fm-live.21bf50af.png",
+    "country": "South Africa",
+    "tags": "",
+    "votes": 150
+  },
+  {
+    "stationuuid": "9614225b-0601-11e8-ae97-52543be04c81",
+    "name": "Jacaranda FM",
+    "url": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/711/jacaranda-fm.da32493a.jpg",
+    "country": "South Africa",
+    "tags": "adult contemporary,pop,regional radio,talk",
+    "votes": 113
+  },
+  {
+    "stationuuid": "ac81df15-039c-43df-b944-7462426b9db5",
+    "name": "Ukhozi FM S.A",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/UFMSA.jpg",
+    "country": "South Africa",
+    "tags": "",
+    "votes": 103
+  },
+  {
+    "stationuuid": "49970d3a-0a50-4655-8dfb-9065b279d662",
+    "name": "Lesedi",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/778/lesedi-fm-live.62fca629.png",
+    "country": "South Africa",
+    "tags": "",
+    "votes": 77
+  },
+  {
+    "stationuuid": "9621d2a4-0601-11e8-ae97-52543be04c81",
+    "name": "Bosveld Stereo",
+    "url": "http://capeant.antfarm.co.za:8000/Bosveld",
+    "url_resolved": "http://capeant.antfarm.co.za:8000/Bosveld",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/703/bosveld-stereo.18543abd.jpg",
+    "country": "South Africa",
+    "tags": "pop,rock",
+    "votes": 57
+  },
+  {
+    "stationuuid": "961e3141-0601-11e8-ae97-52543be04c81",
+    "name": "OFM 94 & 97 FM Bloemfontein",
+    "url": "http://edge.iono.fm/xice/ofm_live_medium.aac",
+    "url_resolved": "http://edge.iono.fm/xice/ofm_live_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/065/ofm.2d8979d0.png",
+    "country": "South Africa",
+    "tags": "bloemfontein,commercial,local news,news,pop",
+    "votes": 56
+  },
+  {
+    "stationuuid": "cd6d66e4-adc0-4284-9392-f1a1f87091d9",
+    "name": "KFM 94.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/042/kfm-radio.a1ba5112.jpg",
+    "country": "South Africa",
+    "tags": "pop,rock",
+    "votes": 52
+  },
+  {
+    "stationuuid": "3bdf2126-b792-46f6-b0bd-9c991411e373",
+    "name": "ThobelaFM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/787/thobela-fm.8da74da7.png",
+    "country": "South Africa",
+    "tags": "",
+    "votes": 49
+  },
+  {
+    "stationuuid": "d6647132-efaf-4de4-a76b-7e71383117b8",
+    "name": "Hot 102.7 FM",
+    "url": "https://edge.iono.fm/xice/57_high.aac",
+    "url_resolved": "https://edge.iono.fm/xice/57_high.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/682/hot-1027-fm.1937ad08.png",
+    "country": "South Africa",
+    "tags": "",
+    "votes": 43
+  },
+  {
+    "stationuuid": "e13e8d57-0608-11ea-afd6-52543be04c81",
+    "name": "Jozi FM",
+    "url": "https://edge.iono.fm/xice/51_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/51_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/717/jozi-fm.8eb15ef3.png",
+    "country": "South Africa",
+    "tags": "regional radio",
+    "votes": 37
+  },
+  {
+    "stationuuid": "96192d12-0601-11e8-ae97-52543be04c81",
+    "name": "702 Johannesburg",
+    "url": "http://25643.live.streamtheworld.com/FM702_SC",
+    "url_resolved": "http://25643.live.streamtheworld.com/FM702_SC",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Johannesburg_skyline_2017.jpg/500px-Johannesburg_skyline_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "South Africa",
+    "tags": "johannesburg,news talk",
+    "votes": 4263
+  },
+  {
+    "stationuuid": "a21017f9-f175-4af3-ac81-690492e18c3d",
+    "name": "YFM",
+    "url": "http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8",
+    "url_resolved": "http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/JfwtLBVEWn.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 1441
+  },
+  {
+    "stationuuid": "7881d719-bae9-407d-912c-f75174c43403",
+    "name": "East Coast Radio",
+    "url": "https://live.ecr.co.za/ecrlow.aac",
+    "url_resolved": "https://live.ecr.co.za/ecrlow.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/712/ecr-live-east-coast-radio.d45cea32.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 541
+  },
+  {
+    "stationuuid": "961d5b7f-0601-11e8-ae97-52543be04c81",
+    "name": "Fine Music Radio",
+    "url": "http://edge.iono.fm/xhls/fmr_live_medium.m3u8",
+    "url_resolved": "http://edge.iono.fm/xhls/fmr_live_medium.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fine-Music-Sydney_-circle.jpg/500px-Fine-Music-Sydney_-circle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "South Africa",
+    "tags": "classical,m3u8,music",
+    "votes": 362
+  },
+  {
+    "stationuuid": "e9167f0a-5551-4952-b9ec-e2fb66879fc9",
+    "name": "5FM",
+    "url": "https://23543.live.streamtheworld.com:443/5FMAAC.aac",
+    "url_resolved": "https://23543.live.streamtheworld.com:443/5FMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/774/5fm.68cd0620.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 29
+  },
+  {
+    "stationuuid": "e361fbe4-ca90-42f3-9abe-deda661fc149",
+    "name": "Algoa FM",
+    "url": "http://edge.iono.fm/xice/54_high.mp3",
+    "url_resolved": "http://edge.iono.fm/xice/54_high.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/714/algoa-fm.f0371689.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 1127
+  },
+  {
+    "stationuuid": "fd4982b0-41c2-11e8-b74d-52543be04c81",
+    "name": "Bokradio",
+    "url": "https://bokradio.highquality.radiostream.co.za/",
+    "url_resolved": "https://bokradio.highquality.radiostream.co.za/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/264/bok-radio.dda216b7.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 2860
+  },
+  {
+    "stationuuid": "68dee448-5980-4c10-ab8e-0674c7dd1fcd",
+    "name": "Radio 786",
+    "url": "http://stream.krypton.co.za:8040/stream/",
+    "url_resolved": "http://stream.krypton.co.za:8040/stream/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/341/radio-786.79d732df.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 2015
+  },
+  {
+    "stationuuid": "84a1258a-a45a-4ede-8008-e27f89107d65",
+    "name": "Izwi LoMzansi",
+    "url": "https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8",
+    "url_resolved": "https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8",
+    "favicon": "https://izwi98fm.co.za/wp-content/uploads/2025/01/cropped-izwi-lomzansi-logo-2-180x180.png",
+    "country": "South Africa",
+    "tags": "african music,community radio,folk,kwaito",
+    "votes": 575
+  },
+  {
+    "stationuuid": "da81140d-96ed-49fe-a17d-761de31f6d19",
+    "name": "Helderberg FM",
+    "url": "https://helderberg.highquality.radiostream.co.za/",
+    "url_resolved": "https://helderberg.highquality.radiostream.co.za/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/274/radio-helderberg.4218e8cd.jpg",
+    "country": "South Africa",
+    "tags": "community radio",
+    "votes": 178
+  },
+  {
+    "stationuuid": "b981e0c8-37f4-475d-9e09-9045731cbd7c",
+    "name": "RISE FM",
+    "url": "https://edge.iono.fm/xice/73_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/73_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/838/rise-fm-south-africa.ee1363d2.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 90
+  },
+  {
+    "stationuuid": "2128490c-0414-4555-8146-596bb234e7da",
+    "name": "AGANANG FM",
+    "url": "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8",
+    "url_resolved": "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/500/aganang-fm.dfaa776b.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 71
+  },
+  {
+    "stationuuid": "8e40a7ca-c66b-4875-b55f-dd4a20144aa6",
+    "name": "Luister FM",
+    "url": "http://stream2.luisterfm.co.za:8000/LuisterFM",
+    "url_resolved": "http://stream2.luisterfm.co.za:8000/LuisterFM",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/678/luister-fm.aa1ef58b.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 56
+  },
+  {
+    "stationuuid": "91dbdf0b-57d0-452e-aaad-a1e0dabc7e17",
+    "name": "Inanda FM",
+    "url": "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8?session_id=F7QhCzr5lwhLx6D&device_id=gCWDK0co",
+    "url_resolved": "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8?session_id=F7QhCzr5lwhLx6D&device_id=gCWDK0co",
+    "favicon": "https://www.inandafm.co.za/wp-content/uploads/2025/02/1-e1740565998973.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 54
+  },
+  {
+    "stationuuid": "a3e9e91b-ab33-4524-a683-cf5ba8463e2e",
+    "name": "Lekoa fm",
+    "url": "https://zas2.ndx.co.za:8070/stream",
+    "url_resolved": "https://zas2.ndx.co.za:8070/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/736/lekoa-fm.8c7dbf52.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 26
+  },
+  {
+    "stationuuid": "9964eed0-d786-4bbb-9b95-dcdff4c6aa32",
+    "name": "Radio Turf",
+    "url": "https://iceant.eclipse-streaming.co.za/radio-turf.mp3",
+    "url_resolved": "https://iceant.eclipse-streaming.co.za/radio-turf.mp3",
+    "favicon": "https://radio-player.eclipse-streaming.co.za/radioturf/img/radioturf_logo.jpeg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 23
+  },
+  {
+    "stationuuid": "7d1cd6bb-be5d-4064-9639-4adc513a7ea5",
+    "name": "Radio Atlantis 107.9FM",
+    "url": "https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken=",
+    "url_resolved": "https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken=",
+    "favicon": "https://www.radioatlantis.org.za/wp-content/uploads/2023/12/RAFM-Logo.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 22
+  },
+  {
+    "stationuuid": "f56e79d2-7b59-42b3-8a0a-f375c6f2d71a",
+    "name": "Maluti FM",
+    "url": "https://cast3.my-control-panel.com/proxy/malutifm/stream",
+    "url_resolved": "https://cast3.my-control-panel.com/proxy/malutifm/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/282/radio-maluti.d6b623ff.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 19
+  },
+  {
+    "stationuuid": "cf181801-2b36-42ca-b19b-216821da3871",
+    "name": "Plaas Radio - Rad's Vibes",
+    "url": "https://radio.eclipse-streaming.co.za/listen/plaas_radio/radio.mp3",
+    "url_resolved": "https://radio.eclipse-streaming.co.za/listen/plaas_radio/radio.mp3",
+    "favicon": "https://eclipse-radio.eclipse-streaming.co.za/static/uploads/browser_icon/180.1708559464.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 16
+  },
+  {
+    "stationuuid": "bfefe2ec-00a4-484d-adb4-0337e27bb33d",
+    "name": "GROOTfm 90.5",
+    "url": "https://edge.iono.fm/xice/330_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/330_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/449/groot-fm-905.3fa63186.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 11
+  },
+  {
+    "stationuuid": "43f4f4d6-a481-406e-a43a-0d7df0430c8a",
+    "name": "zoibi FM",
+    "url": "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3",
+    "url_resolved": "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3",
+    "favicon": "https://radio.eclipse-streaming.co.za/static/uploads/album_art.1708559460.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 10
+  },
+  {
+    "stationuuid": "5fecda18-bea6-4ece-af7b-df83518ea016",
+    "name": "LM Radio",
+    "url": "https://ukwesta.streaming.broadcast.radio/lmradio",
+    "url_resolved": "https://ukwesta.streaming.broadcast.radio/lmradio",
+    "favicon": "https://lmradio.co.za/wp-content/uploads/2024/03/LM-Radio-Light-Version.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 9
+  },
+  {
+    "stationuuid": "a0a245af-451a-4e5e-b873-7e629e62c691",
+    "name": "The Grind Radio",
+    "url": "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3",
+    "url_resolved": "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3",
+    "favicon": "https://www.thegrindradio.co.za/wp-content/uploads/2022/10/G-1.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 9
+  },
+  {
+    "stationuuid": "9f865548-1c9f-463f-88a6-23ec6d312074",
+    "name": "Voice of the Cape",
+    "url": "https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8",
+    "url_resolved": "https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/863/voice-of-the-cape.8cb3e1ae.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 7
+  },
+  {
+    "stationuuid": "dbe0d0a6-432e-4da2-9825-d575d27a49ca",
+    "name": "AUDIO LOUNGE 247",
+    "url": "https://a13.asurahosting.com/listen/audio_lounge_247/radio.mp3",
+    "url_resolved": "https://a13.asurahosting.com/listen/audio_lounge_247/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/269/audio-lounge-247.e0a444c6.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 4
+  },
+  {
+    "stationuuid": "d7746a02-9831-485e-9dbe-bb03704c2c0f",
+    "name": "Southside Stereo",
+    "url": "https://radio.southsidestereo.co.za/listen/southsidestereo/radio.mp3",
+    "url_resolved": "https://radio.southsidestereo.co.za/listen/southsidestereo/radio.mp3",
+    "favicon": "https://southsidestereo.co.za/logo.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 2
+  },
+  {
+    "stationuuid": "35533bda-4bc1-4f2a-9dd6-3f271d41ad3b",
+    "name": "TUKS FM 107.2",
+    "url": "https://edge.iono.fm/xice/tuksfm_live_medium.aac?ref=https%3A%2F%2Fwww.tuksfm.co.za%2Fon-air%2Flisten-live%2F&adToken=&pofToken=",
+    "url_resolved": "https://edge.iono.fm/xice/tuksfm_live_medium.aac?ref=https%3A%2F%2Fwww.tuksfm.co.za%2Fon-air%2Flisten-live%2F&adToken=&pofToken=",
+    "favicon": "https://www.tuksfm.co.za/wp-content/uploads/2025/04/702.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 2
+  },
+  {
+    "stationuuid": "0e9f4ddc-e7d0-40dd-b838-40a727275e60",
+    "name": "Radio Bloem",
+    "url": "https://stream-178.zeno.fm/9fg1eqywrf9uv",
+    "url_resolved": "https://stream-178.zeno.fm/9fg1eqywrf9uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/744/radio-bloem.97b4e253.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 1
+  },
+  {
+    "stationuuid": "1fc71dc2-88c5-4e0c-ba2f-7e4e6d194669",
+    "name": "Rockbox! Radio",
+    "url": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3",
+    "url_resolved": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/008/rockbox-radio.51ed663c.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 1
+  },
+  {
+    "stationuuid": "f81a8e55-80ec-4eea-9e61-04e4a81eb299",
+    "name": "zoibicube",
+    "url": "https://radio3.eclipse-streaming.co.za/listen/zoibi/eggstra",
+    "url_resolved": "https://radio3.eclipse-streaming.co.za/listen/zoibi/eggstra",
+    "favicon": "https://radio3.eclipse-streaming.co.za/static/uploads/album_art.1708190391.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 1
+  },
+  {
+    "stationuuid": "ff2c9f53-d5b6-40b5-ba2a-64b381ff997f",
+    "name": "IFM 102.2",
+    "url": "http://s7.voscast.com:9538/;stream1700094931336/1",
+    "url_resolved": "http://s7.voscast.com:9538/;stream1700094931336/1",
+    "favicon": "https://static.wixstatic.com/media/0a14cb_6c3c98cf37f64f04b5a60717d63f179f~mv2.png/v1/fill/w_207,h_149,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_edited_edited.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 124
+  },
+  {
+    "stationuuid": "873528b4-4f42-49c8-9cff-8095d29625e7",
+    "name": "Eden FM",
+    "url": "https://iceant.antfarm.co.za/EdenFM",
+    "url_resolved": "https://iceant.antfarm.co.za/EdenFM",
+    "favicon": "https://app.cue24.co.za/images/24/logo.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 29
+  },
+  {
+    "stationuuid": "20f70b9f-e036-4427-b179-0249dc7a9b69",
+    "name": "SFM Streek Radio",
+    "url": "http://capeant.antfarm.co.za:8000/SFM",
+    "url_resolved": "http://capeant.antfarm.co.za:8000/SFM",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/747/sfm-streek-radio.67dd11f7.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 106
+  },
+  {
+    "stationuuid": "23620f9e-ef4e-43ef-b2b5-1cea1149f0a9",
+    "name": "RSG - Radio Sonder Grense",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RSGAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RSGAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/785/rsg-radio-sonder-grense.56113c70.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2492c14a-1056-4e16-a213-eeb278b4052a",
+    "name": "Metro FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/781/metro-fm-live.21bf50af.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1c6f600b-f38e-4bc7-9cbd-f0d9f1a03f23",
+    "name": "Kaya FM",
+    "url": "https://edge.iono.fm/xice/82_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/82_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/722/kaya-fm-live.84801229.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2d8ccfce-1338-419e-a238-000f4869ef5d",
+    "name": "Umhlobo Wenene FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UMHLOBOWENENEAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UMHLOBOWENENEAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/721/umhlobo-wenene-fm.fda3b5f3.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "20407edb-4457-4b27-a03d-a6040b65ca1c",
+    "name": "Heart 104.9 FM",
+    "url": "https://streaming.fabrik.fm/heartfm/echocast/audio/low/index.m3u8",
+    "url_resolved": "https://streaming.fabrik.fm/heartfm/echocast/audio/low/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/969/heart-1049-fm.b32fbeed.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dd0a2054-80bd-426e-b65b-76d67121d464",
+    "name": "SAfm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/786/safm-live.7e0e5a10.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ea9760de-89b1-4687-b220-d63914b8c1a2",
+    "name": "Power FM",
+    "url": "https://edge.iono.fm/xice/65_high.aac",
+    "url_resolved": "https://edge.iono.fm/xice/65_high.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/004/power-fm-live.ebee1f80.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6f92cfea-4414-458e-ae7c-a999fca44853",
+    "name": "Ukhozi FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/789/ukhozi-fm-live.d2a79f69.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6a8985e1-ada8-4155-9a0b-c9bc6c10e4cb",
+    "name": "Pretoria FM",
+    "url": "https://edge.iono.fm/xice/362_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/362_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/452/radio-pretoria-fm.3a345155.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c333bdd1-776d-40cc-b0d0-fa24a1555fda",
+    "name": "Motsweding FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MOTSWEDINGAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MOTSWEDINGAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/720/motsweding-fm-live.67d79ea1.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b76bfe0b-f270-4f69-9021-25f61bc6acde",
+    "name": "947",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_192AAC.m3u8",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_192AAC.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/770/947.5de1be1c.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e797b8be-6d77-4822-968d-89b8bb63d198",
+    "name": "Cape Talk",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_192AAC.m3u8",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_192AAC.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/684/capetalk.561a6f56.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "abe9dcad-7b83-476b-9eaa-2252d7d2f2d7",
+    "name": "Phalaphala FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/783/phalaphala-fm-live-stream.12dfa3bc.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "719d7092-644b-4a9f-b6df-114066af7159",
+    "name": "OFM",
+    "url": "http://edge.iono.fm/xice/ofm_live_medium.aac",
+    "url_resolved": "http://edge.iono.fm/xice/ofm_live_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/065/ofm.2d8979d0.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "752a3128-7bf6-4ab6-90c3-ca8d6b404b34",
+    "name": "Gagasi FM",
+    "url": "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8",
+    "url_resolved": "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/829/gagasi-fm-online.7bea6afe.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6aa02b00-f18c-4ce3-a96a-f598ab57903d",
+    "name": "Smile 90.4 FM",
+    "url": "https://edge.iono.fm/xice/212_medium.mp3",
+    "url_resolved": "https://edge.iono.fm/xice/212_medium.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/450/smile-fm.67718e16.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c200ca21-194d-4ea0-9f94-e6a3a4dd9e60",
+    "name": "East Coast Gold",
+    "url": "https://live.ecr.co.za/ecrgoldlow.aac",
+    "url_resolved": "https://live.ecr.co.za/ecrgoldlow.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/041/east-coast-gold.b12c39e1.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5fb51e94-2113-42cd-a35d-7e9417466ddf",
+    "name": "Munghana Lonene FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNGANALONENEAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNGANALONENEAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/782/munghana-lonene-fm.1b7bcc04.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "210b317f-ec34-4084-a03f-ba6f46896662",
+    "name": "GoodHope FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOODHOPEFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOODHOPEFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/041/goodhope-fm.4f531969.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a5b086c8-600e-41fc-92bb-1b589cb5fc4a",
+    "name": "Ikwekwezi FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/IKWEKWEZIAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/IKWEKWEZIAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/776/ikwekwezi-fm-live.7c05bfcf.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7a603bcf-757f-4eb0-bf63-6361bdb11b28",
+    "name": "Lekker FM",
+    "url": "https://zas3.ndx.co.za:8002/stream",
+    "url_resolved": "https://zas3.ndx.co.za:8002/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/580/lekker-fm.9cecf38d.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6d94bf23-fa61-45f2-b19b-2e48a33c28e1",
+    "name": "Lotus FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/779/lotus-fm.5d7cf55d.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f1981b61-8adb-4bd8-8162-f408d570b1c0",
+    "name": "Perron FM 95.1",
+    "url": "https://zas7.ndx.co.za/stream/perronfm",
+    "url_resolved": "https://zas7.ndx.co.za/stream/perronfm",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/101/perronfm-951.96e37362.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fb289b07-a6fc-4a28-951d-5323ad8af9db",
+    "name": "Capricorn FM",
+    "url": "http://edge.iono.fm/xice/67_medium.aac",
+    "url_resolved": "http://edge.iono.fm/xice/67_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/983/capricorn-fm.b6efb469.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "13794860-12b3-46af-bc2e-d095f8cd6d7c",
+    "name": "Radio Pulpit",
+    "url": "https://edge.iono.fm/xice/189_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/189_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/971/radio-pulpit.3c3fff05.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cb9230a8-fd90-4156-a031-545c6eb3ec7e",
+    "name": "Tygerberg 104FM",
+    "url": "https://edge.iono.fm/xice/328_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/328_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/716/tygerberg-radio.77be4142.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "076a7e58-1ff3-40da-9cd2-17986ae44f1d",
+    "name": "Ligwalagwala FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGWALAGWALAAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGWALAGWALAAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/719/ligwalagwala-fm.1ae1c2b8.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9a35e2ef-3915-445f-884d-9c935fb20d95",
+    "name": "Classic 1027",
+    "url": "https://edge.iono.fm/xice/49_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/49_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/029/classic-1027.d1c4dba7.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d99f7e27-cadc-4832-948e-172e1f0a46ba",
+    "name": "Hindvani Radio",
+    "url": "https://edge.iono.fm/xice/129_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/129_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/817/hindvani-radio.7640947b.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "93089a57-9c6b-4ebf-9438-f9e9af2b56ac",
+    "name": "You FM",
+    "url": "https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8",
+    "url_resolved": "https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/708/you-fm-south-africa.4e56787e.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "74242645-a0da-447c-9b85-0f1638020b9d",
+    "name": "Amapiano FM",
+    "url": "https://stream.zeno.fm/xs6zeac1ts8uv",
+    "url_resolved": "https://stream.zeno.fm/xs6zeac1ts8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/664/amapiano-fm.5f9e7409.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8b0e75d8-a2b5-45b0-aec1-ed813868e73a",
+    "name": "Springbok Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SPRINGBOKRADIOAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SPRINGBOKRADIOAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/241/springbok-radio.48c8b5db.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b7288c1c-f52d-4ffd-9821-49e5061ce692",
+    "name": "Chai FM 101.9",
+    "url": "https://zas1.ndx.co.za:8008/stream",
+    "url_resolved": "https://zas1.ndx.co.za:8008/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/173/chai-fm-1019.71f0b0c6.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8b0e62fb-0bb5-4a6e-ae76-041610588437",
+    "name": "Magic 828",
+    "url": "http://cast.fabrik.fm:8106/",
+    "url_resolved": "http://cast.fabrik.fm:8106/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/362/magic-828-am.5b50c997.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "77269963-9491-4ef4-b4a5-f5bddc0a6e45",
+    "name": "HOT Club",
+    "url": "https://edge.iono.fm/xice/306_high.aac",
+    "url_resolved": "https://edge.iono.fm/xice/306_high.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/881/hot-club.c6cab0ad.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b0771fb0-c568-46e1-871c-e9e3dd4e05e4",
+    "name": "Radio Rosestad",
+    "url": "https://edge.iono.fm/xice/122_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/122_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/254/radio-rosestad.59bac774.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "11b0c5dc-7d5d-432d-bfe0-cb14af5ca176",
+    "name": "Radio Veritas",
+    "url": "https://zas5.ndx.co.za:9618/stream",
+    "url_resolved": "https://zas5.ndx.co.za:9618/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/862/radio-veritas.ad42556f.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0c54a3d4-cb8a-4540-99a6-eef5084a3d7a",
+    "name": "HOT Rock",
+    "url": "https://edge.iono.fm/xice/303_high.aac",
+    "url_resolved": "https://edge.iono.fm/xice/303_high.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/878/hot-rock.46590a8d.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dc4bab96-3a33-4dda-88e7-aeb2f3400140",
+    "name": "Radio Al Ansaar",
+    "url": "https://edge.iono.fm/xhls/467_medium.m3u8",
+    "url_resolved": "https://edge.iono.fm/xhls/467_medium.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/435/radio-al-ansaar.68d26254.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5cee7eac-07c3-4e34-a89a-d72a941d093f",
+    "name": "047Radio",
+    "url": "https://sv2.famcast.co.za/stream/radiowave",
+    "url_resolved": "https://sv2.famcast.co.za/stream/radiowave",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/084/047radio.03043b35.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2e42bdd2-1f74-4894-954f-fc7785575449",
+    "name": "Radio Laeveld 100.5 FM",
+    "url": "https://zas2.ndx.co.za:8046/stream",
+    "url_resolved": "https://zas2.ndx.co.za:8046/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/175/1005-fm-radio-laeveld.72847a9a.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f45c43dd-61a0-4a79-8774-99db4bca3532",
+    "name": "1Africaradiotv",
+    "url": "http://ice-edge.eclipse-streaming.co.za:8000/1AfricaRadioTV.mp3",
+    "url_resolved": "http://ice-edge.eclipse-streaming.co.za:8000/1AfricaRadioTV.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/fRz4MhWXwW.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3f7a77bd-b6a8-4f54-9fb1-8d9423b3a07c",
+    "name": "247Stereo",
+    "url": "https://c19.radioboss.fm:18080/stream",
+    "url_resolved": "https://c19.radioboss.fm:18080/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/809/247stereo.c56ae235.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f74ce978-fff8-4d94-89c4-7226840f801c",
+    "name": "29online",
+    "url": "https://stream.zeno.fm/eue4x0vrv38uv",
+    "url_resolved": "https://stream.zeno.fm/eue4x0vrv38uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/240/29online.c4e72a43.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f9b05d66-cb8f-49f5-a0a9-c2ce1e74eaa4",
+    "name": "6Pazzi Radio",
+    "url": "https://stream.radio.co/s51967244c/listen",
+    "url_resolved": "https://stream.radio.co/s51967244c/listen",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/996/6pazzi-radio.f4b4e12f.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fd95dc25-dbfd-4f64-b33c-8ba53538dec0",
+    "name": "90.6 FM STEREO",
+    "url": "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3",
+    "url_resolved": "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/821/906-fm-stereo.be21a2fb.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "81aa7a9f-65d7-4cf0-badc-0e15b572fd0f",
+    "name": "938",
+    "url": "https://edge.iono.fm/xice/113_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/113_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/073/938.9a3081f2.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f8faee90-29bb-4703-a968-221a6bc2832f",
+    "name": "African Youth Radio",
+    "url": "https://stream-165.zeno.fm/emkavk7w4gcvv",
+    "url_resolved": "https://stream-165.zeno.fm/emkavk7w4gcvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/101/african-youth-radio.0442151f.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "234168e0-2dac-44de-ba7a-6fab7161f74b",
+    "name": "Afrikaap",
+    "url": "https://stream.zeno.fm/htpx0ng6hfhvv",
+    "url_resolved": "https://stream.zeno.fm/htpx0ng6hfhvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/439/afrikaap.192bff5a.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6339cbad-c2cd-4818-9f37-207518366e27",
+    "name": "Afrobeat Live",
+    "url": "https://stream.zeno.fm/5ojufielugztv",
+    "url_resolved": "https://stream.zeno.fm/5ojufielugztv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/959/afrobeat-live.29766839.jpg",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2de664d2-29f1-4f53-b47a-32366a746f55",
+    "name": "Afrobeat N1 FM",
+    "url": "https://streamer.radio.co/s919e54210/listen",
+    "url_resolved": "https://streamer.radio.co/s919e54210/listen",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/yGAjz8LQ6a.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e9b4f3e0-d150-4f8e-80f9-7b15d0707bd4",
+    "name": "AFTV Radio",
+    "url": "https://stream.zeno.fm/4p3md467ytzuv",
+    "url_resolved": "https://stream.zeno.fm/4p3md467ytzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/225/aftv-radio.216268ec.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "65083adc-18fa-41c6-9c1b-634982597332",
+    "name": "Air FM Cape Town",
+    "url": "https://edge.iono.fm/xice/257_medium.aac",
+    "url_resolved": "https://edge.iono.fm/xice/257_medium.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/113/air-fm-cape-town.6ef314d4.png",
+    "country": "South Africa",
+    "tags": "radio",
+    "votes": 0
+  }
+]

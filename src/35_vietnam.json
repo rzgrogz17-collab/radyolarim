@@ -1,0 +1,32 @@
+[
+  {
+    "stationuuid": "6b0831ab-3ace-4529-9eb3-dd0074f9579c",
+    "name": "Hà Nội Community Radio",
+    "url": "https://ha-noi-community-radio.radiocult.fm/stream",
+    "url_resolved": "https://ha-noi-community-radio.radiocult.fm/stream",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/601bd240e83c0b6ba8b2b046/48b08f2f-c433-4c60-9f6e-e079c1f3d128/HCR+Logo+White+Background.png",
+    "country": "Vietnam",
+    "tags": "community radio,dj mixes,live music",
+    "votes": 50
+  },
+  {
+    "stationuuid": "a6d752eb-96e0-47a3-9eeb-01964aede76f",
+    "name": "REPLAY NEWS - Tiếng Việt Radio tin tức mỗi 5 phút",
+    "url": "http://replaynewsve.ice.infomaniak.ch/replaynewsve-128.mp3",
+    "url_resolved": "http://replaynewsve.ice.infomaniak.ch/replaynewsve-128.mp3",
+    "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-VI.png",
+    "country": "Vietnam",
+    "tags": "news",
+    "votes": 35
+  },
+  {
+    "stationuuid": "a25ce744-fd5c-4fa5-af48-2b384cf1d3aa",
+    "name": "Vietnamese National People",
+    "url": "http://c13.radioboss.fm:8127/stream",
+    "url_resolved": "http://c13.radioboss.fm:8127/stream",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "country": "Vietnam",
+    "tags": "news",
+    "votes": 1881
+  }
+]

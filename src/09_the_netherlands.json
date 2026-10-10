@@ -1,0 +1,1002 @@
+[
+  {
+    "stationuuid": "c55dd0b5-5b35-46d8-b54c-00e55b85dc6a",
+    "name": "A1Lounge",
+    "url": "https://stream01.a1lounge.com/radio",
+    "url_resolved": "https://stream01.a1lounge.com/radio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/axmafmdwbbjt.png",
+    "country": "The Netherlands",
+    "tags": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/1ALANGUE.png",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c26dd0b3-9b35-46d8-b74c-00e11b86dc6a",
+    "name": "SRC FM",
+    "url": "http://stream.src.fm:8335/stream",
+    "url_resolved": "http://stream.src.fm:8335/stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SRCFM.jpg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 0
+  },
+  {
+    "stationuuid": "59f13a3a-a1e9-4794-bd87-dbff768abd71",
+    "name": "Disco Factory",
+    "url": "https://s5.radio.co/s253044a7a/listen",
+    "url_resolved": "https://s5.radio.co/s253044a7a/listen",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/701/disco-factory.a985a0c7.png",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4692de73-3832-4dff-8fab-f23533a5a119",
+    "name": "Radio De Musketiers",
+    "url": "https://demusketiers.beheerstream.nl/8022/stream",
+    "url_resolved": "https://demusketiers.beheerstream.nl/8022/stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RDM.jpg",
+    "country": "The Netherlands",
+    "tags": "24/7,various music",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3f30ff6f-db02-4558-959e-ff534f10c7e6",
+    "name": "RTW FM",
+    "url": "https://loa.beheerstream.nl:8104/stream",
+    "url_resolved": "https://loa.beheerstream.nl:8104/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/AYDaAZHD8B.png",
+    "country": "The Netherlands",
+    "tags": "local news,local radio,news,various music",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e9c16aec-8396-46bf-ba67-d7f3948b8676",
+    "name": "Hofstad radio",
+    "url": "http://173.234.79.178:10004/stream",
+    "url_resolved": "http://173.234.79.178:10004/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/VxywTX7REC.png",
+    "country": "The Netherlands",
+    "tags": "pop",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a18872ec-67d1-401b-b5f3-1859f598d3bb",
+    "name": "Radio Emmeloord",
+    "url": "http://86.93.49.78:8080/live",
+    "url_resolved": "http://86.93.49.78:8080/live",
+    "favicon": "https://nl.radio.net/175/radioemm.jpeg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ea2dfbe9-5fd2-4f86-baac-c82c398af3b0",
+    "name": "Pure Radio Holland - The Underground Channel",
+    "url": "https://streamserver.pure-isp.eu/listen/pure_radio_holland_the_underground_channel/aac-plus",
+    "url_resolved": "https://streamserver.pure-isp.eu/listen/pure_radio_holland_the_underground_channel/aac-plus",
+    "favicon": "https://pureradio.eu/wp-content/uploads/2023/02/Logo-Pure-Radio-Underground-Channel-170x170.jpg.webp",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6b1dac61-2508-490e-a8e2-1da887227473",
+    "name": "SRC FM 2 - Rivierenland en Vijfheerenlanden",
+    "url": "https://loa.beheerstream.nl:8126/stream",
+    "url_resolved": "https://loa.beheerstream.nl:8126/stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyolarim/refs/heads/main/SRCFM2.png",
+    "country": "The Netherlands",
+    "tags": "local news,local radio,various music",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5e45745b-7337-4299-bb93-6b99fafbc2b2",
+    "name": "Q music Nederland",
+    "url": "https://stream.qmusic.nl/qmusic/aachigh",
+    "url_resolved": "https://stream.qmusic.nl/qmusic/aachigh",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KMN.jpg",
+    "country": "The Netherlands",
+    "tags": "pop",
+    "votes": 47
+  },
+  {
+    "stationuuid": "6add27d4-5573-47b4-ae27-1d05834a9a4a",
+    "name": "JOE",
+    "url": "https://stream.joe.nl/joe/aachigh",
+    "url_resolved": "https://stream.joe.nl/joe/aachigh",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/650/joe-70s-80s.b2344eb5.jpg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 216
+  },
+  {
+    "stationuuid": "96126e82-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Radio 2",
+    "url": "http://icecast.omroep.nl/radio2-bb-mp3",
+    "url_resolved": "http://icecast.omroep.nl/radio2-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/mu7sS2MwkC.png",
+    "country": "The Netherlands",
+    "tags": "evergreens,talk",
+    "votes": 197
+  },
+  {
+    "stationuuid": "fd059cc5-b538-41c1-ae76-b8778a84c3db",
+    "name": "Radio 538",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/043/radio-538.1ad4e651.png",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 176
+  },
+  {
+    "stationuuid": "003d3c6f-e183-11e9-a8ba-52543be04c81",
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "url_resolved": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/795/qmusic.b25d3a6d.jpg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 161
+  },
+  {
+    "stationuuid": "b20de429-e1b3-4624-a1ac-12e2bf0cadb0",
+    "name": "Sky Radio",
+    "url": "https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128",
+    "url_resolved": "https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/867/sky-radio.087d096e.jpg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 119
+  },
+  {
+    "stationuuid": "d227990c-2385-4419-8159-1c73a33a58dd",
+    "name": "Radio 10",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/039/radio-10.8b76155a.jpg",
+    "country": "The Netherlands",
+    "tags": "00's,80's,90's,classic hits,hits",
+    "votes": 96
+  },
+  {
+    "stationuuid": "f0ab0c5c-7125-476c-97a4-2eabc14f5f05",
+    "name": "538 HITZONE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/036/538-hitzone.42d3a111.png",
+    "country": "The Netherlands",
+    "tags": "Hits,Pop,Top 40,Hitparade",
+    "votes": 80
+  },
+  {
+    "stationuuid": "960f36b5-0601-11e8-ae97-52543be04c81",
+    "name": "100% NL",
+    "url": "http://stream.100p.nl/100pctnl.mp3",
+    "url_resolved": "http://stream.100p.nl/100pctnl.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/W6PLSVapJV.png",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 61
+  },
+  {
+    "stationuuid": "39874081-8a87-45ca-a67f-52bae3372ae8",
+    "name": "Radio 10 60's & 70's Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/034/radio-10-60s-and-70s-hits.726c233f.jpg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 58
+  },
+  {
+    "stationuuid": "0e65ad7a-b179-4b5d-994b-d351349ee955",
+    "name": "Radio Veronica",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/874/radio-veronica.ba940e55.jpg",
+    "country": "The Netherlands",
+    "tags": "",
+    "votes": 56
+  },
+  {
+    "stationuuid": "96126f56-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Radio 1",
+    "url": "http://icecast.omroep.nl/radio1-bb-mp3",
+    "url_resolved": "http://icecast.omroep.nl/radio1-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/RysxF4qph6.png",
+    "country": "The Netherlands",
+    "tags": "news",
+    "votes": 18224
+  },
+  {
+    "stationuuid": "46e55863-cef7-4f50-954e-3fa7feede49f",
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "url_resolved": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/TVJ5MhkAXj.png",
+    "country": "The Netherlands",
+    "tags": "60's,70's,80's,evergreens",
+    "votes": 5597
+  },
+  {
+    "stationuuid": "960e38b8-0601-11e8-ae97-52543be04c81",
+    "name": "NPO 3FM Serious Radio",
+    "url": "http://icecast.omroep.nl/3fm-bb-mp3",
+    "url_resolved": "http://icecast.omroep.nl/3fm-bb-mp3",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/NPO_3FM_logo_2020.svg/500px-NPO_3FM_logo_2020.svg.png?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "The Netherlands",
+    "tags": "pop rock,top 40",
+    "votes": 3133
+  },
+  {
+    "stationuuid": "c19d0f8c-24a5-11e9-a80b-52543be04c81",
+    "name": "KINK",
+    "url": "https://22553.live.streamtheworld.com:443/KINK.mp3",
+    "url_resolved": "https://22553.live.streamtheworld.com:443/KINK.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/945/kink.92b5bc97.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 1870
+  },
+  {
+    "stationuuid": "fa805567-16de-4276-aec5-4171ed7a01ed",
+    "name": "Joe 70s & 80s",
+    "url": "https://audio-streaming.joe.nl/Joe_nl_high.aac",
+    "url_resolved": "https://audio-streaming.joe.nl/Joe_nl_high.aac",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/JOE_Logo_2023.png/500px-JOE_Logo_2023.png?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "The Netherlands",
+    "tags": "70's,80's,non-stop",
+    "votes": 1046
+  },
+  {
+    "stationuuid": "961e4e29-0601-11e8-ae97-52543be04c81",
+    "name": "NPO Funx Arab",
+    "url": "http://icecast.omroep.nl/funx-arabfb-bb-mp3",
+    "url_resolved": "http://icecast.omroep.nl/funx-arabfb-bb-mp3",
+    "favicon": "https://www.funx.nl/apple-touch-icon.png",
+    "country": "The Netherlands",
+    "tags": "arabic",
+    "votes": 2078
+  },
+  {
+    "stationuuid": "d58a82c3-b7f1-4c1c-83b1-9e45d42e1e19",
+    "name": "Arrow Classic Rock",
+    "url": "https://stream.player.arrow.nl/arrowcr",
+    "url_resolved": "https://stream.player.arrow.nl/arrowcr",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zqXFGKgCM4.png",
+    "country": "The Netherlands",
+    "tags": "classic rock,mp3,rock",
+    "votes": 6333
+  },
+  {
+    "stationuuid": "9625d0fa-0601-11e8-ae97-52543be04c81",
+    "name": "Concertzender Oude Muziek",
+    "url": "http://streams.greenhost.nl:8080/oudemuziek",
+    "url_resolved": "http://streams.greenhost.nl:8080/oudemuziek",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/206/concertzender-oude-muziek.022d5af4.png",
+    "country": "The Netherlands",
+    "tags": "baroque,classical,early music",
+    "votes": 2218
+  },
+  {
+    "stationuuid": "428fecbf-d5e2-4c30-bcde-6dd98b125434",
+    "name": "NPO Klassiek",
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3",
+    "url_resolved": "https://icecast.omroep.nl/radio4-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pU4F5RWC7g.png",
+    "country": "The Netherlands",
+    "tags": "classical,klassiek",
+    "votes": 1503
+  },
+  {
+    "stationuuid": "155b08b4-97da-11e9-a605-52543be04c81",
+    "name": "Qmusic Het Foute Uur",
+    "url": "https://audio-streaming.qmusic.nl/Qmusic_nl_fouteuur_96.mp3",
+    "url_resolved": "https://audio-streaming.qmusic.nl/Qmusic_nl_fouteuur_96.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/758/qmusic-foute-uur.809d5438.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 741
+  },
+  {
+    "stationuuid": "3046ced9-d322-4098-a8cd-e3c38f60cccb",
+    "name": "KINK80s",
+    "url": "http://20133.live.streamtheworld.com:3690/KINK_DNA_SC",
+    "url_resolved": "http://20133.live.streamtheworld.com:3690/KINK_DNA_SC",
+    "favicon": "https://kink.nl/static/icon.png",
+    "country": "The Netherlands",
+    "tags": "80's,alternative,classics",
+    "votes": 613
+  },
+  {
+    "stationuuid": "961849a8-0601-11e8-ae97-52543be04c81",
+    "name": "Ujala Radio",
+    "url": "http://stream2.ujala.nl/stream/2/listen.mp3",
+    "url_resolved": "http://stream2.ujala.nl/stream/2/listen.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/JKwPXfhtUd.png",
+    "country": "The Netherlands",
+    "tags": "amsterdam-zuidoost,bollywood",
+    "votes": 448
+  },
+  {
+    "stationuuid": "296651b2-aed2-432a-ae07-6555d36eae08",
+    "name": "KX Classics",
+    "url": "https://mcp-1.streampanel.nl:8020/kxclassics_mp3",
+    "url_resolved": "https://mcp-1.streampanel.nl:8020/kxclassics_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/yfcgwclh4e5v.jpg",
+    "country": "The Netherlands",
+    "tags": "60s,70s,80s,classic hits",
+    "votes": 445
+  },
+  {
+    "stationuuid": "ae3f689e-8f2c-4936-baa1-c6c958addef8",
+    "name": "Concertzender Geen dag zonder Bach",
+    "url": "http://streams.greenhost.nl:8080/bach",
+    "url_resolved": "http://streams.greenhost.nl:8080/bach",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/299/concertzender-geen-dag-zonder-bach.c5428504.png",
+    "country": "The Netherlands",
+    "tags": "classical",
+    "votes": 413
+  },
+  {
+    "stationuuid": "3b232427-05ab-4193-af6e-b19bf8e78963",
+    "name": "NPO Radio 4",
+    "url": "https://icecast.omroep.nl:80/radio4-bb-mp3",
+    "url_resolved": "https://icecast.omroep.nl:80/radio4-bb-mp3",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/NPO_Radio_4_logo_2014.svg/500px-NPO_Radio_4_logo_2014.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "The Netherlands",
+    "tags": "classic,dutch,public radio",
+    "votes": 368
+  },
+  {
+    "stationuuid": "351fbed2-c427-4694-ad31-e43ceb8a14f3",
+    "name": "Ice Radio Netherlands",
+    "url": "https://stream.iceradio.nl/iceradio",
+    "url_resolved": "https://stream.iceradio.nl/iceradio",
+    "favicon": "https://iceradio.nl/wp-content/uploads/2020/07/iceradio-logo-kuiken-trans.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 346
+  },
+  {
+    "stationuuid": "159824f0-5475-4263-bcc8-59a48a213896",
+    "name": "Radio 10 80's Hits",
+    "url": "http://25223.live.streamtheworld.com:80/TLPSTR20.mp3",
+    "url_resolved": "http://25223.live.streamtheworld.com:80/TLPSTR20.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/033/radio-10-80s-hits.9e181561.jpg",
+    "country": "The Netherlands",
+    "tags": "80,80's,80s,the best of 80's",
+    "votes": 167
+  },
+  {
+    "stationuuid": "fd255a97-f17b-402c-a7fc-d28d586b3623",
+    "name": "538 Classics",
+    "url": "https://22603.live.streamtheworld.com:443/TLPSTR08.mp3",
+    "url_resolved": "https://22603.live.streamtheworld.com:443/TLPSTR08.mp3",
+    "favicon": "https://images.ctfassets.net/3p0bn61n86ty/1UmRrGgak1DxWnJ98Tfch6/afe41001535ecba843cd1a2880ca8093/2021-538-logo-RGB-Zwart-nieuw.png",
+    "country": "The Netherlands",
+    "tags": "00’s,10’s,90’s,dance smashes,throwbacks",
+    "votes": 153
+  },
+  {
+    "stationuuid": "44baf21a-f1ba-43fe-a4b6-e497dda83e2a",
+    "name": "NPO BLEND",
+    "url": "https://icecast.omroep.nl/npoblend-bb-mp3",
+    "url_resolved": "https://icecast.omroep.nl/npoblend-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/416/npo-blend.4a2f6ae8.jpg",
+    "country": "The Netherlands",
+    "tags": "hiphop,npo,public radio,r&b,soul",
+    "votes": 139
+  },
+  {
+    "stationuuid": "69e80c6d-8a40-4138-8946-20a7b0a0460c",
+    "name": "Alternative Rock Radio",
+    "url": "https://25243.live.streamtheworld.com/KINK_SC",
+    "url_resolved": "https://25243.live.streamtheworld.com/KINK_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/yTMB8WVAUb.png",
+    "country": "The Netherlands",
+    "tags": "alternative rock,rock",
+    "votes": 127
+  },
+  {
+    "stationuuid": "3b537424-c932-4292-b46b-5a282a51f4c7",
+    "name": "classic nl soundtracks",
+    "url": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+    "url_resolved": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/curra75yy4p6.jpg",
+    "country": "The Netherlands",
+    "tags": "classical,soundtracks",
+    "votes": 125
+  },
+  {
+    "stationuuid": "a66ad866-6e00-4370-a409-43197b5f33c0",
+    "name": "Radio Olympia - 100% Piratenhits en Nederlandstalige muziek",
+    "url": "https://streams.olympia-streams.nl/olympia",
+    "url_resolved": "https://streams.olympia-streams.nl/olympia",
+    "favicon": "https://www.olympia-radio.nl/assets/themes/olympia-radio_nl/img/logo.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 123
+  },
+  {
+    "stationuuid": "cd1e77ac-e034-4236-a295-eafc43d1159d",
+    "name": "Qmusic 90's & 00's (64k aac)",
+    "url": "https://audio-streaming.qmusic.nl/Qmusic_nl_90s00s_high.aac",
+    "url_resolved": "https://audio-streaming.qmusic.nl/Qmusic_nl_90s00s_high.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/044/qmusic-90s-00s.7036d180.png",
+    "country": "The Netherlands",
+    "tags": "00s,90s,hits",
+    "votes": 100
+  },
+  {
+    "stationuuid": "30a753f1-1205-49bc-bd0d-61b3b7a7c11f",
+    "name": "Kick Radio - 80s & 90s Hits",
+    "url": "https://live.onlineradiostreaming.nl/kick",
+    "url_resolved": "https://live.onlineradiostreaming.nl/kick",
+    "favicon": "https://play-lh.googleusercontent.com/nSmckM1HjUVk_qcJGQK00X6izrB32WSZfmq0cMPiAeQoL5jeErrU29e8FG5kh01LsvI",
+    "country": "The Netherlands",
+    "tags": "1980s,1990s",
+    "votes": 83
+  },
+  {
+    "stationuuid": "6c6d7f2c-277e-4cbd-8c57-5121995c6a74",
+    "name": "World of Jazz",
+    "url": "http://streams.greenhost.nl:8080/jazz",
+    "url_resolved": "http://streams.greenhost.nl:8080/jazz",
+    "favicon": "https://www.concertzender.nl/wp-content/uploads/2024/04/WoJ-logo_zwart_verticaal_RGB.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 80
+  },
+  {
+    "stationuuid": "146d82c1-45d7-4fa6-b71d-9bc715b7ddf2",
+    "name": "Radio 10 Disco Classics",
+    "url": "http://22343.live.streamtheworld.com:80/TLPSTR23.mp3",
+    "url_resolved": "http://22343.live.streamtheworld.com:80/TLPSTR23.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/494/radio-10-disco-classics.e980026a.jpg",
+    "country": "The Netherlands",
+    "tags": "disco,disco funk,euro disco",
+    "votes": 63
+  },
+  {
+    "stationuuid": "6e5aaeca-7547-44b3-8564-fae6a45ddb76",
+    "name": "Real Hardstyle Radio",
+    "url": "https://stream.realhardstyle.nl/",
+    "url_resolved": "https://stream.realhardstyle.nl/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/993/real-hardstyle-radio.ed812978.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 63
+  },
+  {
+    "stationuuid": "abdea19d-6090-4ee3-a50a-1a519decd3bd",
+    "name": "4ever49radio",
+    "url": "https://29083.live.streamtheworld.com:443/4EVER49.mp3",
+    "url_resolved": "https://29083.live.streamtheworld.com:443/4EVER49.mp3",
+    "favicon": "https://4ever49radio.nl/wp-content/uploads/2022/11/cropped-4EVER49-V2.1-Full-Colour-1000x10000-1.png",
+    "country": "The Netherlands",
+    "tags": "70s,80's,90s",
+    "votes": 60
+  },
+  {
+    "stationuuid": "ba89d58f-7555-42cd-8775-91a6cb3945ee",
+    "name": "Dance Radio Amsterdam",
+    "url": "https://icecast.bytesheep.net/danceradio.mp3",
+    "url_resolved": "https://icecast.bytesheep.net/danceradio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/28ujk7bwk9xf.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 47
+  },
+  {
+    "stationuuid": "5dc17eb6-44fe-43c4-b631-34d3e2479977",
+    "name": "NPO Sterren",
+    "url": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+    "url_resolved": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/LdJDT7Sxk8.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bfe36c3e-085e-4b68-9430-3bf3451cecb1",
+    "name": "SLAM!",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/040/slam.4482f664.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bcd68c7f-9e2e-41bf-98ce-5e8ca45ff1a1",
+    "name": "RADIONL",
+    "url": "https://stream.radionl.fm/radionl",
+    "url_resolved": "https://stream.radionl.fm/radionl",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/616/radio-nl.81224c73.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "defe89eb-37ba-412d-b7f3-0d12cea16b7e",
+    "name": "BNR Nieuwsradio",
+    "url": "https://stream.bnr.nl/bnr_aac_96_09",
+    "url_resolved": "https://stream.bnr.nl/bnr_aac_96_09",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/831/bnr-nieuws-radio.19b23b25.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "31157b33-550c-475e-a4fd-a5820a5b9b55",
+    "name": "NPO Radio 3FM",
+    "url": "https://icecast.omroep.nl/3fm-bb-mp3",
+    "url_resolved": "https://icecast.omroep.nl/3fm-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/kqduTGaxvj.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a7639ee0-cda9-42a2-b4ef-8251ab02e611",
+    "name": "JOE non-stop",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac",
+    "url_resolved": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/110/joe-non-stop.824eae1b.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1addbef3-2fc6-40f3-8dd3-73bf1a907b7f",
+    "name": "Tukker FM",
+    "url": "https://stream.tukkerfm.nl/tukkerfm",
+    "url_resolved": "https://stream.tukkerfm.nl/tukkerfm",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/219/tukker-fm.4ddd5023.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "61ec3c18-15ce-4453-9161-72fd562b42e6",
+    "name": "Jolene Country Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE07AAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE07AAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/960/jolene-country-radio.3934f88a.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ec8986bd-9494-469b-a0c5-a76d43473a6a",
+    "name": "FunX Amsterdam",
+    "url": "http://icecast.omroep.nl/funx-amsterdam-bb-mp3",
+    "url_resolved": "http://icecast.omroep.nl/funx-amsterdam-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/244/funx-amsterdam.c1233212.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f32802bf-d79d-48dd-a4c6-400d4508cb37",
+    "name": "Sublime",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/941/sublime-.a4407b24.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "69d275a1-4005-49bf-b5d8-276f5a91630e",
+    "name": "Radio 10 - Non-stop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/139/radio-10-non-stop.3e281f7b.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8b5d1631-3c16-48a1-9927-a3f1e187ba97",
+    "name": "GPR Sportradio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIOAAC_2_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIOAAC_2_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/977/grand-prix-radio.20bbdbee.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9a24eebd-0221-4dc1-ae92-fb7f916a1359",
+    "name": "Qmusic Nonstop",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/nonstop_qnl/aac",
+    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/nonstop_qnl/aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/757/qmusic-nonstop.f472d132.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9d82e22e-e405-4d75-b2ed-74822751e3b7",
+    "name": "538 Nonstop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/032/538-nonstop.980fce44.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "31b46220-3bd8-422c-b588-0cfdc1eb53bd",
+    "name": "SLAM! Mixmarathon",
+    "url": "https://stream.slam.nl/web13_mp3",
+    "url_resolved": "https://stream.slam.nl/web13_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gz4f3axvgkq5.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "27a571b1-5daa-4b99-ac0d-bcc772d966c5",
+    "name": "Radio Rijnmond FM 93.4",
+    "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+    "url_resolved": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/HjdXY6U6Dt.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e0a5c955-159e-4836-a1ac-6459877173df",
+    "name": "Radio M Utrecht",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+    "url_resolved": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/mzeHHzvkTK.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e8e421d7-3224-48a9-a068-260987c576b2",
+    "name": "Sky Radio Christmas",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/315/sky-radio-christmas.620dd1b0.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "649a5e00-5994-453f-8318-619aca926697",
+    "name": "SLAM! Nonstop",
+    "url": "https://stream.slam.nl/web10_mp3",
+    "url_resolved": "https://stream.slam.nl/web10_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pbegjr8debpp.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3fd1026f-741a-46f0-aa6e-499c512c4404",
+    "name": "Feel Good Radio 60's & 70's Hits",
+    "url": "https://ssl.feelgoodradio.eu/proxy/feelgoodradio2/stream",
+    "url_resolved": "https://ssl.feelgoodradio.eu/proxy/feelgoodradio2/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/981/feel-good-60s-70s-hits.d6484d83.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "816d7967-eb0b-450c-9d3d-4c78cdd923f3",
+    "name": "Amor FM",
+    "url": "http://amorfm_192.streampartner.nl:8012/stream",
+    "url_resolved": "http://amorfm_192.streampartner.nl:8012/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/867/amor-fm.56f558af.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "06c3a33a-3329-46b9-aff1-bd9fb431ba22",
+    "name": "Radio JND",
+    "url": "https://stream.radiojnd.nl/radiojnd.aac",
+    "url_resolved": "https://stream.radiojnd.nl/radiojnd.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/eheqnvmlv9gq.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "afbd6b60-c002-4458-9521-bd1ac6c4374a",
+    "name": "Radio Noordzee",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/043/radio-noordzee-200-puur-hollands.3e56c813.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4ae9be27-2eda-4f27-aa3b-f543077bd7fd",
+    "name": "Omroep Brabant",
+    "url": "http://streaming.omroepbrabant.nl/mp3hq",
+    "url_resolved": "http://streaming.omroepbrabant.nl/mp3hq",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/EyVsmZ5UwD.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "28e7bdf0-6484-4c51-813d-d34f1a9629f6",
+    "name": "SLAM! Hardstyle",
+    "url": "https://stream.slam.nl/web11_mp3",
+    "url_resolved": "https://stream.slam.nl/web11_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/KEagDCgkTD.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "749d3763-71fb-4a74-875d-0de8d00cf1e1",
+    "name": "100% NL Feest",
+    "url": "https://stream.100p.nl/web01_mp3",
+    "url_resolved": "https://stream.100p.nl/web01_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ujcdsf76az9a.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "feb0a5df-17fb-48c5-aafc-6ae10e26f2b3",
+    "name": "FunX Rotterdam",
+    "url": "https://icecast.omroep.nl/funx-rotterdam-bb-mp3",
+    "url_resolved": "https://icecast.omroep.nl/funx-rotterdam-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/Sxbz8VJNBJ.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "17b5b426-b45f-4255-a830-f2798a520c28",
+    "name": "100% NL Nonstop",
+    "url": "https://stream.100p.nl/web02_mp3",
+    "url_resolved": "https://stream.100p.nl/web02_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ks7u8p5fr688.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cc138e4d-ad48-4116-abbc-15761c491b5c",
+    "name": "Radio Gelderland",
+    "url": "http://stream.omroepgelderland.nl/radiogelderland/",
+    "url_resolved": "http://stream.omroepgelderland.nl/radiogelderland/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/972/radio-gelderland.3584ffb6.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f5bb154c-0d8f-475e-9998-d3716ef8c71c",
+    "name": "Decibel",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/151/radio-decibel.56776e83.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d513a82c-3435-4d82-a239-49189bfa915d",
+    "name": "Candlelight Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDLELIGHT_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDLELIGHT_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/860/candlelight-radio.37304e56.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bdd979f8-5d18-4e50-8b4c-f15b725e1293",
+    "name": "Veronica Rock Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB07_AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB07_AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/875/veronica-rock-radio.414674d4.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d0f80035-ae54-467f-bdf9-9700cd5b782c",
+    "name": "Arrow Bluesbox Rock",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wu2pxn2sf9vm.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "238550c8-e5ae-475d-992d-c0f49e08c553",
+    "name": "192 Radio Veronica - Goed idee",
+    "url": "http://server-16.stream-server.nl:8030/;",
+    "url_resolved": "http://server-16.stream-server.nl:8030/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/mCM5XC3qyr.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3d7b5828-0ded-4c55-aef8-94ef819a7f31",
+    "name": "Joy Radio",
+    "url": "https://stream.joyradio.nl/joyradio",
+    "url_resolved": "https://stream.joyradio.nl/joyradio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/415/joy-radio.075ec72e.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e7f7fca4-c91d-4d98-b9f0-07d2647a7ec6",
+    "name": "Veronica Top 3000",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB06_AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB06_AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/872/veronica-top-3000.76e2cde7.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1c075401-0273-4232-9c85-494534ab8073",
+    "name": "Sky Radio 80's Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/858/sky-radio-80s-hits.24c877dd.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "95e80e49-c067-4e2c-a938-4442c11d91a9",
+    "name": "Radio Continu",
+    "url": "https://stream.radiocontinu.nl/radiocontinu",
+    "url_resolved": "https://stream.radiocontinu.nl/radiocontinu",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/NVanxsfmYZ.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cc3857be-c324-43bf-a258-8efb405d0192",
+    "name": "L1 Radio",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+    "url_resolved": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/581/l1-radio.4bbc9c93.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6ebc9164-4f8f-4739-8e86-551da8511949",
+    "name": "SLAM! - Housuh in de Pauzuh",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/v5yvynfdb5cr.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d7977115-8c06-4258-8957-29aee7ea4225",
+    "name": "00s ALIVE",
+    "url": "https://stream.00sa.live/00s-alive.aac",
+    "url_resolved": "https://stream.00sa.live/00s-alive.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/368/00s-alive.c6a7e048.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c9f63419-52d6-4a6b-8646-bba76aa23a68",
+    "name": "053 Radio",
+    "url": "https://stream.053radio.nl/053radio.mp3",
+    "url_resolved": "https://stream.053radio.nl/053radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/411/053-radio.55fcd3d1.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5a941f5d-aa8f-4cf5-a18f-2c93273f3ce8",
+    "name": "074hitradio",
+    "url": "https://live1.audiostreamen.stream/074hitradio",
+    "url_resolved": "https://live1.audiostreamen.stream/074hitradio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/432/074hitradio.429e0b59.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "805ddf9a-0be2-4539-ad7f-29072ac6fa7d",
+    "name": "100% NL Liefde",
+    "url": "https://stream.100p.nl/web03_mp3",
+    "url_resolved": "https://stream.100p.nl/web03_mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ka6hfnyprlwb.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3f7fd69f-1cbe-42f5-91c2-44f70987fffe",
+    "name": "18Hits",
+    "url": "http://stream.18hits.fm/18Hmp3",
+    "url_resolved": "http://stream.18hits.fm/18Hmp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/AC8ZU7gmxu.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "27940683-8841-4da3-b9ff-0af629e0d888",
+    "name": "247Spice",
+    "url": "https://stream.247streaming.live/247spice",
+    "url_resolved": "https://stream.247streaming.live/247spice",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/180/247spice.0190b724.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "85192ab8-be2b-4e6f-a431-4b238a9c2bba",
+    "name": "2FM Retro",
+    "url": "http://server.2fm.nl:8000/retro",
+    "url_resolved": "http://server.2fm.nl:8000/retro",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/135/2fm-retro.1ac09b74.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fd38b8f2-79e2-4bce-8005-a72b5d0102f3",
+    "name": "2TheBeat",
+    "url": "http://solid9.streamupsolutions.com:8049/stream",
+    "url_resolved": "http://solid9.streamupsolutions.com:8049/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/101/2thebeat.a809b43e.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "09747a2b-f087-40cc-8e1c-ccbf1ddbf547",
+    "name": "NPO 3FM Alternative",
+    "url": "http://icecast.omroep.nl/3fm-alternative-mp3",
+    "url_resolved": "http://icecast.omroep.nl/3fm-alternative-mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/k6qktxXWTp.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "293ad846-486e-49c9-88c2-7a5bc3824c97",
+    "name": "40 Rock Radio",
+    "url": "https://40rockstream.live-streams.nl/live",
+    "url_resolved": "https://40rockstream.live-streams.nl/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/931/40-rock-radio.9fcac776.png",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3b42d0f3-a7d0-465f-8c39-1cc4649c6196",
+    "name": "40UP Radio!",
+    "url": "https://stream.40upradio.nl/40up",
+    "url_resolved": "https://stream.40upradio.nl/40up",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/lp9kjywnvkaj.jpg",
+    "country": "The Netherlands",
+    "tags": "radio",
+    "votes": 0
+  }
+]

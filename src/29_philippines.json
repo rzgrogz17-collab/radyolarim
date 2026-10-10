@@ -1,0 +1,1002 @@
+[
+  {
+    "stationuuid": "96d56356-354d-4a2e-97a7-25483f992be2",
+    "name": "MOR Entertainment",
+    "url": "https://stream.zeno.fm/0ha8ftewqp8uv",
+    "url_resolved": "https://stream.zeno.fm/0ha8ftewqp8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ngt3qgajtbv4.png",
+    "country": "Philippines",
+    "tags": "internet radio",
+    "votes": 3547
+  },
+  {
+    "stationuuid": "2940f5dc-195e-4547-ab7a-f33ae2f70f41",
+    "name": "DZRH",
+    "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3",
+    "url_resolved": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/614/dzrh-666-am.b57c7abf.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 421
+  },
+  {
+    "stationuuid": "09fad89d-183a-4a53-8ff4-c3c5acf27e66",
+    "name": "Yes FM Cagayan de Oro",
+    "url": "http://comet.shoutca.st:8040/stream",
+    "url_resolved": "http://comet.shoutca.st:8040/stream",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/CDO_Poblacion%2C_CM_Recto_Avenue-A._Velez%2C_Misamis_Oriental_Provincial_Capitol_drone_%28Cagayan_De_Oro_City%3B_03-21-2026%29.jpg/500px-CDO_Poblacion%2C_CM_Recto_Avenue-A._Velez%2C_Misamis_Oriental_Provincial_Capitol_drone_%28Cagayan_De_Oro_City%3B_03-21-2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 386
+  },
+  {
+    "stationuuid": "3ddccbd3-8691-4bb2-a3cf-38e632e1042e",
+    "name": "DZMM Radyo Patrol 630",
+    "url": "http://209.126.124.126:8852/stream",
+    "url_resolved": "http://209.126.124.126:8852/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/142/dwpm-radyo-630.4b154568.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 1329
+  },
+  {
+    "stationuuid": "3e110a58-f654-48e4-b91c-8e124a0abbed",
+    "name": "Radyo5 105.9 True FM",
+    "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
+    "url_resolved": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/TrueFM1059-logo.png/500px-TrueFM1059-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 967
+  },
+  {
+    "stationuuid": "c3350b0a-4ae6-4800-97cd-4551264b33a9",
+    "name": "RMN DYRI Iloilo",
+    "url": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
+    "url_resolved": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Iloilo.png?w=400&ssl=1",
+    "country": "Philippines",
+    "tags": "news",
+    "votes": 717
+  },
+  {
+    "stationuuid": "b629ec4f-1fbc-4608-99f3-58ecd60d2524",
+    "name": "RMN DYHB Bacolod",
+    "url": "http://us2.amfmph.com:8848/live",
+    "url_resolved": "http://us2.amfmph.com:8848/live",
+    "favicon": "https://i2.wp.com/rmn.ph/wp-content/uploads/2019/08/admin-ajax-4.png?w=400&ssl=1",
+    "country": "Philippines",
+    "tags": "news",
+    "votes": 680
+  },
+  {
+    "stationuuid": "ce5a4a02-88bb-4e79-809e-63f971059bfe",
+    "name": "DepEd Radio Learning English 89.1 FM - HD3",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8",
+    "url_resolved": "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png",
+    "country": "Philippines",
+    "tags": "distance learning,educational",
+    "votes": 433
+  },
+  {
+    "stationuuid": "dcfdc24c-4efb-4e87-a2f3-097684ce2838",
+    "name": "FM Radio 105.5 Pampanga",
+    "url": "http://209.126.124.126:8872/stream",
+    "url_resolved": "http://209.126.124.126:8872/stream",
+    "favicon": "https://pcmc.com.ph/wp-content/uploads/2024/09/FM-Radio.png",
+    "country": "Philippines",
+    "tags": "music,news,talk",
+    "votes": 205
+  },
+  {
+    "stationuuid": "0e26f2b3-828c-4926-98d4-ac6d70dd0a41",
+    "name": "DWRK 96.3 Easy Rock Manila",
+    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+    "url_resolved": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/138/dwrk-963-easy-rock.c2c03660.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f1c4a1a7-f381-4833-a7f4-07713ebbdf2e",
+    "name": "91.5 Win Radio Manila",
+    "url": "https://stream.zeno.fm/2ss1hgnu6hhvv",
+    "url_resolved": "https://stream.zeno.fm/2ss1hgnu6hhvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/x4zvpbxrnhkk.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bf4756ff-d48a-4104-af55-1342cbfe27e4",
+    "name": "97.9 Home Radio",
+    "url": "https://hrmanila.radioca.st/stream",
+    "url_resolved": "https://hrmanila.radioca.st/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/140/979-home-radio.178401e7.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "11c919df-8d91-415d-a87b-a711e96043cf",
+    "name": "DWLS Barangay LS 97.1 FM",
+    "url": "https://magic.radioca.st/stream",
+    "url_resolved": "https://magic.radioca.st/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/672/dwls-barangay-ls-971-fm.75899014.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ff20fcc8-26eb-4fbb-92e4-c1ebc71016a0",
+    "name": "DZMB Love Radio 90.7 FM",
+    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "url_resolved": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/dzmb-love-radio-907-fm.fd6dd832.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1481a000-28a7-42de-b94c-078bb1da3c9e",
+    "name": "Star FM - Manila",
+    "url": "https://stream-24.zeno.fm/536cwdq78heuv",
+    "url_resolved": "https://stream-24.zeno.fm/536cwdq78heuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/848/star-fm-manila.c6a245b5.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "17e42915-0514-4923-9cdd-3162f2d13936",
+    "name": "Yes FM Manila 101.1",
+    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "url_resolved": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/211/yes-fm-manila-1011.3596a020.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8fabfa78-020d-4b8f-a5cf-8adf2138a5ca",
+    "name": "DYRK 96.3 WRocK",
+    "url": "https://wrockceb-iradioph.radioca.st/;",
+    "url_resolved": "https://wrockceb-iradioph.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/669/dyrk-963-wrock.b988c09b.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7eb4bad0-49e4-4c4d-bba7-dc7b24540ec4",
+    "name": "DWET 106.7 Energy FM",
+    "url": "https://stream.zeno.fm/dnddzf0osc1uv",
+    "url_resolved": "https://stream.zeno.fm/dnddzf0osc1uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/694/dwet-1067-energy-fm.468386b2.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1e545263-1778-4580-a796-95128ae3ac07",
+    "name": "Eagle FM 95.5",
+    "url": "http://stream.radiojar.com/yus0r2bghd3vv",
+    "url_resolved": "http://stream.radiojar.com/yus0r2bghd3vv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/550/eagle-fm-955.31726a37.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "41d52624-8ab4-46ab-9496-842d67e349e5",
+    "name": "DWIZ 882 AM Manila",
+    "url": "https://dwizmanila.radioca.st/stream",
+    "url_resolved": "https://dwizmanila.radioca.st/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zqJsRvBTB7.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3ecc2cc8-757a-41de-96f2-81876e79f3db",
+    "name": "Beam FM 92.5",
+    "url": "https://stream3.hornhost.com/8052/stream",
+    "url_resolved": "https://stream3.hornhost.com/8052/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/576/beam-fm-925.a3b96efe.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "302c4635-55c5-4a5c-a298-c32b9722cd15",
+    "name": "DWTM - Magic 89.9 FM",
+    "url": "https://stream-140.zeno.fm/hcbrvvfd938uv",
+    "url_resolved": "https://stream-140.zeno.fm/hcbrvvfd938uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/216/dwtm-magic-899-fm.dd9f5d41.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6b4d589e-cb0d-4521-b2c2-079f8a40ec91",
+    "name": "Alien FM 2",
+    "url": "https://stream3.hornhost.com/8020/stream",
+    "url_resolved": "https://stream3.hornhost.com/8020/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/332/alien-fm-2.ba6ec4b8.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c7f50211-2340-44b7-aa49-69a81b6ee7bb",
+    "name": "97.1 Solid Love FM",
+    "url": "https://azura.971solidlovefm.com/listen/solidlovefm/radio.mp3",
+    "url_resolved": "https://azura.971solidlovefm.com/listen/solidlovefm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/133/971-solid-love-fm.bb6c7ec3.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "da7941db-5a79-428a-9a02-6a67432c283f",
+    "name": "Bombo Radyo Iloilo 837 AM",
+    "url": "https://stream.zenolive.com/gzudz59nz9duv",
+    "url_resolved": "https://stream.zenolive.com/gzudz59nz9duv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/131/bombo-radyo-iloilo-837-am.3a1cba7d.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "90c299ba-0375-406a-8748-b0d13c3104d6",
+    "name": "Bisdak Lamion Tambayan",
+    "url": "https://cast-02.6fmbisdaklamiontambayan.com/listen/02.6_fm_bisdak_lamion_tambayan/radio.mp3",
+    "url_resolved": "https://cast-02.6fmbisdaklamiontambayan.com/listen/02.6_fm_bisdak_lamion_tambayan/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/270/bisdak-lamion-tambayan.32562aca.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3e3088f3-bdf8-4f9e-aa8b-059a8828eb4a",
+    "name": "DXIL Wild FM Iligan 103.1 FM",
+    "url": "http://us2.amfmph.com:9250/stream",
+    "url_resolved": "http://us2.amfmph.com:9250/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/350/dxil-wild-fm-iligan-1031-fm.b6b90add.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4021be7d-ec16-4858-a042-f598e4116441",
+    "name": "RJMJ Radio Station",
+    "url": "https://stream3.hornhost.com:8034/stream",
+    "url_resolved": "https://stream3.hornhost.com:8034/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/417/rjmj-radio-station.b4b9493e.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "56d22563-66dd-4752-9d9c-3e3be40f44c4",
+    "name": "104.3 Rock FM",
+    "url": "https://usa1.bntworxtv.com/listen/104.3rockfm.com/radio.mp3",
+    "url_resolved": "https://usa1.bntworxtv.com/listen/104.3rockfm.com/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/997/1043-rock-fm.1c010f6a.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "01f3cc06-4039-4863-a6b4-c600d1324a94",
+    "name": "Extreme Radio Online",
+    "url": "https://razzrdfx.com/listen/extreme_radio/radio.mp3",
+    "url_resolved": "https://razzrdfx.com/listen/extreme_radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/496/extreme-radio-online.25e6854d.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "48ec9b7b-66cd-46bd-b12f-4d0bae182a81",
+    "name": "FMR Manila 92.3",
+    "url": "http://us1.amfmph.com:8872/stream",
+    "url_resolved": "http://us1.amfmph.com:8872/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/113/fm-radio-philippines.544f4919.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "daaaaee5-a100-494e-8f8c-b9a71936884a",
+    "name": "105.1 Brigada News FM Manila",
+    "url": "http://18.141.67.248:8068/stream",
+    "url_resolved": "http://18.141.67.248:8068/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/xzx5d9UNZq.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "33e774f9-da68-4566-8b10-ce648074c1fe",
+    "name": "101.28 MY BFF RADIO FM",
+    "url": "https://stream3.hornhost.com/8008/stream",
+    "url_resolved": "https://stream3.hornhost.com/8008/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/161/10128-my-bff-radio-fm.4ed6f98c.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "950fa285-0577-4df1-b87d-75a9a2506531",
+    "name": "Music Lovers FM Radio",
+    "url": "https://dharkgfx.com/listen/musicloversfm/radio.mp3",
+    "url_resolved": "https://dharkgfx.com/listen/musicloversfm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/266/guimaras-kiss-fm.776b7141.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "29517eaf-77ad-468f-8672-dda9f9e100f8",
+    "name": "105.1 Easy Rock Davao",
+    "url": "https://easyrockdavao.radioca.st/;",
+    "url_resolved": "https://easyrockdavao.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/j32PnqrN5L.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "14a19cba-efd8-40a5-9472-2b672230e76a",
+    "name": "Lite Rock Manila",
+    "url": "http://phoebe.streamerr.co:1580/stream",
+    "url_resolved": "http://phoebe.streamerr.co:1580/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/499/rxs-radio.1973dc17.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c3fa7b27-a3e9-4827-8681-676918d3f0f4",
+    "name": "97.9 Love Radio Cebu",
+    "url": "https://loveradiocebu.radioca.st/;",
+    "url_resolved": "https://loveradiocebu.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/698/979-love-radio-cebu.d97a3188.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b2213232-5b3d-4d14-b16b-f0182681b7d3",
+    "name": "AllHitz24",
+    "url": "https://stream.allhitz24.com/64",
+    "url_resolved": "https://stream.allhitz24.com/64",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/745/allhitz24.06eeef89.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2ca30f0b-b19d-489c-83ed-fa9cd325a13e",
+    "name": "KGI Radio FM",
+    "url": "https://dharkgfx.com/listen/kgi/radio.mp3",
+    "url_resolved": "https://dharkgfx.com/listen/kgi/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/436/kgi-radio-fm.3b344f2e.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c98e2bc9-2969-41df-99c6-ff3d96b7e326",
+    "name": "Musictambayan",
+    "url": "https://dharkgfx.com/listen/mrtfm/radio.mp3",
+    "url_resolved": "https://dharkgfx.com/listen/mrtfm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/470/musictambayan.bed0f161.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e0fd909c-3e66-417c-a804-0964c46e33a2",
+    "name": "Sweet Cali Dylan",
+    "url": "https://stream3.hornhost.com/8094/stream",
+    "url_resolved": "https://stream3.hornhost.com/8094/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/457/sweet-cali-dylan.4f6f652c.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c0d969c5-a1dc-49a6-b1ce-681b7a1e8b3c",
+    "name": "10.17 Pinoy Tiger FM",
+    "url": "https://stream3.hornhost.com:8122/stream",
+    "url_resolved": "https://stream3.hornhost.com:8122/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/527/1017-pinoy-tiger-fm.54354a0a.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "25c0bd2e-bf37-49de-a951-491665e93b95",
+    "name": "Raysland Cebu",
+    "url": "https://stream.hornhost.com:8002/stream",
+    "url_resolved": "https://stream.hornhost.com:8002/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/251/raysland-cebu.e790dc3a.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b1d23997-2200-4a58-98ea-d7171cc5fcde",
+    "name": "Destiny 9911 FM",
+    "url": "https://usa2.bntworxtv.com/listen/destiny9911fm/radio.mp3",
+    "url_resolved": "https://usa2.bntworxtv.com/listen/destiny9911fm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/580/destiny-9911-fm.630591b3.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e7e0bddf-202b-4af3-bb30-1ceef347892d",
+    "name": "89.1 ONE HEART FM",
+    "url": "https://usa2.server2028.com/listen/89.1_one_heart_fm/radio.mp3",
+    "url_resolved": "https://usa2.server2028.com/listen/89.1_one_heart_fm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/828/891-one-heart-fm.db19be70.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3bbbe79b-d623-4b66-b33a-3e79b0d61ee4",
+    "name": "Razz Radio",
+    "url": "https://razzrdfx.com/listen/razz_radio/radio.mp3",
+    "url_resolved": "https://razzrdfx.com/listen/razz_radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jP6gmmJnu6.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0b8684c3-2f84-484e-8864-abb16037dd5d",
+    "name": "93.1 Hot Tweetumz Online Radio",
+    "url": "https://stream3.hornhost.com/8150/stream",
+    "url_resolved": "https://stream3.hornhost.com/8150/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/197/931-hot-tweetumz-online-radio.de7e3770.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bc8751cc-8152-4400-8862-4805952ba34e",
+    "name": "98.3 Love Radio Dagupan",
+    "url": "https://loveradiodagupan.radioca.st/;",
+    "url_resolved": "https://loveradiodagupan.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/4ec74Pvj8r.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d9020c21-043c-458c-8903-4e0c111a63f1",
+    "name": "LuvRD RADIO 99.7 FM",
+    "url": "https://shoutcast.k-planet.eu/8082/stream",
+    "url_resolved": "https://shoutcast.k-planet.eu/8082/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/560/115-true-love-fm.fceb38f7.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e537de5a-2094-476b-ac9e-5bd6c202b8a6",
+    "name": "MSR",
+    "url": "http://usa21.fastcast4u.com:2580/;",
+    "url_resolved": "http://usa21.fastcast4u.com:2580/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/121/music-sensation-radio.18d7fd82.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "33927d0e-4ef4-4597-b20f-0bebb8622430",
+    "name": "Threesome FM",
+    "url": "https://stream3.hornhost.com/8130/stream",
+    "url_resolved": "https://stream3.hornhost.com/8130/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/250/threesome-fm.fc9374cb.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "30ae5e79-47c8-4e51-8416-aad2921b9092",
+    "name": "Republika ni Juan 87.5 FM",
+    "url": "http://58.97.187.52:5007/fm1",
+    "url_resolved": "http://58.97.187.52:5007/fm1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/364/dwfo-fm1-875.9cda9f9d.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3da214c5-e449-4ae2-9e7a-7a4ca6e3c51a",
+    "name": "24.7 Coffeeshop Radio",
+    "url": "https://usa2.bntworxtv.com/listen/coffee_shop_radio/radio.mp3",
+    "url_resolved": "https://usa2.bntworxtv.com/listen/coffee_shop_radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/165/247-coffeeshop-radio.958ce0b8.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "46b776e9-5efb-43ba-bdf8-35e425c2ce00",
+    "name": "4Maria's 93.89 (JMJ PASAWAY FM REBORN)",
+    "url": "https://shoutcast.k-planet.eu/8054/stream",
+    "url_resolved": "https://shoutcast.k-planet.eu/8054/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/971/4marias-9389-jmj-pasaway-fm-reborn.da423d27.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "734d330e-7d2d-441d-a69e-e33296851e31",
+    "name": "92.2 DABARKADZ FM",
+    "url": "https://stream3.hornhost.com/8012/stream",
+    "url_resolved": "https://stream3.hornhost.com/8012/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/290/922-dabarkadz-fm.a96fc420.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2c84c499-6ccf-4d36-8e8d-e7e56c047191",
+    "name": "90.7 Love Radio Davao",
+    "url": "https://loveradiodavao.radioca.st/;",
+    "url_resolved": "https://loveradiodavao.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/VGjmgFefQs.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4d4dd8ee-a73a-48ec-822e-fc8197cc05cf",
+    "name": "Yes FM Dagupan 106.3",
+    "url": "http://chandra.shoutca.st:10300/;",
+    "url_resolved": "http://chandra.shoutca.st:10300/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/BqJVd2R4x8.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "22adf35f-e108-4c3b-89aa-1c44ce8a7a2e",
+    "name": "KOCILFM",
+    "url": "https://dharkgfx.com/listen/kocilfm/radio.mp3",
+    "url_resolved": "https://dharkgfx.com/listen/kocilfm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/165/kocilfm.eed58261.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6839e93d-c777-4fca-8901-ff6fa532a329",
+    "name": "Heart of Paradise Island FM",
+    "url": "https://dharkgfx.com/listen/heart_of_paradise_fm/radio.mp3",
+    "url_resolved": "https://dharkgfx.com/listen/heart_of_paradise_fm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/4SuCKHNB4k.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e2c65079-1553-4d8b-b587-33be41ae4442",
+    "name": "102.7 Love Radio FM",
+    "url": "https://stream3.hornhost.com/8048/stream",
+    "url_resolved": "https://stream3.hornhost.com/8048/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/420/1027-love-radio-fm.f25283dd.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2472ca30-8b2f-4965-97aa-d4e61b2759e1",
+    "name": "92.5 Circle of Infinity",
+    "url": "https://stream3.hornhost.com/8018/stream",
+    "url_resolved": "https://stream3.hornhost.com/8018/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/326/925-circle-of-infinity.da6db8dd.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9c7af736-1b3a-4de9-b1d2-e1d77f07cd5d",
+    "name": "Pinoy Radio - Filipino Radio",
+    "url": "http://167.114.11.79:16224/stream",
+    "url_resolved": "http://167.114.11.79:16224/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/emvpytmtq6ux.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c904e4da-b4d7-4f00-8c39-0c2691c9dbfc",
+    "name": "106.8MixTrioFM",
+    "url": "https://razzrdfx.com/listen/mixtriofm/radio.mp3",
+    "url_resolved": "https://razzrdfx.com/listen/mixtriofm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/818/1068mixtriofm.bfaf6a32.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d9854e8e-ec85-466a-b47f-a17d3613892e",
+    "name": "100.1 Love Radio Kalibo",
+    "url": "https://loveradiokalibo.radioca.st/;",
+    "url_resolved": "https://loveradiokalibo.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hvypmwzm3ftl.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ff95c3de-1c35-4b58-8342-caffb2cdd7d2",
+    "name": "100.7 Love Radio Lucena",
+    "url": "https://loveradiolucena.radioca.st/;",
+    "url_resolved": "https://loveradiolucena.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/d3xp2hsjsfft.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c96ee273-ed5a-4457-8910-0200d8e8128a",
+    "name": "101.1 Mix Emotion FM",
+    "url": "https://cast101.1mixemotionfm.com/listen/mixemotionfm/stream",
+    "url_resolved": "https://cast101.1mixemotionfm.com/listen/mixemotionfm/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/733/1011-mix-emotion-fm.bc717876.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a44e3dcc-01f2-4bcd-8a8a-6c110bc70f16",
+    "name": "101.2 Hunter Radio",
+    "url": "https://dharkgfx.com/listen/hunter_radio_fm/radio.mp3",
+    "url_resolved": "https://dharkgfx.com/listen/hunter_radio_fm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/8eeEcumbkz.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e8cc9a23-48e7-49e2-8276-661e6c7309ca",
+    "name": "101.2 MY RADIO fm",
+    "url": "https://stream3.hornhost.com/8072/stream",
+    "url_resolved": "https://stream3.hornhost.com/8072/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/595/1012-my-radio-fm.202185eb.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "13683bb1-824a-4e91-a462-fe5fd08ce5d0",
+    "name": "101.5 Caroline FM",
+    "url": "https://stream3.hornhost.com/8090/stream",
+    "url_resolved": "https://stream3.hornhost.com/8090/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/540/1015-caroline-fm.71b59b6a.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cffad1d0-fbab-4462-94c1-25abf83b686f",
+    "name": "101.5 Chill FM",
+    "url": "https://stream.hornhost.com/8052/stream",
+    "url_resolved": "https://stream.hornhost.com/8052/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/902/1015-chill-fm.e250bdc1.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cc92489a-f814-463f-b118-7f3d3fb00028",
+    "name": "101.5 Love Radio General Santos",
+    "url": "https://loveradiogensan.radioca.st/;",
+    "url_resolved": "https://loveradiogensan.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ecsugze9kb2j.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4220cd98-71cb-46c4-99da-9be62ec3bf32",
+    "name": "101.6 Dream Radio",
+    "url": "https://radio.hornhost.com/8052/stream",
+    "url_resolved": "https://radio.hornhost.com/8052/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/537/1016-dream-radio.7a2fdbb4.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "68b6b50e-cdef-4235-b005-76977d53c8cf",
+    "name": "101.7 Love Radio La Union",
+    "url": "https://loveradiolaunion.radioca.st/;",
+    "url_resolved": "https://loveradiolaunion.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hyf5xyhhephh.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0343b7ad-a1a7-4c0a-b417-c5ae7bfdcd56",
+    "name": "101.7 Your Love FM",
+    "url": "https://chloreign.com/listen/sanibpwersa/radio.mp3",
+    "url_resolved": "https://chloreign.com/listen/sanibpwersa/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/140/1017-your-love-fm.dbe15795.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7f6cfba0-e9a1-4d36-8d0e-fd7582c4285c",
+    "name": "101.9 HAPPY HEARTSFM",
+    "url": "https://razzrdfx.com/listen/happyheartsfm/radio.mp3",
+    "url_resolved": "https://razzrdfx.com/listen/happyheartsfm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/560/1019-happy-heartsfm.c2d1463d.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6930b024-c826-4447-9ced-3a6be63d6438",
+    "name": "10.23 STAR POWER FM CEBU CITY",
+    "url": "https://stream3.hornhost.com:8092/stream",
+    "url_resolved": "https://stream3.hornhost.com:8092/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/159/1023-star-power-fm-cebu-city.78d715ea.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9172a8a0-ddb3-4c3c-900d-f734d52a4db1",
+    "name": "102.4 BHESTFRIEND FM",
+    "url": "https://eu8.fastcast4u.com/proxy/bhestfriendfm?mp=/1",
+    "url_resolved": "https://eu8.fastcast4u.com/proxy/bhestfriendfm?mp=/1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/HC7gKWmmj3.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "eacbf4a7-0ec4-4caf-b149-9c2423118f45",
+    "name": "102.7 Easy Rock Cebu",
+    "url": "https://easyrockcebu.radioca.st/;",
+    "url_resolved": "https://easyrockcebu.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/SZwkzMLfst.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "514b7a35-36f9-458d-8827-0c407d143ccf",
+    "name": "103.1 Brigada News FM Palawan",
+    "url": "http://18.141.67.248:8060/stream",
+    "url_resolved": "http://18.141.67.248:8060/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/DUjxNQvFW9.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b36a36aa-e37b-4eb0-ade4-b4452ee8a42d",
+    "name": "104.2 MIX LOVER'S FM",
+    "url": "https://stream.hornhost.com/8036/stream",
+    "url_resolved": "https://stream.hornhost.com/8036/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/261/1042-mix-lovers-fm.fdece6c8.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7f32d8a3-85e5-44d0-a734-d2f1840db3e1",
+    "name": "104.2 Star Radio FM",
+    "url": "https://stream.hornhost.com/8072/stream",
+    "url_resolved": "https://stream.hornhost.com/8072/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/627/1042-star-radio-fm.0608ef2f.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a7cceb6f-67e3-457f-beda-bf59c4cd0319",
+    "name": "104.5 Radyo Natin Candon DWRE",
+    "url": "https://stream.zeno.fm/wdoohvi3fdhtv",
+    "url_resolved": "https://stream.zeno.fm/wdoohvi3fdhtv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/716/1052-sanaol-hit-radio.a82b05df.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "44c9f6d1-e3bf-402a-9a52-76145b870e62",
+    "name": "105.5 Radyo Natin Bais City",
+    "url": "https://sound.amfm.link/radio/8000/dybr",
+    "url_resolved": "https://sound.amfm.link/radio/8000/dybr",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/102/1055-radyo-natin-bais-city.faefed6c.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b425280c-1a87-416b-bc8f-669bdd52270c",
+    "name": "105.6 Love Radio Roxas",
+    "url": "https://loveradioroxas.radioca.st/;",
+    "url_resolved": "https://loveradioroxas.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/6pq9y9unnyls.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7303f755-adbc-49f5-8bfe-d7bdec2a327c",
+    "name": "105.7 Marlex FM",
+    "url": "https://stream.hornhost.com/8120/stream",
+    "url_resolved": "https://stream.hornhost.com/8120/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/098/1057-marlex-fm.3ada9792.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "23545ec9-af0e-477b-8c58-19bc340aa192",
+    "name": "105.8 FLRFM",
+    "url": "https://radio.hornhost.com/8072/stream",
+    "url_resolved": "https://radio.hornhost.com/8072/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/043/1058-flrfm.f5a5b8b0.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3d679a70-08e7-48bf-ab60-de6e428f5b7c",
+    "name": "106.3 Love Radio Malaybalay",
+    "url": "https://lovemalaybalay.radioca.st/;",
+    "url_resolved": "https://lovemalaybalay.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ve5gczqkxyme.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "63de84ce-0c47-4593-8e88-58cf6571006c",
+    "name": "91.5 Wows Radio Station",
+    "url": "https://stream.hornhost.com/8022/stream",
+    "url_resolved": "https://stream.hornhost.com/8022/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wWJwuFxqXm.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c285347b-04af-4f40-8077-e00c329a92a3",
+    "name": "108.8 Tug Unbreakable Radio FM",
+    "url": "https://stream.hornhost.com/8016/stream",
+    "url_resolved": "https://stream.hornhost.com/8016/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/363/1088-tug-unbreakable-online-radio.ae93c9af.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d21af7f6-2b06-402c-9cd1-5efc91b94ac7",
+    "name": "11.14 KLJS Coolest Radio FM",
+    "url": "https://stream3.hornhost.com/8092/stream",
+    "url_resolved": "https://stream3.hornhost.com/8092/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/470/1114-kljs-coolest-radio-fm.9605fb4b.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fc789e5c-f5f5-4ddf-9de4-0a63bd862640",
+    "name": "14.3 Global Online Radio",
+    "url": "https://cast.143globalonlineradio.com/proxy/globalonlineradio/stream",
+    "url_resolved": "https://cast.143globalonlineradio.com/proxy/globalonlineradio/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/XwpUg3gXYJ.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8b8c0bab-2ba9-416e-bb23-13b165cc3cca",
+    "name": "26.5 DREAMLOVE SING ALONG RADIO",
+    "url": "https://stream.hornhost.com/8084/stream",
+    "url_resolved": "https://stream.hornhost.com/8084/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/240/1437-dream-love-fm.5c4e96b1.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "23e501a9-9853-42f2-88b4-799c64952cd2",
+    "name": "15.5 T.L.C.S.P PINOY FM",
+    "url": "https://stream.hornhost.com/8014/stream",
+    "url_resolved": "https://stream.hornhost.com/8014/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/858/155-tlcsp-pinoy-fm.88372fe3.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9b476411-33a4-49ad-8906-d31dabd8027b",
+    "name": "15.7 Sky Love Fm",
+    "url": "https://stream.hornhost.com/8080/stream",
+    "url_resolved": "https://stream.hornhost.com/8080/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/801/157-sky-love-fm.4dc74329.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4d791e3f-07c6-496a-8b67-52b2e91a4558",
+    "name": "201.9 Adzaa Online Radio FM",
+    "url": "https://stream.hornhost.com/8016/stream",
+    "url_resolved": "https://stream.hornhost.com/8016/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/493/2019-adzaa-online-radio-fm.a7883b43.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "988c3e9b-60b7-4255-b8ba-9d70ea02ba74",
+    "name": "205.4 JCOEVB FM",
+    "url": "https://usa2.server2028.com/listen/205.4_jcoevb_fm/radio.mp3",
+    "url_resolved": "https://usa2.server2028.com/listen/205.4_jcoevb_fm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/569/2054-jcoevb-fm.810c5eed.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "de183bf9-1413-4c3b-8888-a8757b7a3a13",
+    "name": "22.17 JSW ONLINE RADIO",
+    "url": "https://stream.zeno.fm/b6cbfdxkr0hvv",
+    "url_resolved": "https://stream.zeno.fm/b6cbfdxkr0hvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/724/2217-jsw-online-radio.91151de6.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d3b9966a-32ca-48b8-98b3-5a9f18c0f94c",
+    "name": "26.4 Sweet FM",
+    "url": "https://usa2.server2028.com/listen/nhers_teleradyo_/radio.mp3",
+    "url_resolved": "https://usa2.server2028.com/listen/nhers_teleradyo_/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/186/264-sweet-fm.3309b3a6.jpg",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "706c713b-3a53-425b-b3a9-0b30a3a49c8d",
+    "name": "27.21 JAR FM Radio",
+    "url": "https://radio.hornhost.com/8074/stream",
+    "url_resolved": "https://radio.hornhost.com/8074/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/340/2721-jar-fm-radio.ad073f0f.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3d9ce039-5521-461d-8628-c38bdcea8cbf",
+    "name": "27.9 Heart of Asia FM",
+    "url": "https://stream3.hornhost.com:8058/stream",
+    "url_resolved": "https://stream3.hornhost.com:8058/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/007/279-heart-of-asia-fm.573007ac.png",
+    "country": "Philippines",
+    "tags": "radio",
+    "votes": 0
+  }
+]

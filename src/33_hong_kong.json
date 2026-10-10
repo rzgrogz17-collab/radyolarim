@@ -1,0 +1,262 @@
+[
+  {
+    "stationuuid": "0e495b97-0a3d-49cf-9476-8814450b4cd0",
+    "name": "RTHK Radio 1",
+    "url": "http://stm1.rthk.hk/radio1",
+    "url_resolved": "http://stm1.rthk.hk/radio1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/914/xiang-gang-dian-tai-di-tai-rthk-radio-1.9b669eee.png",
+    "country": "Hong Kong",
+    "tags": "educational,entertainment,news",
+    "votes": 7236
+  },
+  {
+    "stationuuid": "0e5b6b8c-8e85-4a3b-8664-64cd6d6ae4ca",
+    "name": "香港電台第七台 普通话台",
+    "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8",
+    "url_resolved": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8",
+    "favicon": "https://sao.fm/wp-content/uploads/20220923022632737.jpg",
+    "country": "Hong Kong",
+    "tags": "full service",
+    "votes": 64
+  },
+  {
+    "stationuuid": "53e9eab3-eee4-472f-af2a-c5fa5282b4ac",
+    "name": "香港電台第六台",
+    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
+    "url_resolved": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
+    "favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/1E202306121836.jpg",
+    "country": "Hong Kong",
+    "tags": "full service",
+    "votes": 32
+  },
+  {
+    "stationuuid": "d1ef34d7-4d8c-471a-868a-2a563393a3b0",
+    "name": "香港電台第八台",
+    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8",
+    "url_resolved": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8",
+    "favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/zmco8RqfK6wcZu7BZCv2023061218737.jpg",
+    "country": "Hong Kong",
+    "tags": "full service",
+    "votes": 32
+  },
+  {
+    "stationuuid": "c174f4fc-6bca-4389-a8f0-a97badd2374a",
+    "name": "香港新城电台财经台",
+    "url": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "url_resolved": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "favicon": "https://sao.fm/wp-content/uploads/20220401142443934-150x150.jpeg",
+    "country": "Hong Kong",
+    "tags": "culture,economics",
+    "votes": 328
+  },
+  {
+    "stationuuid": "4e7155e6-3639-4ce4-a2f6-547dce3cc826",
+    "name": "香港新城电台采讯台",
+    "url": "https://1946218710.rsc.cdn77.org/1946218710/index.m3u8",
+    "url_resolved": "https://1946218710.rsc.cdn77.org/1946218710/index.m3u8",
+    "favicon": "http://radio.nettvpro.xyz/uploads/26/1-260224022026125.jpg",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 52
+  },
+  {
+    "stationuuid": "3a5b3c97-1204-4a47-bf97-6bc08eba38b9",
+    "name": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+    "url_resolved": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+    "favicon": "http://ytdem.radio.cn/oldres/cnvod/audio2017/ondemand/media/1100/20201230/1609294853242.jpg",
+    "country": "Hong Kong",
+    "tags": "102.8,102.8 fm,public radio",
+    "votes": 364
+  },
+  {
+    "stationuuid": "ce998ec3-59e1-49d7-8476-f32d4d3b5d41",
+    "name": "CNR-14 香港之声",
+    "url": "http://ngcdn002.cnr.cn/live/xgzs/index.m3u8",
+    "url_resolved": "http://ngcdn002.cnr.cn/live/xgzs/index.m3u8",
+    "favicon": "https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png",
+    "country": "Hong Kong",
+    "tags": "information",
+    "votes": 274
+  },
+  {
+    "stationuuid": "13848423-26ca-4a43-b4bf-a16e0a250d66",
+    "name": "香港電台第二台 RTHK Radio 2",
+    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "url_resolved": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/952/xiang-gang-dian-tai-di-er-tai-rthk-radio-2.f3d20dbf.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "05dea91c-5a9a-4993-9234-10e033aec88f",
+    "name": "新城財經台 Metro Finance FM104",
+    "url": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "url_resolved": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/092/xin-cheng-cai-jing-tai-metro-finance-fm104.68ee386d.jpg",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6bb8499b-a4aa-4c89-8218-c346888bb0b2",
+    "name": "香港電台第五台 - RTHK Radio 5",
+    "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+    "url_resolved": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/955/xiang-gang-dian-tai-di-wu-tai-rthk-radio-5.10e72f12.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dd29a38b-a19a-4c83-8578-40416b1baf23",
+    "name": "新城知訊台 MetroInfo FM99.7",
+    "url": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
+    "url_resolved": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/091/xin-cheng-zhi-xun-tai-metroinfo-fm997.91baf2b7.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9d80bd51-c05d-474c-9b0d-9077d37534e6",
+    "name": "香港電台普通話台 RTHK Radio",
+    "url": "http://stm.rthk.hk/radiopth",
+    "url_resolved": "http://stm.rthk.hk/radiopth",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/809/xiang-gang-dian-tai-pu-tong-hua-tai-rthk-radio.c44cd690.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d77294a8-a1a7-4736-b537-89a8895dbea2",
+    "name": "Digital Radio Hong Kong",
+    "url": "http://ice.digitalradiohk.net:8000/drhk",
+    "url_resolved": "http://ice.digitalradiohk.net:8000/drhk",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/490/digital-radio-hong-kong.35b38573.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "51744749-0462-44fe-b721-83215cf32362",
+    "name": "香港電台第四台 RTHK Radio 4",
+    "url": "http://stm1.rthk.hk/radio4",
+    "url_resolved": "http://stm1.rthk.hk/radio4",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/954/xiang-gang-dian-tai-di-si-tai-rthk-radio-4.71051015.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d4f6bda4-8ff5-44a3-8f49-99362c8c7300",
+    "name": "香港電台第三台 RTHK Radio 3",
+    "url": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+    "url_resolved": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/953/xiang-gang-dian-tai-di-san-tai-rthk-radio-3.e5894d95.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4a71996c-82a7-4f7b-a301-1ebbc271c6bc",
+    "name": "CNR香港之声 - CNR Voice of Hong Kong",
+    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
+    "url_resolved": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/685/cnrxiang-gang-zhi-sheng-cnr-voice-of-hong-kong.131460cc.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "78517649-9531-4635-9c45-f25769f2fc86",
+    "name": "華語 HITS",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+    "url_resolved": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/547/hua-yu-hits.34ba8e22.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f771bc8b-f5b1-4bb1-a1f5-2a4e8f058df6",
+    "name": "Apple-FM",
+    "url": "https://ice.apple-fm.net:8443/apple-fm.mp3",
+    "url_resolved": "https://ice.apple-fm.net:8443/apple-fm.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/132/apple-fm.30186871.jpg",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e02daffe-dd2f-440e-877d-de648fe452f7",
+    "name": "La French Radio Hong-Kong et Macao",
+    "url": "https://listen.radioking.com/radio/333865/stream/382282",
+    "url_resolved": "https://listen.radioking.com/radio/333865/stream/382282",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/984/la-french-radio-hong-kong-et-macao.541726b6.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4587a31f-3549-4f2d-a72c-0f9f06ceb335",
+    "name": "89.7 Hard Rock FM",
+    "url": "https://radio1.reans.net/radio/8040/radio.mp3",
+    "url_resolved": "https://radio1.reans.net/radio/8040/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/525/897-hard-rock-fm.2ce2797e.jpg",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b90e91d7-2e03-419a-95d1-ea5b6875e0a2",
+    "name": "AXR Hong Kong",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONG.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONG.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/422/axr-asia-expat-radio-hong-kong.a8bb621f.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ca1f1be2-5fa3-4f97-8f23-0606207bd7e3",
+    "name": "WQXR-FM 紐約愛樂電台",
+    "url": "https://stream.wqxr.org/wqxr",
+    "url_resolved": "https://stream.wqxr.org/wqxr",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/309/wqxr-fm-niu-yue-ai-le-dian-tai-hong-kong.2bced96f.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fa9ba184-fbfe-4205-946f-2666810ca2cb",
+    "name": "Metal Hammer Radio 重金屬音樂電台",
+    "url": "https://stream.laut.fm/metal-hammer",
+    "url_resolved": "https://stream.laut.fm/metal-hammer",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/Apk98ustT7.jpeg",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dc61fc35-d795-4c4e-9c78-c90b5116fd7d",
+    "name": "Capital Disko",
+    "url": "http://sr2.inmystream.info:8040/stream/;",
+    "url_resolved": "http://sr2.inmystream.info:8040/stream/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/007/capital-disko.897ea869.png",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e472ddfb-f27f-4df0-b45c-2ef1fe3c6ad8",
+    "name": "WeFunk Radio 放克音樂網路電台",
+    "url": "http://s-00.wefunkradio.com:81/wefunk64.mp3",
+    "url_resolved": "http://s-00.wefunkradio.com:81/wefunk64.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/314/wefunk-radio-fang-ke-yin-le-wang-lu-dian-tai-hong-kong.119ff37a.jpg",
+    "country": "Hong Kong",
+    "tags": "radio",
+    "votes": 0
+  }
+]

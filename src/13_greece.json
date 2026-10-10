@@ -1,0 +1,962 @@
+[
+  {
+    "stationuuid": "3653b75c-0116-11ea-bbf2-52543be04c81",
+    "name": "Psyndora Chillout",
+    "url": "http://cast.magicstreams.gr:9125/stream",
+    "url_resolved": "http://cast.magicstreams.gr:9125/stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PSYNDORARADIO.jpg",
+    "country": "Greece",
+    "tags": "2 stations,24/7,chill,chillout,non-stop music,psybient,psydub,psytrance",
+    "votes": 42
+  },
+  {
+    "stationuuid": "96185f35-0601-11e8-ae97-52543be04c81",
+    "name": "Sport FM 94.6",
+    "url": "http://netradio.live24.gr/sportfm7712",
+    "url_resolved": "http://netradio.live24.gr/sportfm7712",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SFM.png",
+    "country": "Greece",
+    "tags": "greek,sport",
+    "votes": 38
+  },
+  {
+    "stationuuid": "b1e1f76e-52fd-22e9-aa66-63654be04c92",
+    "name": "Ράδιο Κρήτη 101,5",
+    "url": "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/media_w1025939545_17246.aac",
+    "url_resolved": "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/chunklist_w1025939545.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/GFM.png",
+    "country": "Greece",
+    "tags": "blues",
+    "votes": 31
+  },
+  {
+    "stationuuid": "b9e1f76e-41fd-11e9-aa55-52543be04c81",
+    "name": "Blues Radio",
+    "url": "http://cast3.radiohost.ovh:8352/",
+    "url_resolved": "http://cast3.radiohost.ovh:8352/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/906/blues-radio.fd2b6f95.png",
+    "country": "Greece",
+    "tags": "blues",
+    "votes": 33
+  },
+  {
+    "stationuuid": "9611d448-0601-11e8-ae97-52543be04c81",
+    "name": "Sfera 102.2",
+    "url": "http://sfera.live24.gr/sfera4132",
+    "url_resolved": "http://sfera.live24.gr/sfera4132",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/FGXgNFcbJd.png",
+    "country": "Greece",
+    "tags": "greek,pop,top 40",
+    "votes": 25
+  },
+  {
+    "stationuuid": "b5455fcb-e07e-11e9-a8ba-52543be04c81",
+    "name": "Trance Athena",
+    "url": "https://cast.streams.ovh:8008/;",
+    "url_resolved": "https://cast.streams.ovh:8008/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/tgx7uypfn2pg.png",
+    "country": "Greece",
+    "tags": "electronic,melodic trance,music,trance,uplifting trance",
+    "votes": 28
+  },
+  {
+    "stationuuid": "d286d583-aab7-11e8-a907-52543be04c81",
+    "name": "Off Radio - Athens",
+    "url": "https://s3.yesstreaming.net:2199/tunein/offradio.pls",
+    "url_resolved": "http://s3.yesstreaming.net:7062/stream",
+    "favicon": "https://www.radio.net/175/offradio.png",
+    "country": "Greece",
+    "tags": "",
+    "votes": 27
+  },
+  {
+    "stationuuid": "96b37cae-4795-4e9a-92be-178f16216ecf",
+    "name": "Rythmos 94.9",
+    "url": "http://stream.radiojar.com/aw1w2xfx1vduv",
+    "url_resolved": "http://stream.radiojar.com/aw1w2xfx1vduv",
+    "favicon": "https://www.radio.net/175/rythmos949fm.png",
+    "country": "Greece",
+    "tags": "greek,pop,top 40",
+    "votes": 22
+  },
+  {
+    "stationuuid": "854d0452-c4d3-48b9-9e00-8486ec1af61b",
+    "name": "Σκύλος 90",
+    "url": "http://n01.radiojar.com/819r8wupdrruv",
+    "url_resolved": "http://n01.radiojar.com/819r8wupdrruv",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RTM90.png",
+    "country": "Greece",
+    "tags": "folk,greek",
+    "votes": 21
+  },
+  {
+    "stationuuid": "f28d16cd-4515-43ed-9cc8-c25e56190e23",
+    "name": "Pepper 96.6",
+    "url": "https://stream.radiojar.com/pepper",
+    "url_resolved": "https://stream.radiojar.com/pepper",
+    "favicon": "https://www.radio.net/175/pepper966.png",
+    "country": "Greece",
+    "tags": "easy listening,smooth",
+    "votes": 20
+  },
+  {
+    "stationuuid": "2d35016c-59d8-11e9-a622-52543be04c81",
+    "name": "Skai 100.3",
+    "url": "http://netradio.live24.gr/skai1003",
+    "url_resolved": "http://netradio.live24.gr/skai1003",
+    "favicon": "https://uk.radio.net/175/skai.png",
+    "country": "Greece",
+    "tags": "",
+    "votes": 18
+  },
+  {
+    "stationuuid": "1be3981d-f3da-4371-891f-07300815f19c",
+    "name": "Ρυθμός 89.2",
+    "url": "http://s4.onweb.gr:8892/stream?type=http",
+    "url_resolved": "http://s4.onweb.gr:8892/stream?type=http",
+    "favicon": "http://resources.live24.gr/resources/images/stations/c6d7573c-7187-4b33-8d98-cd336145612b.jpg",
+    "country": "Greece",
+    "tags": "greek,mainstream,pop",
+    "votes": 17
+  },
+  {
+    "stationuuid": "f0bbdd58-945a-4336-8ed6-7784f65946b5",
+    "name": "My radio 104.6",
+    "url": "http://streaming.myradio1046.fm/myradio1046",
+    "url_resolved": "http://streaming.myradio1046.fm/myradio1046",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/343/myradio-1046-fm.3aa5a125.jpg",
+    "country": "Greece",
+    "tags": "greek pop,mainstream",
+    "votes": 14
+  },
+  {
+    "stationuuid": "54eec2ef-54a2-4190-af4d-762f2b5001ec",
+    "name": "Δρομοσ 89,8 | Dromos 89,8",
+    "url": "http://netradio.live24.gr/dromos2",
+    "url_resolved": "http://netradio.live24.gr/dromos2",
+    "favicon": "https://www.radio.net/175/dromosfm.png",
+    "country": "Greece",
+    "tags": "greek music,greek pop",
+    "votes": 14
+  },
+  {
+    "stationuuid": "0f239691-88f0-11e8-aa66-52543be04c81",
+    "name": "Laikos FM",
+    "url": "http://netradio.live24.gr/laikos876",
+    "url_resolved": "http://netradio.live24.gr/laikos876",
+    "favicon": "https://www.radio.net/175/laikos-1057-fmfm.gif",
+    "country": "Greece",
+    "tags": "greek pop",
+    "votes": 13
+  },
+  {
+    "stationuuid": "9da2dd6b-1db8-4b09-ad35-af75c41b13ba",
+    "name": "Derti 107.7",
+    "url": "http://i5.streams.ovh:14008/stream?type=http",
+    "url_resolved": "http://i5.streams.ovh:14008/stream?type=http",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/4swxyvjhngqx.png",
+    "country": "Greece",
+    "tags": "greek,mainstream,pop",
+    "votes": 13
+  },
+  {
+    "stationuuid": "961ddf4b-0601-11e8-ae97-52543be04c81",
+    "name": "Kiss 92.9",
+    "url": "http://netradio.live24.gr/kissfmathens",
+    "url_resolved": "http://netradio.live24.gr/kissfmathens",
+    "favicon": "https://www.radio.net/175/kissfmgreece.png",
+    "country": "Greece",
+    "tags": "pop",
+    "votes": 12
+  },
+  {
+    "stationuuid": "96103291-0601-11e8-ae97-52543be04c81",
+    "name": "Derti 98.6",
+    "url": "http://derti.live24.gr/derty1000",
+    "url_resolved": "http://derti.live24.gr/derty1000",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DERTFM.png",
+    "country": "Greece",
+    "tags": "laika",
+    "votes": 11
+  },
+  {
+    "stationuuid": "960d1eb6-0601-11e8-ae97-52543be04c81",
+    "name": "Cosmoradio 95,1",
+    "url": "http://eco.onestreaming.com:8689/",
+    "url_resolved": "http://eco.onestreaming.com:8689/",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KP51FM.jpg",
+    "country": "Greece",
+    "tags": "cosmoradio,kosmoradio",
+    "votes": 11
+  },
+  {
+    "stationuuid": "eb14002e-e11f-4f0d-a0a9-7c98890190b1",
+    "name": "Sfera 94.4",
+    "url": "http://netradio.live24.gr/sfera941nauplio",
+    "url_resolved": "http://netradio.live24.gr/sfera941nauplio",
+    "favicon": "http://resources.live24.gr/resources/images/stations/29aecd11-c6bd-4c2e-bf0e-054390151602.png",
+    "country": "Greece",
+    "tags": "greek,mainstream,pop",
+    "votes": 9
+  },
+  {
+    "stationuuid": "961180ce-0601-11e8-ae97-52543be04c81",
+    "name": "Galaxy 92",
+    "url": "http://netradio.live24.gr/galaxy9292",
+    "url_resolved": "http://netradio.live24.gr/galaxy9292",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/U2wTeGHwk3.png",
+    "country": "Greece",
+    "tags": "electronic",
+    "votes": 4835
+  },
+  {
+    "stationuuid": "30c8fd30-39f6-461c-9056-fd79a6e2eb58",
+    "name": "ΕΡΤ Δεύτερο Πρόγραμμα",
+    "url": "https://radiostreaming.ert.gr/ert-deftero",
+    "url_resolved": "https://radiostreaming.ert.gr/ert-deftero",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/el/thumb/7/73/Deytero-logo.svg/500px-Deytero-logo.svg.png?utm_source=el.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Greece",
+    "tags": "ert,ert deftero,public radio",
+    "votes": 966
+  },
+  {
+    "stationuuid": "e6d38cbb-868b-4345-8e5e-5cd76a770843",
+    "name": "Alpha 98.9",
+    "url": "https://stream.radiojar.com/xcdg6yggzfeuv.mp3",
+    "url_resolved": "https://stream.radiojar.com/xcdg6yggzfeuv.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/UgZFhUBL3n.jpg",
+    "country": "Greece",
+    "tags": "greek,news,talk",
+    "votes": 614
+  },
+  {
+    "stationuuid": "06101631-24f0-4305-b325-40d6279d17a0",
+    "name": "ΕΡΤ Τρίτο Πρόγραμμα",
+    "url": "https://radiostreaming.ert.gr/ert-trito",
+    "url_resolved": "https://radiostreaming.ert.gr/ert-trito",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/el/thumb/e/ed/TRITO.svg/500px-TRITO.svg.png?utm_source=el.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Greece",
+    "tags": "classical,ert,ert trito,public radio",
+    "votes": 610
+  },
+  {
+    "stationuuid": "5796e42b-1ff0-438c-a0bb-b5bf3f72bda2",
+    "name": "ERA Sport 101.8",
+    "url": "https://radiostreaming.ert.gr/ert-erasport",
+    "url_resolved": "https://radiostreaming.ert.gr/ert-erasport",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/ERA_Sport_logo.svg/500px-ERA_Sport_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 508
+  },
+  {
+    "stationuuid": "4e79c0af-4dea-4b83-a850-f11329460dc7",
+    "name": "Δίεση 101.3",
+    "url": "http://orange.live24.gr/orange9320",
+    "url_resolved": "http://orange.live24.gr/orange9320",
+    "favicon": "https://cdn.e-radio.gr/logos/gr/500/diesi.png",
+    "country": "Greece",
+    "tags": "greek,greek music",
+    "votes": 384
+  },
+  {
+    "stationuuid": "8f8bfe13-9411-46b4-9780-5d5f399f6e7e",
+    "name": "Στο κόκκινο 105.5",
+    "url": "https://n0d.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABoQy7yfEA8-EihjW5rM1FJg",
+    "url_resolved": "https://n0d.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABoQy7yfEA8-EihjW5rM1FJg",
+    "favicon": "https://typologies.gr/wp-content/uploads/2019/10/kokkino.jpg",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 246
+  },
+  {
+    "stationuuid": "2097a4c7-9886-4557-be56-e1c344341689",
+    "name": "ΣΚΑΪ 100.3",
+    "url": "https://skai.live24.gr/skai1003",
+    "url_resolved": "https://skai.live24.gr/skai1003",
+    "favicon": "https://resources.live24.gr/resources/images/stations/2d0a60fe-a504-4f8f-9770-253d47e923a8.jpg",
+    "country": "Greece",
+    "tags": "news,news talk",
+    "votes": 140
+  },
+  {
+    "stationuuid": "b0f134a9-e8c4-43c1-a005-e4f7a700cbd4",
+    "name": "Η Φωνή της Ελλάδας",
+    "url": "https://radiostreaming.ert.gr/ert-voiceofgreece",
+    "url_resolved": "https://radiostreaming.ert.gr/ert-voiceofgreece",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png?utm_source=el.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Greece",
+    "tags": "ert,i foni tis elladas,public radio,voice of greece,voiceofgreece",
+    "votes": 114
+  },
+  {
+    "stationuuid": "961f9a79-0601-11e8-ae97-52543be04c81",
+    "name": "Real FM 97.8",
+    "url": "http://netradio.live24.gr/realfm",
+    "url_resolved": "http://netradio.live24.gr/realfm",
+    "favicon": "https://www.real.gr/wp-content/uploads/2025/02/realgr-icon-150x150.png",
+    "country": "Greece",
+    "tags": "greek,news,talk",
+    "votes": 10644
+  },
+  {
+    "stationuuid": "2082b774-1082-419d-ad13-a0ce9c10a759",
+    "name": "Red 96.3",
+    "url": "https://netradio.live24.gr/red9630",
+    "url_resolved": "https://netradio.live24.gr/red9630",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/5/15525.v6.png",
+    "country": "Greece",
+    "tags": "rock",
+    "votes": 581
+  },
+  {
+    "stationuuid": "0f7af3ab-7621-412f-bdb1-d3599e36083d",
+    "name": "Mad Radio 106.2 FM",
+    "url": "https://mediaserver.mad.tv/stream",
+    "url_resolved": "https://mediaserver.mad.tv/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/989/mad-radio-1062-fm.20a26900.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 30
+  },
+  {
+    "stationuuid": "ce0f507c-4b90-4814-ace9-7ec944898800",
+    "name": "Nitro Radio",
+    "url": "https://politisradios.live24.gr/streameenitro",
+    "url_resolved": "https://politisradios.live24.gr/streameenitro",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Nitro_rapper.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "country": "Greece",
+    "tags": "alternative rock,electronica,pop,soul",
+    "votes": 10
+  },
+  {
+    "stationuuid": "da5c6381-6835-4912-91d2-be8475520dce",
+    "name": "Εν Λευκώ World Music",
+    "url": "https://n10-us.rcs.revma.com/s1m17r30ubuvv?rj-ttl=5&rj-tok=AAABoQy7yD4AJ0lmHg5C01D7rg",
+    "url_resolved": "https://n10-us.rcs.revma.com/s1m17r30ubuvv?rj-ttl=5&rj-tok=AAABoQy7yD4AJ0lmHg5C01D7rg",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbu_X8sQumCCj_5tTBxJtB25JkllTT_nRJQ&s",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 3
+  },
+  {
+    "stationuuid": "4ea2d213-d064-422c-bde9-e57550318023",
+    "name": "Disco Net",
+    "url": "https://stream1.468.gr/8004/stream",
+    "url_resolved": "https://stream1.468.gr/8004/stream",
+    "favicon": "http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg",
+    "country": "Greece",
+    "tags": "70s,80s,90s,disco,pop",
+    "votes": 1887
+  },
+  {
+    "stationuuid": "a645428e-9fd0-4afa-bba4-6ff8b591648e",
+    "name": "Αρχάγγελος 94.1",
+    "url": "http://eco.onestreaming.com:8536/;",
+    "url_resolved": "http://eco.onestreaming.com:8536/;",
+    "favicon": "http://resources.live24.gr/resources/images/stations/d8b5ba1e-c19d-4ab0-b5a5-7bc8c1c7d64f.jpg",
+    "country": "Greece",
+    "tags": "greek,mainstream,pop",
+    "votes": 1014
+  },
+  {
+    "stationuuid": "08231184-20f1-4bc2-9ca5-d8fd34202f9d",
+    "name": "Imagine 897 Thessaloniki,gr",
+    "url": "https://imagine897.radioca.st/stream",
+    "url_resolved": "https://imagine897.radioca.st/stream",
+    "favicon": "https://www.imagine897.gr/images/IMAGINE897.jpg",
+    "country": "Greece",
+    "tags": "internathional,pop,rock",
+    "votes": 810
+  },
+  {
+    "stationuuid": "fbc3e197-536e-4ceb-8518-3dbce47821b1",
+    "name": "Corfu Dee Jay 97.5",
+    "url": "https://sh.onweb.gr:7083/stream?type=http&nocache=35812",
+    "url_resolved": "https://sh.onweb.gr:7083/stream?type=http&nocache=35812",
+    "favicon": "http://resources.live24.gr/resources/images/stations/bec6ab25-e799-4958-aae6-6c1fc0dfa0cb.png",
+    "country": "Greece",
+    "tags": "dance,electronic,hiphop,pop,trance",
+    "votes": 664
+  },
+  {
+    "stationuuid": "961d4058-0601-11e8-ae97-52543be04c81",
+    "name": "RSO 91.7 Thessaloniki",
+    "url": "http://tachyon.shoutca.st:8594/stream",
+    "url_resolved": "http://tachyon.shoutca.st:8594/stream",
+    "favicon": "http://www.rso.gr/templates/gk_hotel/images/touch-device.png",
+    "country": "Greece",
+    "tags": "greek,pop,thessaloniki",
+    "votes": 603
+  },
+  {
+    "stationuuid": "4e5fa144-b715-4afa-b64c-068c6802527f",
+    "name": "Citizen",
+    "url": "https://sp3.streams.ovh/8082/;",
+    "url_resolved": "https://sp3.streams.ovh/8082/;",
+    "favicon": "https://citizenradio.gr/wp-content/uploads/2020/06/cropped-favico-180x180.png",
+    "country": "Greece",
+    "tags": "lounge,pop",
+    "votes": 449
+  },
+  {
+    "stationuuid": "957cccf6-981f-4116-9b3b-47540a286547",
+    "name": "Mancode",
+    "url": "http://comet.shoutca.st:8366/;",
+    "url_resolved": "http://comet.shoutca.st:8366/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/njyav8tq8kx4.jpg",
+    "country": "Greece",
+    "tags": "pop",
+    "votes": 420
+  },
+  {
+    "stationuuid": "a70b4c5d-9cfb-438b-8834-26bf92449fdd",
+    "name": "REBEL FM 105.2",
+    "url": "https://netradio.live24.gr/rebel1052",
+    "url_resolved": "https://netradio.live24.gr/rebel1052",
+    "favicon": "https://www.rebelfm.gr/wp-content/themes/whsk_rebelfm/common/imgs/rebel-logo-big.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 420
+  },
+  {
+    "stationuuid": "56662166-bec6-4cea-90f0-fd16bb8089c6",
+    "name": "Blues Radio alternative",
+    "url": "https://i4.streams.ovh/sc/bluesrad/stream",
+    "url_resolved": "https://i4.streams.ovh/sc/bluesrad/stream",
+    "favicon": "https://i1.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2C180&#038;ssl=1",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 382
+  },
+  {
+    "stationuuid": "cfb29521-2d13-4f7b-b79d-176405de5046",
+    "name": "Radio 88miso",
+    "url": "http://solid33.streamupsolutions.com:30000/stream",
+    "url_resolved": "http://solid33.streamupsolutions.com:30000/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hqmqkynkglsa.png",
+    "country": "Greece",
+    "tags": "mixed",
+    "votes": 379
+  },
+  {
+    "stationuuid": "01fef817-0744-4e52-adcf-795cc4ca5a3a",
+    "name": "Skai Patras",
+    "url": "http://i.streams.ovh:9519/stream?type=http&nocache=5",
+    "url_resolved": "http://i.streams.ovh:9519/stream?type=http&nocache=5",
+    "favicon": "http://resources.live24.gr/resources/images/stations/350d6994-0c63-4031-961e-399e17044bf8.png",
+    "country": "Greece",
+    "tags": "music,news,talk",
+    "votes": 234
+  },
+  {
+    "stationuuid": "d7c8a23e-0489-4b4d-95e1-dd8d15c1db2b",
+    "name": "FLY 104",
+    "url": "https://imagine2.radioca.st/;",
+    "url_resolved": "https://imagine2.radioca.st/;",
+    "favicon": "https://fly104.gr/images/folder/logos/mobile-logos/logomobile.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 215
+  },
+  {
+    "stationuuid": "5f695ae5-da9f-4366-a715-f4fa76b61bae",
+    "name": "Χρώμα 105,8 Θεσσαλονίκη",
+    "url": "https://hroma1058thess.live24.gr/hroma1058thess",
+    "url_resolved": "https://hroma1058thess.live24.gr/hroma1058thess",
+    "favicon": "https://hroma.gr/wp-content/uploads/2021/12/hroma-1058-thessaloniki-removebg-preview.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 202
+  },
+  {
+    "stationuuid": "93de008b-c5ee-4c6a-9ae9-d71480e29a1b",
+    "name": "Lampsi 92.3",
+    "url": "https://az11.yesstreaming.net:8140/radio.mp3",
+    "url_resolved": "https://az11.yesstreaming.net:8140/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/292/lampse-lampsi-923-fm.17eba969.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 198
+  },
+  {
+    "stationuuid": "c892d5ff-f604-4d11-bd78-3bdf96f4e961",
+    "name": "Λαϊκός 106.3",
+    "url": "http://sp2.streams.ovh:8102/stream?type=http&nocache=70",
+    "url_resolved": "http://sp2.streams.ovh:8102/stream?type=http&nocache=70",
+    "favicon": "http://resources.live24.gr/resources/images/stations/6f02d866-69da-45fd-9f19-c1c37bee5bd7.jpg",
+    "country": "Greece",
+    "tags": "folk,greek",
+    "votes": 194
+  },
+  {
+    "stationuuid": "a63089fd-d462-4e38-a1ff-ca96a1275b7f",
+    "name": "Easy 105.3",
+    "url": "http://s4.onweb.gr:8076/stream?type=http&nocache=104869",
+    "url_resolved": "http://s4.onweb.gr:8076/stream?type=http&nocache=104869",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/427/easy-1053.42545b0a.png",
+    "country": "Greece",
+    "tags": "80s,90s,pop",
+    "votes": 184
+  },
+  {
+    "stationuuid": "feb9cb24-46a1-487f-ac9b-fc7790b01cc0",
+    "name": "Home 89.1",
+    "url": "http://185.14.203.115:8004/stream?type=http&nocache=109",
+    "url_resolved": "http://185.14.203.115:8004/stream?type=http&nocache=109",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/fpfpqkdxpray.jpg",
+    "country": "Greece",
+    "tags": "dance,hiphop,pop,reggae,rock,trance",
+    "votes": 174
+  },
+  {
+    "stationuuid": "b273b11d-f07b-41bd-b5fb-081010700cf8",
+    "name": "Bravo 89.6",
+    "url": "https://sp3.streams.ovh/8046/stream",
+    "url_resolved": "https://sp3.streams.ovh/8046/stream",
+    "favicon": "http://resources.live24.gr/resources/images/stations/6e1ecc6f-f081-4f49-92c1-b45ec733861e.png",
+    "country": "Greece",
+    "tags": "folk,greek,pop",
+    "votes": 170
+  },
+  {
+    "stationuuid": "1a4be5ac-3738-4171-9b9e-176bd4e06b79",
+    "name": "Derti 107,7 Heraklion Crete",
+    "url": "https://i5.streams.ovh:2200/sc/web101/stream",
+    "url_resolved": "https://i5.streams.ovh:2200/sc/web101/stream",
+    "favicon": "https://www.derti1077.gr/wp-content/themes/dirty/images/logodirty.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 161
+  },
+  {
+    "stationuuid": "7179dfcb-f6ee-4c43-90f9-46388df8ecc2",
+    "name": "101 Rock Lamia",
+    "url": "http://sh.onweb.gr:9110/stream",
+    "url_resolved": "http://sh.onweb.gr:9110/stream",
+    "favicon": "https://onradio.gr/wp-content/uploads/2020/04/101Rock.jpg",
+    "country": "Greece",
+    "tags": "rock",
+    "votes": 156
+  },
+  {
+    "stationuuid": "ab044907-7d8f-43ad-bb09-8431207aaf5a",
+    "name": "ERT news",
+    "url": "https://radiostreaming.ert.gr/ert-proto",
+    "url_resolved": "https://radiostreaming.ert.gr/ert-proto",
+    "favicon": "https://resources.live24.gr/resources/images/stations/d2ce0820-9d07-48a2-80d8-4e15c0448d96.png",
+    "country": "Greece",
+    "tags": "news,news talk",
+    "votes": 154
+  },
+  {
+    "stationuuid": "8deb34aa-3e1a-4229-bb41-9d282cdf0740",
+    "name": "Στο Κόκκινο ΘΕΣΣΑΛΟΝΙΚΗ 91,4 FM",
+    "url": "http://n0b.radiojar.com/275p8ssmb?rj-ttl=5&rj-tok=AAABoQy71XYAcC-TDOfa-oibpQ",
+    "url_resolved": "http://n0b.radiojar.com/275p8ssmb?rj-ttl=5&rj-tok=AAABoQy71XYAcC-TDOfa-oibpQ",
+    "favicon": "https://resources.live24.gr/resources/images/stations/06116ad4-8934-436e-922d-b799c057598e.png",
+    "country": "Greece",
+    "tags": "guevarista,left wing,radical",
+    "votes": 150
+  },
+  {
+    "stationuuid": "54c342cc-dfa8-46db-b817-5ab4071b9fad",
+    "name": "NRG 91",
+    "url": "https://sh.onweb.gr/9100/stream/;",
+    "url_resolved": "https://sh.onweb.gr/9100/stream/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wvq7kql3vncg.jpg",
+    "country": "Greece",
+    "tags": "mainstream,pop music",
+    "votes": 146
+  },
+  {
+    "stationuuid": "5a5f0277-d346-486f-84df-38f2c0f7114d",
+    "name": "Picasso",
+    "url": "http://n10.radiojar.com/s87smqqfewzuv?rj-ttl=5&rj-tok=AAABoQy71noA5EpHIjk7rjyXFQ",
+    "url_resolved": "http://n10.radiojar.com/s87smqqfewzuv?rj-ttl=5&rj-tok=AAABoQy71noA5EpHIjk7rjyXFQ",
+    "favicon": "http://resources.live24.gr/resources/images/stations/98fd9ac9-01b7-4af4-bc7e-ae18d7232989.jpg",
+    "country": "Greece",
+    "tags": "folk,greek,sophisticated",
+    "votes": 137
+  },
+  {
+    "stationuuid": "c320801b-7d2f-493b-af29-4f37b83bb112",
+    "name": "Μελωδία 99.2",
+    "url": "https://n02-us.rcs.revma.com/8tdwa6ez1duvv?rj-ttl=5&rj-tok=AAABoQy71g0ASeByzQ1Tnl9MiA",
+    "url_resolved": "https://n02-us.rcs.revma.com/8tdwa6ez1duvv?rj-ttl=5&rj-tok=AAABoQy71g0ASeByzQ1Tnl9MiA",
+    "favicon": "https://mm.aiircdn.com/632/5e185a3184ae6.png",
+    "country": "Greece",
+    "tags": "greek,pop",
+    "votes": 129
+  },
+  {
+    "stationuuid": "f4bb74c0-69e3-4234-837f-318b4befaecd",
+    "name": "Λάμψη",
+    "url": "https://i6.streams.ovh/sc/radiolampsi/stream",
+    "url_resolved": "https://i6.streams.ovh/sc/radiolampsi/stream",
+    "favicon": "http://resources.live24.gr/resources/images/stations/8a5be60f-3beb-4597-9a72-e3b3a34f2561.jpg",
+    "country": "Greece",
+    "tags": "greek folk",
+    "votes": 129
+  },
+  {
+    "stationuuid": "476a2ada-4fa4-4111-a605-01c411e10ba7",
+    "name": "Ερωτικός 94.8",
+    "url": "https://eu1.fastcast4u.com/proxy/nmarog01?mp=/1",
+    "url_resolved": "https://eu1.fastcast4u.com/proxy/nmarog01?mp=/1",
+    "favicon": "https://resources.live24.gr/resources/images/stations/40ce9140-b7b5-4bb0-ae32-cdd248f3897e.png",
+    "country": "Greece",
+    "tags": "greek music",
+    "votes": 127
+  },
+  {
+    "stationuuid": "5a554032-5d09-427b-b365-7c126db0a796",
+    "name": "Star Corfu 88.8",
+    "url": "https://sh.onweb.gr/8800/stream/",
+    "url_resolved": "https://sh.onweb.gr/8800/stream/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/46955610-c578-42ce-982d-f3c1ada4b3ad.jpg",
+    "country": "Greece",
+    "tags": "mainstream,pop music",
+    "votes": 127
+  },
+  {
+    "stationuuid": "cf96e35e-bced-4ec2-a0c9-64f134a62cf1",
+    "name": "Lemon 88.8",
+    "url": "https://cast.streams.ovh/sc/radio888/stream/",
+    "url_resolved": "https://cast.streams.ovh/sc/radio888/stream/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/0f10bc08-2fcc-48a2-a752-4a3c45145e96.jpg",
+    "country": "Greece",
+    "tags": "pop music",
+    "votes": 120
+  },
+  {
+    "stationuuid": "c7dc05bd-7f61-4bc3-b520-90fe1cf8f3d6",
+    "name": "Kral 100",
+    "url": "https://onairmediagroup.live24.gr/kralfm100xanthi",
+    "url_resolved": "https://onairmediagroup.live24.gr/kralfm100xanthi",
+    "favicon": "https://resources.live24.gr/resources/images/stations/0e0ff04b-8c02-4183-83e7-4f851879466d.jpg",
+    "country": "Greece",
+    "tags": "pop",
+    "votes": 118
+  },
+  {
+    "stationuuid": "1f08bf2c-24f5-416c-a126-fd5123a48679",
+    "name": "ERT Now Hits",
+    "url": "https://radiostreaming.ert.gr/hits-radio",
+    "url_resolved": "https://radiostreaming.ert.gr/hits-radio",
+    "favicon": "https://press.ert.gr/wp-content/uploads/2025/12/ertecho_nowhitsradio22122025web-1.jpg",
+    "country": "Greece",
+    "tags": "mainstream,pop",
+    "votes": 117
+  },
+  {
+    "stationuuid": "314b8d5b-b23b-48c2-af00-868f9a6be938",
+    "name": "Radio 90.4",
+    "url": "http://icecast.902.gr:8000/904",
+    "url_resolved": "http://icecast.902.gr:8000/904",
+    "favicon": "http://resources.live24.gr/resources/images/stations/25a34011-e412-48c2-8092-4e04c9e93a76.png",
+    "country": "Greece",
+    "tags": "greek music,left wing,news,news talk",
+    "votes": 112
+  },
+  {
+    "stationuuid": "4814d2fe-a340-4054-bbb6-29731a79f363",
+    "name": "A Patras 94.4",
+    "url": "https://netradio.live24.gr/alpha944patra",
+    "url_resolved": "https://netradio.live24.gr/alpha944patra",
+    "favicon": "http://resources.live24.gr/resources/images/stations/3e98bdb0-66a8-47f2-878c-a1bebde83c35.jpg",
+    "country": "Greece",
+    "tags": "music,news talk",
+    "votes": 98
+  },
+  {
+    "stationuuid": "abc5ccc3-562b-4bad-a5c4-f7b30f5a76ff",
+    "name": "99 Ράδιο 1",
+    "url": "http://n05.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABoQy72s0AFDA8i834RuMNZA",
+    "url_resolved": "http://n05.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABoQy72s0AFDA8i834RuMNZA",
+    "favicon": "http://resources.live24.gr/resources/images/stations/22ca2fd7-6978-425c-96af-0345d0c6515a.png",
+    "country": "Greece",
+    "tags": "greek pop,mainstream",
+    "votes": 92
+  },
+  {
+    "stationuuid": "f792410d-25e5-44c8-97a7-0a44710fb582",
+    "name": "Radio Oi",
+    "url": "http://eu4.fastcast4u.com/proxy/nikoud00?mp=/1",
+    "url_resolved": "http://eu4.fastcast4u.com/proxy/nikoud00?mp=/1",
+    "favicon": "http://resources.live24.gr/resources/images/stations/a8e81721-6144-4396-9f5b-db3786b6d628.png",
+    "country": "Greece",
+    "tags": "oi,punk,ska",
+    "votes": 90
+  },
+  {
+    "stationuuid": "92fdf73a-ac82-43fa-8497-bf19d65c82ce",
+    "name": "Atlantis Radio Greece",
+    "url": "https://radio.streamings.gr/proxy/atlantisfm?mp=/stream",
+    "url_resolved": "https://radio.streamings.gr/proxy/atlantisfm?mp=/stream",
+    "favicon": "https://atlantisradio.gr/images/atlantis/index.jpg",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 85
+  },
+  {
+    "stationuuid": "5a163884-ea3c-48c5-ba69-a9c5425d033b",
+    "name": "Smooth Radio Thessaloniki",
+    "url": "https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live",
+    "url_resolved": "https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live",
+    "favicon": "http://resources.live24.gr/resources/images/stations/9ee73720-9bd6-4aae-b45c-8319378a7557.png",
+    "country": "Greece",
+    "tags": "dance,relax",
+    "votes": 84
+  },
+  {
+    "stationuuid": "3ad1a11e-95ce-4737-a2af-72beb73d501e",
+    "name": "Ελληνικός 90.3",
+    "url": "http://live.ellinikos.gr:8010/903.mp3",
+    "url_resolved": "http://live.ellinikos.gr:8010/903.mp3",
+    "favicon": "http://resources.live24.gr/resources/images/stations/540609ce-26cb-4145-958b-baaa2457869e.png",
+    "country": "Greece",
+    "tags": "greek,mainstream,pop",
+    "votes": 81
+  },
+  {
+    "stationuuid": "aebc2413-cdb9-4572-9580-34c1b785058d",
+    "name": "Memories Radio",
+    "url": "https://stream1.468.gr/8108/stream",
+    "url_resolved": "https://stream1.468.gr/8108/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/vvgmuhxsqgp5.png",
+    "country": "Greece",
+    "tags": "80s,90s,pop",
+    "votes": 80
+  },
+  {
+    "stationuuid": "1d7a2ef5-4cf7-475a-a24e-79c3af605486",
+    "name": "Zeppelin",
+    "url": "https://radiostreaming.ert.gr/ert-zeppelin",
+    "url_resolved": "https://radiostreaming.ert.gr/ert-zeppelin",
+    "favicon": "https://resources.live24.gr/resources/images/stations/1e92d193-695c-4866-ac67-fe9057c584bc.png",
+    "country": "Greece",
+    "tags": "rock",
+    "votes": 75
+  },
+  {
+    "stationuuid": "52ed4213-7aec-4ce5-b739-9671925cb1f1",
+    "name": "Athens Metro Mall",
+    "url": "http://mmr.yourstreaming.gr:9300/;",
+    "url_resolved": "http://mmr.yourstreaming.gr:9300/;",
+    "favicon": "http://resources.live24.gr/resources/images/stations/37d146e6-dbf3-4d0a-b5bd-0e6f125703a3.png",
+    "country": "Greece",
+    "tags": "mainstream,pop",
+    "votes": 74
+  },
+  {
+    "stationuuid": "c14e6fa6-0c75-42e5-ba18-bdc91ea005d2",
+    "name": "Easy 93.2",
+    "url": "https://solid48.streamupsolutions.com/proxy/lhlamody/stream",
+    "url_resolved": "https://solid48.streamupsolutions.com/proxy/lhlamody/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/eph3CpYHMD.png",
+    "country": "Greece",
+    "tags": "80s,90s,pop music",
+    "votes": 72
+  },
+  {
+    "stationuuid": "4b2a0d7d-f085-4ab0-90dc-85a76d83abb5",
+    "name": "Greca 99.4",
+    "url": "https://cast2.radiohost.ovh/grecafm?mp=/stream",
+    "url_resolved": "https://cast2.radiohost.ovh/grecafm?mp=/stream",
+    "favicon": "http://resources.live24.gr/resources/images/stations/d758ae8b-b8d8-479d-8c2b-844663249174.png",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 71
+  },
+  {
+    "stationuuid": "ab5a521a-0635-4ffb-806a-cd002308f28d",
+    "name": "Νησιώτικα 24/7",
+    "url": "https://n09.radiojar.com/f4uubny2uexb?1709758100=&rj-ttl=5&rj-tok=AAABoQy737MAFoRnHQhymBt0Zw",
+    "url_resolved": "https://n09.radiojar.com/f4uubny2uexb?1709758100=&rj-ttl=5&rj-tok=AAABoQy737MAFoRnHQhymBt0Zw",
+    "favicon": "https://www.nisiotika.gr/nitsiotikagr.png",
+    "country": "Greece",
+    "tags": "greek traditional",
+    "votes": 66
+  },
+  {
+    "stationuuid": "e30208d8-cfd4-463f-9013-c66b6b947da7",
+    "name": "Radio Patra 106,5",
+    "url": "https://live.cast-control.eu:2000/stream/radiopatra",
+    "url_resolved": "https://live.cast-control.eu:2000/stream/radiopatra",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jzwdbmhxjr56.jpg",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 66
+  },
+  {
+    "stationuuid": "cf126a68-795c-4f46-b5b1-25d4a4b90c5d",
+    "name": "89 Rainbow Christmas",
+    "url": "http://n11.radiojar.com/4nwwcyesv8hvv?rj-ttl=5&rj-tok=AAABoQy73vQA52YFyTFmEOl-iw",
+    "url_resolved": "http://n11.radiojar.com/4nwwcyesv8hvv?rj-ttl=5&rj-tok=AAABoQy73vQA52YFyTFmEOl-iw",
+    "favicon": "http://resources.live24.gr/resources/images/stations/e973da7b-6a00-4609-9862-4207baf9783c.jpg",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 65
+  },
+  {
+    "stationuuid": "5ede3058-db78-455a-91ca-990a532c73a2",
+    "name": "Radio Paris",
+    "url": "http://n0d.radiojar.com/kddqnna7yxmtv?rj-ttl=5&rj-tok=AAABoQy73yIA7Cb2ccMa3GageQ",
+    "url_resolved": "http://n0d.radiojar.com/kddqnna7yxmtv?rj-ttl=5&rj-tok=AAABoQy73yIA7Cb2ccMa3GageQ",
+    "favicon": "http://resources.live24.gr/resources/images/stations/7f4caf37-c1e1-4a19-88be-e2447610ee0a.jpg",
+    "country": "Greece",
+    "tags": "music,talk",
+    "votes": 65
+  },
+  {
+    "stationuuid": "9d3c78a0-4bfe-4093-8193-bc3835cd8cff",
+    "name": "Kiss 91.1",
+    "url": "https://rdst.win:59110/stream",
+    "url_resolved": "https://rdst.win:59110/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gpcPrLtyX3.jpg",
+    "country": "Greece",
+    "tags": "pop",
+    "votes": 63
+  },
+  {
+    "stationuuid": "1c46cef8-4c6d-41e3-8e6e-a2c4110fd60c",
+    "name": "NRG 95",
+    "url": "https://stream.radiojar.com/93c3avwu48hvv",
+    "url_resolved": "https://stream.radiojar.com/93c3avwu48hvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/xsrm9p5rdtt5.jpg",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 62
+  },
+  {
+    "stationuuid": "2d8e4fd5-867b-40dc-9f65-667f46c9d01c",
+    "name": "HiT 88.9",
+    "url": "https://stream.radiojar.com/hit889",
+    "url_resolved": "https://stream.radiojar.com/hit889",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/yx6nfscxbe4c.png",
+    "country": "Greece",
+    "tags": "mainstream,pop",
+    "votes": 62
+  },
+  {
+    "stationuuid": "614eccdb-d268-4214-993b-dc3e076a02b4",
+    "name": "sfera",
+    "url": "https://sfera.live24.gr/sfera4132",
+    "url_resolved": "https://sfera.live24.gr/sfera4132",
+    "favicon": "https://static.app.sfera.gr/radios/60bf37c3ce91af21130f6f94/logo-sfera_500x500-1653653313273.png",
+    "country": "Greece",
+    "tags": "pop",
+    "votes": 61
+  },
+  {
+    "stationuuid": "f2be95c6-1e79-4aae-8f6b-6f3d7fc8dc9e",
+    "name": "1st Greek New Age FLAC Radio AAC+ 320kbps",
+    "url": "https://stream.newageradio.gr/listen/hq/radio.aac",
+    "url_resolved": "https://stream.newageradio.gr/listen/hq/radio.aac",
+    "favicon": "https://newageradio.gr/Greek_New_Age_1200x1200.png",
+    "country": "Greece",
+    "tags": "ambient,audiophile radio,chillout,downtempo,electronic,flac radio",
+    "votes": 61
+  },
+  {
+    "stationuuid": "a9583fef-347d-41da-a1b5-0f7a5d8f15c9",
+    "name": "Thess 94.5",
+    "url": "https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1",
+    "url_resolved": "https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1",
+    "favicon": "http://resources.live24.gr/resources/images/stations/4f967b66-7ba0-4dd2-af9f-4d59390add4a.png",
+    "country": "Greece",
+    "tags": "news,news talk,pop music",
+    "votes": 60
+  },
+  {
+    "stationuuid": "8bc69d21-9864-4560-887c-48654d9650bb",
+    "name": "Paidaki 97.5",
+    "url": "https://paidaki975.radioca.st/;",
+    "url_resolved": "https://paidaki975.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/BC67EKwMuM.jpeg",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 59
+  },
+  {
+    "stationuuid": "9075b4f3-b35c-4a7d-b043-ee3adf829748",
+    "name": "Metalradio.gr",
+    "url": "https://cast2.asurahosting.com/proxy/devoqtec/stream",
+    "url_resolved": "https://cast2.asurahosting.com/proxy/devoqtec/stream",
+    "favicon": "https://i0.wp.com/metalradio.gr/wp-content/uploads/2019/11/metalradiogr_logo.png?fit=1020%2C383&ssl=1",
+    "country": "Greece",
+    "tags": "radio",
+    "votes": 59
+  },
+  {
+    "stationuuid": "1fcd6315-becc-4ffd-8216-f0eb63130bd4",
+    "name": "Πήλιο 93.4",
+    "url": "http://s3.myradiostream.com:4060/;",
+    "url_resolved": "http://s3.myradiostream.com:4060/;",
+    "favicon": "http://resources.live24.gr/resources/images/stations/850d1106-d489-408b-8f95-98d6ccaa6937.png",
+    "country": "Greece",
+    "tags": "folk,greek",
+    "votes": 56
+  },
+  {
+    "stationuuid": "cc36e414-3c8c-4f79-a5d1-2aaea7db821d",
+    "name": "Musica Radio",
+    "url": "https://stream.radiojar.com/w6c6bssk95vtv",
+    "url_resolved": "https://stream.radiojar.com/w6c6bssk95vtv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/qmuz3yqkadvc.png",
+    "country": "Greece",
+    "tags": "electro,indie",
+    "votes": 54
+  },
+  {
+    "stationuuid": "ef63eb13-66f7-4034-96bb-2aa464713c58",
+    "name": "Olympos 100.2",
+    "url": "http://eco.onestreaming.com:8146/;",
+    "url_resolved": "http://eco.onestreaming.com:8146/;",
+    "favicon": "https://www.radioolympos.gr/wp-content/uploads/2021/01/cropped-logo-radio-olympos-180x180.png",
+    "country": "Greece",
+    "tags": "greek music,local news",
+    "votes": 54
+  },
+  {
+    "stationuuid": "9645e0c7-0601-11e8-ae97-52543be04c81",
+    "name": "Mousiko Kanali",
+    "url": "http://stream1.mousikokanali.gr:8100/mc?.mp3",
+    "url_resolved": "http://stream1.mousikokanali.gr:8100/mc?.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/6b2mlqf4dxdg.png",
+    "country": "Greece",
+    "tags": "crete,music",
+    "votes": 53
+  },
+  {
+    "stationuuid": "3faaf017-da7f-4778-a8a0-73581ed4b639",
+    "name": "Έντεχνος 92.5",
+    "url": "https://stream-mp3aac.live24.gr/max925-her",
+    "url_resolved": "https://stream-mp3aac.live24.gr/max925-her",
+    "favicon": "http://resources.live24.gr/resources/images/stations/2d04ad28-93e2-4dac-b6fd-65c80cb9b5f6.png",
+    "country": "Greece",
+    "tags": "greek folk music",
+    "votes": 52
+  },
+  {
+    "stationuuid": "165b0bf2-517b-434a-8a6f-0e26e5dd6f1a",
+    "name": "Καλάβρυτα",
+    "url": "https://rdst.win:48030/live",
+    "url_resolved": "https://rdst.win:48030/live",
+    "favicon": "https://www.radiokalavryta.gr/wp-content/uploads/2021/08/cropped-mono-laika-3-180x180.png",
+    "country": "Greece",
+    "tags": "folk,greek,pop",
+    "votes": 52
+  },
+  {
+    "stationuuid": "408fe120-61e0-45ab-9b2c-f7d2b70c1d71",
+    "name": "Μελωδία Θεσσαλονίκης 98",
+    "url": "https://netradio.live24.gr/north98thess",
+    "url_resolved": "https://netradio.live24.gr/north98thess",
+    "favicon": "https://live24.gr/resrc/styles/custom-popups/melodia98/melodia98-Thess-logo.png",
+    "country": "Greece",
+    "tags": "greek music",
+    "votes": 197
+  }
+]

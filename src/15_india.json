@@ -1,0 +1,1002 @@
+[
+  {
+    "stationuuid": "902ea231-d537-4dc8-8708-6819418086d0",
+    "name": "Vivid Bharti",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VB.png",
+    "country": "India",
+    "tags": "classical",
+    "votes": 223
+  },
+  {
+    "stationuuid": "e928bf7b-7de2-4447-87ec-369d1be1b9f5",
+    "name": "Bollywood Gaane Purane",
+    "url": "https://stream.zeno.fm/6n6ewddtad0uv",
+    "url_resolved": "https://stream.zeno.fm/6n6ewddtad0uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ppqbgfej6skx.jpeg",
+    "country": "India",
+    "tags": "",
+    "votes": 167
+  },
+  {
+    "stationuuid": "bce9aa64-8fd5-434e-8c9d-3ee67c594a06",
+    "name": "Red FM 93.5",
+    "url": "https://stream.zeno.fm/9phrkb1e3v8uv",
+    "url_resolved": "https://stream.zeno.fm/9phrkb1e3v8uv",
+    "favicon": "https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp",
+    "country": "India",
+    "tags": "",
+    "votes": 124
+  },
+  {
+    "stationuuid": "baae978e-a9d0-422c-8ad4-ec803da4ef8c",
+    "name": "RADIO BOLLYWOOD 90s",
+    "url": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "url_resolved": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/9fKKkfbJKE.png",
+    "country": "India",
+    "tags": "",
+    "votes": 112
+  },
+  {
+    "stationuuid": "cdd3b5a0-47f6-46d5-8209-b78e8b10ff6e",
+    "name": "Radio Mirchi Hindi",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+    "url_resolved": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-mirchi-hindi-fm.jpg",
+    "country": "India",
+    "tags": "",
+    "votes": 111
+  },
+  {
+    "stationuuid": "7dd71b85-139b-4362-81b1-4206133a517c",
+    "name": "Hindi Gold Radio",
+    "url": "https://azuracast.vibesounds.in:8010/radio.mp3",
+    "url_resolved": "https://azuracast.vibesounds.in:8010/radio.mp3",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/07/hindi-gold-radio.jpg",
+    "country": "India",
+    "tags": "",
+    "votes": 94
+  },
+  {
+    "stationuuid": "db5a1f42-7f91-4531-895b-1b7f1ff45bc8",
+    "name": "Hindi Retro",
+    "url": "https://stream.zeno.fm/v2zfmxef798uv",
+    "url_resolved": "https://stream.zeno.fm/v2zfmxef798uv",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/mirchi-retro-hindi.jpg",
+    "country": "India",
+    "tags": "",
+    "votes": 70
+  },
+  {
+    "stationuuid": "7b130d03-6142-4de2-85db-a821b5949468",
+    "name": "latamangeshkarradio",
+    "url": "https://stream.zeno.fm/87xam8pf7tzuv",
+    "url_resolved": "https://stream.zeno.fm/87xam8pf7tzuv",
+    "favicon": "https://a10.gaanacdn.com/gn_img/radiotheme/D0PKLrWGl9/D0PKLnqWGl/size_m_1716488434.jpg",
+    "country": "India",
+    "tags": "",
+    "votes": 66
+  },
+  {
+    "stationuuid": "33fcdf94-5605-49bb-8e34-206f38c335dc",
+    "name": "Goldy Evergreen",
+    "url": "https://stream.zeno.fm/n2fd0edh9k8uv",
+    "url_resolved": "https://stream.zeno.fm/n2fd0edh9k8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/khbf2jlccjaf.png",
+    "country": "India",
+    "tags": "",
+    "votes": 62
+  },
+  {
+    "stationuuid": "2a2c76f6-f926-4d81-bc3b-d93bf0a22b63",
+    "name": "Radio City chennai",
+    "url": "http://radios.crabdance.com:8002/5",
+    "url_resolved": "http://radios.crabdance.com:8002/5",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Chennai_Central.jpg/500px-Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "India",
+    "tags": "radio",
+    "votes": 51
+  },
+  {
+    "stationuuid": "a4ffabec-a162-4320-8cf2-049b8055b17a",
+    "name": "AIR Fm Gold Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8",
+    "favicon": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 13994
+  },
+  {
+    "stationuuid": "d63ab722-0eea-4d87-82cf-363c24e55b95",
+    "name": "All India Radio AIR Punjabi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Stamp_of_India_-_1961_-_Colnect_141804_-_Silver_Jubilee_All_India_Radio_-_Radio_Masts_and_Emblem.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "country": "India",
+    "tags": "india,punjabi",
+    "votes": 5278
+  },
+  {
+    "stationuuid": "b17fe09a-96b0-46ef-9e2e-5c56faa9d0aa",
+    "name": "Radio Hungama Bollywood Dil Se",
+    "url": "https://stream-289.surfernetwork.com/143d7gty24zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNDNkN2d0eTI0enV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtacmhXNXBKUWJPNmtFQldlaFl6WEEiLCJpYXQiOjE3OTEyMTU1NTYsImV4cCI6MTc5MTIxNTYxNn0.-1wTOJWq71ueCxmGBC4LNRRH8XpPnh8IZ_zeZba_g1Q",
+    "url_resolved": "https://stream-289.surfernetwork.com/143d7gty24zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNDNkN2d0eTI0enV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtacmhXNXBKUWJPNmtFQldlaFl6WEEiLCJpYXQiOjE3OTEyMTU1NTYsImV4cCI6MTc5MTIxNTYxNn0.-1wTOJWq71ueCxmGBC4LNRRH8XpPnh8IZ_zeZba_g1Q",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/02/bollywood-dilse.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 3822
+  },
+  {
+    "stationuuid": "f4092372-9aac-4af6-8067-4d1c59ea4530",
+    "name": "Big FM Tamil",
+    "url": "https://stream-287.surfernetwork.com/r2gn1pgm4qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMmduMXBnbTRxcnV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRDb05MNkdLU1BPNFZIZlBrSlNuYWciLCJpYXQiOjE3OTEyMTU1NTYsImV4cCI6MTc5MTIxNTYxNn0.zQAgMM5SX541Z_UHw-gd6KVMpEuQ3PqZl-A0ppXKwHk",
+    "url_resolved": "https://stream-287.surfernetwork.com/r2gn1pgm4qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMmduMXBnbTRxcnV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRDb05MNkdLU1BPNFZIZlBrSlNuYWciLCJpYXQiOjE3OTEyMTU1NTYsImV4cCI6MTc5MTIxNTYxNn0.zQAgMM5SX541Z_UHw-gd6KVMpEuQ3PqZl-A0ppXKwHk",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/02/big-fm-tamil.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1011
+  },
+  {
+    "stationuuid": "35753750-c632-4790-a42b-f591b254dd3f",
+    "name": "Aaj Tak News Radio Live",
+    "url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
+    "url_resolved": "https://feeds.intoday.in/aajtak/api/master.m3u8",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/06/aaj-tak-radio.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2981
+  },
+  {
+    "stationuuid": "871dca29-a443-4670-9804-f2c3113ddd15",
+    "name": "Mixify Bollywood",
+    "url": "https://server.mixify.in/listen/listen/radio.mp3",
+    "url_resolved": "https://server.mixify.in/listen/listen/radio.mp3",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/11/mixify-radio.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2953
+  },
+  {
+    "stationuuid": "e1da6a48-0c5a-4598-81f3-2319ef465c0f",
+    "name": "Mirchi Love",
+    "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+    "url_resolved": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/373/mirchi-love.a260ed1a.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1772
+  },
+  {
+    "stationuuid": "5b7687b7-7bef-40ac-b854-81a89c011610",
+    "name": "Diverse FM",
+    "url": "https://carol.epichosts.co.uk:8570/;",
+    "url_resolved": "https://carol.epichosts.co.uk:8570/;",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/diverse-fm-hindi.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 5068
+  },
+  {
+    "stationuuid": "052affa1-4318-482a-bd44-91bd9554b394",
+    "name": "Madhur Sangeet Radio",
+    "url": "https://stream.zeno.fm/8kqd6dp18vzuv",
+    "url_resolved": "https://stream.zeno.fm/8kqd6dp18vzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/4khfhtxzcxcp.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 3430
+  },
+  {
+    "stationuuid": "de87b1e5-9108-4e1f-a602-53af7547ca8a",
+    "name": "All India Radio News 24X7",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/06/air-radio-news-24-7.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 3382
+  },
+  {
+    "stationuuid": "bbe2454e-3776-4e94-b220-b82e4730a837",
+    "name": "90’s Tamil Melodies",
+    "url": "https://stream-283.surfernetwork.com/tqnws2eafwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cW53czJlYWZ3enV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkI5a25laW5zUW9lWkJMeEgyLW15cEEiLCJpYXQiOjE3OTEyMTU1NTcsImV4cCI6MTc5MTIxNTYxN30.BcR8iRrBtARazfA3FoAj3Xc9eVwmXF39_JHFzky3fM0",
+    "url_resolved": "https://stream-283.surfernetwork.com/tqnws2eafwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cW53czJlYWZ3enV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkI5a25laW5zUW9lWkJMeEgyLW15cEEiLCJpYXQiOjE3OTEyMTU1NTcsImV4cCI6MTc5MTIxNTYxN30.BcR8iRrBtARazfA3FoAj3Xc9eVwmXF39_JHFzky3fM0",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/12/90-tamil-melody.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 3068
+  },
+  {
+    "stationuuid": "fcc47b57-5b5a-4de5-8f65-cf2fda367514",
+    "name": "Sooriyan FM",
+    "url": "https://radio.lotustechnologieslk.net:8006/;stream.mp3",
+    "url_resolved": "https://radio.lotustechnologieslk.net:8006/;stream.mp3",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/01/Sooriyan_FM_tamil.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2659
+  },
+  {
+    "stationuuid": "48b137c2-7d41-4fd5-948c-8e11e96c86c1",
+    "name": "Radio Mirchi USA",
+    "url": "https://streams.radio.co/s8d06d0298/listen",
+    "url_resolved": "https://streams.radio.co/s8d06d0298/listen",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/06/radio-mirchi-usa-radio.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2334
+  },
+  {
+    "stationuuid": "f2d3e6ea-9319-4e73-bac6-1c326fc7ae14",
+    "name": "Fm Rainbow Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+    "favicon": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+    "country": "India",
+    "tags": "local talk",
+    "votes": 6722
+  },
+  {
+    "stationuuid": "4a3b5ce3-6ca7-4185-92c8-61fb18562332",
+    "name": "80’s Tamil Hits",
+    "url": "https://stream-282.surfernetwork.com/48w230kx8vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0OHcyMzBreDh2enV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imt3Q1NXN21mVFJtWThUcjFnSFRMalEiLCJpYXQiOjE3OTEyMTY0OTMsImV4cCI6MTc5MTIxNjU1M30.qYnWBEwBFrRMqzzmda_jAMyTcRmIkK6jM3o9Ie9gYLw",
+    "url_resolved": "https://stream-282.surfernetwork.com/48w230kx8vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0OHcyMzBreDh2enV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imt3Q1NXN21mVFJtWThUcjFnSFRMalEiLCJpYXQiOjE3OTEyMTY0OTMsImV4cCI6MTc5MTIxNjU1M30.qYnWBEwBFrRMqzzmda_jAMyTcRmIkK6jM3o9Ie9gYLw",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/12/80-TamilHits.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2740
+  },
+  {
+    "stationuuid": "a519fdd3-e5de-4639-aeef-f97390b66724",
+    "name": "Radio Badal",
+    "url": "https://listen.openstream.co/6654/;stream.mp3",
+    "url_resolved": "https://listen.openstream.co/6654/;stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/564/radio-badal.33e4f271.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2715
+  },
+  {
+    "stationuuid": "e75a90d7-b812-49f2-a6be-a3585977ee12",
+    "name": "89.4 Tamil FM",
+    "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "url_resolved": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/02/tamil-fm-894.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 2126
+  },
+  {
+    "stationuuid": "9a60d09a-a363-4764-90d9-52e7608cc7f9",
+    "name": "My Radio DJ",
+    "url": "https://stream.zeno.fm/84h97t3ewg0uv",
+    "url_resolved": "https://stream.zeno.fm/84h97t3ewg0uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/062/my-radio-dj.6aa272cc.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1851
+  },
+  {
+    "stationuuid": "4c9b5f1c-8d3b-4855-9ac0-eb9cf56a2566",
+    "name": "Vividh Bharti Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/07/vividh-bharathi-mumbai.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1797
+  },
+  {
+    "stationuuid": "df3dfbcd-0666-42f1-af5f-563bc8508e90",
+    "name": "FM Gold Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/b2t7daqkp5mz.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1759
+  },
+  {
+    "stationuuid": "ac70ee9e-c501-4502-bc55-f63be5c6147d",
+    "name": "Bombay Beats Radio",
+    "url": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+    "url_resolved": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/1fm-bombay-beats-radio.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1753
+  },
+  {
+    "stationuuid": "5d933524-93e9-46b6-9a15-3c53d1ca161d",
+    "name": "ISHQ FM 104.8",
+    "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "url_resolved": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/ishq-fm-hindi.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 1676
+  },
+  {
+    "stationuuid": "a2da8cd6-b0d9-43c1-b614-632c9e17a659",
+    "name": "Vividh Bharti (विविध भारती)",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/238/vividh-bharti.92c90eb1.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f42bfe70-e51c-4019-9c82-d0e6c8f11d9f",
+    "name": "Hindi Retro Hits Radio",
+    "url": "https://stream-006.zeno.fm/v2zfmxef798uv",
+    "url_resolved": "https://stream-006.zeno.fm/v2zfmxef798uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/7ksqhvudgsc9.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7e724e39-b709-4ad0-be8e-1743f06c0861",
+    "name": "Non Stop Hindi",
+    "url": "http://s5.voscast.com:8216/stream",
+    "url_resolved": "http://s5.voscast.com:8216/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/Ekv3xnWJpp.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "06738c68-8ba6-4faf-953c-e4d7aa717a72",
+    "name": "AIR FM Gold Dehli",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/M2xsuJ2eSP.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1e49f83a-26e4-40ef-99bb-c1b502dbe82a",
+    "name": "Radio Retro Bollywood 90s",
+    "url": "https://stream.zeno.fm/u0hrd3xkzhhvv",
+    "url_resolved": "https://stream.zeno.fm/u0hrd3xkzhhvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/9fKKkfbJKE.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1e32f38b-91cc-459d-8b19-d9c8cd14308b",
+    "name": "Radio Mirchi 98.3 FM",
+    "url": "https://a5.asurahosting.com/hls/kora_radio_/live.m3u8",
+    "url_resolved": "https://a5.asurahosting.com/hls/kora_radio_/live.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/596/radio-mirchi-983-fm.08cff4be.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d9b15b74-855e-431e-bc45-18f28cadd493",
+    "name": "AIR Vividh Bharati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wNBk42xDwX.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "befca1d5-7033-4102-ab2b-9c4f08444bff",
+    "name": "Kumar Sanu",
+    "url": "https://stream-164.zeno.fm/shxt7qxapy8uv",
+    "url_resolved": "https://stream-164.zeno.fm/shxt7qxapy8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/187/kumar-sanu.fcf44709.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "38b3de35-0a1a-43eb-85ed-c381ab578877",
+    "name": "Mohabbat Radio",
+    "url": "https://stream.zeno.fm/t2ekq8zsgtzuv",
+    "url_resolved": "https://stream.zeno.fm/t2ekq8zsgtzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/608/mohabbat-radio.8821dce6.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9a51a787-ee96-4de6-99d6-90066cbacb05",
+    "name": "Radio Namkin",
+    "url": "https://stream-19.zeno.fm/84h7fsbaqv5tv",
+    "url_resolved": "https://stream-19.zeno.fm/84h7fsbaqv5tv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/377/radio-namkin.81316336.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8f1be03d-4a0e-4e5d-a1d4-e817f05612a0",
+    "name": "Mohammed Rafi Radio",
+    "url": "https://stream-165.zeno.fm/2xx62x8ztm0uv",
+    "url_resolved": "https://stream-165.zeno.fm/2xx62x8ztm0uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/878/mohammed-rafi-radio.e360f514.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "98f7773a-6a61-4601-b719-c3215b26822b",
+    "name": "Hits Of Lata Mangeshkar",
+    "url": "https://stream.zeno.fm/g95zm67prfhvv",
+    "url_resolved": "https://stream.zeno.fm/g95zm67prfhvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/591/hits-of-lata-mangeshkar.6b81cbb3.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "621c4ed0-e06c-4b21-823f-3f62557922fe",
+    "name": "Hits Of Kishor Kumar",
+    "url": "https://stream.zeno.fm/pg6rqp8ztm0uv",
+    "url_resolved": "https://stream.zeno.fm/pg6rqp8ztm0uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/590/hits-of-kishor-kumar.70a74602.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "79f5b14d-8984-42d3-a66d-23055c4d7ce7",
+    "name": "Radio Aashiqanaa",
+    "url": "https://mars.streamerr.co/8154/stream",
+    "url_resolved": "https://mars.streamerr.co/8154/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/886/radio-aashiqanaa.581964b8.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "95727dc5-1649-4c1e-a8b1-650e8723aa3e",
+    "name": "Hindi Desi Bollywood Evergreen Hits",
+    "url": "http://directchannel1.hindihits.top/",
+    "url_resolved": "http://directchannel1.hindihits.top/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/6Qgm3NzFq5.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "583efe80-6536-4628-8d14-56043893a269",
+    "name": "Mirchi Love Hindi",
+    "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "url_resolved": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/854/mirchi-love-hindi.fed06220.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c5fa341c-4aaf-4682-b3cd-d023ee94e500",
+    "name": "Retro Bollywood",
+    "url": "https://stream.zeno.fm/g372rxef798uv",
+    "url_resolved": "https://stream.zeno.fm/g372rxef798uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/283vfjq6wvf5.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e337fccb-662c-43d1-b0d9-217be9163d8c",
+    "name": "Marathi Tarang मराठी तरंग",
+    "url": "https://silverstream.radioca.st/;",
+    "url_resolved": "https://silverstream.radioca.st/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zvsgwckwcfkh.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1782a084-93fc-4422-b254-fde95131a439",
+    "name": "Bhakti Sangeet",
+    "url": "https://stream.zeno.fm/ut3kgm1vsa0uv",
+    "url_resolved": "https://stream.zeno.fm/ut3kgm1vsa0uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wczz4pqgu5fa.jpeg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ec26bf45-d5ff-46bb-8e09-4557e65acd96",
+    "name": "Mixify 90's Hits",
+    "url": "https://server.mixify.in:8000/radio.mp3",
+    "url_resolved": "https://server.mixify.in:8000/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/053/mixify.03b7db7a.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1a4431b9-6a21-43fe-9aa3-352284df9825",
+    "name": "Maayboli Radio",
+    "url": "https://stream-18.zeno.fm/48kybvzrwfeuv",
+    "url_resolved": "https://stream-18.zeno.fm/48kybvzrwfeuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pbvmk8dnjuua.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ae8ca15f-c225-4bcb-a4fa-d903965e3208",
+    "name": "Vaigai FM",
+    "url": "https://cast1.my-control-panel.com/proxy/geethan3/stream",
+    "url_resolved": "https://cast1.my-control-panel.com/proxy/geethan3/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/280/vaigai-fm.668b979a.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c6aefd64-07a4-4c75-8c5c-684611e70ea9",
+    "name": "VB Kannada",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/r7uh958aps7j.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "700f0c18-437a-4933-93a8-b3ffd4300a3a",
+    "name": "92.7 Big FM",
+    "url": "https://a5.asurahosting.com/hls/kora_radio_/live.m3u8",
+    "url_resolved": "https://a5.asurahosting.com/hls/kora_radio_/live.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/217/927-big-fm.97a6962e.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d5fea3df-e33a-4966-9e7d-be25d252475a",
+    "name": "AIR FM Rainbow Dehli",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/su9fj6gmxfyw.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "729eb182-619b-4c60-abe7-bcd3658a4892",
+    "name": "NP 24 Radio",
+    "url": "https://stream.zeno.fm/8wk1s0pt008uv",
+    "url_resolved": "https://stream.zeno.fm/8wk1s0pt008uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/VVqxS3pA3Y.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "77bee36b-a460-41ea-a84b-00bf269d15a2",
+    "name": "Goldy Mukesh",
+    "url": "https://stream.zeno.fm/mrcz5sus1p8uv",
+    "url_resolved": "https://stream.zeno.fm/mrcz5sus1p8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wxktvurhesyj.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1d895c6f-73cb-43a9-b143-5bcca9f878a0",
+    "name": "ISHQ 104.8 FM",
+    "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "url_resolved": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/318/ishq-1048-fm.32f5defc.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b34da282-cfac-485f-a049-0d9631d9723b",
+    "name": "Akashvani Pune FM",
+    "url": "https://radio.wavespb.com/live/39d650ca0476a1fe/39d650ca0476a1fe.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/39d650ca0476a1fe/39d650ca0476a1fe.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/714/air-pune-fm.b969fe57.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fc389f02-5eb8-4f4c-a553-4af7a4a77083",
+    "name": "Legends Hits Hindi",
+    "url": "https://stream.zeno.fm/msaay0cm7kduv",
+    "url_resolved": "https://stream.zeno.fm/msaay0cm7kduv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zHTJMspFcb.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "13471b2d-2ae4-4bda-87c8-7adae8556f10",
+    "name": "Hits Of Bollywood",
+    "url": "https://stream.zeno.fm/8ty8szwpwfeuv",
+    "url_resolved": "https://stream.zeno.fm/8ty8szwpwfeuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ed2wjbwyyepk.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5f6f68de-c186-4e91-99d9-845b4064cce7",
+    "name": "Arijit Hits",
+    "url": "https://stream.zeno.fm/wn6muavgfr2tv",
+    "url_resolved": "https://stream.zeno.fm/wn6muavgfr2tv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/320/arijit-hits.7ee0bf1e.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "14f2fb70-73fc-4578-b551-f099a31bc498",
+    "name": "Classic Radio Hindi Hits",
+    "url": "https://stream.zeno.fm/zewahanyfjptv",
+    "url_resolved": "https://stream.zeno.fm/zewahanyfjptv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/8zeUMVRZYU.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1475b5ff-dc01-43ad-993d-9e20c4599c20",
+    "name": "Akasvani Marathi Mumbai Ashmita",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pjblrlnk9gr3.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fd80a5a5-8537-402b-bdc9-ccde2d0bc09d",
+    "name": "Goldy Cool",
+    "url": "https://stream.zeno.fm/hhfmh86tfm8uv",
+    "url_resolved": "https://stream.zeno.fm/hhfmh86tfm8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gjcph55dnnrz.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "66dd1a18-845b-4748-aaf8-216343d52eed",
+    "name": "Hits Of Asha Bhosle",
+    "url": "https://stream.zeno.fm/qd0ddu5qrdktv",
+    "url_resolved": "https://stream.zeno.fm/qd0ddu5qrdktv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/589/hits-of-asha-bhosle.35abf741.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0cdc2548-408c-49c2-aaa4-aca9cb758765",
+    "name": "Bhaktiworld Media Shiva",
+    "url": "http://hot.out.airtime.pro:8000/hot_a",
+    "url_resolved": "http://hot.out.airtime.pro:8000/hot_a",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/446/bhakti-world-shiva.cc853b30.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7ddef67d-b032-4470-8bc3-8f9a08985938",
+    "name": "Mixify Evergreen Hits",
+    "url": "https://server.mixify.in:8010/radio.mp3",
+    "url_resolved": "https://server.mixify.in:8010/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/796/mixify-evergreen-hits.cee277de.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "87099309-825e-4e54-b89b-fdd16412e596",
+    "name": "Kodai City FM",
+    "url": "https://listen.openstream.co/6812/audio",
+    "url_resolved": "https://listen.openstream.co/6812/audio",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/bfzb55hunw9r.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "03ef34a6-0c56-40dd-bdcc-01c5e507603b",
+    "name": "Bolly Top 100",
+    "url": "https://stream.zeno.fm/6hebzur8d72tv",
+    "url_resolved": "https://stream.zeno.fm/6hebzur8d72tv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/868/bolly-top-100.2f952d58.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5f44fa72-a7ad-4d20-abce-4c308bd70459",
+    "name": "Radio Gaana",
+    "url": "https://sp14.instainternet.com/8044/stream",
+    "url_resolved": "https://sp14.instainternet.com/8044/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/007/radio-gaana.95158765.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "da4abc4f-5d09-4fdc-9a5f-fb7214dc92a7",
+    "name": "M S Viswanathan FM",
+    "url": "https://stream.zeno.fm/x7wc1xgllvsvv/",
+    "url_resolved": "https://stream.zeno.fm/x7wc1xgllvsvv/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/SmJZMTCtKJ.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "33f0e811-63fd-4271-8648-8a6192543095",
+    "name": "FM Rainbow Lucknow",
+    "url": "https://radio.wavespb.com/live/81c465a355a1ea65/81c465a355a1ea65.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/81c465a355a1ea65/81c465a355a1ea65.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/527/fm-rainbow-lucknow.b2cd9929.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8b17a8d3-d54a-48bf-a6c4-8a07734fa1e1",
+    "name": "AIR Malayalam",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/tvksu9ws3gfr.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7d89d50a-2714-4242-b5df-2a0f675aa058",
+    "name": "VB:Telugu Hyderabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/080/vbtelugu-hyderabad.5edee040.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6bacb8e4-1313-47ea-8274-ff6ac1a11482",
+    "name": "Rainbow Kannada Kaamanbilu",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/7qszuwxc6tj8.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d105cc8a-4211-4d0d-98b4-8e13a2789eda",
+    "name": "Bhaktiworld Media Hanuman Ji",
+    "url": "https://iskon2b.out.airtime.pro:8000/iskon2b_a",
+    "url_resolved": "https://iskon2b.out.airtime.pro:8000/iskon2b_a",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/449/bhakti-world-hanuman.7ba68403.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a1b41abe-6cce-498f-873a-966d9bbcf17c",
+    "name": "Radio Hotstar",
+    "url": "https://leo.streamerr.co/8004/stream",
+    "url_resolved": "https://leo.streamerr.co/8004/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/485/radio-hotstar.3aa9d70f.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fcb4e335-7a57-4244-9800-09e211da4e43",
+    "name": "91.9 Sidharth FM",
+    "url": "https://stream.zeno.fm/1t5ceyhcxbruv",
+    "url_resolved": "https://stream.zeno.fm/1t5ceyhcxbruv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/804/919-sidharth-fm.359b8e14.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b192178d-7ebf-4996-a17a-7ef737188507",
+    "name": "99.1 Bubba FM Ulubari",
+    "url": "http://studio.barthakur.com:8000/Bubba",
+    "url_resolved": "http://studio.barthakur.com:8000/Bubba",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/946/991-bubba-fm.fb5d4d1d.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5c6c63eb-a0b1-4a22-a6ff-2ccc6e550488",
+    "name": "Aapan Radio",
+    "url": "https://radio.aapanradio.com/listen/aapan_radio/radio.mp3",
+    "url_resolved": "https://radio.aapanradio.com/listen/aapan_radio/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/718/aapan-radio.dbbbfafb.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "71c89955-02e1-420e-ad3c-b5a2b66d9258",
+    "name": "ABP Majha",
+    "url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8",
+    "url_resolved": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/715/abp-majha.3c46a41a.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f97d20d4-4069-4da8-871a-271fd6c103c1",
+    "name": "ABP News",
+    "url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+    "url_resolved": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/716/abp-news.3376680e.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f1636d6a-b934-4576-92c8-180fa9c7f92a",
+    "name": "Akashvani Aadilabad",
+    "url": "https://radio.wavespb.com/live/e47c5f0cec4af335/e47c5f0cec4af335.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/e47c5f0cec4af335/e47c5f0cec4af335.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ftks54dvbwbg.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "743f1c3d-878f-4479-ab7c-c495206346aa",
+    "name": "Akashvani Aaradhana",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/xesmgzkuzytb.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6de8305f-3ab4-4278-96c9-a1b1645c65cb",
+    "name": "Akashvani Visakhapatnam",
+    "url": "https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/tscyad35uddu.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b89d7947-54df-4e2e-8ef0-38e3edb67c96",
+    "name": "Akashvani Ambikapur",
+    "url": "https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/887/air-ambikapur.db5de3e4.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9fea1c88-ab04-4897-851e-5a4a991ca7be",
+    "name": "Akashvani Anantapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/vlf92tbkyqqj.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1b7358a4-f114-4082-a6c6-e91068965196",
+    "name": "Akashvani Andhra Pradesh",
+    "url": "https://radio.wavespb.com/live/2d38e3dcb8d4e0a4/2d38e3dcb8d4e0a4.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/2d38e3dcb8d4e0a4/2d38e3dcb8d4e0a4.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/855/air-andhra-pradesh.7e9ee4f3.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "afeb3efc-063b-4a52-aa6d-fb53487eab25",
+    "name": "Akashvani Bangla",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hcd9bzehmbke.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a194d846-f117-4878-82db-7014356830b6",
+    "name": "AIR Bengaluru",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio03064kbps.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio03064kbps.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/682/air-bengaluru.61c702e0.png",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "934ab491-d6dd-4ea5-b24f-942bedc316b8",
+    "name": "Akashvani Bhopal",
+    "url": "https://radio.wavespb.com/live/db4d6ae2847afb5e/db4d6ae2847afb5e.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/db4d6ae2847afb5e/db4d6ae2847afb5e.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ztjbmhehndyb.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0ae00603-47eb-45af-a2eb-c00404ac004c",
+    "name": "Akashvani Bilaspur",
+    "url": "https://radio.wavespb.com/live/10dd6162d75fb6a4/10dd6162d75fb6a4.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/10dd6162d75fb6a4/10dd6162d75fb6a4.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/t9kvw6bjed3p.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7389601c-8d43-4dd5-a081-68723fe4f0f4",
+    "name": "Akashvani Gujarati",
+    "url": "https://radio.wavespb.com/live/8a1bb2ca9d2a6741/8a1bb2ca9d2a6741.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/8a1bb2ca9d2a6741/8a1bb2ca9d2a6741.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/029/air-gujarati.2d63cda9.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "53b89059-6182-47b5-9704-1760948dc30d",
+    "name": "Akashvani Indore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/s7hrmqh7dm3j.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1c65d721-27c8-4bd6-a631-cce13d7cebaf",
+    "name": "AIR Indore Hindi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/d9v95hvqy6rm.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dd8626ff-a640-4544-b612-bfbf04fa82b0",
+    "name": "Akashvani Jabalpur",
+    "url": "https://radio.wavespb.com/live/ccb18878a5e0399a/ccb18878a5e0399a.m3u8",
+    "url_resolved": "https://radio.wavespb.com/live/ccb18878a5e0399a/ccb18878a5e0399a.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/528/air-jabalpur.e1bb43a7.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "eb11255a-e16d-4bfc-b9f5-2143797ae1d4",
+    "name": "AIR Kannada",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio02664kbps.m3u8",
+    "url_resolved": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio02664kbps.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/035/air-kannada.bcd4d459.jpg",
+    "country": "India",
+    "tags": "radio",
+    "votes": 0
+  }
+]

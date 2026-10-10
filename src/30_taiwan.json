@@ -1,0 +1,862 @@
+[
+  {
+    "stationuuid": "e4ad1f9d-f5fb-4992-bf52-ff86b405100e",
+    "name": "Radio ICRT",
+    "url": "https://n35a-eu.rcs.revma.com/nkdfurztxp3vv",
+    "url_resolved": "https://n35a-eu.rcs.revma.com/nkdfurztxp3vv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/649/icrt.a17523fb.jpg",
+    "country": "Taiwan",
+    "tags": "music",
+    "votes": 56
+  },
+  {
+    "stationuuid": "14569b3b-271d-4a7c-a598-72323fa9469b",
+    "name": "Hit FM台北之音廣播",
+    "url": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8",
+    "url_resolved": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Hsing-Wu_Building_front_view_20110426.jpg/500px-Hsing-Wu_Building_front_view_20110426.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "country": "Taiwan",
+    "tags": "music",
+    "votes": 1392
+  },
+  {
+    "stationuuid": "44b20dae-1bbe-48d1-9f79-3c1f5396ef90",
+    "name": "正聲廣播公司",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+    "url_resolved": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+    "favicon": "https://www.csbc.com.tw/wp-content/uploads/2019/12/cropped-6044e1b77e91b4fe89b435-2-180x180.png",
+    "country": "Taiwan",
+    "tags": "104.1,104.1 fm,public radio",
+    "votes": 890
+  },
+  {
+    "stationuuid": "14cf2016-7ac7-482c-8573-49ceaf25c277",
+    "name": "九八新聞台",
+    "url": "https://n07-eu.rcs.revma.com/pntx1639ntzuv?rj-ttl=5&rj-tok=AAABoQzP1U8AKkETpzuLpdYE-Q",
+    "url_resolved": "https://n07-eu.rcs.revma.com/pntx1639ntzuv?rj-ttl=5&rj-tok=AAABoQzP1U8AKkETpzuLpdYE-Q",
+    "favicon": "https://zuiai.tv/zb_users/upload/2023/9/2023091347046997.jpg",
+    "country": "Taiwan",
+    "tags": "news",
+    "votes": 249
+  },
+  {
+    "stationuuid": "2f72f08a-1ed8-45ed-bc1d-53d08fc9cbb4",
+    "name": "台灣廣播 台北一台",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM1323",
+    "url_resolved": "http://test.taiwan-radio.tw:8000/TP.AM1323",
+    "favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p07-1.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 141
+  },
+  {
+    "stationuuid": "89f2570a-f65a-4a7f-8918-c12e37fd25e2",
+    "name": "飛碟聯播網 台中真善美",
+    "url": "http://cast.uforadio.com.tw:8000/tai-stream",
+    "url_resolved": "http://cast.uforadio.com.tw:8000/tai-stream",
+    "favicon": "https://th.bing.com/th/id/OIP.TGsX2XaTbCbMOwitBTCXpwHaHa?pid=ImgDet&w=300&h=300",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 133
+  },
+  {
+    "stationuuid": "e912fd19-81c3-463e-a37e-ef1cef859c1c",
+    "name": "台灣廣播 中興台",
+    "url": "http://test.taiwan-radio.tw:8000/NT.AM963",
+    "url_resolved": "http://test.taiwan-radio.tw:8000/NT.AM963",
+    "favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p10.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 92
+  },
+  {
+    "stationuuid": "1cb587f1-9d9b-4872-97da-5d7fc11d99ee",
+    "name": "飛碟聯播網 南台灣之聲",
+    "url": "http://cast.uforadio.com.tw:8000/kao-stream",
+    "url_resolved": "http://cast.uforadio.com.tw:8000/kao-stream",
+    "favicon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEEL-VYyRhPwW2T8fL2tRLIurCTv14pkr8ROcq6EPrDeMEfx7Q",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 85
+  },
+  {
+    "stationuuid": "66f2a995-86c9-47cf-b06e-3541ef4733a3",
+    "name": "台灣廣播 台中台",
+    "url": "http://test.taiwan-radio.tw:8000/TC.AM774",
+    "url_resolved": "http://test.taiwan-radio.tw:8000/TC.AM774",
+    "favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_b_s_p09s.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 83
+  },
+  {
+    "stationuuid": "35e17586-772d-4374-bac8-b39b90519918",
+    "name": "飛揚調頻FM89.5",
+    "url": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+    "url_resolved": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/Xfa3C9vcsw.png",
+    "country": "Taiwan",
+    "tags": "music,oldies",
+    "votes": 79
+  },
+  {
+    "stationuuid": "c9d3d12c-6c9b-4651-9ab0-dc3f5d9e3713",
+    "name": "中廣音樂網 i Radio FM96.3",
+    "url": "https://stream.rcs.revma.com/ndk05tyy2tzuv",
+    "url_resolved": "https://stream.rcs.revma.com/ndk05tyy2tzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/QfZuWgQKxa.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "67f64917-2776-43a9-9621-a99625ed92a9",
+    "name": "中廣流行網 I like radio",
+    "url": "https://stream.rcs.revma.com/aw9uqyxy2tzuv",
+    "url_resolved": "https://stream.rcs.revma.com/aw9uqyxy2tzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/2zeegbp3ncv5.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "56234ad4-1956-4d2a-8972-a9916a43e351",
+    "name": "好事聯播網 港都983 Best Radio FM98.3",
+    "url": "https://stream.rcs.revma.com/q2m07dc59duvv",
+    "url_resolved": "https://stream.rcs.revma.com/q2m07dc59duvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/628/hao-shi-lian-bo-wang-gang-du-983-best-radio-fm983.dcf21fa1.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8be250f8-00cf-4558-bec7-6543b20dca77",
+    "name": "飛碟電台 FM92.1",
+    "url": "https://n19a-eu.rcs.revma.com/em90w4aeewzuv",
+    "url_resolved": "https://n19a-eu.rcs.revma.com/em90w4aeewzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/du5LQAPcKP.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "00d940ba-7db9-4c06-9cc7-da75205c4851",
+    "name": "九八新聞台 News98 FM 98.1",
+    "url": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv.m4a",
+    "url_resolved": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv.m4a",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/547/jiu-ba-xin-wen-tai-news98-fm-981.c5f53f42.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "905202f7-e1f5-4159-b96a-959cd376dcf2",
+    "name": "中廣新聞網 BCC News Radio",
+    "url": "https://stream.rcs.revma.com/78fm9wyy2tzuv",
+    "url_resolved": "https://stream.rcs.revma.com/78fm9wyy2tzuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gavyHENFSD.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6f17c92f-81c3-4047-aebd-ec3538f3f5d8",
+    "name": "PBS - National Transportation",
+    "url": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/8arc2eejw8fb.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d414a2a7-8f67-434c-9a31-3b44c8386709",
+    "name": "927魅力亞洲 Asia FM 亞洲電台",
+    "url": "https://stream.rcs.revma.com/xpgtqc74hv8uv",
+    "url_resolved": "https://stream.rcs.revma.com/xpgtqc74hv8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/6HjQPQVfb2.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "182ef795-6b75-44e3-868c-aac46bb10dbf",
+    "name": "古典音樂台 Classical FM 97.7",
+    "url": "http://onair.family977.com.tw:8000/live.mp3",
+    "url_resolved": "http://onair.family977.com.tw:8000/live.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/UyFdWFen85.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b8f4413c-6213-4a46-b5f5-347d3ba7ce33",
+    "name": "全國廣播 MRadio",
+    "url": "http://stream.rcs.revma.com/044q61ha7a0uv",
+    "url_resolved": "http://stream.rcs.revma.com/044q61ha7a0uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pvwpexvbskyd.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "87603c41-1403-4a46-8192-73e99f61e65e",
+    "name": "Whisperings:Solo Piano Radio - 鋼琴獨奏網路音樂電台",
+    "url": "http://pianosolo.streamguys.net/live",
+    "url_resolved": "http://pianosolo.streamguys.net/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/rspydkxsqt.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e943a2e9-b8c4-45bd-8cef-9d724e2c8317",
+    "name": "城市廣播網 FM 92.9 城市廣播",
+    "url": "http://fm929.cityfm.tw:8080/929.mp3",
+    "url_resolved": "http://fm929.cityfm.tw:8080/929.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/zRTtcGQW52.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9343cbf8-d0b4-4aff-8630-b2873cff0cb0",
+    "name": "PBS - Taipei Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/fau8ghnuatxz.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b65c2e62-9ca3-4151-b9bf-363201e3ef6d",
+    "name": "領袖電台 FM93.7",
+    "url": "https://stream.rcs.revma.com/hpeqh9mkc6hvv",
+    "url_resolved": "https://stream.rcs.revma.com/hpeqh9mkc6hvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/U4rZ5wMhAv.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "03e11f45-049c-4b10-921b-4f2cdd61fc22",
+    "name": "Bao Dao Radio 寶島新聲 FM98.5",
+    "url": "http://125.227.87.206:8000/FM98.5",
+    "url_resolved": "http://125.227.87.206:8000/FM98.5",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/vq5nMjLnxe.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0a38b2b0-bff0-4746-9c78-d4fe6f61fe76",
+    "name": "城市廣播網 台南知音 97.1 FM",
+    "url": "http://fm971.cityfm.tw:8080/971.mp3",
+    "url_resolved": "http://fm971.cityfm.tw:8080/971.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/BVgFZcffHC.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ea50a69a-220f-43eb-a2dc-2a92ea7b31ee",
+    "name": "PBS - Kaohsiung Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jcw3hxvgq62k.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a90b9fa4-3610-4682-9eed-26c57c0e5fd7",
+    "name": "城市廣播網 城市廣播 90.1 FM",
+    "url": "http://fm901.cityfm.tw:8080/901.mp3",
+    "url_resolved": "http://fm901.cityfm.tw:8080/901.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/kscxmns2mp6k.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8f894fcd-b9c1-49ba-a0fc-b8ac43436940",
+    "name": "Bao Dao Radio 大千電台 FM99.1",
+    "url": "http://125.227.87.206:8000/FM99.1",
+    "url_resolved": "http://125.227.87.206:8000/FM99.1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/660/da-qian-dian-tai-991-fm.39272f30.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9ca5b275-7b7e-4413-a372-e99c5119d709",
+    "name": "PBS - Taichung Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/kvycarvqce6j.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ffe1ebcc-704d-4120-8cc9-85027f233f7d",
+    "name": "下港之聲 FM 90.5",
+    "url": "http://59.120.255.155:8081/",
+    "url_resolved": "http://59.120.255.155:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/K6wjHBUD4G.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4ff43fd8-a6cb-49f0-b8b9-f7efb967aaac",
+    "name": "臺北廣播電臺 FM93.1",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+    "url_resolved": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jQtjCpfsPQ.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "13d227dd-e610-4a3b-bcbc-f5cbb02a60a8",
+    "name": "台北都會音樂台 Bravo FM91.3",
+    "url": "https://onair.bravo913.com.tw:9130/live.mp3",
+    "url_resolved": "https://onair.bravo913.com.tw:9130/live.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/tEsQ7dUqxD.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ecef431d-f472-4fa5-af43-a19a18814d1d",
+    "name": "好事聯播網 Best Radio FM93.5",
+    "url": "https://stream.rcs.revma.com/vh0xgcc59duvv",
+    "url_resolved": "https://stream.rcs.revma.com/vh0xgcc59duvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/627/hao-shi-lian-bo-wang-best-radio-fm935.78373a64.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0b49515b-b210-4bd7-a0ac-0c5c9cb3296b",
+    "name": "BIG BIG MIX",
+    "url": "https://hi.bigbigmix.com/audio/stream",
+    "url_resolved": "https://hi.bigbigmix.com/audio/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/592/pono-fm.70ce2373.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bd3a8cba-6068-45ba-8ada-abcba25b1ecd",
+    "name": "Lize Radio 栗子的輕音樂",
+    "url": "http://lizeradio.com:8080/;&type=mp3",
+    "url_resolved": "http://lizeradio.com:8080/;&type=mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/C4hb99czWx.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7df9afb3-7ca4-4f56-9b06-53e21eb8a35b",
+    "name": "IC之音竹科廣播 FM97.5",
+    "url": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",
+    "url_resolved": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/NMHqVzm8XX.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b3be6cfd-27c4-4ee7-8666-1a4fb6173106",
+    "name": "歡喜之聲 105.5 FM",
+    "url": "http://59.125.41.65:8081/",
+    "url_resolved": "http://59.125.41.65:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/j4Tupe79YC.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ece33bf6-b182-4d32-9abe-91bb98b7b972",
+    "name": "923魅力亞太 Asia FM 亞太電台",
+    "url": "https://stream.rcs.revma.com/kydend74hv8uv",
+    "url_resolved": "https://stream.rcs.revma.com/kydend74hv8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/fxRwGFwj4q.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e7f14080-39a4-4957-8c46-de54742cd1a9",
+    "name": "城市廣播網 城市廣播 98.3 FM",
+    "url": "http://fm901.cityfm.tw:8080/901.mp3",
+    "url_resolved": "http://fm901.cityfm.tw:8080/901.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wzpu4wk563al.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4f310795-bbda-4326-ae53-b03c44036f8c",
+    "name": "環球廣播電台 107.1 FM",
+    "url": "http://60.248.53.115:8081/",
+    "url_resolved": "http://60.248.53.115:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/D2UnzcHLJL.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "520e2e3f-1d90-4d0c-8ce0-501fc4fcbc54",
+    "name": "PBS - Llan Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/dyzfw5tjfcej.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "749caf0e-156f-4f59-8bdf-889f7461edd7",
+    "name": "PBS - Tainan Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gzhsqnbydxzj.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ad008c46-5725-4ef4-ac76-43833a898ab9",
+    "name": "Beam FM - Taiwan",
+    "url": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
+    "url_resolved": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/990/beam-fm-taiwan.edf8798f.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "1b3764ab-4786-4c9c-a794-6ba41b8088f5",
+    "name": "24/7 Jazz Radio  當代爵士音樂",
+    "url": "https://ec3.yesstreaming.net:3455/stream",
+    "url_resolved": "https://ec3.yesstreaming.net:3455/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/284/jazz-decades-channel-dang-dai-jue-shi-yin-le.b2cbd1b9.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d18c6c43-bef5-42fc-8459-7922c2576a1c",
+    "name": "大樹下廣播電台",
+    "url": "http://60.250.148.112:8000/live",
+    "url_resolved": "http://60.250.148.112:8000/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/439/da-shu-xia-guang-bo-dian-tai.3cee136d.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c8d775e3-3cbd-4864-99eb-dde2907a138e",
+    "name": "正聲廣播台北調頻台 (CSBC FM Radio)",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w1468129418.m3u8",
+    "url_resolved": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w1468129418.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/lsnruspdmtat.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8434b258-7d15-407b-b4db-51e19d469228",
+    "name": "屏東之聲廣播電台 92.5",
+    "url": "http://59.120.255.169:8081/",
+    "url_resolved": "http://59.120.255.169:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/5wJYHdvZ4S.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "383e7d8b-9fcf-42f7-aec3-22b7c331fe66",
+    "name": "佳音廣播電台 90.9 FM",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+    "url_resolved": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/642/jia-yin-guang-bo-dian-tai-909-fm.d3555250.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "38d84b9c-73b1-4631-be0a-a8f67d862217",
+    "name": "南投廣播 南投 FM 99.7",
+    "url": "http://fm971.cityfm.tw:8080/971.mp3",
+    "url_resolved": "http://fm971.cityfm.tw:8080/971.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gtznjnkdfbft.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f40420e4-a3fd-4e18-818f-21904388f93a",
+    "name": "RTI 國語線上收聽 中央廣播電台",
+    "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "url_resolved": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/979/rti-guo-yu-xian-shang-shou-ting-zhong-yang-guang-bo-dian-tai.f1523156.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c4d83410-1911-4eed-b4c0-880a9bc3140c",
+    "name": "FM 94.3 音樂伸展台",
+    "url": "https://stream-eu-a.rcs.revma.com/pet2dvug1bkvv/33_c0sv6gbkebrj02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/pet2dvug1bkvv/33_c0sv6gbkebrj02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/YVNzc3m24E.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9f8b66ff-137f-46a8-aa02-6b312e63b8d6",
+    "name": "農鄉廣播電台FM106.3",
+    "url": "http://61.216.107.175:8000/FM106.3",
+    "url_resolved": "http://61.216.107.175:8000/FM106.3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/521/nong-xiang-guang-bo-dian-tai-nong-fm1063.a25c2bf3.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d0c8458d-109a-4dd9-ba5b-5563b55ac89b",
+    "name": "噶瑪蘭廣播電台 97.9 FM",
+    "url": "http://61.220.209.152:8081/",
+    "url_resolved": "http://61.220.209.152:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ysHqwJ2gtB.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "54a407b9-7a72-4f8e-99c7-4f58d90db836",
+    "name": "Beam FM - Adult Hits Taiwan",
+    "url": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "url_resolved": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/991/beam-fm-adult-hits-taiwan.f507af17.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a46cf792-9841-4658-a903-dffd25b63c61",
+    "name": "正聲廣播網路綜合台 (CSBC Life)",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+    "url_resolved": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jrpa3xnxusff.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bf193b08-f686-4584-bc13-b0806bed3e78",
+    "name": "PBS - Hsinchu Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/skktxyaq7heq.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "be5de1bd-4888-4c8e-8e89-6b2027e83406",
+    "name": "Kpop Girl Group Radio",
+    "url": "https://stream.zeno.fm/kpplugrga9ruv",
+    "url_resolved": "https://stream.zeno.fm/kpplugrga9ruv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/055/kpop-girl-group-radio.fe934eb8.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ca87f4a7-e068-4a66-8843-fa499584fd8a",
+    "name": "非凡音廣播電台FM98.5",
+    "url": "https://stream.rcs.revma.com/2rzftg1ymxnwv",
+    "url_resolved": "https://stream.rcs.revma.com/2rzftg1ymxnwv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/385/fei-fan-yin-guang-bo-dian-tai-fm985.1b9ad603.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "db84a334-6c89-4536-ae04-18d683cebaee",
+    "name": "PBS - Hualien Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/jfgsknztgucd.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7bcc5c75-8b87-4f82-8527-f6faf67f1e65",
+    "name": "快樂聯播網 澎湖 FM91.3",
+    "url": "http://59.120.255.171:8081/",
+    "url_resolved": "http://59.120.255.171:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/326/kuai-le-lian-bo-wang-peng-hu-fm913.825b74f0.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "786c6c71-1d1d-4008-82f0-2e5997d3b81a",
+    "name": "PBS - Iraitung Sub-Station",
+    "url": "http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8",
+    "url_resolved": "http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/euxywyxj2zav.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a2a7c4a7-60a6-4350-9c6e-47e7d0a86eb8",
+    "name": "AI台印廣播電台",
+    "url": "https://stream.rcs.revma.com/h4ta80hbqwuvv",
+    "url_resolved": "https://stream.rcs.revma.com/h4ta80hbqwuvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/300/ai-m-muse.db43d6c6.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e5db522e-58f0-4825-bd95-b899fc123e39",
+    "name": "Ai Radio TAIWAN",
+    "url": "https://n10-eu.rcs.revma.com/h4ta80hbqwuvv",
+    "url_resolved": "https://n10-eu.rcs.revma.com/h4ta80hbqwuvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/075/ai-m-radio.3e5987f6.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a0533247-e6a2-474f-b030-26a5618d1faf",
+    "name": "AM 1089 音樂伸展台",
+    "url": "https://n41a-eu.rcs.revma.com/4r99rt1g1bkvv/hls.m3u8",
+    "url_resolved": "https://n41a-eu.rcs.revma.com/4r99rt1g1bkvv/hls.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/536/am-1089-yin-le-shen-zhan-tai.5defd246.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d24c0f8d-184e-4eda-b43d-f70e080c56e2",
+    "name": "B&B Radio 幫幫廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8",
+    "url_resolved": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/045/bb-radio-bang-bang-guang-bo-wang.8bcc8d3d.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "be2e9443-d3d1-4622-b33a-e878b7a94fb8",
+    "name": "BOSS ONLINE",
+    "url": "http://stream.radiojar.com/ehzvurp9tv8uv",
+    "url_resolved": "http://stream.radiojar.com/ehzvurp9tv8uv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/dkdgjahpzsds.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "32df4ea3-364b-4a6c-8f23-6dfb8b0fac29",
+    "name": "曾文溪電台fm89.9-過渡版",
+    "url": "https://n14.rcs.revma.com/9ssfduqkr0hvv",
+    "url_resolved": "https://n14.rcs.revma.com/9ssfduqkr0hvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/156/ceng-wen-xi-dian-tai-fm899-guo-du-ban.2d1a2569.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "42059f9e-627d-4def-b210-beed50957a56",
+    "name": "長榮之聲廣播電台",
+    "url": "https://listen.radioking.com/radio/791716/stream/859891",
+    "url_resolved": "https://listen.radioking.com/radio/791716/stream/859891",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/809/chang-rong-zhi-sheng-guang-bo-dian-tai.42bfbf97.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fc6823c1-b9d4-4eb8-b613-ce3b3afc7f1c",
+    "name": "大愛網路電台",
+    "url": "https://stream.radiojar.com/eme6n6k3rxhvv",
+    "url_resolved": "https://stream.radiojar.com/eme6n6k3rxhvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/804/da-ai-wang-lu-dian-tai.aaf072f6.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d6fe5672-1bad-4440-bf66-5aeb61bd5be0",
+    "name": "飛特網路電台",
+    "url": "https://phate.io/listen",
+    "url_resolved": "https://phate.io/listen",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/x9cqyxkd5c.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "98f62d28-0ed8-4560-b604-0ecff43d3853",
+    "name": "花園廣播電台 FM88.7",
+    "url": "http://43.254.16.40:8000/CH.FM88.7",
+    "url_resolved": "http://43.254.16.40:8000/CH.FM88.7",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/H7k9DfFXzs.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "17c79182-8ed9-4a06-ae42-9ee814efd63a",
+    "name": "佳音聖樂網CCM FM90.9",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+    "url_resolved": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ahsdYtKQjz.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bcf71044-9b2f-4c67-909d-40a2fbeb668b",
+    "name": "needs RADIO全球華語廣播網",
+    "url": "https://cwh1.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8",
+    "url_resolved": "https://cwh1.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/bsWRssXr93.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5a07cc2a-b74d-4c9b-84af-b35bac9feea3",
+    "name": "臺北廣播電臺 Ho Hi Yan 原住民專屬頻道 AM1134",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+    "url_resolved": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/crfLVwEJj2.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cb6ec3d6-599d-4957-8a7d-53bc253551d5",
+    "name": "神農廣播股份有限公司",
+    "url": "https://stream.rcs.revma.com/uyaghqmdm3hvv",
+    "url_resolved": "https://stream.rcs.revma.com/uyaghqmdm3hvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/HMYWdDxDYy.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "26ecaaff-1b03-41f7-bda8-7edf4765704c",
+    "name": "世新廣播電台SHRS 729 AM",
+    "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8",
+    "url_resolved": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hyNzqjFZSr.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c036290d-57c7-44a8-957e-95e63001b31f",
+    "name": "世新廣播電台 SHRS 88.1 FM",
+    "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+    "url_resolved": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/7gGpPwHEKM.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5c06d593-f632-4dc1-9f88-75b2ba3c401a",
+    "name": "Stars RADIO星蹤之愛廣播網",
+    "url": "https://cwh1.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
+    "url_resolved": "https://cwh1.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wH6tFXqzec.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d590199c-2882-403e-878d-5cc9166a8486",
+    "name": "Supreme Master Television",
+    "url": "http://65.49.44.66:8000/;",
+    "url_resolved": "http://65.49.44.66:8000/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/fW5nVM4WEB.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bb67c3bb-e0c6-417c-8733-e1d27838f05c",
+    "name": "Voice of Chaozhou 90.9 FM",
+    "url": "http://59.120.255.170:8081/",
+    "url_resolved": "http://59.120.255.170:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/he4nb7tahuzx.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b0e4d44b-b74f-43ad-aaee-7b60d8d46518",
+    "name": "Voice of FJU 輔大之聲",
+    "url": "http://140.136.115.115:8000/fjuvoice885.mp3",
+    "url_resolved": "http://140.136.115.115:8000/fjuvoice885.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/AAz84Tz6zV.jpeg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cf1afb3e-901e-4aeb-8d0d-e592e3c4af39",
+    "name": "WeFunk Radio 放克音樂網路電台",
+    "url": "http://s-00.wefunkradio.com:81/wefunk64.mp3",
+    "url_resolved": "http://s-00.wefunkradio.com:81/wefunk64.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/AS7waWk9fK.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6ce9d1ae-4d81-4536-a1da-2071b6ab2841",
+    "name": "漁業廣播電臺",
+    "url": "https://stream.rcs.revma.com/mk0c5vq122hvv",
+    "url_resolved": "https://stream.rcs.revma.com/mk0c5vq122hvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/481/yu-ye-guang-bo-dian-tai-taiwan.2fe7ef23.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3f1aaa1a-f7b9-4648-9097-9ea1c23a474d",
+    "name": "竹塹廣播電台FM90.3",
+    "url": "http://211.72.230.118:8081/",
+    "url_resolved": "http://211.72.230.118:8081/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/538/zhu-qian-guang-bo-dian-tai-fm903.8111bc40.png",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b29accf3-ca4a-4add-835b-e95490c29134",
+    "name": "資悠網路廣播實驗電台",
+    "url": "http://43.254.16.40:8000/guide",
+    "url_resolved": "http://43.254.16.40:8000/guide",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pdwgnzcbcyrt.jpg",
+    "country": "Taiwan",
+    "tags": "radio",
+    "votes": 0
+  }
+]

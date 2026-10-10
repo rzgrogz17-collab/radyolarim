@@ -1,0 +1,812 @@
+[
+  {
+    "stationuuid": "d1f0a9bd-2a20-4861-be74-7ff0ce3abd18",
+    "name": "BFM 89.9",
+    "url": "https://d2nva529xxo1me.cloudfront.net/stream",
+    "url_resolved": "https://d2nva529xxo1me.cloudfront.net/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/412/bfm-899.136207e7.jpg",
+    "country": "Malaysia",
+    "tags": "news",
+    "votes": 51
+  },
+  {
+    "stationuuid": "ec55577f-cff5-4b8b-aeaa-6438c2dfc446",
+    "name": "Melody FM Malaysia",
+    "url": "https://n09-us.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8?rj-ttl=5&rj-tok=AAABoQzQDbUAJnbt3vBfMUAI-A",
+    "url_resolved": "https://n09-us.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8?rj-ttl=5&rj-tok=AAABoQzQDbUAJnbt3vBfMUAI-A",
+    "favicon": "https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png",
+    "country": "Malaysia",
+    "tags": "classical",
+    "votes": 4704
+  },
+  {
+    "stationuuid": "6ee52ee9-95c0-4e19-95fd-d9a9c345b7b3",
+    "name": "988 FM",
+    "url": "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+    "url_resolved": "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+    "favicon": "https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 3567
+  },
+  {
+    "stationuuid": "0fd3faa9-6afe-46d4-b31a-5c53691cfbf9",
+    "name": "Kelantan FM",
+    "url": "https://28093.live.streamtheworld.com:443/KELANTAN_FMAAC.aac",
+    "url_resolved": "https://28093.live.streamtheworld.com:443/KELANTAN_FMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/100/kelantan-fm.3d2f5a27.jpg",
+    "country": "Malaysia",
+    "tags": "local music,old music,slow rock",
+    "votes": 1670
+  },
+  {
+    "stationuuid": "f4e89fce-5d97-4e6a-bc72-b5738344dc91",
+    "name": "THR Gegar Pilihan #1 Pantai Timur",
+    "url": "https://n24-eu.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8?rj-ttl=5&rj-tok=AAABoQzQD_QAxtlW34j3sysMpg",
+    "url_resolved": "https://n24-eu.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8?rj-ttl=5&rj-tok=AAABoQzQD_QAxtlW34j3sysMpg",
+    "favicon": "https://cdn-profiles.tunein.com/s3129/images/logod.jpg",
+    "country": "Malaysia",
+    "tags": "#1 pilihan pantai timur,entertaining segments,mix genres",
+    "votes": 1478
+  },
+  {
+    "stationuuid": "61c62eb4-0fb6-441b-bc1f-c53c03e0d392",
+    "name": "WAI FM IBAN",
+    "url": "http://27223.live.streamtheworld.com:80/WAI_FM_IBAN.mp3",
+    "url_resolved": "http://27223.live.streamtheworld.com:80/WAI_FM_IBAN.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/7am645dzugux.jpg",
+    "country": "Malaysia",
+    "tags": "ethnic,local music,local news,news talk,pop",
+    "votes": 845
+  },
+  {
+    "stationuuid": "ae66ee2b-f84a-49b5-a611-efdae79b583e",
+    "name": "Asyik FM",
+    "url": "http://27223.live.streamtheworld.com:80/ASYIK_FM.mp3",
+    "url_resolved": "http://27223.live.streamtheworld.com:80/ASYIK_FM.mp3",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG",
+    "country": "Malaysia",
+    "tags": "alternative / indie,local music,pop,pop rock,top hits",
+    "votes": 526
+  },
+  {
+    "stationuuid": "59d3445b-0daf-4236-9d56-ad22b848b0a1",
+    "name": "WAI FM Bidayuh",
+    "url": "http://28093.live.streamtheworld.com:80/WAI_FM_BK.mp3",
+    "url_resolved": "http://28093.live.streamtheworld.com:80/WAI_FM_BK.mp3",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pbcoyYJNxHDp-knMnAy2Nolw0_8MjY5DRQ&usqp=CAU",
+    "country": "Malaysia",
+    "tags": "classic hits,classic rock,easy listening,jazz,local government,news talk",
+    "votes": 231
+  },
+  {
+    "stationuuid": "049ab904-f165-48f4-a54f-5172ab235361",
+    "name": "RTM Ai FM 89.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/bZ9AMJPZyw.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e61164e1-4659-4d1c-88d1-5ab342294151",
+    "name": "Hot FM",
+    "url": "https://n05-us.rcs.revma.com/drakdf8mtd3vv/5_t8syk6yrn3f02/playlist.m3u8",
+    "url_resolved": "https://n05-us.rcs.revma.com/drakdf8mtd3vv/5_t8syk6yrn3f02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/087/hot-fm.83d5b758.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "924a4239-bd5e-40bf-81c3-f734398a9a15",
+    "name": "Klasik Nasional FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/yhJJMEVCrU.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "68b145fe-cd2a-4c02-b0cb-932f81dbeb81",
+    "name": "RTM Minnal FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gz233FwEMu.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5ec5005e-4348-454c-9942-5028a50625d4",
+    "name": "Kool FM",
+    "url": "https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8",
+    "url_resolved": "https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/103/kool-fm.2d0978d1.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ff4cd767-4f8a-4134-b807-a5c7852e893f",
+    "name": "Best FM",
+    "url": "https://n14a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a",
+    "url_resolved": "https://n14a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/082/best-fm-malaysia.68221584.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "930d82dd-f70f-4eab-a2a1-a044bc9cd141",
+    "name": "RED fm 91.9 中文台",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gztkjxzpc547.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "136fb116-cc47-4918-ad88-15efb9d5a20e",
+    "name": "Fly FM",
+    "url": "https://n05-eu.rcs.revma.com/q17aka9mtd3vv/5_diaq25s3zoc602/playlist.m3u8",
+    "url_resolved": "https://n05-eu.rcs.revma.com/q17aka9mtd3vv/5_diaq25s3zoc602/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/063/fly-fm.1d8267e9.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ab0cc391-367f-4413-98cf-10548b68fa07",
+    "name": "Eight FM (One FM 881)",
+    "url": "https://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8",
+    "url_resolved": "https://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/019/8-fm.80ff2e09.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d05f1b7b-29e5-4b34-befd-64f91d683343",
+    "name": "Nasional FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/f99qzc7trxuz.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4a109a2e-023b-40c1-ba40-6863a37eb065",
+    "name": "Molek FM",
+    "url": "https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8",
+    "url_resolved": "https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/118/molek-fm.ff587a6b.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6e27289d-5349-4a77-b765-26febedf0434",
+    "name": "RTM TraXX FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/fjmjJt7bmQ.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b96fc592-cb84-4d6b-861a-fe364287fef2",
+    "name": "KL FM 97.2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ehfd7kr2wbqa.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bd89af76-779f-4020-bbf9-fe3c1948e9b9",
+    "name": "RTM Johor FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/HjyqsyXZge.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "39c3e997-f99a-4b4e-9820-a98aa68daab4",
+    "name": "Kedah FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/rfmp4bu82rtc.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b42c0ed1-0c86-449e-8d1f-490dcba45fcd",
+    "name": "SINARKOTAFM",
+    "url": "https://radio.sinarkotafm.com/listen/sinarkotafm/radio.mp3",
+    "url_resolved": "https://radio.sinarkotafm.com/listen/sinarkotafm/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/304/sinarkotafm.29e37e44.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "911607c3-f61b-4ae4-8265-254aa2d5e640",
+    "name": "Perak FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/432mTEMAgs.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cb9f7c88-40ef-4a99-8976-4682862adc6e",
+    "name": "Sarawak FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/6NgN9JMehV.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "25baf2b6-7e84-4a01-a1dc-5a916cbb44a3",
+    "name": "Cats FM",
+    "url": "https://n29a-eu.rcs.revma.com/51qe53rv0y3vv.m4a",
+    "url_resolved": "https://n29a-eu.rcs.revma.com/51qe53rv0y3vv.m4a",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/102/cats-fm.48e6d2b3.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0d973fe8-3ddf-4430-b308-dc043f77494e",
+    "name": "Manis FM",
+    "url": "https://n14.rcs.revma.com/nzgauqq1v7zuv",
+    "url_resolved": "https://n14.rcs.revma.com/nzgauqq1v7zuv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/ZyK7dWwxfX.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "afe18656-33ba-4767-bebe-82cef12a17dc",
+    "name": "Sabah FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/laafnxkhaslr.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "829d24da-c964-46c9-996c-75cf9f6b8732",
+    "name": "Pahang FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/5f6sv4p2h62h.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2eafb11e-2ec8-47fd-99ce-9c7f4f8861d8",
+    "name": "Mutiara FM 95.7",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/QfX6WPDrQd.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3f9c899b-b1c0-4fe2-bd2d-d6ca60ab0117",
+    "name": "Melaka FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/rwvnkun2mdqp.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ca9d7db1-0b5d-46c4-ad76-76cf885deb93",
+    "name": "Selangor FM 100.9",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pCwuqZKCUr.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "8c97d1b9-f78d-45e1-a70c-4fd9d66ce09a",
+    "name": "RTM Asyik FM 102.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/Mn8puB33Hy.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d6f8bced-7b99-4619-b2fe-3a5cd20ae221",
+    "name": "Terengganu FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/btdbazufx9en.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e8c28a0d-6e8d-4b44-8ffd-d08a63f4e613",
+    "name": "Perlis FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/uzffezhcg5xq.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "b115e6ac-2cae-4820-b98a-f698fb1250e4",
+    "name": "RTM Negeri FM 107.9",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/TbGJVPdx3t.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "2ce75fc5-a8bc-4979-8862-d41889497ffb",
+    "name": "CeriaFM",
+    "url": "http://ceriafm.iradio.work:8080/;",
+    "url_resolved": "http://ceriafm.iradio.work:8080/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/wrh5msppkulf.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d0163140-455c-4d65-ad0e-ab3ef7f8fdd3",
+    "name": "RTM Sabah V FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/PkdqGxHcqP.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3743c134-76ed-4d59-aa40-e8ea18fd3a62",
+    "name": "RAKITA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITA_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITA_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/SVzrKCccud.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d075ca4d-73fb-4a81-8ef3-7f709c1b96d0",
+    "name": "JeiFM",
+    "url": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+    "url_resolved": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/s3gHdvCbmQ.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "a9a2fa5a-7fb9-40d8-9d6e-97fb777ca9ac",
+    "name": "AI Radio Malaysia",
+    "url": "https://radio.airadio.my/listen/airadio.my/radio.mp3",
+    "url_resolved": "https://radio.airadio.my/listen/airadio.my/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/408/ai-radio-malaysia.6d06b885.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3494b309-63c5-42b5-9584-dca443ceb6cc",
+    "name": "Radio Muzik",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/786/radio-muzik.a171e213.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5cb82c7c-62fc-4d0f-a826-3aa73a447147",
+    "name": "ANF Radio Malaysia",
+    "url": "https://c16.radioboss.fm:8450/stream",
+    "url_resolved": "https://c16.radioboss.fm:8450/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/434/anf-radio.20903d87.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "695105af-9648-4084-abf0-9bef6d920d63",
+    "name": "Kupi-Kupi FM",
+    "url": "https://n22a-eu.rcs.revma.com/axht8yawe1bwv/34_41ilua5wdpbc02/playlist.m3u8",
+    "url_resolved": "https://n22a-eu.rcs.revma.com/axht8yawe1bwv/34_41ilua5wdpbc02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/kupi-kupi-fm.4454de04.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "bbb264bd-c3e1-4010-8081-5981d62b2591",
+    "name": "BIGCOWFM",
+    "url": "http://onairnow.ddns.net:8000/chinese.mp3",
+    "url_resolved": "http://onairnow.ddns.net:8000/chinese.mp3",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/817/bigcowfm.ee8cbee9.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d4a7dd7d-7f39-4669-8ede-757d35f162d7",
+    "name": "BIG BIG MIX MY",
+    "url": "https://hi.bigbigmix.com/audio/stream",
+    "url_resolved": "https://hi.bigbigmix.com/audio/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/598/big-big-mix-my.ad0085d6.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "62f9d281-7870-4872-8141-969d70119b25",
+    "name": "City Plus FM",
+    "url": "https://n29a-eu.rcs.revma.com/9ykdmcawe1bwv",
+    "url_resolved": "https://n29a-eu.rcs.revma.com/9ykdmcawe1bwv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/916/city-plus-fm.8346774b.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "aad76189-8671-4d7a-a1de-fbfed8da816d",
+    "name": "TAWAUfm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAWAU_FM_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAWAU_FM_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/q6fa9y8k7qzx.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "69cdc473-7b70-402f-bbdf-66122bedf50a",
+    "name": "Labuan FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pxkufmtaehb9.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "cbad031a-c29f-472d-acc6-0d6340cf85a5",
+    "name": "Bapakku",
+    "url": "https://servidor30-2.brlogic.com:7048/live",
+    "url_resolved": "https://servidor30-2.brlogic.com:7048/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/826/bapakku.92029d26.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "77c3a4b3-5032-4d77-b546-2e5eca9acb2d",
+    "name": "Bayu Radio",
+    "url": "https://stream-eu-a.rcs.revma.com/ywpe7mqb54uvv/6_1etc1g9gzj0vq02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/ywpe7mqb54uvv/6_1etc1g9gzj0vq02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/671/bayu-radio.4657b611.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "9156582c-9aa8-4ad0-809a-f60e2891e346",
+    "name": "Ceritera FM",
+    "url": "http://live.ceriterafm.my:8000/;",
+    "url_resolved": "http://live.ceriterafm.my:8000/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hcpxgv6k7z29.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4ed8bfee-9f70-4da9-9c32-0428955da6c9",
+    "name": "ERA FM",
+    "url": "https://stream-eu-a.rcs.revma.com/crec9cmbv4uvv/6_1xwgzsqfzdk3b02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/crec9cmbv4uvv/6_1xwgzsqfzdk3b02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/244/era-fm.f27c6934.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fbd84ad2-b949-4904-ab76-eb0821009c54",
+    "name": "Gold FM",
+    "url": "https://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv/5_ijy1r0y9fmrm02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv/5_ijy1r0y9fmrm02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/374/gold-fm-malaysia.40e73742.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "42774cbc-1105-43dc-86ff-8d5e71ab0c04",
+    "name": "goXuan",
+    "url": "https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv/7_cyzom0492b0n02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv/7_cyzom0492b0n02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/583/goxuan.07c34ede.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "23de312b-e770-4438-9a00-dea11f136858",
+    "name": "Hitz FM",
+    "url": "https://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8",
+    "url_resolved": "https://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/519/hitz-fm.25551638.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0058c3f0-5264-4b05-9df5-3f256882a7d0",
+    "name": "India Beat FM",
+    "url": "https://stream-eu-a.rcs.revma.com/hrcdg9ubv4uvv/5_1wcyo8zw5p1e402/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/hrcdg9ubv4uvv/5_1wcyo8zw5p1e402/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/091/india-beat-fm.3fa2e6f4.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "998c61d6-051a-4755-8d94-9179f9908e60",
+    "name": "Jazz",
+    "url": "https://n05-us.rcs.revma.com/c718dfvbv4uvv/5_1cvr2ixv81nds02/playlist.m3u8",
+    "url_resolved": "https://n05-us.rcs.revma.com/c718dfvbv4uvv/5_1cvr2ixv81nds02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/377/jazz.4bb717f0.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "897e829a-8b59-4fd3-938e-df7a002197c3",
+    "name": "Lite FM",
+    "url": "https://stream.rcs.revma.com/bn4ex8sbv4uvv/9_u1yhh0p2di4402/playlist.m3u8",
+    "url_resolved": "https://stream.rcs.revma.com/bn4ex8sbv4uvv/9_u1yhh0p2di4402/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/248/lite-fm.9b64516f.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ea50fa5c-161e-4e37-b6a9-a5a78a9e5b5e",
+    "name": "MACCFM.my",
+    "url": "https://listen.radioking.com/radio/560261/stream/619850",
+    "url_resolved": "https://listen.radioking.com/radio/560261/stream/619850",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/463/maccfmmy.abdc9f27.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "c5929801-3df3-495a-bb93-47cc7c5cbcbc",
+    "name": "MELODY FM",
+    "url": "https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv/8_b9qgzfmec72r02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv/8_b9qgzfmec72r02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/250/melody-fm.05ece972.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "925e1bdc-c198-4271-ab7b-ce2411920f42",
+    "name": "MIX fm",
+    "url": "https://stream-eu-a.rcs.revma.com/v5pq3htbv4uvv/7_1x7qwwwj0qzx102/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/v5pq3htbv4uvv/7_1x7qwwwj0qzx102/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/247/mix-fm.529881f3.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "64142cb8-18dc-41f9-a1bd-19f4bcb26d89",
+    "name": "Mix2MaxFm @ Dj Drop You Beats",
+    "url": "https://cast5.asurahosting.com/proxy/sakthime/stream",
+    "url_resolved": "https://cast5.asurahosting.com/proxy/sakthime/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/441/mix2maxfm-dj-drop-you-beats.747ddfae.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "4bb42de1-867b-4191-9538-7686e1e457f3",
+    "name": "MY FM 好玩!",
+    "url": "https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv/1_9guhz9vzxhp502/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv/1_9guhz9vzxhp502/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/246/my-fm.8bfbf6c3.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "deaaf3ba-2cb6-4f6d-a497-3cde2b95ea68",
+    "name": "MyFriend.FM",
+    "url": "https://cast3.asurahosting.com/proxy/myfriend/stream",
+    "url_resolved": "https://cast3.asurahosting.com/proxy/myfriend/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/pkwwpfdfrjhc.jpeg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "ed1e7a96-69d9-4b78-99a3-cc6c3226d69d",
+    "name": "Nikola Tesla FM",
+    "url": "https://streaming.radionomy.com/NikolaTeslaFM",
+    "url_resolved": "https://streaming.radionomy.com/NikolaTeslaFM",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/hhnvn7pwyxc4.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "0c9a3660-5e20-4b8b-a646-aa5e3561d67c",
+    "name": "Opus Radio",
+    "url": "https://n02-us.rcs.revma.com/aqvp4yvbv4uvv/2_1nomlviqocs4502/playlist.m3u8",
+    "url_resolved": "https://n02-us.rcs.revma.com/aqvp4yvbv4uvv/2_1nomlviqocs4502/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/395/opus-radio.1bbac989.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e8cd9eb3-623b-41ad-b2f3-e3a8fca409fc",
+    "name": "Radio MPSepang",
+    "url": "https://listen.radioking.com/radio/668203/stream/732199",
+    "url_resolved": "https://listen.radioking.com/radio/668203/stream/732199",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/808/radio-mpsepang.23c2408b.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "d34fb1eb-194d-4ae3-af8b-7a42ddd02a4d",
+    "name": "RTM Keningau FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/478/rtm-keningau-fm.2e1a5aad.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "6f98ba01-3fb3-437d-9dba-f6386038ac12",
+    "name": "Sinar FM",
+    "url": "https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/6_1hfu5g0x6xo0q02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/6_1hfu5g0x6xo0q02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/484/sinar-fm.d2e99170.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "e9d99d20-5955-4422-87c1-74241a9c07c4",
+    "name": "SkyChatzFM",
+    "url": "http://fm.skychatz.org:8080/stream",
+    "url_resolved": "http://fm.skychatz.org:8080/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/95wLj3DMmv.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "7e2611ee-92b9-4d3e-941d-1d9f42278e76",
+    "name": "SORAfm",
+    "url": "https://servidor35.brlogic.com:7034/live",
+    "url_resolved": "https://servidor35.brlogic.com:7034/live",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/624/sorafm.847c765b.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "3c8391ca-a363-4f5a-bc23-f7a00841c10d",
+    "name": "CTDK Music",
+    "url": "https://stream.zeno.fm/ske2ixiypvcvv",
+    "url_resolved": "https://stream.zeno.fm/ske2ixiypvcvv",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/049/soul-radio-malaysia.0ffcb8c6.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "70072cbb-0dac-44f9-9283-c2897ce214db",
+    "name": "Suara Rakyat FM",
+    "url": "http://s9.voscast.com:7670/;",
+    "url_resolved": "http://s9.voscast.com:7670/;",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/khyuktkvllxf.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "5c37fbe2-f2d3-4c8b-87c9-4dadb94ce684",
+    "name": "Syok Classic Rock",
+    "url": "https://stream-eu-a.rcs.revma.com/fk3507vbv4uvv/8_1e64fu6xs18vc02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/fk3507vbv4uvv/8_1e64fu6xs18vc02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/748/syok-classic-rock.c75cca52.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "faf3fd61-bfaa-4702-95a1-a3ecc751f8c5",
+    "name": "Thr Gegar",
+    "url": "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/8_y2evuvys2dy002/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/8_y2evuvys2dy002/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/651/thr-gegar.51fe2885.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "dea52bc5-01d3-4d3a-b57a-f556864bc0f8",
+    "name": "Raaga (Malaysia Only)",
+    "url": "https://n21a-eu.rcs.revma.com/1ut6qwtbv4uvv/33_13ubxpcbxd9xi02/playlist.m3u8",
+    "url_resolved": "https://n21a-eu.rcs.revma.com/1ut6qwtbv4uvv/33_13ubxpcbxd9xi02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/249/thr-raaga.31f1010e.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fa8c388f-ee46-43dd-8430-ed08dc580cec",
+    "name": "TVKB.FM",
+    "url": "https://void.idserverhost.com/8082/stream",
+    "url_resolved": "https://void.idserverhost.com/8082/stream",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/536/tvkbfm.028d7105.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "fe377f25-fd64-4a84-b923-e227c1f8f858",
+    "name": "Voices Malaysia",
+    "url": "https://listen.radioking.com/radio/224413/stream/267892",
+    "url_resolved": "https://listen.radioking.com/radio/224413/stream/267892",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/794/voices-malaysia.50d3aded.jpg",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "62df6e7d-db42-4dd6-b058-1d41431905f7",
+    "name": "Zayan",
+    "url": "https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/17_bp08cbujosgo02/playlist.m3u8",
+    "url_resolved": "https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/17_bp08cbujosgo02/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/374/zayan.35e96bf5.png",
+    "country": "Malaysia",
+    "tags": "radio",
+    "votes": 0
+  }
+]

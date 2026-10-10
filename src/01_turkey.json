@@ -9,6 +9,16 @@
     "tags": "hits,pop,turkish music",
     "votes": 0
   },
+   {
+    "stationuuid": "2b540062e-d57b-4131-a073-a36bf7228866",
+    "name": "Akra Fm",
+    "url": "https://cdn.akra.media/akracanli2/_definst_/livestream_aac/playlist.m3u8?dvr",
+    "url_resolved": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AKRAFM.jpg",
+    "country": "Turkey",
+    "tags": "akra fm,türk,islâm",
+    "votes": 0
+  },
   {
     "stationuuid": "0013c08a-31e7-48c6-87a9-7f64736e0a39",
     "name": "Metro FM",
